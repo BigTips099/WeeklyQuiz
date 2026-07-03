@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Pakistan ka capital kya hai?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Quetta"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "2 + 2 = ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    }
+  ]
+}
