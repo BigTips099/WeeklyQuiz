@@ -299,6 +299,1426 @@
         "Drosophila"
       ],
       "answer": 1
+    },
+    {
+      "question": "DNA replication is semiconservative. This was proven by:",
+      "options": [
+        "Darwin",
+        "Mendel",
+        "Meselson and Stahl",
+        "Watson and Crick"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The backbone of DNA is formed by:",
+      "options": [
+        "Sugar and phosphate",
+        "Sugar and base",
+        "Phosphate and base",
+        "Base and protein"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which nitrogenous base is present in RNA but not in DNA?",
+      "options": [
+        "Adenine",
+        "Guanine",
+        "Cytosine",
+        "Uracil"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The process of copying genetic information from DNA to RNA is:",
+      "options": [
+        "Replication",
+        "Transcription",
+        "Translation",
+        "Duplication"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which enzyme unwinds DNA during transcription?",
+      "options": [
+        "Helicase",
+        "RNA polymerase",
+        "DNA polymerase",
+        "Ligase"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The spliceosome is involved in:",
+      "options": [
+        "DNA replication",
+        "RNA splicing",
+        "Protein synthesis",
+        "DNA repair"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Alternative splicing allows:",
+      "options": [
+        "One gene to produce multiple proteins",
+        "Multiple genes to produce one protein",
+        "Proteins to fold differently",
+        "DNA to replicate faster"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The wobble hypothesis explains:",
+      "options": [
+        "DNA replication errors",
+        "Codon-anticodon pairing",
+        "Protein folding",
+        "Gene expression"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function of ribozymes?",
+      "options": [
+        "Synthesize DNA",
+        "Catalyze RNA reactions",
+        "Transport amino acids",
+        "Form ribosomes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first step in gene expression is:",
+      "options": [
+        "Translation",
+        "Transcription",
+        "Replication",
+        "Repair"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is NOT a base pair in DNA?",
+      "options": [
+        "A-T",
+        "G-C",
+        "A-U",
+        "T-A"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "DNA gyrase is an enzyme that:",
+      "options": [
+        "Supercoils DNA",
+        "Unwinds DNA",
+        "Synthesizes DNA",
+        "Repairs DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The function of the sigma factor in prokaryotes is:",
+      "options": [
+        "Initiate transcription",
+        "Terminate transcription",
+        "Synthesize RNA",
+        "Repair DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Eukaryotic mRNA is modified by:",
+      "options": [
+        "Cap and poly-A tail",
+        "Splicing",
+        "Both A and B",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The lac operon is an example of:",
+      "options": [
+        "Gene regulation in prokaryotes",
+        "Gene regulation in eukaryotes",
+        "DNA replication",
+        "Protein synthesis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an exon?",
+      "options": [
+        "Coding sequence",
+        "Non-coding sequence",
+        "Regulatory sequence",
+        "Promoter sequence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an intron?",
+      "options": [
+        "Coding sequence",
+        "Non-coding sequence",
+        "Regulatory sequence",
+        "Promoter sequence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of producing proteins from mRNA is:",
+      "options": [
+        "Replication",
+        "Transcription",
+        "Translation",
+        "Splicing"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Aminoacyl-tRNA synthetase is responsible for:",
+      "options": [
+        "Synthesizing tRNA",
+        "Attaching amino acids to tRNA",
+        "Synthesizing proteins",
+        "Transcribing DNA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The ribosome is composed of:",
+      "options": [
+        "rRNA and protein",
+        "DNA and protein",
+        "mRNA and protein",
+        "tRNA and protein"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The large ribosomal subunit binds to:",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "DNA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a polysome?",
+      "options": [
+        "Multiple ribosomes on one mRNA",
+        "Multiple mRNAs on one ribosome",
+        "Multiple proteins on one ribosome",
+        "Multiple tRNAs on one ribosome"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The signal peptide directs proteins to:",
+      "options": [
+        "Nucleus",
+        "ER",
+        "Mitochondria",
+        "Chloroplast"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of RNA carries genetic information?",
+      "options": [
+        "tRNA",
+        "rRNA",
+        "mRNA",
+        "snRNA"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The process of gene expression includes:",
+      "options": [
+        "Transcription only",
+        "Translation only",
+        "Both transcription and translation",
+        "Replication only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT a purine base?",
+      "options": [
+        "Adenine",
+        "Guanine",
+        "Cytosine",
+        "Hypoxanthine"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT a pyrimidine base?",
+      "options": [
+        "Cytosine",
+        "Thymine",
+        "Uracil",
+        "Adenine"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Hershey-Chase experiment proved that:",
+      "options": [
+        "Protein is the genetic material",
+        "DNA is the genetic material",
+        "RNA is the genetic material",
+        "Lipid is the genetic material"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Avery-MacLeod-McCarty experiment proved that:",
+      "options": [
+        "DNA is the transforming principle",
+        "Protein is the transforming principle",
+        "RNA is the transforming principle",
+        "Lipid is the transforming principle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function of a restriction enzyme?",
+      "options": [
+        "Synthesizes DNA",
+        "Cuts DNA at specific sequences",
+        "Repairs DNA",
+        "Replicates DNA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "DNA fingerprinting is based on:",
+      "options": [
+        "Protein analysis",
+        "DNA sequence variation",
+        "RNA analysis",
+        "Lipid analysis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Polymerase Chain Reaction (PCR) is used to:",
+      "options": [
+        "Amplify DNA",
+        "Sequence DNA",
+        "Cut DNA",
+        "Repair DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gel electrophoresis separates DNA fragments based on:",
+      "options": [
+        "Size",
+        "Charge",
+        "Both size and charge",
+        "Sequence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Southern blotting is used to detect:",
+      "options": [
+        "Protein",
+        "DNA",
+        "RNA",
+        "Lipid"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Northern blotting is used to detect:",
+      "options": [
+        "DNA",
+        "RNA",
+        "Protein",
+        "Lipid"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Western blotting is used to detect:",
+      "options": [
+        "DNA",
+        "RNA",
+        "Protein",
+        "Lipid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "DNA microarrays are used for:",
+      "options": [
+        "Gene expression profiling",
+        "Protein analysis",
+        "Lipid analysis",
+        "Carbohydrate analysis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The human genome project was completed in:",
+      "options": [
+        "1999",
+        "2000",
+        "2001",
+        "2003"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The human genome contains approximately how many genes?",
+      "options": [
+        "10,000",
+        "20,000",
+        "30,000",
+        "40,000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a single nucleotide polymorphism (SNP)?",
+      "options": [
+        "Single base change",
+        "Multiple base changes",
+        "Protein change",
+        "Chromosome change"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gene therapy involves:",
+      "options": [
+        "Replacing defective genes",
+        "Removing genes",
+        "Adding genes",
+        "Both A and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "RNA interference (RNAi) is used to:",
+      "options": [
+        "Silence genes",
+        "Activate genes",
+        "Replicate genes",
+        "Repair genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CRISPR-Cas9 is a:",
+      "options": [
+        "Gene editing tool",
+        "Protein synthesis tool",
+        "DNA replication tool",
+        "RNA splicing tool"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the role of guide RNA in CRISPR?",
+      "options": [
+        "Synthesizes DNA",
+        "Targets specific DNA sequence",
+        "Repairs DNA",
+        "Replicates DNA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A transgenic organism has:",
+      "options": [
+        "Foreign DNA",
+        "No DNA",
+        "Only RNA",
+        "Protein only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first genetically modified organism was:",
+      "options": [
+        "Mouse",
+        "Bacteria",
+        "Plant",
+        "Human"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "BT cotton is an example of:",
+      "options": [
+        "Transgenic plant",
+        "GMO plant",
+        "Both A and B",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Golden rice is enriched with:",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Recombinant DNA technology is used to:",
+      "options": [
+        "Combine DNA from different sources",
+        "Separate DNA",
+        "Destroy DNA",
+        "Repair DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first recombinant DNA molecule was created in:",
+      "options": [
+        "1960",
+        "1970",
+        "1972",
+        "1980"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Biotechnology involves:",
+      "options": [
+        "Using living organisms",
+        "Using technology",
+        "Both A and B",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a vector in genetic engineering?",
+      "options": [
+        "A carrier for DNA",
+        "A protein carrier",
+        "A lipid carrier",
+        "A carbohydrate carrier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Plasmids are used as vectors because they:",
+      "options": [
+        "Replicate independently",
+        "Are large molecules",
+        "Are proteins",
+        "Are lipids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The process of introducing DNA into bacteria is called:",
+      "options": [
+        "Transformation",
+        "Transfection",
+        "Transduction",
+        "Conjugation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "DNA ligase is used in:",
+      "options": [
+        "Replicating DNA",
+        "Joining DNA fragments",
+        "Cutting DNA",
+        "Sequencing DNA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of electrophoresis separates molecules based on:",
+      "options": [
+        "Size and charge",
+        "Color",
+        "Temperature",
+        "pH"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "DNA sequencing determines:",
+      "options": [
+        "Protein sequence",
+        "DNA sequence",
+        "RNA sequence",
+        "Lipid sequence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Sanger sequencing is also known as:",
+      "options": [
+        "Chain termination method",
+        "Chain initiation method",
+        "Chain elongation method",
+        "Chain replication method"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Next-generation sequencing is:",
+      "options": [
+        "Faster and cheaper",
+        "Slower and expensive",
+        "Same as Sanger",
+        "Not used anymore"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Whole genome sequencing involves:",
+      "options": [
+        "Sequencing the entire genome",
+        "Sequencing parts of genome",
+        "Sequencing RNA only",
+        "Sequencing proteins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Transcriptomics is the study of:",
+      "options": [
+        "All RNA transcripts",
+        "All DNA sequences",
+        "All proteins",
+        "All lipids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Proteomics is the study of:",
+      "options": [
+        "All proteins",
+        "All DNA",
+        "All RNA",
+        "All lipids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Metabolomics is the study of:",
+      "options": [
+        "All metabolites",
+        "All genes",
+        "All proteins",
+        "All RNAs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bioinformatics uses:",
+      "options": [
+        "Computers to analyze biological data",
+        "Microscopes to study cells",
+        "Thermometers to measure temperature",
+        "Scales to weigh samples"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "BLAST is a tool for:",
+      "options": [
+        "Comparing sequences",
+        "Cloning genes",
+        "Sequencing proteins",
+        "Analyzing lipids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The NCBI database contains:",
+      "options": [
+        "Genetic sequences",
+        "Protein structures",
+        "Both A and B",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The PDB database contains:",
+      "options": [
+        "Protein structures",
+        "DNA sequences",
+        "RNA sequences",
+        "Lipid structures"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "X-ray crystallography is used to determine:",
+      "options": [
+        "Molecular structure",
+        "Molecular sequence",
+        "Molecular function",
+        "Molecular interaction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "NMR spectroscopy is used to determine:",
+      "options": [
+        "Molecular structure",
+        "Molecular sequence",
+        "Molecular function",
+        "Molecular interaction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of protein folding is called:",
+      "options": [
+        "Proteomics",
+        "Protein folding",
+        "Protein structure",
+        "Protein function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chaperone proteins assist in:",
+      "options": [
+        "Protein folding",
+        "Protein synthesis",
+        "Protein degradation",
+        "Protein transport"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The ATP synthase enzyme is found in:",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Golgi",
+        "ER"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The proton gradient in mitochondria is used for:",
+      "options": [
+        "ATP synthesis",
+        "Protein synthesis",
+        "Lipid synthesis",
+        "Carbohydrate synthesis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chemiosmosis involves:",
+      "options": [
+        "Proton movement across membrane",
+        "Electron movement",
+        "ATP hydrolysis",
+        "Protein transport"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The electron transport chain is located in:",
+      "options": [
+        "Inner mitochondrial membrane",
+        "Outer mitochondrial membrane",
+        "Cytoplasm",
+        "Nucleus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Oxidative phosphorylation produces:",
+      "options": [
+        "ATP",
+        "GTP",
+        "CTP",
+        "UTP"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The ATP synthase enzyme is inhibited by:",
+      "options": [
+        "Oligomycin",
+        "Rotenone",
+        "Cyanide",
+        "DNP"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cyanide inhibits which complex in ETC?",
+      "options": [
+        "Complex I",
+        "Complex II",
+        "Complex III",
+        "Complex IV"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The primary role of mitochondria is:",
+      "options": [
+        "ATP production",
+        "Protein synthesis",
+        "Lipid synthesis",
+        "DNA replication"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mitochondria have their own:",
+      "options": [
+        "DNA",
+        "Ribosomes",
+        "Both A and B",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Mitochondrial DNA is inherited from:",
+      "options": [
+        "Father",
+        "Mother",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Chloroplasts are involved in:",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Protein synthesis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chloroplasts have their own:",
+      "options": [
+        "DNA",
+        "Ribosomes",
+        "Both A and B",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The light reactions of photosynthesis occur in:",
+      "options": [
+        "Thylakoid membrane",
+        "Stroma",
+        "Outer membrane",
+        "Cytoplasm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Calvin cycle occurs in:",
+      "options": [
+        "Thylakoid membrane",
+        "Stroma",
+        "Outer membrane",
+        "Cytoplasm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Photosystem II is involved in:",
+      "options": [
+        "Water splitting",
+        "NADPH production",
+        "ATP synthesis",
+        "Both A and B"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Photosystem I is involved in:",
+      "options": [
+        "NADPH production",
+        "Water splitting",
+        "ATP synthesis",
+        "Both A and C"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rubisco is the enzyme that:",
+      "options": [
+        "Fixes CO2",
+        "Synthesizes ATP",
+        "Synthesizes NADPH",
+        "Splits water"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rubisco is the most abundant enzyme on Earth. True or False?",
+      "options": [
+        "True",
+        "False",
+        "Uncertain",
+        "Not relevant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The C4 pathway is an adaptation to:",
+      "options": [
+        "Hot and dry conditions",
+        "Cold conditions",
+        "Wet conditions",
+        "Dark conditions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CAM plants open their stomata at:",
+      "options": [
+        "Night",
+        "Day",
+        "Both",
+        "Never"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Photorespiration is considered:",
+      "options": [
+        "Wasteful",
+        "Efficient",
+        "Neutral",
+        "Beneficial"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The glyoxylate cycle occurs in:",
+      "options": [
+        "Glyoxysomes",
+        "Mitochondria",
+        "Chloroplasts",
+        "Nucleus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Fatty acid breakdown occurs in:",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Golgi",
+        "ER"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Beta-oxidation of fatty acids produces:",
+      "options": [
+        "Acetyl-CoA",
+        "Pyruvate",
+        "Glucose",
+        "ATP"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ketone bodies are produced from:",
+      "options": [
+        "Fatty acids",
+        "Glucose",
+        "Amino acids",
+        "Nucleotides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cholesterol is synthesized in the:",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Brain",
+        "Muscle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The mevalonate pathway produces:",
+      "options": [
+        "Cholesterol",
+        "Fatty acids",
+        "Amino acids",
+        "Nucleotides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lipoproteins transport:",
+      "options": [
+        "Lipids",
+        "Proteins",
+        "Carbohydrates",
+        "Nucleic acids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "LDL is known as:",
+      "options": [
+        "Bad cholesterol",
+        "Good cholesterol",
+        "Neutral cholesterol",
+        "No cholesterol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "HDL is known as:",
+      "options": [
+        "Good cholesterol",
+        "Bad cholesterol",
+        "Neutral cholesterol",
+        "No cholesterol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Statins are used to:",
+      "options": [
+        "Lower cholesterol",
+        "Increase cholesterol",
+        "Remove cholesterol",
+        "Transport cholesterol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first step in amino acid catabolism is:",
+      "options": [
+        "Deamination",
+        "Transamination",
+        "Decarboxylation",
+        "Oxidation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Urea cycle occurs in the:",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Brain",
+        "Muscle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ammonia is converted to urea in the:",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Brain",
+        "Muscle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Urea is excreted by:",
+      "options": [
+        "Kidney",
+        "Liver",
+        "Skin",
+        "Lungs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Essential amino acids cannot be synthesized by the:",
+      "options": [
+        "Body",
+        "Liver",
+        "Kidney",
+        "Brain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Non-essential amino acids can be synthesized by the:",
+      "options": [
+        "Body",
+        "Liver",
+        "Kidney",
+        "Brain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Protein degradation occurs in the:",
+      "options": [
+        "Lysosome",
+        "Mitochondria",
+        "Golgi",
+        "ER"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ubiquitin is used to:",
+      "options": [
+        "Tag proteins for degradation",
+        "Synthesize proteins",
+        "Transport proteins",
+        "Fold proteins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The proteasome degrades:",
+      "options": [
+        "Ubiquitinated proteins",
+        "All proteins",
+        "Lipids",
+        "Carbohydrates"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is apoptosis?",
+      "options": [
+        "Programmed cell death",
+        "Cell division",
+        "Cell growth",
+        "Cell repair"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Necrosis is:",
+      "options": [
+        "Unprogrammed cell death",
+        "Programmed cell death",
+        "Cell division",
+        "Cell growth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cancer is characterized by:",
+      "options": [
+        "Uncontrolled cell division",
+        "Controlled cell division",
+        "Cell death",
+        "Cell repair"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tumor suppressor genes:",
+      "options": [
+        "Prevent cancer",
+        "Cause cancer",
+        "Have no role",
+        "Promote cell division"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Oncogenes:",
+      "options": [
+        "Promote cancer",
+        "Prevent cancer",
+        "Have no role",
+        "Repair DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "p53 is a:",
+      "options": [
+        "Tumor suppressor protein",
+        "Oncoprotein",
+        "Enzyme",
+        "Hormone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ras is an example of:",
+      "options": [
+        "Oncogene",
+        "Tumor suppressor",
+        "Enzyme",
+        "Hormone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Telomerase is active in:",
+      "options": [
+        "Cancer cells",
+        "Normal cells",
+        "Stem cells",
+        "All cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Warburg effect describes:",
+      "options": [
+        "Cancer cells using glycolysis",
+        "Cancer cells using oxidative phosphorylation",
+        "Cancer cells dying",
+        "Cancer cells growing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Metastasis is the process of:",
+      "options": [
+        "Cancer spreading",
+        "Cancer shrinking",
+        "Cancer dying",
+        "Cancer growing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Angiogenesis is the formation of:",
+      "options": [
+        "New blood vessels",
+        "New cells",
+        "New proteins",
+        "New DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chemotherapy targets:",
+      "options": [
+        "Rapidly dividing cells",
+        "Slowly dividing cells",
+        "Non-dividing cells",
+        "All cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Radiation therapy uses:",
+      "options": [
+        "Ionizing radiation",
+        "UV radiation",
+        "Heat",
+        "Cold"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Immunotherapy uses the:",
+      "options": [
+        "Immune system",
+        "Nervous system",
+        "Digestive system",
+        "Respiratory system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gene therapy for cancer involves:",
+      "options": [
+        "Inserting suicide genes",
+        "Inserting oncogenes",
+        "Removing tumor suppressors",
+        "Removing all genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The CRISPR system was discovered in:",
+      "options": [
+        "Bacteria",
+        "Humans",
+        "Plants",
+        "Viruses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cas9 is an enzyme that:",
+      "options": [
+        "Cuts DNA",
+        "Synthesizes DNA",
+        "Repairs DNA",
+        "Transcribes DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The guide RNA in CRISPR is complementary to:",
+      "options": [
+        "Target DNA",
+        "Target RNA",
+        "Target protein",
+        "Target lipid"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CRISPR can be used to:",
+      "options": [
+        "Correct mutations",
+        "Create mutations",
+        "Both A and B",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first CRISPR-edited babies were born in:",
+      "options": [
+        "China",
+        "USA",
+        "UK",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What are the ethical concerns of CRISPR?",
+      "options": [
+        "Germline editing",
+        "Somatic editing",
+        "Gene therapy",
+        "Protein therapy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genetic screening is used to:",
+      "options": [
+        "Detect genetic disorders",
+        "Create mutations",
+        "Edit genes",
+        "Repair genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prenatal testing detects:",
+      "options": [
+        "Genetic disorders in fetus",
+        "Genetic disorders in mother",
+        "Genetic disorders in father",
+        "No disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Preimplantation genetic diagnosis (PGD) is used for:",
+      "options": [
+        "Testing embryos",
+        "Testing adults",
+        "Testing children",
+        "Testing animals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genetic counseling helps:",
+      "options": [
+        "Families understand genetic risks",
+        "Create mutations",
+        "Edit genes",
+        "Repair genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pharmacogenomics is the study of how:",
+      "options": [
+        "Genes affect drug response",
+        "Drugs affect genes",
+        "Proteins affect drugs",
+        "Lipids affect drugs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Personalized medicine uses:",
+      "options": [
+        "Genetic information",
+        "Protein information",
+        "Lipid information",
+        "Carbohydrate information"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Biobanks store:",
+      "options": [
+        "Biological samples",
+        "Chemical samples",
+        "Physical samples",
+        "Environmental samples"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Data privacy is important in:",
+      "options": [
+        "Genetic research",
+        "Protein research",
+        "Lipid research",
+        "Carbohydrate research"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Informed consent is required for:",
+      "options": [
+        "Genetic testing",
+        "Protein testing",
+        "Lipid testing",
+        "Carbohydrate testing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The future of molecular biology includes:",
+      "options": [
+        "Precision medicine",
+        "Gene editing",
+        "Synthetic biology",
+        "All of the above"
+      ],
+      "answer": 3
     }
   ]
 }
