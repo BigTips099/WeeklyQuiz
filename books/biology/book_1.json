@@ -1,1724 +1,951 @@
 {
+  "category": "Magnetism",
+  "total_questions": 354,
   "questions": [
     {
-      "question": "DNA is composed of which sugar?",
-      "options": [
-        "Glucose",
-        "Ribose",
-        "Deoxyribose",
-        "Sucrose"
-      ],
+      "question": "The SI unit of magnetic field is:",
+      "options": ["Tesla", "Gauss", "Weber", "Henry"],
       "answer": 2
     },
     {
-      "question": "Which enzyme is responsible for DNA replication?",
-      "options": [
-        "RNA polymerase",
-        "DNA polymerase",
-        "Helicase",
-        "Ligase"
-      ],
+      "question": "The magnetic field lines:",
+      "options": ["Form closed loops", "Start at north pole and end at south pole", "Start at south pole and end at north pole", "Are straight lines"],
       "answer": 1
     },
     {
-      "question": "The process of transcription occurs in:",
-      "options": [
-        "Cytoplasm",
-        "Ribosome",
-        "Nucleus",
-        "Mitochondria"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the function of tRNA?",
-      "options": [
-        "Carries genetic information",
-        "Transports amino acids",
-        "Forms ribosomes",
-        "Synthesizes proteins"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "How many codons code for amino acids?",
-      "options": [
-        "20",
-        "61",
-        "64",
-        "40"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the complementary base pair of Adenine in DNA?",
-      "options": [
-        "Guanine",
-        "Cytosine",
-        "Thymine",
-        "Uracil"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "DNA polymerase adds nucleotides in which direction?",
-      "options": [
-        "3' to 5'",
-        "5' to 3'",
-        "Both directions",
-        "Random direction"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the start codon?",
-      "options": [
-        "UAA",
-        "UGA",
-        "AUG",
-        "UAG"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of the following is NOT a component of DNA?",
-      "options": [
-        "Phosphate group",
-        "Deoxyribose sugar",
-        "Uracil",
-        "Nitrogenous base"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Okazaki fragments are formed during:",
-      "options": [
-        "Transcription",
-        "Translation",
-        "DNA replication",
-        "Repair"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is the function of RNA polymerase?",
-      "options": [
-        "Synthesizes DNA",
-        "Synthesizes RNA from DNA template",
-        "Synthesizes proteins",
-        "Transports amino acids"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which base pairs with Guanine in DNA?",
-      "options": [
-        "Adenine",
-        "Thymine",
-        "Cytosine",
-        "Uracil"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The genetic code is:",
-      "options": [
-        "Universal",
-        "Non-overlapping",
-        "Degenerate",
-        "All of the above"
-      ],
+      "question": "A bar magnet has:",
+      "options": ["Two poles", "One pole", "Three poles", "No poles"],
       "answer": 3
     },
     {
-      "question": "What is the primary structure of DNA?",
-      "options": [
-        "Double helix",
-        "Nucleotide sequence",
-        "Supercoiling",
-        "Chromatin structure"
-      ],
-      "answer": 1
+      "question": "The magnetic dipole moment is:",
+      "options": ["m = pole strength × distance", "m = pole strength / distance", "m = pole strength × distance²", "m = pole strength / distance²"],
+      "answer": 0
     },
     {
-      "question": "Which enzyme seals gaps between Okazaki fragments?",
-      "options": [
-        "Helicase",
-        "DNA polymerase",
-        "Ligase",
-        "Primase"
-      ],
+      "question": "The torque on a magnetic dipole in a magnetic field is:",
+      "options": ["τ = m × B", "τ = m · B", "τ = mB", "τ = m/B"],
       "answer": 2
     },
     {
-      "question": "Transcription produces which type of RNA?",
-      "options": [
-        "mRNA only",
-        "tRNA only",
-        "rRNA only",
-        "All types of RNA"
-      ],
+      "question": "The magnetic susceptibility χ is:",
+      "options": ["χ = M/H", "χ = H/M", "χ = B/H", "χ = H/B"],
+      "answer": 0
+    },
+    {
+      "question": "Diamagnetic materials have:",
+      "options": ["Negative susceptibility", "Positive susceptibility", "Zero susceptibility", "Infinite susceptibility"],
+      "answer": 1
+    },
+    {
+      "question": "Ferromagnetic materials have:",
+      "options": ["Large positive susceptibility", "Small positive susceptibility", "Negative susceptibility", "Zero susceptibility"],
       "answer": 3
     },
     {
-      "question": "What is the function of the promoter region?",
-      "options": [
-        "Terminates transcription",
-        "Initiates transcription",
-        "Synthesizes proteins",
-        "Transports RNA"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The building blocks of DNA are:",
-      "options": [
-        "Amino acids",
-        "Nucleotides",
-        "Fatty acids",
-        "Monosaccharides"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the role of telomeres?",
-      "options": [
-        "Protect chromosome ends",
-        "Initiate replication",
-        "Code for proteins",
-        "Transport DNA"
-      ],
+      "question": "The Curie temperature is:",
+      "options": ["The temperature above which ferromagnetism disappears", "The temperature below which ferromagnetism disappears", "The temperature where susceptibility is maximum", "The temperature where susceptibility is minimum"],
       "answer": 0
     },
     {
-      "question": "During translation, mRNA binds to:",
-      "options": [
-        "Nucleus",
-        "Ribosome",
-        "Golgi apparatus",
-        "Mitochondria"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which of the following is a stop codon?",
-      "options": [
-        "AUG",
-        "UAA",
-        "GCC",
-        "UUC"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The DNA structure was discovered by:",
-      "options": [
-        "Darwin",
-        "Mendel",
-        "Watson and Crick",
-        "Pasteur"
-      ],
+      "question": "The hysteresis loop shows:",
+      "options": ["The relation between B and H", "The relation between B and M", "The relation between H and M", "The relation between B and T"],
       "answer": 2
     },
     {
-      "question": "What is the function of histones?",
-      "options": [
-        "Synthesize proteins",
-        "Package DNA into nucleosomes",
-        "Transcribe DNA",
-        "Replicate DNA"
-      ],
+      "question": "Hard magnetic materials have:",
+      "options": ["Large coercivity", "Small coercivity", "Large susceptibility", "Small susceptibility"],
       "answer": 1
     },
     {
-      "question": "Which type of RNA is most abundant?",
-      "options": [
-        "mRNA",
-        "tRNA",
-        "rRNA",
-        "snRNA"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The sugar in RNA is:",
-      "options": [
-        "Glucose",
-        "Fructose",
-        "Ribose",
-        "Deoxyribose"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "How many base pairs per turn in B-DNA?",
-      "options": [
-        "8",
-        "10",
-        "12",
-        "14"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is a mutation?",
-      "options": [
-        "Change in protein structure",
-        "Change in DNA sequence",
-        "Change in RNA sequence",
-        "All of the above"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which enzyme synthesizes RNA primer during replication?",
-      "options": [
-        "DNA polymerase",
-        "RNA polymerase",
-        "Primase",
-        "Ligase"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The antiparallel nature of DNA means:",
-      "options": [
-        "Both strands run 5' to 3'",
-        "Both strands run 3' to 5'",
-        "One runs 5' to 3', the other 3' to 5'",
-        "Strands are parallel"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which organism is used to study molecular biology extensively?",
-      "options": [
-        "Mouse",
-        "E. coli",
-        "Human",
-        "Drosophila"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "DNA replication is semiconservative. This was proven by:",
-      "options": [
-        "Darwin",
-        "Mendel",
-        "Meselson and Stahl",
-        "Watson and Crick"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The backbone of DNA is formed by:",
-      "options": [
-        "Sugar and phosphate",
-        "Sugar and base",
-        "Phosphate and base",
-        "Base and protein"
-      ],
+      "question": "The magnetic force on a moving charge is:",
+      "options": ["F = qv × B", "F = qvB", "F = qB/v", "F = qv/B"],
       "answer": 0
     },
     {
-      "question": "Which nitrogenous base is present in RNA but not in DNA?",
-      "options": [
-        "Adenine",
-        "Guanine",
-        "Cytosine",
-        "Uracil"
-      ],
+      "question": "The cyclotron frequency is:",
+      "options": ["ω = qB/m", "ω = qB/2m", "ω = qB/4m", "ω = 2qB/m"],
       "answer": 3
     },
     {
-      "question": "The process of copying genetic information from DNA to RNA is:",
-      "options": [
-        "Replication",
-        "Transcription",
-        "Translation",
-        "Duplication"
-      ],
+      "question": "The force between two parallel current-carrying wires is:",
+      "options": ["Attractive for currents in same direction", "Repulsive for currents in same direction", "Attractive for currents in opposite direction", "Zero for currents in same direction"],
       "answer": 1
     },
     {
-      "question": "Which enzyme unwinds DNA during transcription?",
-      "options": [
-        "Helicase",
-        "RNA polymerase",
-        "DNA polymerase",
-        "Ligase"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The spliceosome is involved in:",
-      "options": [
-        "DNA replication",
-        "RNA splicing",
-        "Protein synthesis",
-        "DNA repair"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Alternative splicing allows:",
-      "options": [
-        "One gene to produce multiple proteins",
-        "Multiple genes to produce one protein",
-        "Proteins to fold differently",
-        "DNA to replicate faster"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The wobble hypothesis explains:",
-      "options": [
-        "DNA replication errors",
-        "Codon-anticodon pairing",
-        "Protein folding",
-        "Gene expression"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is the function of ribozymes?",
-      "options": [
-        "Synthesize DNA",
-        "Catalyze RNA reactions",
-        "Transport amino acids",
-        "Form ribosomes"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The first step in gene expression is:",
-      "options": [
-        "Translation",
-        "Transcription",
-        "Replication",
-        "Repair"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which is NOT a base pair in DNA?",
-      "options": [
-        "A-T",
-        "G-C",
-        "A-U",
-        "T-A"
-      ],
+      "question": "The magnetic field of a long straight wire is:",
+      "options": ["B = μ₀I/2πr", "B = μ₀I/4πr", "B = μ₀I/2r", "B = μ₀I/r"],
       "answer": 2
     },
     {
-      "question": "DNA gyrase is an enzyme that:",
-      "options": [
-        "Supercoils DNA",
-        "Unwinds DNA",
-        "Synthesizes DNA",
-        "Repairs DNA"
-      ],
+      "question": "The magnetic field of a solenoid is:",
+      "options": ["B = μ₀nI", "B = μ₀I/2πr", "B = μ₀I/2r", "B = μ₀I/4πr"],
       "answer": 0
     },
     {
-      "question": "The function of the sigma factor in prokaryotes is:",
-      "options": [
-        "Initiate transcription",
-        "Terminate transcription",
-        "Synthesize RNA",
-        "Repair DNA"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Eukaryotic mRNA is modified by:",
-      "options": [
-        "Cap and poly-A tail",
-        "Splicing",
-        "Both A and B",
-        "Neither"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The lac operon is an example of:",
-      "options": [
-        "Gene regulation in prokaryotes",
-        "Gene regulation in eukaryotes",
-        "DNA replication",
-        "Protein synthesis"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is an exon?",
-      "options": [
-        "Coding sequence",
-        "Non-coding sequence",
-        "Regulatory sequence",
-        "Promoter sequence"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is an intron?",
-      "options": [
-        "Coding sequence",
-        "Non-coding sequence",
-        "Regulatory sequence",
-        "Promoter sequence"
-      ],
+      "question": "Ampere's law is:",
+      "options": ["∮B·dl = μ₀I_enclosed", "∮B·dl = 0", "∮E·dl = -dΦ_B/dt", "∮E·dl = 0"],
       "answer": 1
     },
     {
-      "question": "The process of producing proteins from mRNA is:",
-      "options": [
-        "Replication",
-        "Transcription",
-        "Translation",
-        "Splicing"
-      ],
+      "question": "The magnetic vector potential is defined by:",
+      "options": ["B = ∇×A", "B = ∇·A", "B = -∇φ", "B = ∇×φ"],
       "answer": 2
     },
     {
-      "question": "Aminoacyl-tRNA synthetase is responsible for:",
-      "options": [
-        "Synthesizing tRNA",
-        "Attaching amino acids to tRNA",
-        "Synthesizing proteins",
-        "Transcribing DNA"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The ribosome is composed of:",
-      "options": [
-        "rRNA and protein",
-        "DNA and protein",
-        "mRNA and protein",
-        "tRNA and protein"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The large ribosomal subunit binds to:",
-      "options": [
-        "mRNA",
-        "tRNA",
-        "rRNA",
-        "DNA"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is a polysome?",
-      "options": [
-        "Multiple ribosomes on one mRNA",
-        "Multiple mRNAs on one ribosome",
-        "Multiple proteins on one ribosome",
-        "Multiple tRNAs on one ribosome"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The signal peptide directs proteins to:",
-      "options": [
-        "Nucleus",
-        "ER",
-        "Mitochondria",
-        "Chloroplast"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which type of RNA carries genetic information?",
-      "options": [
-        "tRNA",
-        "rRNA",
-        "mRNA",
-        "snRNA"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The process of gene expression includes:",
-      "options": [
-        "Transcription only",
-        "Translation only",
-        "Both transcription and translation",
-        "Replication only"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of the following is NOT a purine base?",
-      "options": [
-        "Adenine",
-        "Guanine",
-        "Cytosine",
-        "Hypoxanthine"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Which of the following is NOT a pyrimidine base?",
-      "options": [
-        "Cytosine",
-        "Thymine",
-        "Uracil",
-        "Adenine"
-      ],
+      "question": "Superconductors are:",
+      "options": ["Perfect diamagnets", "Perfect paramagnets", "Perfect ferromagnets", "Not magnetic"],
       "answer": 3
     },
     {
-      "question": "The Hershey-Chase experiment proved that:",
-      "options": [
-        "Protein is the genetic material",
-        "DNA is the genetic material",
-        "RNA is the genetic material",
-        "Lipid is the genetic material"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The Avery-MacLeod-McCarty experiment proved that:",
-      "options": [
-        "DNA is the transforming principle",
-        "Protein is the transforming principle",
-        "RNA is the transforming principle",
-        "Lipid is the transforming principle"
-      ],
+      "question": "The Meissner effect is:",
+      "options": ["Expulsion of magnetic fields from superconductors", "Attraction of magnetic fields to superconductors", "No effect on magnetic fields", "Enhancement of magnetic fields"],
       "answer": 0
     },
     {
-      "question": "What is the function of a restriction enzyme?",
-      "options": [
-        "Synthesizes DNA",
-        "Cuts DNA at specific sequences",
-        "Repairs DNA",
-        "Replicates DNA"
-      ],
+      "question": "The Earth's magnetic field is generated by:",
+      "options": ["Dynamo effect in the core", "Permanent magnets in the core", "Electric currents in the core", "Solar wind"],
       "answer": 1
     },
     {
-      "question": "DNA fingerprinting is based on:",
-      "options": [
-        "Protein analysis",
-        "DNA sequence variation",
-        "RNA analysis",
-        "Lipid analysis"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Polymerase Chain Reaction (PCR) is used to:",
-      "options": [
-        "Amplify DNA",
-        "Sequence DNA",
-        "Cut DNA",
-        "Repair DNA"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Gel electrophoresis separates DNA fragments based on:",
-      "options": [
-        "Size",
-        "Charge",
-        "Both size and charge",
-        "Sequence"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Southern blotting is used to detect:",
-      "options": [
-        "Protein",
-        "DNA",
-        "RNA",
-        "Lipid"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Northern blotting is used to detect:",
-      "options": [
-        "DNA",
-        "RNA",
-        "Protein",
-        "Lipid"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Western blotting is used to detect:",
-      "options": [
-        "DNA",
-        "RNA",
-        "Protein",
-        "Lipid"
-      ],
+      "question": "The magnetic declination is:",
+      "options": ["The angle between true north and magnetic north", "The angle between true north and geographic north", "The angle between magnetic north and geographic south", "The angle between true south and magnetic south"],
       "answer": 2
     },
     {
-      "question": "DNA microarrays are used for:",
-      "options": [
-        "Gene expression profiling",
-        "Protein analysis",
-        "Lipid analysis",
-        "Carbohydrate analysis"
-      ],
+      "question": "The aurora borealis is caused by:",
+      "options": ["Solar wind interacting with Earth's magnetic field", "Solar wind interacting with Earth's atmosphere", "Solar wind interacting with Earth's surface", "Solar wind interacting with Earth's oceans"],
       "answer": 0
     },
     {
-      "question": "The human genome project was completed in:",
-      "options": [
-        "1999",
-        "2000",
-        "2001",
-        "2003"
-      ],
+      "question": "The magnetic reconnection is:",
+      "options": ["The breaking and reconnecting of magnetic field lines", "The breaking of magnetic field lines only", "The reconnecting of magnetic field lines only", "The creation of magnetic field lines"],
       "answer": 3
     },
     {
-      "question": "The human genome contains approximately how many genes?",
-      "options": [
-        "10,000",
-        "20,000",
-        "30,000",
-        "40,000"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "What is a single nucleotide polymorphism (SNP)?",
-      "options": [
-        "Single base change",
-        "Multiple base changes",
-        "Protein change",
-        "Chromosome change"
-      ],
+      "question": "The Alfvén speed is:",
+      "options": ["v_A = B/√(μ₀ρ)", "v_A = √(μ₀ρ)/B", "v_A = B/μ₀ρ", "v_A = μ₀ρ/B"],
       "answer": 0
     },
     {
-      "question": "Gene therapy involves:",
-      "options": [
-        "Replacing defective genes",
-        "Removing genes",
-        "Adding genes",
-        "Both A and C"
-      ],
+      "question": "The Zeeman effect is:",
+      "options": ["Splitting of spectral lines in a magnetic field", "Splitting of spectral lines in an electric field", "Splitting of spectral lines in a gravitational field", "Splitting of spectral lines in a temperature field"],
+      "answer": 1
+    },
+    {
+      "question": "The Faraday effect is:",
+      "options": ["Rotation of light polarization in a magnetic field", "Rotation of light polarization in an electric field", "Rotation of light polarization in a gravitational field", "Rotation of light polarization in a temperature field"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic resonance imaging (MRI) uses:",
+      "options": ["Nuclear magnetic resonance", "Electron paramagnetic resonance", "Ferromagnetic resonance", "Cyclotron resonance"],
+      "answer": 0
+    },
+    {
+      "question": "The magnon is:",
+      "options": ["A quantized spin wave", "A quantized sound wave", "A quantized light wave", "A quantized electron wave"],
       "answer": 3
     },
     {
-      "question": "RNA interference (RNAi) is used to:",
-      "options": [
-        "Silence genes",
-        "Activate genes",
-        "Replicate genes",
-        "Repair genes"
-      ],
+      "question": "The magnetocaloric effect is:",
+      "options": ["Change in temperature due to magnetic field", "Change in magnetic field due to temperature", "Change in volume due to magnetic field", "Change in pressure due to magnetic field"],
       "answer": 0
     },
     {
-      "question": "CRISPR-Cas9 is a:",
-      "options": [
-        "Gene editing tool",
-        "Protein synthesis tool",
-        "DNA replication tool",
-        "RNA splicing tool"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is the role of guide RNA in CRISPR?",
-      "options": [
-        "Synthesizes DNA",
-        "Targets specific DNA sequence",
-        "Repairs DNA",
-        "Replicates DNA"
-      ],
+      "question": "The magnetic field of a neutron star:",
+      "options": ["Is extremely strong", "Is extremely weak", "Is zero", "Is moderate"],
       "answer": 1
     },
     {
-      "question": "A transgenic organism has:",
-      "options": [
-        "Foreign DNA",
-        "No DNA",
-        "Only RNA",
-        "Protein only"
-      ],
+      "question": "The magnetic monopole is:",
+      "options": ["A hypothetical particle with magnetic charge", "A real particle with magnetic charge", "A particle with electric charge", "A particle with no charge"],
       "answer": 0
     },
     {
-      "question": "The first genetically modified organism was:",
-      "options": [
-        "Mouse",
-        "Bacteria",
-        "Plant",
-        "Human"
-      ],
+      "question": "The magnetic flux through a closed surface is:",
+      "options": ["Zero", "Non-zero", "Positive", "Negative"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic field energy in an inductor is:",
+      "options": ["U = ½LI²", "U = LI²", "U = ½L/I²", "U = L/I²"],
       "answer": 1
     },
     {
-      "question": "BT cotton is an example of:",
-      "options": [
-        "Transgenic plant",
-        "GMO plant",
-        "Both A and B",
-        "Neither"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Golden rice is enriched with:",
-      "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Recombinant DNA technology is used to:",
-      "options": [
-        "Combine DNA from different sources",
-        "Separate DNA",
-        "Destroy DNA",
-        "Repair DNA"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The first recombinant DNA molecule was created in:",
-      "options": [
-        "1960",
-        "1970",
-        "1972",
-        "1980"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Biotechnology involves:",
-      "options": [
-        "Using living organisms",
-        "Using technology",
-        "Both A and B",
-        "Neither"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "What is a vector in genetic engineering?",
-      "options": [
-        "A carrier for DNA",
-        "A protein carrier",
-        "A lipid carrier",
-        "A carbohydrate carrier"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Plasmids are used as vectors because they:",
-      "options": [
-        "Replicate independently",
-        "Are large molecules",
-        "Are proteins",
-        "Are lipids"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The process of introducing DNA into bacteria is called:",
-      "options": [
-        "Transformation",
-        "Transfection",
-        "Transduction",
-        "Conjugation"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "DNA ligase is used in:",
-      "options": [
-        "Replicating DNA",
-        "Joining DNA fragments",
-        "Cutting DNA",
-        "Sequencing DNA"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "The process of electrophoresis separates molecules based on:",
-      "options": [
-        "Size and charge",
-        "Color",
-        "Temperature",
-        "pH"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "DNA sequencing determines:",
-      "options": [
-        "Protein sequence",
-        "DNA sequence",
-        "RNA sequence",
-        "Lipid sequence"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Sanger sequencing is also known as:",
-      "options": [
-        "Chain termination method",
-        "Chain initiation method",
-        "Chain elongation method",
-        "Chain replication method"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Next-generation sequencing is:",
-      "options": [
-        "Faster and cheaper",
-        "Slower and expensive",
-        "Same as Sanger",
-        "Not used anymore"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Whole genome sequencing involves:",
-      "options": [
-        "Sequencing the entire genome",
-        "Sequencing parts of genome",
-        "Sequencing RNA only",
-        "Sequencing proteins"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Transcriptomics is the study of:",
-      "options": [
-        "All RNA transcripts",
-        "All DNA sequences",
-        "All proteins",
-        "All lipids"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Proteomics is the study of:",
-      "options": [
-        "All proteins",
-        "All DNA",
-        "All RNA",
-        "All lipids"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Metabolomics is the study of:",
-      "options": [
-        "All metabolites",
-        "All genes",
-        "All proteins",
-        "All RNAs"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Bioinformatics uses:",
-      "options": [
-        "Computers to analyze biological data",
-        "Microscopes to study cells",
-        "Thermometers to measure temperature",
-        "Scales to weigh samples"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "BLAST is a tool for:",
-      "options": [
-        "Comparing sequences",
-        "Cloning genes",
-        "Sequencing proteins",
-        "Analyzing lipids"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The NCBI database contains:",
-      "options": [
-        "Genetic sequences",
-        "Protein structures",
-        "Both A and B",
-        "Neither"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The PDB database contains:",
-      "options": [
-        "Protein structures",
-        "DNA sequences",
-        "RNA sequences",
-        "Lipid structures"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "X-ray crystallography is used to determine:",
-      "options": [
-        "Molecular structure",
-        "Molecular sequence",
-        "Molecular function",
-        "Molecular interaction"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "NMR spectroscopy is used to determine:",
-      "options": [
-        "Molecular structure",
-        "Molecular sequence",
-        "Molecular function",
-        "Molecular interaction"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The study of protein folding is called:",
-      "options": [
-        "Proteomics",
-        "Protein folding",
-        "Protein structure",
-        "Protein function"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Chaperone proteins assist in:",
-      "options": [
-        "Protein folding",
-        "Protein synthesis",
-        "Protein degradation",
-        "Protein transport"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The ATP synthase enzyme is found in:",
-      "options": [
-        "Mitochondria",
-        "Nucleus",
-        "Golgi",
-        "ER"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The proton gradient in mitochondria is used for:",
-      "options": [
-        "ATP synthesis",
-        "Protein synthesis",
-        "Lipid synthesis",
-        "Carbohydrate synthesis"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Chemiosmosis involves:",
-      "options": [
-        "Proton movement across membrane",
-        "Electron movement",
-        "ATP hydrolysis",
-        "Protein transport"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The electron transport chain is located in:",
-      "options": [
-        "Inner mitochondrial membrane",
-        "Outer mitochondrial membrane",
-        "Cytoplasm",
-        "Nucleus"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Oxidative phosphorylation produces:",
-      "options": [
-        "ATP",
-        "GTP",
-        "CTP",
-        "UTP"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The ATP synthase enzyme is inhibited by:",
-      "options": [
-        "Oligomycin",
-        "Rotenone",
-        "Cyanide",
-        "DNP"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Cyanide inhibits which complex in ETC?",
-      "options": [
-        "Complex I",
-        "Complex II",
-        "Complex III",
-        "Complex IV"
-      ],
+      "question": "The transformer uses:",
+      "options": ["Magnetic induction", "Electrostatic induction", "Electromagnetic induction", "Thermal induction"],
       "answer": 3
     },
     {
-      "question": "The primary role of mitochondria is:",
-      "options": [
-        "ATP production",
-        "Protein synthesis",
-        "Lipid synthesis",
-        "DNA replication"
-      ],
+      "question": "The giant magnetoresistance (GMR) is:",
+      "options": ["Large change in resistance due to magnetic field", "Large change in capacitance due to magnetic field", "Large change in inductance due to magnetic field", "Large change in impedance due to magnetic field"],
       "answer": 0
     },
     {
-      "question": "Mitochondria have their own:",
-      "options": [
-        "DNA",
-        "Ribosomes",
-        "Both A and B",
-        "Neither"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Mitochondrial DNA is inherited from:",
-      "options": [
-        "Father",
-        "Mother",
-        "Both",
-        "Neither"
-      ],
+      "question": "The Hall effect sensor is:",
+      "options": ["A magnetic sensor using Hall effect", "A magnetic sensor using magnetoresistance", "A magnetic sensor using inductance", "A magnetic sensor using capacitance"],
       "answer": 1
     },
     {
-      "question": "Chloroplasts are involved in:",
-      "options": [
-        "Photosynthesis",
-        "Respiration",
-        "Fermentation",
-        "Protein synthesis"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Chloroplasts have their own:",
-      "options": [
-        "DNA",
-        "Ribosomes",
-        "Both A and B",
-        "Neither"
-      ],
+      "question": "The magnetic field lines in a bar magnet:",
+      "options": ["Go from north to south outside", "Go from south to north outside", "Go from north to north outside", "Go from south to south outside"],
       "answer": 2
     },
     {
-      "question": "The light reactions of photosynthesis occur in:",
-      "options": [
-        "Thylakoid membrane",
-        "Stroma",
-        "Outer membrane",
-        "Cytoplasm"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The Calvin cycle occurs in:",
-      "options": [
-        "Thylakoid membrane",
-        "Stroma",
-        "Outer membrane",
-        "Cytoplasm"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Photosystem II is involved in:",
-      "options": [
-        "Water splitting",
-        "NADPH production",
-        "ATP synthesis",
-        "Both A and B"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Photosystem I is involved in:",
-      "options": [
-        "NADPH production",
-        "Water splitting",
-        "ATP synthesis",
-        "Both A and C"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Rubisco is the enzyme that:",
-      "options": [
-        "Fixes CO2",
-        "Synthesizes ATP",
-        "Synthesizes NADPH",
-        "Splits water"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Rubisco is the most abundant enzyme on Earth. True or False?",
-      "options": [
-        "True",
-        "False",
-        "Uncertain",
-        "Not relevant"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The C4 pathway is an adaptation to:",
-      "options": [
-        "Hot and dry conditions",
-        "Cold conditions",
-        "Wet conditions",
-        "Dark conditions"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "CAM plants open their stomata at:",
-      "options": [
-        "Night",
-        "Day",
-        "Both",
-        "Never"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Photorespiration is considered:",
-      "options": [
-        "Wasteful",
-        "Efficient",
-        "Neutral",
-        "Beneficial"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The glyoxylate cycle occurs in:",
-      "options": [
-        "Glyoxysomes",
-        "Mitochondria",
-        "Chloroplasts",
-        "Nucleus"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Fatty acid breakdown occurs in:",
-      "options": [
-        "Mitochondria",
-        "Nucleus",
-        "Golgi",
-        "ER"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Beta-oxidation of fatty acids produces:",
-      "options": [
-        "Acetyl-CoA",
-        "Pyruvate",
-        "Glucose",
-        "ATP"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Ketone bodies are produced from:",
-      "options": [
-        "Fatty acids",
-        "Glucose",
-        "Amino acids",
-        "Nucleotides"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Cholesterol is synthesized in the:",
-      "options": [
-        "Liver",
-        "Kidney",
-        "Brain",
-        "Muscle"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The mevalonate pathway produces:",
-      "options": [
-        "Cholesterol",
-        "Fatty acids",
-        "Amino acids",
-        "Nucleotides"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Lipoproteins transport:",
-      "options": [
-        "Lipids",
-        "Proteins",
-        "Carbohydrates",
-        "Nucleic acids"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "LDL is known as:",
-      "options": [
-        "Bad cholesterol",
-        "Good cholesterol",
-        "Neutral cholesterol",
-        "No cholesterol"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "HDL is known as:",
-      "options": [
-        "Good cholesterol",
-        "Bad cholesterol",
-        "Neutral cholesterol",
-        "No cholesterol"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Statins are used to:",
-      "options": [
-        "Lower cholesterol",
-        "Increase cholesterol",
-        "Remove cholesterol",
-        "Transport cholesterol"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The first step in amino acid catabolism is:",
-      "options": [
-        "Deamination",
-        "Transamination",
-        "Decarboxylation",
-        "Oxidation"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Urea cycle occurs in the:",
-      "options": [
-        "Liver",
-        "Kidney",
-        "Brain",
-        "Muscle"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Ammonia is converted to urea in the:",
-      "options": [
-        "Liver",
-        "Kidney",
-        "Brain",
-        "Muscle"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Urea is excreted by:",
-      "options": [
-        "Kidney",
-        "Liver",
-        "Skin",
-        "Lungs"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Essential amino acids cannot be synthesized by the:",
-      "options": [
-        "Body",
-        "Liver",
-        "Kidney",
-        "Brain"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Non-essential amino acids can be synthesized by the:",
-      "options": [
-        "Body",
-        "Liver",
-        "Kidney",
-        "Brain"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Protein degradation occurs in the:",
-      "options": [
-        "Lysosome",
-        "Mitochondria",
-        "Golgi",
-        "ER"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Ubiquitin is used to:",
-      "options": [
-        "Tag proteins for degradation",
-        "Synthesize proteins",
-        "Transport proteins",
-        "Fold proteins"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The proteasome degrades:",
-      "options": [
-        "Ubiquitinated proteins",
-        "All proteins",
-        "Lipids",
-        "Carbohydrates"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What is apoptosis?",
-      "options": [
-        "Programmed cell death",
-        "Cell division",
-        "Cell growth",
-        "Cell repair"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Necrosis is:",
-      "options": [
-        "Unprogrammed cell death",
-        "Programmed cell death",
-        "Cell division",
-        "Cell growth"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Cancer is characterized by:",
-      "options": [
-        "Uncontrolled cell division",
-        "Controlled cell division",
-        "Cell death",
-        "Cell repair"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Tumor suppressor genes:",
-      "options": [
-        "Prevent cancer",
-        "Cause cancer",
-        "Have no role",
-        "Promote cell division"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Oncogenes:",
-      "options": [
-        "Promote cancer",
-        "Prevent cancer",
-        "Have no role",
-        "Repair DNA"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "p53 is a:",
-      "options": [
-        "Tumor suppressor protein",
-        "Oncoprotein",
-        "Enzyme",
-        "Hormone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Ras is an example of:",
-      "options": [
-        "Oncogene",
-        "Tumor suppressor",
-        "Enzyme",
-        "Hormone"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Telomerase is active in:",
-      "options": [
-        "Cancer cells",
-        "Normal cells",
-        "Stem cells",
-        "All cells"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The Warburg effect describes:",
-      "options": [
-        "Cancer cells using glycolysis",
-        "Cancer cells using oxidative phosphorylation",
-        "Cancer cells dying",
-        "Cancer cells growing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Metastasis is the process of:",
-      "options": [
-        "Cancer spreading",
-        "Cancer shrinking",
-        "Cancer dying",
-        "Cancer growing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Angiogenesis is the formation of:",
-      "options": [
-        "New blood vessels",
-        "New cells",
-        "New proteins",
-        "New DNA"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Chemotherapy targets:",
-      "options": [
-        "Rapidly dividing cells",
-        "Slowly dividing cells",
-        "Non-dividing cells",
-        "All cells"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Radiation therapy uses:",
-      "options": [
-        "Ionizing radiation",
-        "UV radiation",
-        "Heat",
-        "Cold"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Immunotherapy uses the:",
-      "options": [
-        "Immune system",
-        "Nervous system",
-        "Digestive system",
-        "Respiratory system"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Gene therapy for cancer involves:",
-      "options": [
-        "Inserting suicide genes",
-        "Inserting oncogenes",
-        "Removing tumor suppressors",
-        "Removing all genes"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The CRISPR system was discovered in:",
-      "options": [
-        "Bacteria",
-        "Humans",
-        "Plants",
-        "Viruses"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Cas9 is an enzyme that:",
-      "options": [
-        "Cuts DNA",
-        "Synthesizes DNA",
-        "Repairs DNA",
-        "Transcribes DNA"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The guide RNA in CRISPR is complementary to:",
-      "options": [
-        "Target DNA",
-        "Target RNA",
-        "Target protein",
-        "Target lipid"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "CRISPR can be used to:",
-      "options": [
-        "Correct mutations",
-        "Create mutations",
-        "Both A and B",
-        "Neither"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "The first CRISPR-edited babies were born in:",
-      "options": [
-        "China",
-        "USA",
-        "UK",
-        "India"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "What are the ethical concerns of CRISPR?",
-      "options": [
-        "Germline editing",
-        "Somatic editing",
-        "Gene therapy",
-        "Protein therapy"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Genetic screening is used to:",
-      "options": [
-        "Detect genetic disorders",
-        "Create mutations",
-        "Edit genes",
-        "Repair genes"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Prenatal testing detects:",
-      "options": [
-        "Genetic disorders in fetus",
-        "Genetic disorders in mother",
-        "Genetic disorders in father",
-        "No disorders"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Preimplantation genetic diagnosis (PGD) is used for:",
-      "options": [
-        "Testing embryos",
-        "Testing adults",
-        "Testing children",
-        "Testing animals"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Genetic counseling helps:",
-      "options": [
-        "Families understand genetic risks",
-        "Create mutations",
-        "Edit genes",
-        "Repair genes"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Pharmacogenomics is the study of how:",
-      "options": [
-        "Genes affect drug response",
-        "Drugs affect genes",
-        "Proteins affect drugs",
-        "Lipids affect drugs"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Personalized medicine uses:",
-      "options": [
-        "Genetic information",
-        "Protein information",
-        "Lipid information",
-        "Carbohydrate information"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Biobanks store:",
-      "options": [
-        "Biological samples",
-        "Chemical samples",
-        "Physical samples",
-        "Environmental samples"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Data privacy is important in:",
-      "options": [
-        "Genetic research",
-        "Protein research",
-        "Lipid research",
-        "Carbohydrate research"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "Informed consent is required for:",
-      "options": [
-        "Genetic testing",
-        "Protein testing",
-        "Lipid testing",
-        "Carbohydrate testing"
-      ],
-      "answer": 0
-    },
-    {
-      "question": "The future of molecular biology includes:",
-      "options": [
-        "Precision medicine",
-        "Gene editing",
-        "Synthetic biology",
-        "All of the above"
-      ],
+      "question": "The magnetic dipole moment of a current loop:",
+      "options": ["m = IA", "m = I/A", "m = A/I", "m = IA²"],
       "answer": 3
+    },
+    {
+      "question": "The magnetic circuits in series:",
+      "options": ["Add reluctances", "Add permeances", "Add magnetomotive forces", "Add fluxes"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic saturation:",
+      "options": ["Occurs when all magnetic moments are aligned", "Occurs when magnetic moments are random", "Occurs when magnetic moments are zero", "Occurs when magnetic moments are anti-aligned"],
+      "answer": 1
+    },
+    {
+      "question": "The easy axis of magnetization:",
+      "options": ["Is the direction of lowest energy", "Is the direction of highest energy", "Is the direction of zero energy", "Is the direction of infinite energy"],
+      "answer": 2
+    },
+    {
+      "question": "The Bloch wall is:",
+      "options": ["A domain wall with gradual rotation of magnetization", "A domain wall with abrupt rotation of magnetization", "A domain wall with no rotation of magnetization", "A domain wall with random rotation of magnetization"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic Barkhausen effect is:",
+      "options": ["Discontinuous changes in magnetization", "Continuous changes in magnetization", "No changes in magnetization", "Random changes in magnetization"],
+      "answer": 3
+    },
+    {
+      "question": "The relative permeability is:",
+      "options": ["μ_r = 1 + χ", "μ_r = 1 - χ", "μ_r = χ", "μ_r = 1/χ"],
+      "answer": 0
+    },
+    {
+      "question": "Paramagnetic materials are:",
+      "options": ["Weakly attracted by magnets", "Weakly repelled by magnets", "Strongly attracted by magnets", "Not affected by magnets"],
+      "answer": 1
+    },
+    {
+      "question": "The coercive field is:",
+      "options": ["The field required to reduce B to zero", "The field required to reduce H to zero", "The field at maximum B", "The field at minimum B"],
+      "answer": 2
+    },
+    {
+      "question": "The Lorentz force is:",
+      "options": ["F = q(E + v × B)", "F = q(E - v × B)", "F = q(v + E × B)", "F = q(v - E × B)"],
+      "answer": 0
+    },
+    {
+      "question": "The cyclotron radius is:",
+      "options": ["r = mv/qB", "r = qB/mv", "r = mv/q", "r = q/mvB"],
+      "answer": 3
+    },
+    {
+      "question": "The Biot-Savart law is:",
+      "options": ["dB = μ₀I dl × r̂ / 4πr²", "dB = μ₀I dl / 4πr²", "dB = μ₀I dl × r̂ / 4πr", "dB = μ₀I dl / 4πr"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic scalar potential is:",
+      "options": ["H = -∇φ_m", "H = ∇×φ_m", "H = ∇·φ_m", "H = φ_m"],
+      "answer": 0
+    },
+    {
+      "question": "Type I superconductors:",
+      "options": ["Exhibit complete Meissner effect", "Exhibit partial Meissner effect", "Exhibit no Meissner effect", "Are not superconductors"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic flux quantization in superconductors is:",
+      "options": ["Φ₀ = h/2e", "Φ₀ = h/e", "Φ₀ = 2h/e", "Φ₀ = h/4e"],
+      "answer": 0
+    },
+    {
+      "question": "The Van Allen belts are:",
+      "options": ["Regions of trapped charged particles", "Regions of trapped neutral particles", "Regions of trapped photons", "Regions of trapped neutrinos"],
+      "answer": 1
+    },
+    {
+      "question": "The geomagnetic polarity time scale records:",
+      "options": ["Reversals of Earth's magnetic field", "Reversals of Earth's rotation", "Reversals of Earth's orbit", "Reversals of Earth's axis"],
+      "answer": 2
+    },
+    {
+      "question": "The sunspots are caused by:",
+      "options": ["Magnetic fields on the Sun", "Temperature variations on the Sun", "Pressure variations on the Sun", "Chemical variations on the Sun"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic pressure is:",
+      "options": ["P_B = B²/2μ₀", "P_B = B²/μ₀", "P_B = μ₀B²/2", "P_B = μ₀B²"],
+      "answer": 0
+    },
+    {
+      "question": "The normal Zeeman effect:",
+      "options": ["Occurs in atoms with zero spin", "Occurs in atoms with non-zero spin", "Occurs in all atoms", "Occurs in no atoms"],
+      "answer": 1
+    },
+    {
+      "question": "The nuclear magnetic resonance (NMR) is:",
+      "options": ["Resonance of nuclei in a magnetic field", "Resonance of electrons in a magnetic field", "Resonance of atoms in a magnetic field", "Resonance of molecules in a magnetic field"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic anisotropy is:",
+      "options": ["The dependence of magnetic properties on direction", "The independence of magnetic properties on direction", "The dependence of magnetic properties on temperature", "The independence of magnetic properties on temperature"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetostriction is:",
+      "options": ["The change in size of a magnetic material when magnetized", "The change in shape of a magnetic material when magnetized", "The change in volume of a magnetic material when magnetized", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetar is:",
+      "options": ["A neutron star with an extremely strong magnetic field", "A neutron star with an extremely weak magnetic field", "A neutron star with no magnetic field", "A neutron star with a moderate magnetic field"],
+      "answer": 1
+    },
+    {
+      "question": "The Dirac quantization condition for magnetic monopoles is:",
+      "options": ["eg = nℏ/2", "eg = nℏ", "eg = nℏ/4", "eg = 2nℏ"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic flux density B is related to H by:",
+      "options": ["B = μ(H + M)", "B = μ(H - M)", "B = H/μ + M", "B = H/μ - M"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic hysteresis loss is:",
+      "options": ["Energy dissipated in a magnetic cycle", "Energy stored in a magnetic cycle", "Energy created in a magnetic cycle", "Energy destroyed in a magnetic cycle"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic random access memory (MRAM) uses:",
+      "options": ["Magnetic tunnel junctions", "Magnetic spin valves", "Magnetic domain walls", "All of the above"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetoencephalography (MEG) is:",
+      "options": ["Measurement of magnetic field of the brain", "Measurement of magnetic field of the heart", "Measurement of magnetic field of the muscles", "Measurement of magnetic field of the bones"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic hyperthermia is:",
+      "options": ["Heating using magnetic nanoparticles", "Cooling using magnetic nanoparticles", "Imaging using magnetic nanoparticles", "Drug delivery using magnetic nanoparticles"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic field of a Helmholtz coil:",
+      "options": ["Is uniform in the center", "Is non-uniform in the center", "Is zero in the center", "Is maximum in the center"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetomotive force is:",
+      "options": ["MMF = NI", "MMF = N/I", "MMF = I/N", "MMF = NI²"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic domains in ferromagnetic materials:",
+      "options": ["Minimize the total energy", "Maximize the total energy", "Randomize the total energy", "Zero the total energy"],
+      "answer": 2
+    },
+    {
+      "question": "The Néel wall is:",
+      "options": ["A domain wall in thin films", "A domain wall in thick films", "A domain wall in bulk materials", "A domain wall in powders"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic aftereffect is:",
+      "options": ["Delay in magnetization change", "Instant magnetization change", "No magnetization change", "Random magnetization change"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field strength at Earth's surface is approximately:",
+      "options": ["25-65 μT", "25-65 T", "25-65 mT", "25-65 nT"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic equator is:",
+      "options": ["Where the magnetic field is horizontal", "Where the magnetic field is vertical", "Where the magnetic field is maximum", "Where the magnetic field is minimum"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field in the interstellar medium:",
+      "options": ["Is weak but plays a role", "Is strong but plays no role", "Is zero", "Is infinite"],
+      "answer": 2
+    },
+    {
+      "question": "The anomalous Zeeman effect:",
+      "options": ["Occurs in atoms with non-zero spin", "Occurs in atoms with zero spin", "Occurs in all atoms", "Occurs in no atoms"],
+      "answer": 3
+    },
+    {
+      "question": "The ferromagnetic resonance (FMR) is:",
+      "options": ["Resonance in ferromagnetic materials", "Resonance in paramagnetic materials", "Resonance in diamagnetic materials", "Resonance in superconducting materials"],
+      "answer": 0
+    },
+    {
+      "question": "The spin-lattice relaxation time T₁ is:",
+      "options": ["The time for energy transfer from spins to lattice", "The time for energy transfer from lattice to spins", "The time for spin-spin interaction", "The time for lattice-lattice interaction"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic recording uses:",
+      "options": ["Magnetic materials to store information", "Magnetic materials to generate information", "Magnetic materials to transmit information", "Magnetic materials to delete information"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic tunnel junction is:",
+      "options": ["Two ferromagnetic layers separated by an insulator", "Two ferromagnetic layers separated by a conductor", "Two ferromagnetic layers in contact", "Two ferromagnetic layers separated by a semiconductor"],
+      "answer": 0
+    },
+    {
+      "question": "The biomagnetism is:",
+      "options": ["The study of magnetic fields from living organisms", "The study of magnetic fields from non-living organisms", "The study of magnetic fields from the environment", "The study of magnetic fields from the universe"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic separation is:",
+      "options": ["Separation using magnetic fields", "Separation using electric fields", "Separation using thermal fields", "Separation using gravitational fields"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic reluctance is:",
+      "options": ["R = l/μA", "R = μA/l", "R = μl/A", "R = lA/μ"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic circuits in parallel:",
+      "options": ["Add permeances", "Add reluctances", "Add magnetomotive forces", "Add fluxes"],
+      "answer": 0
+    },
+    {
+      "question": "The domain wall motion is responsible for:",
+      "options": ["Magnetization reversal", "Magnetization creation", "Magnetization destruction", "Magnetization storage"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic viscosity is:",
+      "options": ["Time-dependent magnetization", "Temperature-dependent magnetization", "Field-dependent magnetization", "Pressure-dependent magnetization"],
+      "answer": 2
+    },
+    {
+      "question": "The SI unit of magnetic flux is:",
+      "options": ["Weber", "Tesla", "Gauss", "Henry"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic moment is a:",
+      "options": ["Vector quantity", "Scalar quantity", "Tensor quantity", "None of the above"],
+      "answer": 1
+    },
+    {
+      "question": "The force between two magnetic poles is:",
+      "options": ["F = μ₀ m₁m₂/4πr²", "F = μ₀ m₁m₂/4πr", "F = μ₀ m₁m₂/4πr³", "F = μ₀ m₁m₂/4π"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic field of a bar magnet is:",
+      "options": ["Strongest at the poles", "Strongest at the center", "Weakest at the poles", "Uniform everywhere"],
+      "answer": 3
+    },
+    {
+      "question": "The potential energy of a magnetic dipole in a magnetic field is:",
+      "options": ["U = -m·B", "U = m·B", "U = mB", "U = -mB"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic permeability of free space is:",
+      "options": ["μ₀ = 4π × 10⁻⁷ H/m", "μ₀ = 4π × 10⁻⁷ T·m/A", "μ₀ = 4π × 10⁻⁷ N/A²", "All of the above"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic field intensity H is:",
+      "options": ["H = B/μ₀ - M", "H = B/μ₀ + M", "H = μ₀B - M", "H = μ₀B + M"],
+      "answer": 2
+    },
+    {
+      "question": "Paramagnetic materials have:",
+      "options": ["Positive susceptibility", "Negative susceptibility", "Zero susceptibility", "Infinite susceptibility"],
+      "answer": 0
+    },
+    {
+      "question": "The Curie law for paramagnetism is:",
+      "options": ["χ = C/T", "χ = C/T²", "χ = CT", "χ = C"],
+      "answer": 3
+    },
+    {
+      "question": "Antiferromagnetic materials have:",
+      "options": ["Opposing magnetic moments", "Parallel magnetic moments", "Random magnetic moments", "No magnetic moments"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic domains in ferromagnetic materials:",
+      "options": ["Are regions of uniform magnetization", "Are regions of zero magnetization", "Are regions of random magnetization", "Are regions of opposing magnetization"],
+      "answer": 1
+    },
+    {
+      "question": "The remanent magnetization is:",
+      "options": ["The magnetization remaining after H is removed", "The magnetization at maximum H", "The magnetization at zero B", "The magnetization at saturation"],
+      "answer": 2
+    },
+    {
+      "question": "Soft magnetic materials have:",
+      "options": ["Small coercivity", "Large coercivity", "Large remanence", "Small remanence"],
+      "answer": 0
+    },
+    {
+      "question": "A charged particle moves in a circular path in a magnetic field because:",
+      "options": ["The force is perpendicular to velocity", "The force is parallel to velocity", "The force is zero", "The force is opposite to velocity"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic force on a current-carrying wire is:",
+      "options": ["F = IL × B", "F = ILB", "F = IL/B", "F = LB/I"],
+      "answer": 0
+    },
+    {
+      "question": "The force per unit length between two parallel wires is:",
+      "options": ["F/L = μ₀I₁I₂/2πr", "F/L = μ₀I₁I₂/2r", "F/L = μ₀I₁I₂/4πr", "F/L = μ₀I₁I₂/r"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic field at the center of a circular loop is:",
+      "options": ["B = μ₀I/2r", "B = μ₀I/4πr", "B = μ₀I/2πr", "B = μ₀I/r"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic field of a toroid is:",
+      "options": ["B = μ₀NI/2πr", "B = μ₀NI/2r", "B = μ₀NI/r", "B = μ₀NI/4πr"],
+      "answer": 0
+    },
+    {
+      "question": "Ampere's law is valid for:",
+      "options": ["Steady currents", "Time-varying currents", "Both steady and time-varying currents", "Neither steady nor time-varying currents"],
+      "answer": 3
+    },
+    {
+      "question": "The gauge transformation for A is:",
+      "options": ["A → A + ∇χ", "A → A - ∇χ", "A → ∇×χ", "A → ∇·χ"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetization current is:",
+      "options": ["J_m = ∇×M", "J_m = ∇·M", "J_m = -∇×M", "J_m = -∇·M"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic susceptibility of a paramagnetic material is:",
+      "options": ["Positive and small", "Negative and small", "Positive and large", "Zero"],
+      "answer": 2
+    },
+    {
+      "question": "The Josephson effect occurs in:",
+      "options": ["Superconductors", "Semiconductors", "Insulators", "Metals"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic levitation uses:",
+      "options": ["Superconductors", "Paramagnets", "Diamagnets", "Ferromagnets"],
+      "answer": 1
+    },
+    {
+      "question": "The Earth's magnetic field is approximately:",
+      "options": ["A dipole field", "A quadrupole field", "A monopole field", "Uniform field"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic inclination is:",
+      "options": ["The angle of dip", "The angle of declination", "The angle of deviation", "The angle of deflection"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic storm is:",
+      "options": ["A disturbance in the Earth's magnetic field", "A disturbance in the Earth's electric field", "A disturbance in the Earth's gravitational field", "A disturbance in the Earth's thermal field"],
+      "answer": 0
+    },
+    {
+      "question": "The solar flares are caused by:",
+      "options": ["Magnetic reconnection", "Thermal reconnection", "Gravitational reconnection", "Nuclear reconnection"],
+      "answer": 1
+    },
+    {
+      "question": "The Alfvén waves are:",
+      "options": ["Magnetic waves in conducting fluids", "Sound waves in conducting fluids", "Light waves in conducting fluids", "Heat waves in conducting fluids"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic tension is:",
+      "options": ["A restoring force in magnetic field lines", "A stretching force in magnetic field lines", "A compressing force in magnetic field lines", "A twisting force in magnetic field lines"],
+      "answer": 3
+    },
+    {
+      "question": "The galactic magnetic field:",
+      "options": ["Is aligned with the galactic disk", "Is perpendicular to the galactic disk", "Is random", "Is zero"],
+      "answer": 0
+    },
+    {
+      "question": "The Paschen-Back effect is:",
+      "options": ["Zeeman effect in strong magnetic fields", "Zeeman effect in weak magnetic fields", "Stark effect in strong electric fields", "Stark effect in weak electric fields"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic circular dichroism is:",
+      "options": ["Different absorption for left and right circularly polarized light in a magnetic field", "Different absorption for left and right circularly polarized light in an electric field", "Different absorption for left and right circularly polarized light in a gravitational field", "Different absorption for left and right circularly polarized light in a temperature field"],
+      "answer": 2
+    },
+    {
+      "question": "The spin wave is:",
+      "options": ["A wave in the magnetization of a magnetic material", "A wave in the temperature of a magnetic material", "A wave in the pressure of a magnetic material", "A wave in the density of a magnetic material"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetocrystalline anisotropy:",
+      "options": ["Is due to crystal structure", "Is due to crystal size", "Is due to crystal shape", "Is due to crystal color"],
+      "answer": 0
+    },
+    {
+      "question": "The inverse magnetostriction is:",
+      "options": ["The change in magnetization due to stress", "The change in size due to magnetization", "The change in shape due to magnetization", "The change in volume due to magnetization"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic field of a magnetar can reach:",
+      "options": ["10¹⁵ T", "10¹⁰ T", "10⁵ T", "10⁰ T"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic dipole radiation is:",
+      "options": ["Maximum perpendicular to the dipole axis", "Maximum along the dipole axis", "Uniform in all directions", "Zero in all directions"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic monopole charge is:",
+      "options": ["g = nℏ/2e", "g = nℏ/e", "g = nℏ/4e", "g = nℏ/8e"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic field in a magnetic material is:",
+      "options": ["B = μ₀(H + M)", "B = μ₀(H - M)", "B = μ₀H + M", "B = μ₀H - M"],
+      "answer": 2
+    },
+    {
+      "question": "The eddy current loss is:",
+      "options": ["Energy dissipated due to induced currents", "Energy stored due to induced currents", "Energy created due to induced currents", "Energy destroyed due to induced currents"],
+      "answer": 3
+    },
+    {
+      "question": "The hard disk drive uses:",
+      "options": ["Magnetic recording", "Optical recording", "Thermal recording", "Mechanical recording"],
+      "answer": 0
+    },
+    {
+      "question": "The tunnel magnetoresistance (TMR) is:",
+      "options": ["Change in resistance in a magnetic tunnel junction", "Change in capacitance in a magnetic tunnel junction", "Change in inductance in a magnetic tunnel junction", "Change in impedance in a magnetic tunnel junction"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetocardiography (MCG) is:",
+      "options": ["Measurement of magnetic field of the heart", "Measurement of magnetic field of the brain", "Measurement of magnetic field of the muscles", "Measurement of magnetic field of the bones"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic nanoparticles are used in:",
+      "options": ["Cancer treatment", "Drug delivery", "Imaging", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic shielding uses:",
+      "options": ["High permeability materials", "Low permeability materials", "High conductivity materials", "Low conductivity materials"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic air gap:",
+      "options": ["Has high reluctance", "Has low reluctance", "Has zero reluctance", "Has infinite reluctance"],
+      "answer": 1
+    },
+    {
+      "question": "The hard axis of magnetization:",
+      "options": ["Is the direction of highest energy", "Is the direction of lowest energy", "Is the direction of zero energy", "Is the direction of infinite energy"],
+      "answer": 2
+    },
+    {
+      "question": "The pinning of domain walls:",
+      "options": ["Causes magnetic hysteresis", "Causes magnetic saturation", "Causes magnetic resonance", "Causes magnetic relaxation"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic Barkhausen effect is used for:",
+      "options": ["Non-destructive testing", "Destructive testing", "Magnetic storage", "Magnetic recording"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic pole strength has the unit:",
+      "options": ["A·m", "A/m", "A·m²", "A/m²"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic field due to a magnetic dipole is:",
+      "options": ["B ∝ 1/r³", "B ∝ 1/r²", "B ∝ 1/r", "B ∝ r"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic flux through a surface is:",
+      "options": ["Φ = ∫B·dA", "Φ = ∫B dA", "Φ = B·A", "Φ = B/A"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetization M is:",
+      "options": ["M = χH", "M = B/μ₀ - H", "Both A and B", "Neither A nor B"],
+      "answer": 1
+    },
+    {
+      "question": "Diamagnetic materials are:",
+      "options": ["Weakly repelled by magnets", "Weakly attracted by magnets", "Strongly attracted by magnets", "Not affected by magnets"],
+      "answer": 2
+    },
+    {
+      "question": "Ferromagnetic materials are:",
+      "options": ["Strongly attracted by magnets", "Weakly attracted by magnets", "Weakly repelled by magnets", "Not affected by magnets"],
+      "answer": 0
+    },
+    {
+      "question": "The Curie-Weiss law is:",
+      "options": ["χ = C/(T - T_c)", "χ = C/(T + T_c)", "χ = C/T", "χ = C/T²"],
+      "answer": 3
+    },
+    {
+      "question": "Above Curie temperature, ferromagnetic materials become:",
+      "options": ["Paramagnetic", "Diamagnetic", "Ferromagnetic", "Antiferromagnetic"],
+      "answer": 0
+    },
+    {
+      "question": "Ferrimagnetic materials have:",
+      "options": ["Unequal opposing magnetic moments", "Equal opposing magnetic moments", "Parallel magnetic moments", "No magnetic moments"],
+      "answer": 1
+    },
+    {
+      "question": "Permanent magnets are made from:",
+      "options": ["Hard magnetic materials", "Soft magnetic materials", "Diamagnetic materials", "Paramagnetic materials"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic force does no work because:",
+      "options": ["It is perpendicular to velocity", "It is parallel to velocity", "It is opposite to velocity", "It is zero"],
+      "answer": 3
+    },
+    {
+      "question": "The ampere is defined using:",
+      "options": ["Force between current-carrying wires", "Charge on an electron", "Electric field", "Magnetic flux"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field inside a solenoid is:",
+      "options": ["Uniform", "Non-uniform", "Zero", "Maximum at ends"],
+      "answer": 1
+    },
+    {
+      "question": "The Biot-Savart law gives:",
+      "options": ["The magnetic field due to a current element", "The magnetic field due to a point charge", "The magnetic field due to a magnetic dipole", "The magnetic field due to an electric dipole"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic scalar potential is valid in:",
+      "options": ["Current-free regions", "Current-carrying regions", "All regions", "No regions"],
+      "answer": 0
+    },
+    {
+      "question": "The bound surface current is:",
+      "options": ["K_b = M × n̂", "K_b = M · n̂", "K_b = -M × n̂", "K_b = -M · n̂"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic susceptibility of a ferromagnetic material is:",
+      "options": ["Positive and large", "Negative and small", "Positive and small", "Zero"],
+      "answer": 0
+    },
+    {
+      "question": "The critical magnetic field of a superconductor is:",
+      "options": ["The field above which superconductivity is destroyed", "The field below which superconductivity is destroyed", "The field at which superconductivity is maximum", "The field at which superconductivity is minimum"],
+      "answer": 1
+    },
+    {
+      "question": "The SQUID is based on:",
+      "options": ["Josephson effect", "Meissner effect", "Hall effect", "Zeeman effect"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic levitation trains use:",
+      "options": ["Superconductors", "Paramagnets", "Diamagnets", "Ferromagnets"],
+      "answer": 0
+    },
+    {
+      "question": "The Earth's magnetic north pole is located:",
+      "options": ["Near the geographic south pole", "Near the geographic north pole", "At the geographic equator", "At the geographic center"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic poles are:",
+      "options": ["Where the magnetic field is vertical", "Where the magnetic field is horizontal", "Where the magnetic field is maximum", "Where the magnetic field is minimum"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetosphere is:",
+      "options": ["The region around Earth affected by its magnetic field", "The region around Earth affected by its gravity", "The region around Earth affected by its atmosphere", "The region around Earth affected by its oceans"],
+      "answer": 3
+    },
+    {
+      "question": "The paleomagnetism is:",
+      "options": ["The study of past magnetic fields", "The study of present magnetic fields", "The study of future magnetic fields", "The study of magnetic fields in space"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field of the Sun:",
+      "options": ["Reverses every 11 years", "Reverses every 22 years", "Reverses every 5 years", "Never reverses"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic reconnection releases:",
+      "options": ["Energy", "Mass", "Charge", "Momentum"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetohydrodynamics studies:",
+      "options": ["Magnetic fields in conducting fluids", "Magnetic fields in non-conducting fluids", "Magnetic fields in solids", "Magnetic fields in gases"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic flux freezing is:",
+      "options": ["The magnetic flux is carried with the fluid", "The magnetic flux is frozen in the fluid", "The magnetic flux is carried away from the fluid", "The magnetic flux is destroyed in the fluid"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic magnetic fields are:",
+      "options": ["Found in galaxies and galaxy clusters", "Found in stars only", "Found in planets only", "Found in vacuum only"],
+      "answer": 1
+    },
+    {
+      "question": "The Kerr effect is:",
+      "options": ["Magneto-optic effect", "Electro-optic effect", "Acousto-optic effect", "Thermo-optic effect"],
+      "answer": 2
+    },
+    {
+      "question": "The electron paramagnetic resonance (EPR) is:",
+      "options": ["Resonance of unpaired electrons in a magnetic field", "Resonance of paired electrons in a magnetic field", "Resonance of nuclei in a magnetic field", "Resonance of atoms in a magnetic field"],
+      "answer": 3
+    },
+    {
+      "question": "The shape anisotropy:",
+      "options": ["Is due to the shape of the material", "Is due to the size of the material", "Is due to the composition of the material", "Is due to the temperature of the material"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetocaloric effect is used in:",
+      "options": ["Magnetic refrigeration", "Magnetic heating", "Magnetic cooling", "Magnetic generation"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic field of a pulsar:",
+      "options": ["Is responsible for the emission of radiation", "Is not responsible for the emission of radiation", "Is responsible for the emission of particles", "Is responsible for the emission of heat"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic dipole radiation power is:",
+      "options": ["P = μ₀m²ω⁴/12πc³", "P = μ₀m²ω²/12πc³", "P = μ₀m²ω⁴/12πc", "P = μ₀m²ω²/12πc"],
+      "answer": 3
+    },
+    {
+      "question": "The absence of magnetic monopoles means:",
+      "options": ["∮B·dA = 0", "∮B·dA ≠ 0", "∮B·dA = Q_enclosed", "∮B·dA = μ₀I_enclosed"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic susceptibility is related to permeability by:",
+      "options": ["μ_r = 1 + χ", "μ_r = 1 - χ", "μ_r = χ", "μ_r = 1/χ"],
+      "answer": 2
+    },
+    {
+      "question": "The mutual inductance between two coils is:",
+      "options": ["M = Φ₁₂/I₁ = Φ₂₁/I₂", "M = I₁/Φ₁₂ = I₂/Φ₂₁", "M = Φ₁₂I₁ = Φ₂₁I₂", "M = Φ₁₂/I₂ = Φ₂₁/I₁"],
+      "answer": 0
+    },
+    {
+      "question": "The spin-spin relaxation time T₂ is:",
+      "options": ["The time for dephasing of spins", "The time for energy transfer from spins to lattice", "The time for energy transfer from lattice to spins", "The time for spin-lattice interaction"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic core losses include:",
+      "options": ["Hysteresis loss and eddy current loss", "Hysteresis loss only", "Eddy current loss only", "No losses"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic tape is:",
+      "options": ["A magnetic recording medium", "A magnetic storage medium", "A magnetic transmission medium", "A magnetic detection medium"],
+      "answer": 0
+    },
+    {
+      "question": "The spin valve is:",
+      "options": ["A device using GMR", "A device using TMR", "A device using AMR", "A device using CMR"],
+      "answer": 3
+    },
+    {
+      "question": "The fluxgate magnetometer is:",
+      "options": ["A magnetic sensor using saturation", "A magnetic sensor using Hall effect", "A magnetic sensor using magnetoresistance", "A magnetic sensor using inductance"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic therapy uses:",
+      "options": ["Magnetic fields for health treatment", "Magnetic fields for entertainment", "Magnetic fields for communication", "Magnetic fields for transportation"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic water treatment is:",
+      "options": ["Use of magnetic fields to treat water", "Use of electric fields to treat water", "Use of thermal fields to treat water", "Use of gravitational fields to treat water"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic field of a current loop:",
+      "options": ["Is similar to a bar magnet", "Is similar to a point charge", "Is similar to an electric dipole", "Is similar to a gravitational field"],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic field of a coil:",
+      "options": ["Is the sum of fields of individual loops", "Is the product of fields of individual loops", "Is the difference of fields of individual loops", "Is the ratio of fields of individual loops"],
+      "answer": 0
+    },
+    {
+      "question": "The mu-metal is:",
+      "options": ["A high permeability alloy for magnetic shielding", "A low permeability alloy for magnetic shielding", "A high conductivity alloy for magnetic shielding", "A low conductivity alloy for magnetic shielding"],
+      "answer": 1
+    },
+    {
+      "question": "The magnetic permeance is:",
+      "options": ["P = 1/R", "P = R", "P = R²", "P = 1/R²"],
+      "answer": 2
+    },
+    {
+      "question": "The magnetic saturation occurs at:",
+      "options": ["High magnetic fields", "Low magnetic fields", "Zero magnetic fields", "All magnetic fields"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic anisotropy energy is:",
+      "options": ["The energy of magnetization along different directions", "The energy of magnetization in the same direction", "The energy of magnetization in all directions", "The energy of magnetization in no direction"],
+      "answer": 3
+    },
+    {
+      "question": "The domain walls in ferromagnetic materials:",
+      "options": ["Separate domains of different magnetization", "Separate domains of same magnetization", "Separate domains of zero magnetization", "Separate domains of infinite magnetization"],
+      "answer": 0
     }
   ]
 }
