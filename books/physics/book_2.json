@@ -1,1442 +1,1447 @@
-  {
-    "question": "The study of celestial objects and phenomena is called:",
-    "options": ["Astrophysics", "Astronomy", "Cosmology", "Astrology"],
-    "answer": 1
-  },
-  {
-    "question": "The branch of astrophysics that deals with the universe as a whole is:",
-    "options": ["Cosmology", "Stellar physics", "Galactic astronomy", "Planetary science"],
-    "answer": 0
-  },
-  {
-    "question": "The nearest star to Earth is:",
-    "options": ["Proxima Centauri", "Alpha Centauri", "Barnard's Star", "Sirius"],
-    "answer": 0
-  },
-  {
-    "question": "The distance from Earth to the Sun is called:",
-    "options": ["Astronomical Unit", "Light Year", "Parsec", "Kilometer"],
-    "answer": 0
-  },
-  {
-    "question": "1 Astronomical Unit is approximately:",
-    "options": ["1.5 × 10⁸ km", "1.5 × 10⁹ km", "1.5 × 10⁷ km", "1.5 × 10¹⁰ km"],
-    "answer": 0
-  },
-  {
-    "question": "The speed of light is approximately:",
-    "options": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10¹⁰ m/s", "3 × 10⁴ m/s"],
-    "answer": 0
-  },
-  {
-    "question": "One light year is approximately:",
-    "options": ["9.46 × 10¹⁵ m", "9.46 × 10¹² m", "9.46 × 10¹⁸ m", "9.46 × 10⁹ m"],
-    "answer": 0
-  },
-  {
-    "question": "One parsec is approximately:",
-    "options": ["3.26 light years", "2.5 light years", "4 light years", "5 light years"],
-    "answer": 0
-  },
-  {
-    "question": "The diameter of the Milky Way galaxy is approximately:",
-    "options": ["100,000 light years", "50,000 light years", "200,000 light years", "10,000 light years"],
-    "answer": 0
-  },
-  {
-    "question": "The age of the universe is estimated to be about:",
-    "options": ["13.8 billion years", "10 billion years", "15 billion years", "20 billion years"],
-    "answer": 0
-  },
-  {
-    "question": "The Big Bang theory proposes that the universe began:",
-    "options": ["About 13.8 billion years ago", "About 10 billion years ago", "About 15 billion years ago", "About 20 billion years ago"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmic microwave background radiation is evidence for:",
-    "options": ["The Big Bang", "Steady State theory", "Oscillating universe", "Multiverse"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmic microwave background radiation has a temperature of about:",
-    "options": ["2.7 K", "5 K", "10 K", "1 K"],
-    "answer": 0
-  },
-  {
-    "question": "The most abundant element in the universe is:",
-    "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
-    "answer": 0
-  },
-  {
-    "question": "The second most abundant element in the universe is:",
-    "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
-    "answer": 0
-  },
-  {
-    "question": "A star is primarily composed of:",
-    "options": ["Hydrogen and helium", "Oxygen and carbon", "Iron and nickel", "Uranium and plutonium"],
-    "answer": 0
-  },
-  {
-    "question": "Nuclear fusion in stars converts hydrogen into:",
-    "options": ["Helium", "Carbon", "Oxygen", "Iron"],
-    "answer": 0
-  },
-  {
-    "question": "The proton-proton chain is a series of nuclear reactions that:",
-    "options": ["Converts hydrogen into helium", "Converts helium into carbon", "Converts carbon into oxygen", "Converts iron into nickel"],
-    "answer": 0
-  },
-  {
-    "question": "The CNO cycle is a series of nuclear reactions that:",
-    "options": ["Converts hydrogen into helium using carbon as a catalyst", "Converts helium into carbon", "Converts carbon into oxygen", "Converts iron into nickel"],
-    "answer": 0
-  },
-  {
-    "question": "The Sun's energy is produced by:",
-    "options": ["Nuclear fusion", "Nuclear fission", "Chemical reactions", "Gravitational collapse"],
-    "answer": 0
-  },
-  {
-    "question": "The surface temperature of the Sun is approximately:",
-    "options": ["5,800 K", "10,000 K", "3,000 K", "15,000 K"],
-    "answer": 0
-  },
-  {
-    "question": "The core temperature of the Sun is approximately:",
-    "options": ["15 million K", "5 million K", "10 million K", "20 million K"],
-    "answer": 0
-  },
-  {
-    "question": "The Sun's radius is approximately:",
-    "options": ["696,000 km", "500,000 km", "1,000,000 km", "300,000 km"],
-    "answer": 0
-  },
-  {
-    "question": "The Sun's mass is approximately:",
-    "options": ["2 × 10³⁰ kg", "2 × 10²⁸ kg", "2 × 10³² kg", "2 × 10²⁶ kg"],
-    "answer": 0
-  },
-  {
-    "question": "The solar luminosity is approximately:",
-    "options": ["3.8 × 10²⁶ W", "3.8 × 10²⁴ W", "3.8 × 10²⁸ W", "3.8 × 10³⁰ W"],
-    "answer": 0
-  },
-  {
-    "question": "The Hertzsprung-Russell diagram plots:",
-    "options": ["Luminosity vs. temperature", "Mass vs. radius", "Age vs. temperature", "Luminosity vs. mass"],
-    "answer": 0
-  },
-  {
-    "question": "The main sequence on the HR diagram is where stars:",
-    "options": ["Fuse hydrogen in their cores", "Have exhausted their hydrogen", "Are in their final stages", "Are exploding"],
-    "answer": 0
-  },
-  {
-    "question": "Red giants are stars that have:",
-    "options": ["Exhausted hydrogen in their cores", "Just formed", "Maximum mass", "Minimum temperature"],
-    "answer": 0
-  },
-  {
-    "question": "White dwarfs are stars that have:",
-    "options": ["Exhausted their nuclear fuel", "Just formed", "Maximum mass", "Maximum temperature"],
-    "answer": 0
-  },
-  {
-    "question": "The Chandrasekhar limit is the maximum mass of a white dwarf, approximately:",
-    "options": ["1.4 solar masses", "2 solar masses", "3 solar masses", "0.5 solar masses"],
-    "answer": 0
-  },
-  {
-    "question": "A supernova is:",
-    "options": ["A stellar explosion", "A new star", "A black hole", "A neutron star"],
-    "answer": 0
-  },
-  {
-    "question": "Type Ia supernovae occur in:",
-    "options": ["Binary systems with a white dwarf", "Single massive stars", "Binary systems with two neutron stars", "Globular clusters"],
-    "answer": 0
-  },
-  {
-    "question": "Type II supernovae occur in:",
-    "options": ["Massive stars", "Binary systems", "White dwarfs", "Neutron stars"],
-    "answer": 0
-  },
-  {
-    "question": "A neutron star has a radius of approximately:",
-    "options": ["10 km", "100 km", "1 km", "1000 km"],
-    "answer": 0
-  },
-  {
-    "question": "A neutron star has a mass of approximately:",
-    "options": ["1-2 solar masses", "5-10 solar masses", "0.5 solar masses", "10-20 solar masses"],
-    "answer": 0
-  },
-  {
-    "question": "The escape velocity from a neutron star is:",
-    "options": ["Very high, close to c", "Low", "Equal to Earth's", "Zero"],
-    "answer": 0
-  },
-  {
-    "question": "A black hole is an object from which:",
-    "options": ["Nothing can escape, not even light", "Light can escape", "Only matter can escape", "Only energy can escape"],
-    "answer": 0
-  },
-  {
-    "question": "The Schwarzschild radius is:",
-    "options": ["The radius of the event horizon of a black hole", "The radius of a neutron star", "The radius of a white dwarf", "The radius of a planet"],
-    "answer": 0
-  },
-  {
-    "question": "The Schwarzschild radius is given by:",
-    "options": ["R_s = 2GM/c²", "R_s = GM/c²", "R_s = 2GM/c", "R_s = GM/c"],
-    "answer": 0
-  },
-  {
-    "question": "The event horizon of a black hole is:",
-    "options": ["The boundary beyond which nothing can escape", "The center of the black hole", "The surface of the black hole", "The region of maximum density"],
-    "answer": 0
-  },
-  {
-    "question": "The singularity of a black hole is:",
-    "options": ["A point of infinite density", "A region of zero density", "The event horizon", "The accretion disk"],
-    "answer": 0
-  },
-  {
-    "question": "Hawking radiation is:",
-    "options": ["Radiation emitted by black holes due to quantum effects", "Radiation emitted by neutron stars", "Radiation emitted by white dwarfs", "Radiation from the Big Bang"],
-    "answer": 0
-  },
-  {
-    "question": "A galaxy is a system of:",
-    "options": ["Stars, gas, dust, and dark matter", "Only stars", "Only planets", "Only gas"],
-    "answer": 0
-  },
-  {
-    "question": "The Milky Way is a:",
-    "options": ["Spiral galaxy", "Elliptical galaxy", "Irregular galaxy", "Lenticular galaxy"],
-    "answer": 0
-  },
-  {
-    "question": "Andromeda is the closest:",
-    "options": ["Spiral galaxy to the Milky Way", "Elliptical galaxy", "Irregular galaxy", "Dwarf galaxy"],
-    "answer": 0
-  },
-  {
-    "question": "The galactic halo contains:",
-    "options": ["Old stars and dark matter", "Young stars", "Gas and dust", "Planets"],
-    "answer": 0
-  },
-  {
-    "question": "The galactic disk contains:",
-    "options": ["Young stars and gas", "Old stars", "Dark matter", "No stars"],
-    "answer": 0
-  },
-  {
-    "question": "The galactic bulge is found at:",
-    "options": ["The center of the galaxy", "The outer edge", "The halo", "The disk"],
-    "answer": 0
-  },
-  {
-    "question": "Dark matter is:",
-    "options": ["Matter that does not emit or reflect light", "Matter that emits light", "Matter that reflects light", "Matter that is visible"],
-    "answer": 0
-  },
-  {
-    "question": "Dark matter is inferred from:",
-    "options": ["Gravitational effects on visible matter", "Direct observation", "Light emission", "Radio waves"],
-    "answer": 0
-  },
-  {
-    "question": "Dark energy is:",
-    "options": ["Energy that causes the expansion of the universe to accelerate", "Energy that causes the universe to contract", "Energy that emits light", "Energy that absorbs light"],
-    "answer": 0
-  },
-  {
-    "question": "The expansion of the universe was discovered by:",
-    "options": ["Edwin Hubble", "Albert Einstein", "Stephen Hawking", "Isaac Newton"],
-    "answer": 0
-  },
-  {
-    "question": "Hubble's law states that:",
-    "options": ["The recessional velocity of galaxies is proportional to their distance", "The recessional velocity is independent of distance", "The recessional velocity is inversely proportional to distance", "Galaxies are moving towards us"],
-    "answer": 0
-  },
-  {
-    "question": "The Hubble constant is approximately:",
-    "options": ["70 km/s/Mpc", "70 km/s", "70 Mpc/s", "70 m/s"],
-    "answer": 0
-  },
-  {
-    "question": "The redshift of a galaxy is:",
-    "options": ["The shift of spectral lines to longer wavelengths", "The shift of spectral lines to shorter wavelengths", "The shift of spectral lines to higher frequencies", "The shift of spectral lines to lower frequencies"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmological principle states that:",
-    "options": ["The universe is homogeneous and isotropic on large scales", "The universe is inhomogeneous and anisotropic", "The universe is expanding", "The universe is contracting"],
-    "answer": 0
-  },
-  {
-    "question": "The Friedmann equations describe:",
-    "options": ["The expansion of the universe", "The structure of galaxies", "The evolution of stars", "The formation of planets"],
-    "answer": 0
-  },
-  {
-    "question": "The critical density of the universe is:",
-    "options": ["The density required to just stop the expansion", "The density required to start the expansion", "The density of matter", "The density of dark energy"],
-    "answer": 0
-  },
-  {
-    "question": "If the density of the universe is greater than the critical density, the universe will:",
-    "options": ["Recollapse", "Expand forever", "Remain static", "Oscillate"],
-    "answer": 0
-  },
-  {
-    "question": "If the density of the universe is less than the critical density, the universe will:",
-    "options": ["Expand forever", "Recollapse", "Remain static", "Oscillate"],
-    "answer": 0
-  },
-  {
-    "question": "The Big Bang nucleosynthesis produced:",
-    "options": ["Light elements like hydrogen and helium", "Heavy elements like iron and gold", "Only hydrogen", "Only helium"],
-    "answer": 0
-  },
-  {
-    "question": "Stellar nucleosynthesis produces:",
-    "options": ["Heavy elements", "Only hydrogen", "Only helium", "Light elements"],
-    "answer": 0
-  },
-  {
-    "question": "The s-process in stars produces:",
-    "options": ["Elements through slow neutron capture", "Elements through fast neutron capture", "Only iron", "Only carbon"],
-    "answer": 0
-  },
-  {
-    "question": "The r-process in stars produces:",
-    "options": ["Elements through rapid neutron capture", "Elements through slow neutron capture", "Only iron", "Only carbon"],
-    "answer": 0
-  },
-  {
-    "question": "The most common type of star in the universe is:",
-    "options": ["M-dwarf", "G-dwarf", "O-star", "B-star"],
-    "answer": 0
-  },
-  {
-    "question": "The mass of a star determines:",
-    "options": ["Its lifetime and evolution", "Its color only", "Its distance only", "Its temperature only"],
-    "answer": 0
-  },
-  {
-    "question": "Massive stars have:",
-    "options": ["Shorter lifetimes", "Longer lifetimes", "The same lifetimes as low-mass stars", "No lifetime"],
-    "answer": 0
-  },
-  {
-    "question": "Low-mass stars have:",
-    "options": ["Longer lifetimes", "Shorter lifetimes", "The same lifetimes as massive stars", "No lifetime"],
-    "answer": 0
-  },
-  {
-    "question": "The mass-luminosity relation for main sequence stars is:",
-    "options": ["L ∝ M³.⁵", "L ∝ M²", "L ∝ M", "L ∝ M⁴"],
-    "answer": 0
-  },
-  {
-    "question": "The Sun is a:",
-    "options": ["G-type main sequence star", "O-type star", "M-type star", "K-type star"],
-    "answer": 0
-  },
-  {
-    "question": "Stellar parallax is used to measure:",
-    "options": ["Distance to nearby stars", "Temperature of stars", "Mass of stars", "Luminosity of stars"],
-    "answer": 0
-  },
-  {
-    "question": "The inverse square law is used to determine:",
-    "options": ["Luminosity from apparent brightness", "Mass from luminosity", "Distance from parallax", "Temperature from color"],
-    "answer": 0
-  },
-  {
-    "question": "The color of a star is related to its:",
-    "options": ["Temperature", "Mass", "Distance", "Luminosity"],
-    "answer": 0
-  },
-  {
-    "question": "The hottest stars are:",
-    "options": ["O-type", "M-type", "G-type", "K-type"],
-    "answer": 0
-  },
-  {
-    "question": "The coolest stars are:",
-    "options": ["M-type", "O-type", "B-type", "A-type"],
-    "answer": 0
-  },
-  {
-    "question": "The spectral classification of stars from hottest to coolest is:",
-    "options": ["O, B, A, F, G, K, M", "M, K, G, F, A, B, O", "O, B, F, G, A, K, M", "A, B, O, F, G, K, M"],
-    "answer": 0
-  },
-  {
-    "question": "The Sun's spectral type is:",
-    "options": ["G2", "O5", "M0", "A0"],
-    "answer": 0
-  },
-  {
-    "question": "The planets in our solar system orbit the Sun because of:",
-    "options": ["Gravitational attraction", "Magnetic attraction", "Electric attraction", "Nuclear force"],
-    "answer": 0
-  },
-  {
-    "question": "The inner planets are:",
-    "options": ["Mercury, Venus, Earth, Mars", "Jupiter, Saturn, Uranus, Neptune", "Mercury, Venus, Earth, Jupiter", "Mars, Jupiter, Saturn, Uranus"],
-    "answer": 0
-  },
-  {
-    "question": "The outer planets are:",
-    "options": ["Jupiter, Saturn, Uranus, Neptune", "Mercury, Venus, Earth, Mars", "Jupiter, Saturn, Uranus, Earth", "Mars, Jupiter, Saturn, Uranus"],
-    "answer": 0
-  },
-  {
-    "question": "The largest planet in the solar system is:",
-    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
-    "answer": 0
-  },
-  {
-    "question": "The planet with the most prominent rings is:",
-    "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
-    "answer": 0
-  },
-  {
-    "question": "The hottest planet in the solar system is:",
-    "options": ["Venus", "Mercury", "Earth", "Mars"],
-    "answer": 0
-  },
-  {
-    "question": "The coldest planet in the solar system is:",
-    "options": ["Neptune", "Uranus", "Pluto", "Mars"],
-    "answer": 0
-  },
-  {
-    "question": "The asteroid belt is located between:",
-    "options": ["Mars and Jupiter", "Earth and Mars", "Jupiter and Saturn", "Saturn and Uranus"],
-    "answer": 0
-  },
-  {
-    "question": "The Oort cloud is:",
-    "options": ["A region of icy bodies at the edge of the solar system", "A region of asteroids", "A region of planets", "A region of stars"],
-    "answer": 0
-  },
-  {
-    "question": "The Kuiper belt is:",
-    "options": ["A region beyond Neptune containing icy bodies", "A region between Mars and Jupiter", "A region near the Sun", "A region in the Milky Way"],
-    "answer": 0
-  },
-  {
-    "question": "Pluto is classified as a:",
-    "options": ["Dwarf planet", "Planet", "Asteroid", "Comet"],
-    "answer": 0
-  },
-  {
-    "question": "A comet is a:",
-    "options": ["Small icy body that orbits the Sun", "Small rocky body", "Large planet", "Star"],
-    "answer": 0
-  },
-  {
-    "question": "The tail of a comet always points:",
-    "options": ["Away from the Sun", "Towards the Sun", "In the direction of motion", "Perpendicular to the motion"],
-    "answer": 0
-  },
-  {
-    "question": "The solar wind is:",
-    "options": ["A stream of charged particles from the Sun", "A wind on Earth", "A wind on Mars", "A wind on Venus"],
-    "answer": 0
-  },
-  {
-    "question": "The aurora borealis is caused by:",
-    "options": ["Solar wind interacting with Earth's atmosphere", "Sunlight reflecting off clouds", "Volcanic eruptions", "Earthquakes"],
-    "answer": 0
-  },
-  {
-    "question": "Earth's magnetic field protects us from:",
-    "options": ["Solar wind", "Cosmic rays", "Both A and B", "Neither A nor B"],
-    "answer": 2
-  },
-  {
-    "question": "The ozone layer protects Earth from:",
-    "options": ["Ultraviolet radiation", "Solar wind", "Cosmic rays", "Infrared radiation"],
-    "answer": 0
-  },
-  {
-    "question": "The greenhouse effect is caused by:",
-    "options": ["Gases like CO₂ trapping heat", "The ozone layer", "The magnetic field", "Solar wind"],
-    "answer": 0
-  },
-  {
-    "question": "Global warming is primarily caused by:",
-    "options": ["Increase in greenhouse gases", "Decrease in greenhouse gases", "Increase in ozone", "Decrease in ozone"],
-    "answer": 0
-  },
-  {
-    "question": "The atmosphere of Venus is composed mainly of:",
-    "options": ["CO₂", "O₂", "N₂", "H₂"],
-    "answer": 0
-  },
-  {
-    "question": "The atmosphere of Mars is composed mainly of:",
-    "options": ["CO₂", "O₂", "N₂", "H₂"],
-    "answer": 0
-  },
-  {
-    "question": "The atmosphere of Earth is composed mainly of:",
-    "options": ["N₂ and O₂", "CO₂ and O₂", "N₂ and CO₂", "H₂ and He"],
-    "answer": 0
-  },
-  {
-    "question": "The Great Red Spot is a feature of:",
-    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
-    "answer": 0
-  },
-  {
-    "question": "The rings of Saturn are composed of:",
-    "options": ["Ice and rock particles", "Gas", "Liquid", "Plasma"],
-    "answer": 0
-  },
-  {
-    "question": "The moon is a:",
-    "options": ["Natural satellite of Earth", "Planet", "Asteroid", "Comet"],
-    "answer": 0
-  },
-  {
-    "question": "The moon's surface is covered with:",
-    "options": ["Craters", "Oceans", "Forests", "Mountains"],
-    "answer": 0
-  },
-  {
-    "question": "The moon's phases are caused by:",
-    "options": ["The moon's orbit around Earth", "Earth's orbit around the Sun", "The Sun's orbit", "The moon's rotation"],
-    "answer": 0
-  },
-  {
-    "question": "A solar eclipse occurs when:",
-    "options": ["The moon is between the Sun and Earth", "Earth is between the Sun and the moon", "The moon is behind Earth", "The sun is behind the moon"],
-    "answer": 0
-  },
-  {
-    "question": "A lunar eclipse occurs when:",
-    "options": ["Earth is between the Sun and the moon", "The moon is between the Sun and Earth", "The moon is behind the Sun", "The Sun is behind the moon"],
-    "answer": 0
-  },
-  {
-    "question": "The tides are caused by:",
-    "options": ["The gravitational pull of the moon and Sun", "The wind", "Earth's rotation", "Ocean currents"],
-    "answer": 0
-  },
-  {
-    "question": "Spring tides occur when:",
-    "options": ["The Sun, Earth, and moon are aligned", "The Sun, Earth, and moon are at right angles", "The moon is at its closest", "The moon is at its farthest"],
-    "answer": 0
-  },
-  {
-    "question": "Neap tides occur when:",
-    "options": ["The Sun, Earth, and moon are at right angles", "The Sun, Earth, and moon are aligned", "The moon is at its closest", "The moon is at its farthest"],
-    "answer": 0
-  },
-  {
-    "question": "The rotation period of the Sun at its equator is approximately:",
-    "options": ["25 days", "30 days", "35 days", "40 days"],
-    "answer": 0
-  },
-  {
-    "question": "Sunspots are:",
-    "options": ["Dark spots on the Sun's surface", "Bright spots on the Sun", "Craters on the Sun", "Mountains on the Sun"],
-    "answer": 0
-  },
-  {
-    "question": "Sunspots are caused by:",
-    "options": ["Magnetic activity", "Temperature changes", "Solar wind", "Cosmic rays"],
-    "answer": 0
-  },
-  {
-    "question": "The solar cycle lasts approximately:",
-    "options": ["11 years", "22 years", "5 years", "15 years"],
-    "answer": 0
-  },
-  {
-    "question": "Solar flares are:",
-    "options": ["Sudden releases of energy on the Sun", "Slow releases of energy", "Permanent features", "Craters on the Sun"],
-    "answer": 0
-  },
-  {
-    "question": "The solar wind is composed of:",
-    "options": ["Protons and electrons", "Neutrons and protons", "Electrons and neutrons", "Only protons"],
-    "answer": 0
-  },
-  {
-    "question": "The Earth's magnetosphere protects us from:",
-    "options": ["Charged particles from the Sun", "Ultraviolet radiation", "Infrared radiation", "Visible light"],
-    "answer": 0
-  },
-  {
-    "question": "The Van Allen belts are:",
-    "options": ["Regions of trapped charged particles", "Regions of ice", "Regions of gas", "Regions of dust"],
-    "answer": 0
-  },
-  {
-    "question": "The aurora australis occurs in:",
-    "options": ["The southern hemisphere", "The northern hemisphere", "The equator", "Both hemispheres"],
-    "answer": 0
-  },
-  {
-    "question": "The aurora borealis occurs in:",
-    "options": ["The northern hemisphere", "The southern hemisphere", "The equator", "Both hemispheres"],
-    "answer": 0
-  },
-  {
-    "question": "The magnetosphere of Earth extends:",
-    "options": ["Far into space", "Only to the moon", "Only to the atmosphere", "Only to the surface"],
-    "answer": 0
-  },
-  {
-    "question": "The ionosphere is a layer:",
-    "options": ["Where atoms are ionized by solar radiation", "Where it is very cold", "Where it is very hot", "Where there is no air"],
-    "answer": 0
-  },
-  {
-    "question": "The ionosphere reflects:",
-    "options": ["Radio waves", "Light waves", "X-rays", "Gamma rays"],
-    "answer": 0
-  },
-  {
-    "question": "The ozone layer is located in:",
-    "options": ["The stratosphere", "The troposphere", "The mesosphere", "The thermosphere"],
-    "answer": 0
-  },
-  {
-    "question": "The troposphere is the layer:",
-    "options": ["Where weather occurs", "Where ozone is found", "Where it is coldest", "Where it is hottest"],
-    "answer": 0
-  },
-  {
-    "question": "The stratosphere is the layer:",
-    "options": ["Where ozone is found", "Where weather occurs", "Where it is coldest", "Where it is hottest"],
-    "answer": 0
-  },
-  {
-    "question": "The mesosphere is the layer:",
-    "options": ["Where meteors burn up", "Where ozone is found", "Where weather occurs", "Where it is hottest"],
-    "answer": 0
-  },
-  {
-    "question": "The thermosphere is the layer:",
-    "options": ["Where it is very hot", "Where ozone is found", "Where weather occurs", "Where meteors burn up"],
-    "answer": 0
-  },
-  {
-    "question": "The exosphere is the layer:",
-    "options": ["Where the atmosphere merges with space", "Where ozone is found", "Where weather occurs", "Where meteors burn up"],
-    "answer": 0
-  },
-  {
-    "question": "The International Space Station orbits Earth at an altitude of approximately:",
-    "options": ["400 km", "100 km", "1000 km", "10,000 km"],
-    "answer": 0
-  },
-  {
-    "question": "The first human to walk on the moon was:",
-    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
-    "answer": 0
-  },
-  {
-    "question": "The first artificial satellite was:",
-    "options": ["Sputnik 1", "Explorer 1", "Vostok 1", "Apollo 11"],
-    "answer": 0
-  },
-  {
-    "question": "The Hubble Space Telescope was launched in:",
-    "options": ["1990", "1980", "2000", "1970"],
-    "answer": 0
-  },
-  {
-    "question": "The James Webb Space Telescope was launched in:",
-    "options": ["2021", "2015", "2018", "2020"],
-    "answer": 0
-  },
-  {
-    "question": "The Hubble Space Telescope observes in:",
-    "options": ["Visible, ultraviolet, and near-infrared", "Only visible", "Only infrared", "Only X-ray"],
-    "answer": 0
-  },
-  {
-    "question": "The James Webb Space Telescope observes in:",
-    "options": ["Infrared", "Visible", "Ultraviolet", "X-ray"],
-    "answer": 0
-  },
-  {
-    "question": "The Chandra X-ray Observatory observes in:",
-    "options": ["X-rays", "Visible", "Infrared", "Ultraviolet"],
-    "answer": 0
-  },
-  {
-    "question": "The Fermi Gamma-ray Space Telescope observes in:",
-    "options": ["Gamma rays", "X-rays", "Visible", "Infrared"],
-    "answer": 0
-  },
-  {
-    "question": "The Very Large Telescope (VLT) is located in:",
-    "options": ["Chile", "USA", "Europe", "Africa"],
-    "answer": 0
-  },
-  {
-    "question": "The Arecibo Observatory was located in:",
-    "options": ["Puerto Rico", "USA", "Mexico", "Canada"],
-    "answer": 0
-  },
-  {
-    "question": "The Green Bank Telescope is located in:",
-    "options": ["West Virginia, USA", "Virginia, USA", "Maryland, USA", "Pennsylvania, USA"],
-    "answer": 0
-  },
-  {
-    "question": "The Square Kilometre Array will be located in:",
-    "options": ["Australia and South Africa", "USA and Canada", "Europe and Asia", "South America"],
-    "answer": 0
-  },
-  {
-    "question": "The first exoplanet was discovered in:",
-    "options": ["1992", "1980", "1995", "2000"],
-    "answer": 0
-  },
-  {
-    "question": "The Kepler space telescope discovered many exoplanets by:",
-    "options": ["Transit method", "Radial velocity method", "Direct imaging", "Astrometry"],
-    "answer": 0
-  },
-  {
-    "question": "The transit method detects exoplanets by:",
-    "options": ["Measuring the dimming of the star", "Measuring the star's motion", "Direct imaging", "Measuring the star's spectrum"],
-    "answer": 0
-  },
-  {
-    "question": "The radial velocity method detects exoplanets by:",
-    "options": ["Measuring the star's wobble", "Measuring the star's brightness", "Direct imaging", "Measuring the star's temperature"],
-    "answer": 0
-  },
-  {
-    "question": "The habitable zone is:",
-    "options": ["The region where liquid water can exist", "The region where life exists", "The region where planets exist", "The region where stars exist"],
-    "answer": 0
-  },
-  {
-    "question": "The Drake equation estimates:",
-    "options": ["The number of communicative civilizations", "The number of stars", "The number of planets", "The number of galaxies"],
-    "answer": 0
-  },
-  {
-    "question": "The Fermi paradox asks:",
-    "options": ["Why haven't we detected extraterrestrial civilizations?", "Why are we alone?", "How did life begin?", "What is the fate of the universe?"],
-    "answer": 0
-  },
-  {
-    "question": "The SETI program searches for:",
-    "options": ["Signals from extraterrestrial civilizations", "Planets", "Stars", "Galaxies"],
-    "answer": 0
-  },
-  {
-    "question": "The Wow! signal was detected in:",
-    "options": ["1977", "1980", "1990", "2000"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmic distance ladder is used to measure:",
-    "options": ["Distances to astronomical objects", "Masses of astronomical objects", "Temperatures of astronomical objects", "Luminosities of astronomical objects"],
-    "answer": 0
-  },
-  {
-    "question": "Cepheid variables are used as:",
-    "options": ["Standard candles for distance measurement", "Standard stars", "Standard planets", "Standard galaxies"],
-    "answer": 0
-  },
-  {
-    "question": "Type Ia supernovae are used as:",
-    "options": ["Standard candles for distance measurement", "Standard stars", "Standard planets", "Standard galaxies"],
-    "answer": 0
-  },
-  {
-    "question": "The period-luminosity relation is used for:",
-    "options": ["Cepheid variables", "Type Ia supernovae", "Main sequence stars", "White dwarfs"],
-    "answer": 0
-  },
-  {
-    "question": "The Tully-Fisher relation is used for:",
-    "options": ["Spiral galaxies", "Elliptical galaxies", "Irregular galaxies", "Dwarf galaxies"],
-    "answer": 0
-  },
-  {
-    "question": "The Faber-Jackson relation is used for:",
-    "options": ["Elliptical galaxies", "Spiral galaxies", "Irregular galaxies", "Dwarf galaxies"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmic microwave background has ripples that:",
-    "options": ["Show the seeds of galaxy formation", "Show the Big Bang", "Show the expansion", "Show the dark matter"],
-    "answer": 0
-  },
-  {
-    "question": "Baryon acoustic oscillations are:",
-    "options": ["Oscillations in the early universe that affected galaxy distribution", "Oscillations in the Sun", "Oscillations in Earth", "Oscillations in the moon"],
-    "answer": 0
-  },
-  {
-    "question": "The large-scale structure of the universe includes:",
-    "options": ["Filaments, voids, and clusters", "Only galaxies", "Only stars", "Only planets"],
-    "answer": 0
-  },
-  {
-    "question": "Galaxy clusters are:",
-    "options": ["Groups of galaxies bound by gravity", "Individual galaxies", "Groups of stars", "Groups of planets"],
-    "answer": 0
-  },
-  {
-    "question": "The Virgo Cluster is:",
-    "options": ["The nearest galaxy cluster", "The farthest galaxy cluster", "The largest galaxy cluster", "The smallest galaxy cluster"],
-    "answer": 0
-  },
-  {
-    "question": "Gravitational lensing is:",
-    "options": ["The bending of light by gravity", "The bending of light by magnetic fields", "The bending of light by electric fields", "The bending of light by matter"],
-    "answer": 0
-  },
-  {
-    "question": "Strong gravitational lensing produces:",
-    "options": ["Einstein rings", "Double images", "Triple images", "All of the above"],
-    "answer": 0
-  },
-  {
-    "question": "Weak gravitational lensing is used to:",
-    "options": ["Map dark matter", "Measure distances", "Measure masses", "Measure temperatures"],
-    "answer": 0
-  },
-  {
-    "question": "The Sun's magnetic field:",
-    "options": ["Reverses every 11 years", "Remains constant", "Reverses every 22 years", "Reverses every 5 years"],
-    "answer": 0
-  },
-  {
-    "question": "The solar corona is:",
-    "options": ["The outermost layer of the Sun", "The innermost layer of the Sun", "The core of the Sun", "The surface of the Sun"],
-    "answer": 0
-  },
-  {
-    "question": "The solar corona is hotter than:",
-    "options": ["The surface of the Sun", "The core of the Sun", "The Earth", "The moon"],
-    "answer": 0
-  },
-  {
-    "question": "The photosphere is:",
-    "options": ["The visible surface of the Sun", "The core of the Sun", "The corona", "The chromosphere"],
-    "answer": 0
-  },
-  {
-    "question": "The chromosphere is:",
-    "options": ["The layer above the photosphere", "The core of the Sun", "The corona", "The photosphere"],
-    "answer": 0
-  },
-  {
-    "question": "Prominences are:",
-    "options": ["Giant loops of plasma on the Sun", "Dark spots on the Sun", "Craters on the Sun", "Mountains on the Sun"],
-    "answer": 0
-  },
-  {
-    "question": "Filaments are:",
-    "options": ["Prominences seen against the solar disk", "Dark spots", "Bright spots", "Craters"],
-    "answer": 0
-  },
-  {
-    "question": "The solar neutrino problem was solved by:",
-    "options": ["Neutrino oscillations", "New neutrino detectors", "More sensitive detectors", "All of the above"],
-    "answer": 0
-  },
-  {
-    "question": "Neutrino oscillations show that:",
-    "options": ["Neutrinos have mass", "Neutrinos are massless", "Neutrinos travel faster than light", "Neutrinos travel slower than light"],
-    "answer": 0
-  },
-  {
-    "question": "Supernovae produce:",
-    "options": ["Heavy elements", "Only light elements", "Only hydrogen", "Only helium"],
-    "answer": 0
-  },
-  {
-    "question": "The Crab Nebula is the remnant of:",
-    "options": ["A supernova observed in 1054", "A nova", "A planetary nebula", "A black hole"],
-    "answer": 0
-  },
-  {
-    "question": "The Crab Nebula contains:",
-    "options": ["A pulsar", "A black hole", "A white dwarf", "A neutron star"],
-    "answer": 0
-  },
-  {
-    "question": "A pulsar is:",
-    "options": ["A rotating neutron star emitting beams of radiation", "A black hole", "A white dwarf", "A star"],
-    "answer": 0
-  },
-  {
-    "question": "The first pulsar was discovered in:",
-    "options": ["1967", "1970", "1980", "1990"],
-    "answer": 0
-  },
-  {
-    "question": "Pulsar timing arrays are used to detect:",
-    "options": ["Gravitational waves", "Dark matter", "Dark energy", "Neutrinos"],
-    "answer": 0
-  },
-  {
-    "question": "Gravitational waves were first detected in:",
-    "options": ["2015", "2000", "2010", "2020"],
-    "answer": 0
-  },
-  {
-    "question": "LIGO detected gravitational waves from:",
-    "options": ["Merging black holes", "Merging neutron stars", "Supernovae", "Pulsars"],
-    "answer": 0
-  },
-  {
-    "question": "The first gravitational wave detection was from:",
-    "options": ["Binary black hole merger", "Binary neutron star merger", "Supernova", "Pulsar"],
-    "answer": 0
-  },
-  {
-    "question": "Gravitational waves are predicted by:",
-    "options": ["General relativity", "Quantum mechanics", "Newtonian mechanics", "Special relativity"],
-    "answer": 0
-  },
-  {
-    "question": "The speed of gravitational waves is:",
-    "options": ["The speed of light", "Less than the speed of light", "Greater than the speed of light", "Zero"],
-    "answer": 0
-  },
-  {
-    "question": "The mass of a black hole is inferred from:",
-    "options": ["The motion of objects around it", "Direct observation", "Its temperature", "Its color"],
-    "answer": 0
-  },
-  {
-    "question": "The supermassive black hole at the center of the Milky Way is:",
-    "options": ["Sagittarius A*", "Cygnus X-1", "M87*", "Andromeda"],
-    "answer": 0
-  },
-  {
-    "question": "The first image of a black hole was released in:",
-    "options": ["2019", "2015", "2020", "2018"],
-    "answer": 0
-  },
-  {
-    "question": "The black hole in M87 has a mass of:",
-    "options": ["6.5 billion solar masses", "1 billion solar masses", "10 billion solar masses", "100 million solar masses"],
-    "answer": 0
-  },
-  {
-    "question": "The Event Horizon Telescope is:",
-    "options": ["A global network of radio telescopes", "A single telescope", "A space telescope", "A ground telescope"],
-    "answer": 0
-  },
-  {
-    "question": "The accretion disk around a black hole emits:",
-    "options": ["X-rays", "Visible light", "Radio waves", "Infrared"],
-    "answer": 0
-  },
-  {
-    "question": "Quasars are:",
-    "options": ["Active galactic nuclei with very high luminosity", "Stars", "Planets", "Galaxies"],
-    "answer": 0
-  },
-  {
-    "question": "Quasars are powered by:",
-    "options": ["Accretion onto supermassive black holes", "Nuclear fusion", "Nuclear fission", "Chemical reactions"],
-    "answer": 0
-  },
-  {
-    "question": "The most distant known quasars are at:",
-    "options": ["High redshift (z > 6)", "Low redshift (z < 1)", "z = 1", "z = 3"],
-    "answer": 0
-  },
-  {
-    "question": "Blazars are:",
-    "options": ["Active galactic nuclei with jets pointing towards Earth", "Galaxies", "Stars", "Planets"],
-    "answer": 0
-  },
-  {
-    "question": "Active galactic nuclei are:",
-    "options": ["Galaxies with very bright centers", "Stars with very bright centers", "Planets with very bright centers", "Nebulae with very bright centers"],
-    "answer": 0
-  },
-  {
-    "question": "The unified model of active galactic nuclei explains:",
-    "options": ["Different types of AGN as the same object viewed from different angles", "Different types of stars", "Different types of planets", "Different types of galaxies"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmic web is:",
-    "options": ["The large-scale structure of the universe", "The structure of a galaxy", "The structure of a star", "The structure of a planet"],
-    "answer": 0
-  },
-  {
-    "question": "Voids in the universe are:",
-    "options": ["Large regions with few galaxies", "Regions with many galaxies", "Regions with no stars", "Regions with no planets"],
-    "answer": 0
-  },
-  {
-    "question": "Filaments in the cosmic web are:",
-    "options": ["Regions where galaxies are concentrated", "Regions with no galaxies", "Regions with no stars", "Regions with no planets"],
-    "answer": 0
-  },
-  {
-    "question": "The Boötes void is:",
-    "options": ["A large void in the universe", "A large galaxy cluster", "A large star cluster", "A large planet"],
-    "answer": 0
-  },
-  {
-    "question": "The Sloan Great Wall is:",
-    "options": ["A large wall of galaxies", "A large void", "A large star", "A large planet"],
-    "answer": 0
-  },
-  {
-    "question": "The Hercules-Corona Borealis Great Wall is:",
-    "options": ["The largest known structure in the universe", "A galaxy", "A star", "A planet"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmic microwave background was discovered in:",
-    "options": ["1965", "1970", "1980", "1990"],
-    "answer": 0
-  },
-  {
-    "question": "Penzias and Wilson discovered:",
-    "options": ["The cosmic microwave background", "The first pulsar", "The first quasar", "The first exoplanet"],
-    "answer": 0
-  },
-  {
-    "question": "The COBE satellite measured:",
-    "options": ["The cosmic microwave background", "The cosmic rays", "The solar wind", "The interstellar medium"],
-    "answer": 0
-  },
-  {
-    "question": "The WMAP satellite measured:",
-    "options": ["The cosmic microwave background", "The cosmic rays", "The solar wind", "The interstellar medium"],
-    "answer": 0
-  },
-  {
-    "question": "The Planck satellite measured:",
-    "options": ["The cosmic microwave background with high precision", "The cosmic rays", "The solar wind", "The interstellar medium"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmic microwave background fluctuations are:",
-    "options": ["Tiny variations in temperature", "Large variations in temperature", "Variations in density", "Variations in pressure"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmic microwave background fluctuations have amplitudes of about:",
-    "options": ["10⁻⁵ K", "10⁻³ K", "1 K", "10 K"],
-    "answer": 0
-  },
-  {
-    "question": "The acoustic peaks in the CMB power spectrum are caused by:",
-    "options": ["Oscillations in the early universe", "Dark matter", "Dark energy", "Neutrinos"],
-    "answer": 0
-  },
-  {
-    "question": "The first acoustic peak in the CMB power spectrum corresponds to:",
-    "options": ["The scale of the horizon at recombination", "The scale of the horizon at decoupling", "The scale of the horizon today", "The scale of the horizon at nucleosynthesis"],
-    "answer": 0
-  },
-  {
-    "question": "The baryon-to-photon ratio is determined from:",
-    "options": ["The CMB power spectrum", "The CMB temperature", "The CMB polarization", "The CMB intensity"],
-    "answer": 0
-  },
-  {
-    "question": "The CMB polarization is caused by:",
-    "options": ["Thomson scattering", "Compton scattering", "Rayleigh scattering", "Mie scattering"],
-    "answer": 0
-  },
-  {
-    "question": "The E-mode polarization of the CMB is caused by:",
-    "options": ["Scalar perturbations", "Vector perturbations", "Tensor perturbations", "All of the above"],
-    "answer": 0
-  },
-  {
-    "question": "The B-mode polarization of the CMB is caused by:",
-    "options": ["Gravitational waves", "Scalar perturbations", "Vector perturbations", "Density perturbations"],
-    "answer": 0
-  },
-  {
-    "question": "B-mode polarization of the CMB is evidence for:",
-    "options": ["Inflation", "Dark matter", "Dark energy", "Neutrinos"],
-    "answer": 0
-  },
-  {
-    "question": "Inflation is:",
-    "options": ["A period of rapid expansion in the early universe", "The expansion of the universe", "The contraction of the universe", "The Big Bang"],
-    "answer": 0
-  },
-  {
-    "question": "Inflation explains:",
-    "options": ["The horizon problem and flatness problem", "The Big Bang", "The expansion", "The contraction"],
-    "answer": 0
-  },
-  {
-    "question": "The horizon problem is:",
-    "options": ["Why the CMB is so uniform", "Why the universe is so flat", "Why there is no antimatter", "Why there is dark matter"],
-    "answer": 0
-  },
-  {
-    "question": "The flatness problem is:",
-    "options": ["Why the universe is so close to flat", "Why the universe is so uniform", "Why there is no antimatter", "Why there is dark matter"],
-    "answer": 0
-  },
-  {
-    "question": "The monopole problem is:",
-    "options": ["Why no magnetic monopoles are observed", "Why there is no antimatter", "Why there is dark matter", "Why the universe is flat"],
-    "answer": 0
-  },
-  {
-    "question": "The dark matter problem is:",
-    "options": ["The missing mass in the universe", "The missing energy in the universe", "The missing stars", "The missing planets"],
-    "answer": 0
-  },
-  {
-    "question": "Dark matter candidates include:",
-    "options": ["Weakly Interacting Massive Particles (WIMPs)", "Neutrinos", "Black holes", "All of the above"],
-    "answer": 3
-  },
-  {
-    "question": "Axions are:",
-    "options": ["Hypothetical particles that could be dark matter", "A type of star", "A type of galaxy", "A type of planet"],
-    "answer": 0
-  },
-  {
-    "question": "MACHOs are:",
-    "options": ["Massive Compact Halo Objects", "A type of star", "A type of galaxy", "A type of planet"],
-    "answer": 0
-  },
-  {
-    "question": "Gravitational microlensing is used to detect:",
-    "options": ["MACHOs", "WIMPs", "Neutrinos", "Axions"],
-    "answer": 0
-  },
-  {
-    "question": "The dark energy problem is:",
-    "options": ["Why the expansion of the universe is accelerating", "Why the universe is expanding", "Why the universe is contracting", "Why the universe is static"],
-    "answer": 0
-  },
-  {
-    "question": "Dark energy is thought to make up about:",
-    "options": ["70% of the universe", "20% of the universe", "10% of the universe", "50% of the universe"],
-    "answer": 0
-  },
-  {
-    "question": "Dark matter is thought to make up about:",
-    "options": ["25% of the universe", "70% of the universe", "10% of the universe", "50% of the universe"],
-    "answer": 0
-  },
-  {
-    "question": "Normal matter makes up about:",
-    "options": ["5% of the universe", "70% of the universe", "25% of the universe", "50% of the universe"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmological constant Λ is a possible explanation for:",
-    "options": ["Dark energy", "Dark matter", "The Big Bang", "Inflation"],
-    "answer": 0
-  },
-  {
-    "question": "The equation of state for dark energy is:",
-    "options": ["w = P/ρ ≈ -1", "w = P/ρ ≈ 0", "w = P/ρ ≈ 1", "w = P/ρ ≈ -1/3"],
-    "answer": 0
-  },
-  {
-    "question": "Quintessence is:",
-    "options": ["A dynamical form of dark energy", "A static form of dark energy", "A form of dark matter", "A form of normal matter"],
-    "answer": 0
-  },
-  {
-    "question": "The anthropic principle states that:",
-    "options": ["The universe is fine-tuned for life", "The universe is not fine-tuned", "Life is inevitable", "Life is impossible"],
-    "answer": 0
-  },
-  {
-    "question": "The multiverse theory suggests:",
-    "options": ["There are many universes", "There is only one universe", "The universe is infinite", "The universe is finite"],
-    "answer": 0
-  },
-  {
-    "question": "The Many-Worlds interpretation is a:",
-    "options": ["Interpretation of quantum mechanics", "Interpretation of general relativity", "Interpretation of the Big Bang", "Interpretation of dark matter"],
-    "answer": 0
-  },
-  {
-    "question": "The Big Rip scenario is:",
-    "options": ["A possible fate of the universe where everything is torn apart", "The Big Bang", "The Big Crunch", "The heat death"],
-    "answer": 0
-  },
-  {
-    "question": "The Big Crunch scenario is:",
-    "options": ["A possible fate of the universe where it recollapses", "The Big Bang", "The Big Rip", "The heat death"],
-    "answer": 0
-  },
-  {
-    "question": "The heat death of the universe is:",
-    "options": ["When the universe reaches maximum entropy", "When the universe recollapses", "When the universe is torn apart", "When the universe ends in fire"],
-    "answer": 0
-  },
-  {
-    "question": "The entropy of the universe is:",
-    "options": ["Always increasing", "Always decreasing", "Constant", "Zero"],
-    "answer": 0
-  },
-  {
-    "question": "The second law of thermodynamics states that:",
-    "options": ["Entropy always increases", "Energy is conserved", "Momentum is conserved", "Angular momentum is conserved"],
-    "answer": 0
-  },
-  {
-    "question": "The arrow of time is related to:",
-    "options": ["The increase of entropy", "The expansion of the universe", "The Big Bang", "All of the above"],
-    "answer": 0
-  },
-  {
-    "question": "The thermodynamic arrow of time is:",
-    "options": ["The direction of increasing entropy", "The direction of decreasing entropy", "The direction of expansion", "The direction of contraction"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmological arrow of time is:",
-    "options": ["The direction of expansion of the universe", "The direction of contraction", "The direction of increasing entropy", "The direction of decreasing entropy"],
-    "answer": 0
-  },
-  {
-    "question": "The psychological arrow of time is:",
-    "options": ["Our perception of time moving forward", "The direction of expansion", "The direction of increasing entropy", "The direction of contraction"],
-    "answer": 0
-  },
-  {
-    "question": "The arrow of time may be explained by:",
-    "options": ["The initial conditions of the universe", "The final conditions of the universe", "The second law", "All of the above"],
-    "answer": 0
-  },
-  {
-    "question": "The holographic principle suggests:",
-    "options": ["The universe may be a hologram", "The universe is a projection", "The universe is three-dimensional", "The universe is two-dimensional"],
-    "answer": 0
-  },
-  {
-    "question": "The AdS/CFT correspondence is:",
-    "options": ["A duality between gravity in anti-de Sitter space and conformal field theory", "A duality between gravity and electromagnetism", "A duality between quantum mechanics and general relativity", "A duality between special relativity and quantum mechanics"],
-    "answer": 0
-  },
-  {
-    "question": "The string theory landscape suggests:",
-    "options": ["There are many possible string theory vacua", "There is only one string theory", "String theory is wrong", "String theory is incomplete"],
-    "answer": 0
-  },
-  {
-    "question": "The anthropic principle in string theory suggests:",
-    "options": ["We live in a vacuum that allows life", "We live in the only vacuum", "All vacuums allow life", "No vacuums allow life"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmological constant problem is:",
-    "options": ["Why the observed dark energy is so small", "Why dark energy is so large", "Why there is no dark energy", "Why dark energy is constant"],
-    "answer": 0
-  },
-  {
-    "question": "The vacuum energy problem is:",
-    "options": ["The discrepancy between predicted and observed vacuum energy", "The discrepancy between predicted and observed dark matter", "The discrepancy between predicted and observed expansion", "The discrepancy between predicted and observed entropy"],
-    "answer": 0
-  },
-  {
-    "question": "The quantum fluctuations of the vacuum may lead to:",
-    "options": ["The cosmological constant", "Dark matter", "The Big Bang", "Inflation"],
-    "answer": 0
-  },
-  {
-    "question": "The Casimir effect is evidence for:",
-    "options": ["Vacuum energy", "Dark energy", "Dark matter", "Inflation"],
-    "answer": 0
-  },
-  {
-    "question": "The vacuum energy in quantum field theory is:",
-    "options": ["Infinite", "Zero", "Finite", "Negative"],
-    "answer": 0
-  },
-  {
-    "question": "The renormalization procedure in quantum field theory:",
-    "options": ["Removes infinities", "Creates infinities", "Changes infinities", "Ignored infinities"],
-    "answer": 0
-  },
-  {
-    "question": "The hierarchy problem is:",
-    "options": ["The large discrepancy between the weak scale and the Planck scale", "The discrepancy between dark matter and normal matter", "The discrepancy between dark energy and normal energy", "The discrepancy between entropy and energy"],
-    "answer": 0
-  },
-  {
-    "question": "Supersymmetry solves:",
-    "options": ["The hierarchy problem", "The dark matter problem", "The dark energy problem", "The Big Bang problem"],
-    "answer": 0
-  },
-  {
-    "question": "The Large Hadron Collider searches for:",
-    "options": ["Supersymmetry", "Dark matter", "Extra dimensions", "All of the above"],
-    "answer": 3
-  },
-  {
-    "question": "Extra dimensions are predicted by:",
-    "options": ["String theory", "General relativity", "Quantum mechanics", "Special relativity"],
-    "answer": 0
-  },
-  {
-    "question": "Kaluza-Klein theory unifies:",
-    "options": ["Gravity and electromagnetism", "Quantum mechanics and general relativity", "Special relativity and quantum mechanics", "Gravity and nuclear forces"],
-    "answer": 0
-  },
-  {
-    "question": "The standard model of particle physics describes:",
-    "options": ["Fundamental particles and forces", "The universe as a whole", "The structure of galaxies", "The evolution of stars"],
-    "answer": 0
-  },
-  {
-    "question": "The standard model does not include:",
-    "options": ["Gravity", "Electromagnetism", "Weak nuclear force", "Strong nuclear force"],
-    "answer": 0
-  },
-  {
-    "question": "Grand unified theories attempt to unify:",
-    "options": ["The strong, weak, and electromagnetic forces", "Gravity and quantum mechanics", "All four forces", "Only gravity and electromagnetism"],
-    "answer": 0
-  },
-  {
-    "question": "Proton decay is predicted by:",
-    "options": ["Grand unified theories", "String theory", "General relativity", "Quantum mechanics"],
-    "answer": 0
-  },
-  {
-    "question": "The proton lifetime is expected to be:",
-    "options": ["Very long, > 10³² years", "Very short, < 10⁻¹⁰ seconds", "About 10¹⁰ years", "About 10²⁰ years"],
-    "answer": 0
-  },
-  {
-    "question": "The early universe was:",
-    "options": ["Very hot and dense", "Very cold and sparse", "Similar to today", "Empty"],
-    "answer": 0
-  },
-  {
-    "question": "The quark-gluon plasma existed in:",
-    "options": ["The early universe", "The present universe", "Stars", "Black holes"],
-    "answer": 0
-  },
-  {
-    "question": "The quark-gluon plasma is:",
-    "options": ["A state of matter where quarks and gluons are free", "A state of matter where quarks are bound", "A state of matter where gluons are bound", "A state of matter without quarks"],
-    "answer": 0
-  },
-  {
-    "question": "The QCD phase transition occurred:",
-    "options": ["When quarks became confined into hadrons", "When hadrons became quarks", "When electrons became free", "When neutrinos decoupled"],
-    "answer": 0
-  },
-  {
-    "question": "The electroweak phase transition occurred:",
-    "options": ["When the weak and electromagnetic forces separated", "When the strong and weak forces separated", "When the strong and electromagnetic forces separated", "When gravity separated"],
-    "answer": 0
-  },
-  {
-    "question": "The Higgs mechanism gives:",
-    "options": ["Mass to particles", "Charge to particles", "Spin to particles", "Color to particles"],
-    "answer": 0
-  },
-  {
-    "question": "The Higgs boson was discovered in:",
-    "options": ["2012", "2000", "2010", "2015"],
-    "answer": 0
-  },
-  {
-    "question": "The Higgs boson was discovered at:",
-    "options": ["The Large Hadron Collider", "The Tevatron", "The Fermilab", "CERN"],
-    "answer": 0
-  },
-  {
-    "question": "The mass of the Higgs boson is about:",
-    "options": ["125 GeV", "100 GeV", "150 GeV", "200 GeV"],
-    "answer": 0
-  },
-  {
-    "question": "The discovery of the Higgs boson:",
-    "options": ["Confirmed the Standard Model", "Disproved the Standard Model", "Disproved string theory", "Confirmed string theory"],
-    "answer": 0
-  },
-  {
-    "question": "The cosmic microwave background is:",
-    "options": ["The oldest light in the universe", "The newest light in the universe", "The brightest light in the universe", "The dimmest light in the universe"],
-    "answer": 0
-  },
-  {
-    "question": "The CMB was emitted when the universe was about:",
-    "options": ["380,000 years old", "10,000 years old", "1 million years old", "100 million years old"],
-    "answer": 0
-  },
-  {
-    "question": "The recombination epoch is when:",
-    "options": ["Atoms formed from electrons and nuclei", "Atoms split into electrons and nuclei", "Stars formed", "Galaxies formed"],
-    "answer": 0
-  },
-  {
-    "question": "The decoupling epoch is when:",
-    "options": ["Photons stopped interacting with matter", "Photons started interacting with matter", "Atoms formed", "Stars formed"],
-    "answer": 0
-  },
-  {
-    "question": "The redshift of the CMB is about:",
-    "options": ["1100", "100", "1000", "10"],
-    "answer": 0
-  },
-  {
-    "question": "The CMB temperature increases with:",
-    "options": ["Redshift", "Distance", "Time", "Age"],
-    "answer": 0
-  },
-  {
-    "question": "The CMB temperature is inversely proportional to:",
-    "options": ["Scale factor", "Redshift", "Distance", "Time"],
-    "answer": 0
-  },
-  {
-    "question": "The Friedmann-Robertson-Walker metric describes:",
-    "options": ["The expanding universe", "The static universe", "The contracting universe", "The oscillating universe"],
-    "answer": 0
-  },
-  {
-    "question": "The scale factor in the FRW metric:",
-    "options": ["Describes the expansion of the universe", "Describes the contraction of the universe", "Describes the curvature of the universe", "Describes the topology of the universe"],
-    "answer": 0
-  },
-  {
-    "question": "The expansion rate of the universe is given by:",
-    "options": ["Hubble parameter H = ȧ/a", "Hubble parameter H = a/ȧ", "Hubble parameter H = ȧ", "Hubble parameter H = a"],
-    "answer": 0
-  },
-  {
-    "question": "The deceleration parameter q = -äa/ȧ² describes:",
-    "options": ["Whether the expansion is accelerating or decelerating", "The expansion rate", "The curvature", "The density"],
-    "answer": 0
-  },
-  {
-    "question": "The current value of q is:",
-    "options": ["Negative, indicating acceleration", "Positive, indicating deceleration", "Zero, indicating constant expansion", "One, indicating maximum expansion"],
-    "answer": 0
-  }
-]
+```json
+{
+  "category": "Astronomy",
+  "total_questions": 2031,
+  "questions": [
+    {
+      "question": "The study of celestial objects and phenomena is called:",
+      "options": ["Astrophysics", "Astronomy", "Cosmology", "Astrology"],
+      "answer": 1
+    },
+    {
+      "question": "The branch of astrophysics that deals with the universe as a whole is:",
+      "options": ["Cosmology", "Stellar physics", "Galactic astronomy", "Planetary science"],
+      "answer": 0
+    },
+    {
+      "question": "The nearest star to Earth is:",
+      "options": ["Proxima Centauri", "Alpha Centauri", "Barnard's Star", "Sirius"],
+      "answer": 0
+    },
+    {
+      "question": "The distance from Earth to the Sun is called:",
+      "options": ["Astronomical Unit", "Light Year", "Parsec", "Kilometer"],
+      "answer": 0
+    },
+    {
+      "question": "1 Astronomical Unit is approximately:",
+      "options": ["1.5 × 10⁸ km", "1.5 × 10⁹ km", "1.5 × 10⁷ km", "1.5 × 10¹⁰ km"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of light is approximately:",
+      "options": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10¹⁰ m/s", "3 × 10⁴ m/s"],
+      "answer": 0
+    },
+    {
+      "question": "One light year is approximately:",
+      "options": ["9.46 × 10¹⁵ m", "9.46 × 10¹² m", "9.46 × 10¹⁸ m", "9.46 × 10⁹ m"],
+      "answer": 0
+    },
+    {
+      "question": "One parsec is approximately:",
+      "options": ["3.26 light years", "2.5 light years", "4 light years", "5 light years"],
+      "answer": 0
+    },
+    {
+      "question": "The diameter of the Milky Way galaxy is approximately:",
+      "options": ["100,000 light years", "50,000 light years", "200,000 light years", "10,000 light years"],
+      "answer": 0
+    },
+    {
+      "question": "The age of the universe is estimated to be about:",
+      "options": ["13.8 billion years", "10 billion years", "15 billion years", "20 billion years"],
+      "answer": 0
+    },
+    {
+      "question": "The Big Bang theory proposes that the universe began:",
+      "options": ["About 13.8 billion years ago", "About 10 billion years ago", "About 15 billion years ago", "About 20 billion years ago"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic microwave background radiation is evidence for:",
+      "options": ["The Big Bang", "Steady State theory", "Oscillating universe", "Multiverse"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic microwave background radiation has a temperature of about:",
+      "options": ["2.7 K", "5 K", "10 K", "1 K"],
+      "answer": 0
+    },
+    {
+      "question": "The most abundant element in the universe is:",
+      "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+      "answer": 0
+    },
+    {
+      "question": "The second most abundant element in the universe is:",
+      "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+      "answer": 0
+    },
+    {
+      "question": "A star is primarily composed of:",
+      "options": ["Hydrogen and helium", "Oxygen and carbon", "Iron and nickel", "Uranium and plutonium"],
+      "answer": 0
+    },
+    {
+      "question": "Nuclear fusion in stars converts hydrogen into:",
+      "options": ["Helium", "Carbon", "Oxygen", "Iron"],
+      "answer": 0
+    },
+    {
+      "question": "The proton-proton chain is a series of nuclear reactions that:",
+      "options": ["Converts hydrogen into helium", "Converts helium into carbon", "Converts carbon into oxygen", "Converts iron into nickel"],
+      "answer": 0
+    },
+    {
+      "question": "The CNO cycle is a series of nuclear reactions that:",
+      "options": ["Converts hydrogen into helium using carbon as a catalyst", "Converts helium into carbon", "Converts carbon into oxygen", "Converts iron into nickel"],
+      "answer": 0
+    },
+    {
+      "question": "The Sun's energy is produced by:",
+      "options": ["Nuclear fusion", "Nuclear fission", "Chemical reactions", "Gravitational collapse"],
+      "answer": 0
+    },
+    {
+      "question": "The surface temperature of the Sun is approximately:",
+      "options": ["5,800 K", "10,000 K", "3,000 K", "15,000 K"],
+      "answer": 0
+    },
+    {
+      "question": "The core temperature of the Sun is approximately:",
+      "options": ["15 million K", "5 million K", "10 million K", "20 million K"],
+      "answer": 0
+    },
+    {
+      "question": "The Sun's radius is approximately:",
+      "options": ["696,000 km", "500,000 km", "1,000,000 km", "300,000 km"],
+      "answer": 0
+    },
+    {
+      "question": "The Sun's mass is approximately:",
+      "options": ["2 × 10³⁰ kg", "2 × 10²⁸ kg", "2 × 10³² kg", "2 × 10²⁶ kg"],
+      "answer": 0
+    },
+    {
+      "question": "The solar luminosity is approximately:",
+      "options": ["3.8 × 10²⁶ W", "3.8 × 10²⁴ W", "3.8 × 10²⁸ W", "3.8 × 10³⁰ W"],
+      "answer": 0
+    },
+    {
+      "question": "The Hertzsprung-Russell diagram plots:",
+      "options": ["Luminosity vs. temperature", "Mass vs. radius", "Age vs. temperature", "Luminosity vs. mass"],
+      "answer": 0
+    },
+    {
+      "question": "The main sequence on the HR diagram is where stars:",
+      "options": ["Fuse hydrogen in their cores", "Have exhausted their hydrogen", "Are in their final stages", "Are exploding"],
+      "answer": 0
+    },
+    {
+      "question": "Red giants are stars that have:",
+      "options": ["Exhausted hydrogen in their cores", "Just formed", "Maximum mass", "Minimum temperature"],
+      "answer": 0
+    },
+    {
+      "question": "White dwarfs are stars that have:",
+      "options": ["Exhausted their nuclear fuel", "Just formed", "Maximum mass", "Maximum temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The Chandrasekhar limit is the maximum mass of a white dwarf, approximately:",
+      "options": ["1.4 solar masses", "2 solar masses", "3 solar masses", "0.5 solar masses"],
+      "answer": 0
+    },
+    {
+      "question": "A supernova is:",
+      "options": ["A stellar explosion", "A new star", "A black hole", "A neutron star"],
+      "answer": 0
+    },
+    {
+      "question": "Type Ia supernovae occur in:",
+      "options": ["Binary systems with a white dwarf", "Single massive stars", "Binary systems with two neutron stars", "Globular clusters"],
+      "answer": 0
+    },
+    {
+      "question": "Type II supernovae occur in:",
+      "options": ["Massive stars", "Binary systems", "White dwarfs", "Neutron stars"],
+      "answer": 0
+    },
+    {
+      "question": "A neutron star has a radius of approximately:",
+      "options": ["10 km", "100 km", "1 km", "1000 km"],
+      "answer": 0
+    },
+    {
+      "question": "A neutron star has a mass of approximately:",
+      "options": ["1-2 solar masses", "5-10 solar masses", "0.5 solar masses", "10-20 solar masses"],
+      "answer": 0
+    },
+    {
+      "question": "The escape velocity from a neutron star is:",
+      "options": ["Very high, close to c", "Low", "Equal to Earth's", "Zero"],
+      "answer": 0
+    },
+    {
+      "question": "A black hole is an object from which:",
+      "options": ["Nothing can escape, not even light", "Light can escape", "Only matter can escape", "Only energy can escape"],
+      "answer": 0
+    },
+    {
+      "question": "The Schwarzschild radius is:",
+      "options": ["The radius of the event horizon of a black hole", "The radius of a neutron star", "The radius of a white dwarf", "The radius of a planet"],
+      "answer": 0
+    },
+    {
+      "question": "The Schwarzschild radius is given by:",
+      "options": ["R_s = 2GM/c²", "R_s = GM/c²", "R_s = 2GM/c", "R_s = GM/c"],
+      "answer": 0
+    },
+    {
+      "question": "The event horizon of a black hole is:",
+      "options": ["The boundary beyond which nothing can escape", "The center of the black hole", "The surface of the black hole", "The region of maximum density"],
+      "answer": 0
+    },
+    {
+      "question": "The singularity of a black hole is:",
+      "options": ["A point of infinite density", "A region of zero density", "The event horizon", "The accretion disk"],
+      "answer": 0
+    },
+    {
+      "question": "Hawking radiation is:",
+      "options": ["Radiation emitted by black holes due to quantum effects", "Radiation emitted by neutron stars", "Radiation emitted by white dwarfs", "Radiation from the Big Bang"],
+      "answer": 0
+    },
+    {
+      "question": "A galaxy is a system of:",
+      "options": ["Stars, gas, dust, and dark matter", "Only stars", "Only planets", "Only gas"],
+      "answer": 0
+    },
+    {
+      "question": "The Milky Way is a:",
+      "options": ["Spiral galaxy", "Elliptical galaxy", "Irregular galaxy", "Lenticular galaxy"],
+      "answer": 0
+    },
+    {
+      "question": "Andromeda is the closest:",
+      "options": ["Spiral galaxy to the Milky Way", "Elliptical galaxy", "Irregular galaxy", "Dwarf galaxy"],
+      "answer": 0
+    },
+    {
+      "question": "The galactic halo contains:",
+      "options": ["Old stars and dark matter", "Young stars", "Gas and dust", "Planets"],
+      "answer": 0
+    },
+    {
+      "question": "The galactic disk contains:",
+      "options": ["Young stars and gas", "Old stars", "Dark matter", "No stars"],
+      "answer": 0
+    },
+    {
+      "question": "The galactic bulge is found at:",
+      "options": ["The center of the galaxy", "The outer edge", "The halo", "The disk"],
+      "answer": 0
+    },
+    {
+      "question": "Dark matter is:",
+      "options": ["Matter that does not emit or reflect light", "Matter that emits light", "Matter that reflects light", "Matter that is visible"],
+      "answer": 0
+    },
+    {
+      "question": "Dark matter is inferred from:",
+      "options": ["Gravitational effects on visible matter", "Direct observation", "Light emission", "Radio waves"],
+      "answer": 0
+    },
+    {
+      "question": "Dark energy is:",
+      "options": ["Energy that causes the expansion of the universe to accelerate", "Energy that causes the universe to contract", "Energy that emits light", "Energy that absorbs light"],
+      "answer": 0
+    },
+    {
+      "question": "The expansion of the universe was discovered by:",
+      "options": ["Edwin Hubble", "Albert Einstein", "Stephen Hawking", "Isaac Newton"],
+      "answer": 0
+    },
+    {
+      "question": "Hubble's law states that:",
+      "options": ["The recessional velocity of galaxies is proportional to their distance", "The recessional velocity is independent of distance", "The recessional velocity is inversely proportional to distance", "Galaxies are moving towards us"],
+      "answer": 0
+    },
+    {
+      "question": "The Hubble constant is approximately:",
+      "options": ["70 km/s/Mpc", "70 km/s", "70 Mpc/s", "70 m/s"],
+      "answer": 0
+    },
+    {
+      "question": "The redshift of a galaxy is:",
+      "options": ["The shift of spectral lines to longer wavelengths", "The shift of spectral lines to shorter wavelengths", "The shift of spectral lines to higher frequencies", "The shift of spectral lines to lower frequencies"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmological principle states that:",
+      "options": ["The universe is homogeneous and isotropic on large scales", "The universe is inhomogeneous and anisotropic", "The universe is expanding", "The universe is contracting"],
+      "answer": 0
+    },
+    {
+      "question": "The Friedmann equations describe:",
+      "options": ["The expansion of the universe", "The structure of galaxies", "The evolution of stars", "The formation of planets"],
+      "answer": 0
+    },
+    {
+      "question": "The critical density of the universe is:",
+      "options": ["The density required to just stop the expansion", "The density required to start the expansion", "The density of matter", "The density of dark energy"],
+      "answer": 0
+    },
+    {
+      "question": "If the density of the universe is greater than the critical density, the universe will:",
+      "options": ["Recollapse", "Expand forever", "Remain static", "Oscillate"],
+      "answer": 0
+    },
+    {
+      "question": "If the density of the universe is less than the critical density, the universe will:",
+      "options": ["Expand forever", "Recollapse", "Remain static", "Oscillate"],
+      "answer": 0
+    },
+    {
+      "question": "The Big Bang nucleosynthesis produced:",
+      "options": ["Light elements like hydrogen and helium", "Heavy elements like iron and gold", "Only hydrogen", "Only helium"],
+      "answer": 0
+    },
+    {
+      "question": "Stellar nucleosynthesis produces:",
+      "options": ["Heavy elements", "Only hydrogen", "Only helium", "Light elements"],
+      "answer": 0
+    },
+    {
+      "question": "The s-process in stars produces:",
+      "options": ["Elements through slow neutron capture", "Elements through fast neutron capture", "Only iron", "Only carbon"],
+      "answer": 0
+    },
+    {
+      "question": "The r-process in stars produces:",
+      "options": ["Elements through rapid neutron capture", "Elements through slow neutron capture", "Only iron", "Only carbon"],
+      "answer": 0
+    },
+    {
+      "question": "The most common type of star in the universe is:",
+      "options": ["M-dwarf", "G-dwarf", "O-star", "B-star"],
+      "answer": 0
+    },
+    {
+      "question": "The mass of a star determines:",
+      "options": ["Its lifetime and evolution", "Its color only", "Its distance only", "Its temperature only"],
+      "answer": 0
+    },
+    {
+      "question": "Massive stars have:",
+      "options": ["Shorter lifetimes", "Longer lifetimes", "The same lifetimes as low-mass stars", "No lifetime"],
+      "answer": 0
+    },
+    {
+      "question": "Low-mass stars have:",
+      "options": ["Longer lifetimes", "Shorter lifetimes", "The same lifetimes as massive stars", "No lifetime"],
+      "answer": 0
+    },
+    {
+      "question": "The mass-luminosity relation for main sequence stars is:",
+      "options": ["L ∝ M³.⁵", "L ∝ M²", "L ∝ M", "L ∝ M⁴"],
+      "answer": 0
+    },
+    {
+      "question": "The Sun is a:",
+      "options": ["G-type main sequence star", "O-type star", "M-type star", "K-type star"],
+      "answer": 0
+    },
+    {
+      "question": "Stellar parallax is used to measure:",
+      "options": ["Distance to nearby stars", "Temperature of stars", "Mass of stars", "Luminosity of stars"],
+      "answer": 0
+    },
+    {
+      "question": "The inverse square law is used to determine:",
+      "options": ["Luminosity from apparent brightness", "Mass from luminosity", "Distance from parallax", "Temperature from color"],
+      "answer": 0
+    },
+    {
+      "question": "The color of a star is related to its:",
+      "options": ["Temperature", "Mass", "Distance", "Luminosity"],
+      "answer": 0
+    },
+    {
+      "question": "The hottest stars are:",
+      "options": ["O-type", "M-type", "G-type", "K-type"],
+      "answer": 0
+    },
+    {
+      "question": "The coolest stars are:",
+      "options": ["M-type", "O-type", "B-type", "A-type"],
+      "answer": 0
+    },
+    {
+      "question": "The spectral classification of stars from hottest to coolest is:",
+      "options": ["O, B, A, F, G, K, M", "M, K, G, F, A, B, O", "O, B, F, G, A, K, M", "A, B, O, F, G, K, M"],
+      "answer": 0
+    },
+    {
+      "question": "The Sun's spectral type is:",
+      "options": ["G2", "O5", "M0", "A0"],
+      "answer": 0
+    },
+    {
+      "question": "The planets in our solar system orbit the Sun because of:",
+      "options": ["Gravitational attraction", "Magnetic attraction", "Electric attraction", "Nuclear force"],
+      "answer": 0
+    },
+    {
+      "question": "The inner planets are:",
+      "options": ["Mercury, Venus, Earth, Mars", "Jupiter, Saturn, Uranus, Neptune", "Mercury, Venus, Earth, Jupiter", "Mars, Jupiter, Saturn, Uranus"],
+      "answer": 0
+    },
+    {
+      "question": "The outer planets are:",
+      "options": ["Jupiter, Saturn, Uranus, Neptune", "Mercury, Venus, Earth, Mars", "Jupiter, Saturn, Uranus, Earth", "Mars, Jupiter, Saturn, Uranus"],
+      "answer": 0
+    },
+    {
+      "question": "The largest planet in the solar system is:",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": 0
+    },
+    {
+      "question": "The planet with the most prominent rings is:",
+      "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+      "answer": 0
+    },
+    {
+      "question": "The hottest planet in the solar system is:",
+      "options": ["Venus", "Mercury", "Earth", "Mars"],
+      "answer": 0
+    },
+    {
+      "question": "The coldest planet in the solar system is:",
+      "options": ["Neptune", "Uranus", "Pluto", "Mars"],
+      "answer": 0
+    },
+    {
+      "question": "The asteroid belt is located between:",
+      "options": ["Mars and Jupiter", "Earth and Mars", "Jupiter and Saturn", "Saturn and Uranus"],
+      "answer": 0
+    },
+    {
+      "question": "The Oort cloud is:",
+      "options": ["A region of icy bodies at the edge of the solar system", "A region of asteroids", "A region of planets", "A region of stars"],
+      "answer": 0
+    },
+    {
+      "question": "The Kuiper belt is:",
+      "options": ["A region beyond Neptune containing icy bodies", "A region between Mars and Jupiter", "A region near the Sun", "A region in the Milky Way"],
+      "answer": 0
+    },
+    {
+      "question": "Pluto is classified as a:",
+      "options": ["Dwarf planet", "Planet", "Asteroid", "Comet"],
+      "answer": 0
+    },
+    {
+      "question": "A comet is a:",
+      "options": ["Small icy body that orbits the Sun", "Small rocky body", "Large planet", "Star"],
+      "answer": 0
+    },
+    {
+      "question": "The tail of a comet always points:",
+      "options": ["Away from the Sun", "Towards the Sun", "In the direction of motion", "Perpendicular to the motion"],
+      "answer": 0
+    },
+    {
+      "question": "The solar wind is:",
+      "options": ["A stream of charged particles from the Sun", "A wind on Earth", "A wind on Mars", "A wind on Venus"],
+      "answer": 0
+    },
+    {
+      "question": "The aurora borealis is caused by:",
+      "options": ["Solar wind interacting with Earth's atmosphere", "Sunlight reflecting off clouds", "Volcanic eruptions", "Earthquakes"],
+      "answer": 0
+    },
+    {
+      "question": "Earth's magnetic field protects us from:",
+      "options": ["Solar wind", "Cosmic rays", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "The ozone layer protects Earth from:",
+      "options": ["Ultraviolet radiation", "Solar wind", "Cosmic rays", "Infrared radiation"],
+      "answer": 0
+    },
+    {
+      "question": "The greenhouse effect is caused by:",
+      "options": ["Gases like CO₂ trapping heat", "The ozone layer", "The magnetic field", "Solar wind"],
+      "answer": 0
+    },
+    {
+      "question": "Global warming is primarily caused by:",
+      "options": ["Increase in greenhouse gases", "Decrease in greenhouse gases", "Increase in ozone", "Decrease in ozone"],
+      "answer": 0
+    },
+    {
+      "question": "The atmosphere of Venus is composed mainly of:",
+      "options": ["CO₂", "O₂", "N₂", "H₂"],
+      "answer": 0
+    },
+    {
+      "question": "The atmosphere of Mars is composed mainly of:",
+      "options": ["CO₂", "O₂", "N₂", "H₂"],
+      "answer": 0
+    },
+    {
+      "question": "The atmosphere of Earth is composed mainly of:",
+      "options": ["N₂ and O₂", "CO₂ and O₂", "N₂ and CO₂", "H₂ and He"],
+      "answer": 0
+    },
+    {
+      "question": "The Great Red Spot is a feature of:",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": 0
+    },
+    {
+      "question": "The rings of Saturn are composed of:",
+      "options": ["Ice and rock particles", "Gas", "Liquid", "Plasma"],
+      "answer": 0
+    },
+    {
+      "question": "The moon is a:",
+      "options": ["Natural satellite of Earth", "Planet", "Asteroid", "Comet"],
+      "answer": 0
+    },
+    {
+      "question": "The moon's surface is covered with:",
+      "options": ["Craters", "Oceans", "Forests", "Mountains"],
+      "answer": 0
+    },
+    {
+      "question": "The moon's phases are caused by:",
+      "options": ["The moon's orbit around Earth", "Earth's orbit around the Sun", "The Sun's orbit", "The moon's rotation"],
+      "answer": 0
+    },
+    {
+      "question": "A solar eclipse occurs when:",
+      "options": ["The moon is between the Sun and Earth", "Earth is between the Sun and the moon", "The moon is behind Earth", "The sun is behind the moon"],
+      "answer": 0
+    },
+    {
+      "question": "A lunar eclipse occurs when:",
+      "options": ["Earth is between the Sun and the moon", "The moon is between the Sun and Earth", "The moon is behind the Sun", "The Sun is behind the moon"],
+      "answer": 0
+    },
+    {
+      "question": "The tides are caused by:",
+      "options": ["The gravitational pull of the moon and Sun", "The wind", "Earth's rotation", "Ocean currents"],
+      "answer": 0
+    },
+    {
+      "question": "Spring tides occur when:",
+      "options": ["The Sun, Earth, and moon are aligned", "The Sun, Earth, and moon are at right angles", "The moon is at its closest", "The moon is at its farthest"],
+      "answer": 0
+    },
+    {
+      "question": "Neap tides occur when:",
+      "options": ["The Sun, Earth, and moon are at right angles", "The Sun, Earth, and moon are aligned", "The moon is at its closest", "The moon is at its farthest"],
+      "answer": 0
+    },
+    {
+      "question": "The rotation period of the Sun at its equator is approximately:",
+      "options": ["25 days", "30 days", "35 days", "40 days"],
+      "answer": 0
+    },
+    {
+      "question": "Sunspots are:",
+      "options": ["Dark spots on the Sun's surface", "Bright spots on the Sun", "Craters on the Sun", "Mountains on the Sun"],
+      "answer": 0
+    },
+    {
+      "question": "Sunspots are caused by:",
+      "options": ["Magnetic activity", "Temperature changes", "Solar wind", "Cosmic rays"],
+      "answer": 0
+    },
+    {
+      "question": "The solar cycle lasts approximately:",
+      "options": ["11 years", "22 years", "5 years", "15 years"],
+      "answer": 0
+    },
+    {
+      "question": "Solar flares are:",
+      "options": ["Sudden releases of energy on the Sun", "Slow releases of energy", "Permanent features", "Craters on the Sun"],
+      "answer": 0
+    },
+    {
+      "question": "The solar wind is composed of:",
+      "options": ["Protons and electrons", "Neutrons and protons", "Electrons and neutrons", "Only protons"],
+      "answer": 0
+    },
+    {
+      "question": "The Earth's magnetosphere protects us from:",
+      "options": ["Charged particles from the Sun", "Ultraviolet radiation", "Infrared radiation", "Visible light"],
+      "answer": 0
+    },
+    {
+      "question": "The Van Allen belts are:",
+      "options": ["Regions of trapped charged particles", "Regions of ice", "Regions of gas", "Regions of dust"],
+      "answer": 0
+    },
+    {
+      "question": "The aurora australis occurs in:",
+      "options": ["The southern hemisphere", "The northern hemisphere", "The equator", "Both hemispheres"],
+      "answer": 0
+    },
+    {
+      "question": "The aurora borealis occurs in:",
+      "options": ["The northern hemisphere", "The southern hemisphere", "The equator", "Both hemispheres"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetosphere of Earth extends:",
+      "options": ["Far into space", "Only to the moon", "Only to the atmosphere", "Only to the surface"],
+      "answer": 0
+    },
+    {
+      "question": "The ionosphere is a layer:",
+      "options": ["Where atoms are ionized by solar radiation", "Where it is very cold", "Where it is very hot", "Where there is no air"],
+      "answer": 0
+    },
+    {
+      "question": "The ionosphere reflects:",
+      "options": ["Radio waves", "Light waves", "X-rays", "Gamma rays"],
+      "answer": 0
+    },
+    {
+      "question": "The ozone layer is located in:",
+      "options": ["The stratosphere", "The troposphere", "The mesosphere", "The thermosphere"],
+      "answer": 0
+    },
+    {
+      "question": "The troposphere is the layer:",
+      "options": ["Where weather occurs", "Where ozone is found", "Where it is coldest", "Where it is hottest"],
+      "answer": 0
+    },
+    {
+      "question": "The stratosphere is the layer:",
+      "options": ["Where ozone is found", "Where weather occurs", "Where it is coldest", "Where it is hottest"],
+      "answer": 0
+    },
+    {
+      "question": "The mesosphere is the layer:",
+      "options": ["Where meteors burn up", "Where ozone is found", "Where weather occurs", "Where it is hottest"],
+      "answer": 0
+    },
+    {
+      "question": "The thermosphere is the layer:",
+      "options": ["Where it is very hot", "Where ozone is found", "Where weather occurs", "Where meteors burn up"],
+      "answer": 0
+    },
+    {
+      "question": "The exosphere is the layer:",
+      "options": ["Where the atmosphere merges with space", "Where ozone is found", "Where weather occurs", "Where meteors burn up"],
+      "answer": 0
+    },
+    {
+      "question": "The International Space Station orbits Earth at an altitude of approximately:",
+      "options": ["400 km", "100 km", "1000 km", "10,000 km"],
+      "answer": 0
+    },
+    {
+      "question": "The first human to walk on the moon was:",
+      "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+      "answer": 0
+    },
+    {
+      "question": "The first artificial satellite was:",
+      "options": ["Sputnik 1", "Explorer 1", "Vostok 1", "Apollo 11"],
+      "answer": 0
+    },
+    {
+      "question": "The Hubble Space Telescope was launched in:",
+      "options": ["1990", "1980", "2000", "1970"],
+      "answer": 0
+    },
+    {
+      "question": "The James Webb Space Telescope was launched in:",
+      "options": ["2021", "2015", "2018", "2020"],
+      "answer": 0
+    },
+    {
+      "question": "The Hubble Space Telescope observes in:",
+      "options": ["Visible, ultraviolet, and near-infrared", "Only visible", "Only infrared", "Only X-ray"],
+      "answer": 0
+    },
+    {
+      "question": "The James Webb Space Telescope observes in:",
+      "options": ["Infrared", "Visible", "Ultraviolet", "X-ray"],
+      "answer": 0
+    },
+    {
+      "question": "The Chandra X-ray Observatory observes in:",
+      "options": ["X-rays", "Visible", "Infrared", "Ultraviolet"],
+      "answer": 0
+    },
+    {
+      "question": "The Fermi Gamma-ray Space Telescope observes in:",
+      "options": ["Gamma rays", "X-rays", "Visible", "Infrared"],
+      "answer": 0
+    },
+    {
+      "question": "The Very Large Telescope (VLT) is located in:",
+      "options": ["Chile", "USA", "Europe", "Africa"],
+      "answer": 0
+    },
+    {
+      "question": "The Arecibo Observatory was located in:",
+      "options": ["Puerto Rico", "USA", "Mexico", "Canada"],
+      "answer": 0
+    },
+    {
+      "question": "The Green Bank Telescope is located in:",
+      "options": ["West Virginia, USA", "Virginia, USA", "Maryland, USA", "Pennsylvania, USA"],
+      "answer": 0
+    },
+    {
+      "question": "The Square Kilometre Array will be located in:",
+      "options": ["Australia and South Africa", "USA and Canada", "Europe and Asia", "South America"],
+      "answer": 0
+    },
+    {
+      "question": "The first exoplanet was discovered in:",
+      "options": ["1992", "1980", "1995", "2000"],
+      "answer": 0
+    },
+    {
+      "question": "The Kepler space telescope discovered many exoplanets by:",
+      "options": ["Transit method", "Radial velocity method", "Direct imaging", "Astrometry"],
+      "answer": 0
+    },
+    {
+      "question": "The transit method detects exoplanets by:",
+      "options": ["Measuring the dimming of the star", "Measuring the star's motion", "Direct imaging", "Measuring the star's spectrum"],
+      "answer": 0
+    },
+    {
+      "question": "The radial velocity method detects exoplanets by:",
+      "options": ["Measuring the star's wobble", "Measuring the star's brightness", "Direct imaging", "Measuring the star's temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The habitable zone is:",
+      "options": ["The region where liquid water can exist", "The region where life exists", "The region where planets exist", "The region where stars exist"],
+      "answer": 0
+    },
+    {
+      "question": "The Drake equation estimates:",
+      "options": ["The number of communicative civilizations", "The number of stars", "The number of planets", "The number of galaxies"],
+      "answer": 0
+    },
+    {
+      "question": "The Fermi paradox asks:",
+      "options": ["Why haven't we detected extraterrestrial civilizations?", "Why are we alone?", "How did life begin?", "What is the fate of the universe?"],
+      "answer": 0
+    },
+    {
+      "question": "The SETI program searches for:",
+      "options": ["Signals from extraterrestrial civilizations", "Planets", "Stars", "Galaxies"],
+      "answer": 0
+    },
+    {
+      "question": "The Wow! signal was detected in:",
+      "options": ["1977", "1980", "1990", "2000"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic distance ladder is used to measure:",
+      "options": ["Distances to astronomical objects", "Masses of astronomical objects", "Temperatures of astronomical objects", "Luminosities of astronomical objects"],
+      "answer": 0
+    },
+    {
+      "question": "Cepheid variables are used as:",
+      "options": ["Standard candles for distance measurement", "Standard stars", "Standard planets", "Standard galaxies"],
+      "answer": 0
+    },
+    {
+      "question": "Type Ia supernovae are used as:",
+      "options": ["Standard candles for distance measurement", "Standard stars", "Standard planets", "Standard galaxies"],
+      "answer": 0
+    },
+    {
+      "question": "The period-luminosity relation is used for:",
+      "options": ["Cepheid variables", "Type Ia supernovae", "Main sequence stars", "White dwarfs"],
+      "answer": 0    },
+    {
+      "question": "The Tully-Fisher relation is used for:",
+      "options": ["Spiral galaxies", "Elliptical galaxies", "Irregular galaxies", "Dwarf galaxies"],
+      "answer": 0
+    },
+    {
+      "question": "The Faber-Jackson relation is used for:",
+      "options": ["Elliptical galaxies", "Spiral galaxies", "Irregular galaxies", "Dwarf galaxies"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic microwave background has ripples that:",
+      "options": ["Show the seeds of galaxy formation", "Show the Big Bang", "Show the expansion", "Show the dark matter"],
+      "answer": 0
+    },
+    {
+      "question": "Baryon acoustic oscillations are:",
+      "options": ["Oscillations in the early universe that affected galaxy distribution", "Oscillations in the Sun", "Oscillations in Earth", "Oscillations in the moon"],
+      "answer": 0
+    },
+    {
+      "question": "The large-scale structure of the universe includes:",
+      "options": ["Filaments, voids, and clusters", "Only galaxies", "Only stars", "Only planets"],
+      "answer": 0
+    },
+    {
+      "question": "Galaxy clusters are:",
+      "options": ["Groups of galaxies bound by gravity", "Individual galaxies", "Groups of stars", "Groups of planets"],
+      "answer": 0
+    },
+    {
+      "question": "The Virgo Cluster is:",
+      "options": ["The nearest galaxy cluster", "The farthest galaxy cluster", "The largest galaxy cluster", "The smallest galaxy cluster"],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational lensing is:",
+      "options": ["The bending of light by gravity", "The bending of light by magnetic fields", "The bending of light by electric fields", "The bending of light by matter"],
+      "answer": 0
+    },
+    {
+      "question": "Strong gravitational lensing produces:",
+      "options": ["Einstein rings", "Double images", "Triple images", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Weak gravitational lensing is used to:",
+      "options": ["Map dark matter", "Measure distances", "Measure masses", "Measure temperatures"],
+      "answer": 0
+    },
+    {
+      "question": "The Sun's magnetic field:",
+      "options": ["Reverses every 11 years", "Remains constant", "Reverses every 22 years", "Reverses every 5 years"],
+      "answer": 0
+    },
+    {
+      "question": "The solar corona is:",
+      "options": ["The outermost layer of the Sun", "The innermost layer of the Sun", "The core of the Sun", "The surface of the Sun"],
+      "answer": 0
+    },
+    {
+      "question": "The solar corona is hotter than:",
+      "options": ["The surface of the Sun", "The core of the Sun", "The Earth", "The moon"],
+      "answer": 0
+    },
+    {
+      "question": "The photosphere is:",
+      "options": ["The visible surface of the Sun", "The core of the Sun", "The corona", "The chromosphere"],
+      "answer": 0
+    },
+    {
+      "question": "The chromosphere is:",
+      "options": ["The layer above the photosphere", "The core of the Sun", "The corona", "The photosphere"],
+      "answer": 0
+    },
+    {
+      "question": "Prominences are:",
+      "options": ["Giant loops of plasma on the Sun", "Dark spots on the Sun", "Craters on the Sun", "Mountains on the Sun"],
+      "answer": 0
+    },
+    {
+      "question": "Filaments are:",
+      "options": ["Prominences seen against the solar disk", "Dark spots", "Bright spots", "Craters"],
+      "answer": 0
+    },
+    {
+      "question": "The solar neutrino problem was solved by:",
+      "options": ["Neutrino oscillations", "New neutrino detectors", "More sensitive detectors", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Neutrino oscillations show that:",
+      "options": ["Neutrinos have mass", "Neutrinos are massless", "Neutrinos travel faster than light", "Neutrinos travel slower than light"],
+      "answer": 0
+    },
+    {
+      "question": "Supernovae produce:",
+      "options": ["Heavy elements", "Only light elements", "Only hydrogen", "Only helium"],
+      "answer": 0
+    },
+    {
+      "question": "The Crab Nebula is the remnant of:",
+      "options": ["A supernova observed in 1054", "A nova", "A planetary nebula", "A black hole"],
+      "answer": 0
+    },
+    {
+      "question": "The Crab Nebula contains:",
+      "options": ["A pulsar", "A black hole", "A white dwarf", "A neutron star"],
+      "answer": 0
+    },
+    {
+      "question": "A pulsar is:",
+      "options": ["A rotating neutron star emitting beams of radiation", "A black hole", "A white dwarf", "A star"],
+      "answer": 0
+    },
+    {
+      "question": "The first pulsar was discovered in:",
+      "options": ["1967", "1970", "1980", "1990"],
+      "answer": 0
+    },
+    {
+      "question": "Pulsar timing arrays are used to detect:",
+      "options": ["Gravitational waves", "Dark matter", "Dark energy", "Neutrinos"],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational waves were first detected in:",
+      "options": ["2015", "2000", "2010", "2020"],
+      "answer": 0
+    },
+    {
+      "question": "LIGO detected gravitational waves from:",
+      "options": ["Merging black holes", "Merging neutron stars", "Supernovae", "Pulsars"],
+      "answer": 0
+    },
+    {
+      "question": "The first gravitational wave detection was from:",
+      "options": ["Binary black hole merger", "Binary neutron star merger", "Supernova", "Pulsar"],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational waves are predicted by:",
+      "options": ["General relativity", "Quantum mechanics", "Newtonian mechanics", "Special relativity"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of gravitational waves is:",
+      "options": ["The speed of light", "Less than the speed of light", "Greater than the speed of light", "Zero"],
+      "answer": 0
+    },
+    {
+      "question": "The mass of a black hole is inferred from:",
+      "options": ["The motion of objects around it", "Direct observation", "Its temperature", "Its color"],
+      "answer": 0
+    },
+    {
+      "question": "The supermassive black hole at the center of the Milky Way is:",
+      "options": ["Sagittarius A*", "Cygnus X-1", "M87*", "Andromeda"],
+      "answer": 0
+    },
+    {
+      "question": "The first image of a black hole was released in:",
+      "options": ["2019", "2015", "2020", "2018"],
+      "answer": 0
+    },
+    {
+      "question": "The black hole in M87 has a mass of:",
+      "options": ["6.5 billion solar masses", "1 billion solar masses", "10 billion solar masses", "100 million solar masses"],
+      "answer": 0
+    },
+    {
+      "question": "The Event Horizon Telescope is:",
+      "options": ["A global network of radio telescopes", "A single telescope", "A space telescope", "A ground telescope"],
+      "answer": 0
+    },
+    {
+      "question": "The accretion disk around a black hole emits:",
+      "options": ["X-rays", "Visible light", "Radio waves", "Infrared"],
+      "answer": 0
+    },
+    {
+      "question": "Quasars are:",
+      "options": ["Active galactic nuclei with very high luminosity", "Stars", "Planets", "Galaxies"],
+      "answer": 0
+    },
+    {
+      "question": "Quasars are powered by:",
+      "options": ["Accretion onto supermassive black holes", "Nuclear fusion", "Nuclear fission", "Chemical reactions"],
+      "answer": 0
+    },
+    {
+      "question": "The most distant known quasars are at:",
+      "options": ["High redshift (z > 6)", "Low redshift (z < 1)", "z = 1", "z = 3"],
+      "answer": 0
+    },
+    {
+      "question": "Blazars are:",
+      "options": ["Active galactic nuclei with jets pointing towards Earth", "Galaxies", "Stars", "Planets"],
+      "answer": 0
+    },
+    {
+      "question": "Active galactic nuclei are:",
+      "options": ["Galaxies with very bright centers", "Stars with very bright centers", "Planets with very bright centers", "Nebulae with very bright centers"],
+      "answer": 0
+    },
+    {
+      "question": "The unified model of active galactic nuclei explains:",
+      "options": ["Different types of AGN as the same object viewed from different angles", "Different types of stars", "Different types of planets", "Different types of galaxies"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic web is:",
+      "options": ["The large-scale structure of the universe", "The structure of a galaxy", "The structure of a star", "The structure of a planet"],
+      "answer": 0
+    },
+    {
+      "question": "Voids in the universe are:",
+      "options": ["Large regions with few galaxies", "Regions with many galaxies", "Regions with no stars", "Regions with no planets"],
+      "answer": 0
+    },
+    {
+      "question": "Filaments in the cosmic web are:",
+      "options": ["Regions where galaxies are concentrated", "Regions with no galaxies", "Regions with no stars", "Regions with no planets"],
+      "answer": 0
+    },
+    {
+      "question": "The Boötes void is:",
+      "options": ["A large void in the universe", "A large galaxy cluster", "A large star cluster", "A large planet"],
+      "answer": 0
+    },
+    {
+      "question": "The Sloan Great Wall is:",
+      "options": ["A large wall of galaxies", "A large void", "A large star", "A large planet"],
+      "answer": 0
+    },
+    {
+      "question": "The Hercules-Corona Borealis Great Wall is:",
+      "options": ["The largest known structure in the universe", "A galaxy", "A star", "A planet"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic microwave background was discovered in:",
+      "options": ["1965", "1970", "1980", "1990"],
+      "answer": 0
+    },
+    {
+      "question": "Penzias and Wilson discovered:",
+      "options": ["The cosmic microwave background", "The first pulsar", "The first quasar", "The first exoplanet"],
+      "answer": 0
+    },
+    {
+      "question": "The COBE satellite measured:",
+      "options": ["The cosmic microwave background", "The cosmic rays", "The solar wind", "The interstellar medium"],
+      "answer": 0
+    },
+    {
+      "question": "The WMAP satellite measured:",
+      "options": ["The cosmic microwave background", "The cosmic rays", "The solar wind", "The interstellar medium"],
+      "answer": 0
+    },
+    {
+      "question": "The Planck satellite measured:",
+      "options": ["The cosmic microwave background with high precision", "The cosmic rays", "The solar wind", "The interstellar medium"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic microwave background fluctuations are:",
+      "options": ["Tiny variations in temperature", "Large variations in temperature", "Variations in density", "Variations in pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic microwave background fluctuations have amplitudes of about:",
+      "options": ["10⁻⁵ K", "10⁻³ K", "1 K", "10 K"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic peaks in the CMB power spectrum are caused by:",
+      "options": ["Oscillations in the early universe", "Dark matter", "Dark energy", "Neutrinos"],
+      "answer": 0
+    },
+    {
+      "question": "The first acoustic peak in the CMB power spectrum corresponds to:",
+      "options": ["The scale of the horizon at recombination", "The scale of the horizon at decoupling", "The scale of the horizon today", "The scale of the horizon at nucleosynthesis"],
+      "answer": 0
+    },
+    {
+      "question": "The baryon-to-photon ratio is determined from:",
+      "options": ["The CMB power spectrum", "The CMB temperature", "The CMB polarization", "The CMB intensity"],
+      "answer": 0
+    },
+    {
+      "question": "The CMB polarization is caused by:",
+      "options": ["Thomson scattering", "Compton scattering", "Rayleigh scattering", "Mie scattering"],
+      "answer": 0
+    },
+    {
+      "question": "The E-mode polarization of the CMB is caused by:",
+      "options": ["Scalar perturbations", "Vector perturbations", "Tensor perturbations", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The B-mode polarization of the CMB is caused by:",
+      "options": ["Gravitational waves", "Scalar perturbations", "Vector perturbations", "Density perturbations"],
+      "answer": 0
+    },
+    {
+      "question": "B-mode polarization of the CMB is evidence for:",
+      "options": ["Inflation", "Dark matter", "Dark energy", "Neutrinos"],
+      "answer": 0
+    },
+    {
+      "question": "Inflation is:",
+      "options": ["A period of rapid expansion in the early universe", "The expansion of the universe", "The contraction of the universe", "The Big Bang"],
+      "answer": 0
+    },
+    {
+      "question": "Inflation explains:",
+      "options": ["The horizon problem and flatness problem", "The Big Bang", "The expansion", "The contraction"],
+      "answer": 0
+    },
+    {
+      "question": "The horizon problem is:",
+      "options": ["Why the CMB is so uniform", "Why the universe is so flat", "Why there is no antimatter", "Why there is dark matter"],
+      "answer": 0
+    },
+    {
+      "question": "The flatness problem is:",
+      "options": ["Why the universe is so close to flat", "Why the universe is so uniform", "Why there is no antimatter", "Why there is dark matter"],
+      "answer": 0
+    },
+    {
+      "question": "The monopole problem is:",
+      "options": ["Why no magnetic monopoles are observed", "Why there is no antimatter", "Why there is dark matter", "Why the universe is flat"],
+      "answer": 0
+    },
+    {
+      "question": "The dark matter problem is:",
+      "options": ["The missing mass in the universe", "The missing energy in the universe", "The missing stars", "The missing planets"],
+      "answer": 0
+    },
+    {
+      "question": "Dark matter candidates include:",
+      "options": ["Weakly Interacting Massive Particles (WIMPs)", "Neutrinos", "Black holes", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Axions are:",
+      "options": ["Hypothetical particles that could be dark matter", "A type of star", "A type of galaxy", "A type of planet"],
+      "answer": 0
+    },
+    {
+      "question": "MACHOs are:",
+      "options": ["Massive Compact Halo Objects", "A type of star", "A type of galaxy", "A type of planet"],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational microlensing is used to detect:",
+      "options": ["MACHOs", "WIMPs", "Neutrinos", "Axions"],
+      "answer": 0
+    },
+    {
+      "question": "The dark energy problem is:",
+      "options": ["Why the expansion of the universe is accelerating", "Why the universe is expanding", "Why the universe is contracting", "Why the universe is static"],
+      "answer": 0
+    },
+    {
+      "question": "Dark energy is thought to make up about:",
+      "options": ["70% of the universe", "20% of the universe", "10% of the universe", "50% of the universe"],
+      "answer": 0
+    },
+    {
+      "question": "Dark matter is thought to make up about:",
+      "options": ["25% of the universe", "70% of the universe", "10% of the universe", "50% of the universe"],
+      "answer": 0
+    },
+    {
+      "question": "Normal matter makes up about:",
+      "options": ["5% of the universe", "70% of the universe", "25% of the universe", "50% of the universe"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmological constant Λ is a possible explanation for:",
+      "options": ["Dark energy", "Dark matter", "The Big Bang", "Inflation"],
+      "answer": 0
+    },
+    {
+      "question": "The equation of state for dark energy is:",
+      "options": ["w = P/ρ ≈ -1", "w = P/ρ ≈ 0", "w = P/ρ ≈ 1", "w = P/ρ ≈ -1/3"],
+      "answer": 0
+    },
+    {
+      "question": "Quintessence is:",
+      "options": ["A dynamical form of dark energy", "A static form of dark energy", "A form of dark matter", "A form of normal matter"],
+      "answer": 0
+    },
+    {
+      "question": "The anthropic principle states that:",
+      "options": ["The universe is fine-tuned for life", "The universe is not fine-tuned", "Life is inevitable", "Life is impossible"],
+      "answer": 0
+    },
+    {
+      "question": "The multiverse theory suggests:",
+      "options": ["There are many universes", "There is only one universe", "The universe is infinite", "The universe is finite"],
+      "answer": 0
+    },
+    {
+      "question": "The Many-Worlds interpretation is a:",
+      "options": ["Interpretation of quantum mechanics", "Interpretation of general relativity", "Interpretation of the Big Bang", "Interpretation of dark matter"],
+      "answer": 0
+    },
+    {
+      "question": "The Big Rip scenario is:",
+      "options": ["A possible fate of the universe where everything is torn apart", "The Big Bang", "The Big Crunch", "The heat death"],
+      "answer": 0
+    },
+    {
+      "question": "The Big Crunch scenario is:",
+      "options": ["A possible fate of the universe where it recollapses", "The Big Bang", "The Big Rip", "The heat death"],
+      "answer": 0
+    },
+    {
+      "question": "The heat death of the universe is:",
+      "options": ["When the universe reaches maximum entropy", "When the universe recollapses", "When the universe is torn apart", "When the universe ends in fire"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy of the universe is:",
+      "options": ["Always increasing", "Always decreasing", "Constant", "Zero"],
+      "answer": 0
+    },
+    {
+      "question": "The second law of thermodynamics states that:",
+      "options": ["Entropy always increases", "Energy is conserved", "Momentum is conserved", "Angular momentum is conserved"],
+      "answer": 0
+    },
+    {
+      "question": "The arrow of time is related to:",
+      "options": ["The increase of entropy", "The expansion of the universe", "The Big Bang", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The thermodynamic arrow of time is:",
+      "options": ["The direction of increasing entropy", "The direction of decreasing entropy", "The direction of expansion", "The direction of contraction"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmological arrow of time is:",
+      "options": ["The direction of expansion of the universe", "The direction of contraction", "The direction of increasing entropy", "The direction of decreasing entropy"],
+      "answer": 0
+    },
+    {
+      "question": "The psychological arrow of time is:",
+      "options": ["Our perception of time moving forward", "The direction of expansion", "The direction of increasing entropy", "The direction of contraction"],
+      "answer": 0
+    },
+    {
+      "question": "The arrow of time may be explained by:",
+      "options": ["The initial conditions of the universe", "The final conditions of the universe", "The second law", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The holographic principle suggests:",
+      "options": ["The universe may be a hologram", "The universe is a projection", "The universe is three-dimensional", "The universe is two-dimensional"],
+      "answer": 0
+    },
+    {
+      "question": "The AdS/CFT correspondence is:",
+      "options": ["A duality between gravity in anti-de Sitter space and conformal field theory", "A duality between gravity and electromagnetism", "A duality between quantum mechanics and general relativity", "A duality between special relativity and quantum mechanics"],
+      "answer": 0
+    },
+    {
+      "question": "The string theory landscape suggests:",
+      "options": ["There are many possible string theory vacua", "There is only one string theory", "String theory is wrong", "String theory is incomplete"],
+      "answer": 0
+    },
+    {
+      "question": "The anthropic principle in string theory suggests:",
+      "options": ["We live in a vacuum that allows life", "We live in the only vacuum", "All vacuums allow life", "No vacuums allow life"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmological constant problem is:",
+      "options": ["Why the observed dark energy is so small", "Why dark energy is so large", "Why there is no dark energy", "Why dark energy is constant"],
+      "answer": 0
+    },
+    {
+      "question": "The vacuum energy problem is:",
+      "options": ["The discrepancy between predicted and observed vacuum energy", "The discrepancy between predicted and observed dark matter", "The discrepancy between predicted and observed expansion", "The discrepancy between predicted and observed entropy"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum fluctuations of the vacuum may lead to:",
+      "options": ["The cosmological constant", "Dark matter", "The Big Bang", "Inflation"],
+      "answer": 0
+    },
+    {
+      "question": "The Casimir effect is evidence for:",
+      "options": ["Vacuum energy", "Dark energy", "Dark matter", "Inflation"],
+      "answer": 0
+    },
+    {
+      "question": "The vacuum energy in quantum field theory is:",
+      "options": ["Infinite", "Zero", "Finite", "Negative"],
+      "answer": 0
+    },
+    {
+      "question": "The renormalization procedure in quantum field theory:",
+      "options": ["Removes infinities", "Creates infinities", "Changes infinities", "Ignored infinities"],
+      "answer": 0
+    },
+    {
+      "question": "The hierarchy problem is:",
+      "options": ["The large discrepancy between the weak scale and the Planck scale", "The discrepancy between dark matter and normal matter", "The discrepancy between dark energy and normal energy", "The discrepancy between entropy and energy"],
+      "answer": 0
+    },
+    {
+      "question": "Supersymmetry solves:",
+      "options": ["The hierarchy problem", "The dark matter problem", "The dark energy problem", "The Big Bang problem"],
+      "answer": 0
+    },
+    {
+      "question": "The Large Hadron Collider searches for:",
+      "options": ["Supersymmetry", "Dark matter", "Extra dimensions", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Extra dimensions are predicted by:",
+      "options": ["String theory", "General relativity", "Quantum mechanics", "Special relativity"],
+      "answer": 0
+    },
+    {
+      "question": "Kaluza-Klein theory unifies:",
+      "options": ["Gravity and electromagnetism", "Quantum mechanics and general relativity", "Special relativity and quantum mechanics", "Gravity and nuclear forces"],
+      "answer": 0
+    },
+    {
+      "question": "The standard model of particle physics describes:",
+      "options": ["Fundamental particles and forces", "The universe as a whole", "The structure of galaxies", "The evolution of stars"],
+      "answer": 0
+    },
+    {
+      "question": "The standard model does not include:",
+      "options": ["Gravity", "Electromagnetism", "Weak nuclear force", "Strong nuclear force"],
+      "answer": 0
+    },
+    {
+      "question": "Grand unified theories attempt to unify:",
+      "options": ["The strong, weak, and electromagnetic forces", "Gravity and quantum mechanics", "All four forces", "Only gravity and electromagnetism"],
+      "answer": 0
+    },
+    {
+      "question": "Proton decay is predicted by:",
+      "options": ["Grand unified theories", "String theory", "General relativity", "Quantum mechanics"],
+      "answer": 0
+    },
+    {
+      "question": "The proton lifetime is expected to be:",
+      "options": ["Very long, > 10³² years", "Very short, < 10⁻¹⁰ seconds", "About 10¹⁰ years", "About 10²⁰ years"],
+      "answer": 0
+    },
+    {
+      "question": "The early universe was:",
+      "options": ["Very hot and dense", "Very cold and sparse", "Similar to today", "Empty"],
+      "answer": 0
+    },
+    {
+      "question": "The quark-gluon plasma existed in:",
+      "options": ["The early universe", "The present universe", "Stars", "Black holes"],
+      "answer": 0
+    },
+    {
+      "question": "The quark-gluon plasma is:",
+      "options": ["A state of matter where quarks and gluons are free", "A state of matter where quarks are bound", "A state of matter where gluons are bound", "A state of matter without quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The QCD phase transition occurred:",
+      "options": ["When quarks became confined into hadrons", "When hadrons became quarks", "When electrons became free", "When neutrinos decoupled"],
+      "answer": 0
+    },
+    {
+      "question": "The electroweak phase transition occurred:",
+      "options": ["When the weak and electromagnetic forces separated", "When the strong and weak forces separated", "When the strong and electromagnetic forces separated", "When gravity separated"],
+      "answer": 0
+    },
+    {
+      "question": "The Higgs mechanism gives:",
+      "options": ["Mass to particles", "Charge to particles", "Spin to particles", "Color to particles"],
+      "answer": 0
+    },
+    {
+      "question": "The Higgs boson was discovered in:",
+      "options": ["2012", "2000", "2010", "2015"],
+      "answer": 0
+    },
+    {
+      "question": "The Higgs boson was discovered at:",
+      "options": ["The Large Hadron Collider", "The Tevatron", "The Fermilab", "CERN"],
+      "answer": 0
+    },
+    {
+      "question": "The mass of the Higgs boson is about:",
+      "options": ["125 GeV", "100 GeV", "150 GeV", "200 GeV"],
+      "answer": 0
+    },
+    {
+      "question": "The discovery of the Higgs boson:",
+      "options": ["Confirmed the Standard Model", "Disproved the Standard Model", "Disproved string theory", "Confirmed string theory"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic microwave background is:",
+      "options": ["The oldest light in the universe", "The newest light in the universe", "The brightest light in the universe", "The dimmest light in the universe"],
+      "answer": 0
+    },
+    {
+      "question": "The CMB was emitted when the universe was about:",
+      "options": ["380,000 years old", "10,000 years old", "1 million years old", "100 million years old"],
+      "answer": 0
+    },
+    {
+      "question": "The recombination epoch is when:",
+      "options": ["Atoms formed from electrons and nuclei", "Atoms split into electrons and nuclei", "Stars formed", "Galaxies formed"],
+      "answer": 0
+    },
+    {
+      "question": "The decoupling epoch is when:",
+      "options": ["Photons stopped interacting with matter", "Photons started interacting with matter", "Atoms formed", "Stars formed"],
+      "answer": 0
+    },
+    {
+      "question": "The redshift of the CMB is about:",
+      "options": ["1100", "100", "1000", "10"],
+      "answer": 0
+    },
+    {
+      "question": "The CMB temperature increases with:",
+      "options": ["Redshift", "Distance", "Time", "Age"],
+      "answer": 0
+    },
+    {
+      "question": "The CMB temperature is inversely proportional to:",
+      "options": ["Scale factor", "Redshift", "Distance", "Time"],
+      "answer": 0
+    },
+    {
+      "question": "The Friedmann-Robertson-Walker metric describes:",
+      "options": ["The expanding universe", "The static universe", "The contracting universe", "The oscillating universe"],
+      "answer": 0
+    },
+    {
+      "question": "The scale factor in the FRW metric:",
+      "options": ["Describes the expansion of the universe", "Describes the contraction of the universe", "Describes the curvature of the universe", "Describes the topology of the universe"],
+      "answer": 0
+    },
+    {
+      "question": "The expansion rate of the universe is given by:",
+      "options": ["Hubble parameter H = ȧ/a", "Hubble parameter H = a/ȧ", "Hubble parameter H = ȧ", "Hubble parameter H = a"],
+      "answer": 0
+    },
+    {
+      "question": "The deceleration parameter q = -äa/ȧ² describes:",
+      "options": ["Whether the expansion is accelerating or decelerating", "The expansion rate", "The curvature", "The density"],
+      "answer": 0
+    },
+    {
+      "question": "The current value of q is:",
+      "options": ["Negative, indicating acceleration", "Positive, indicating deceleration", "Zero, indicating constant expansion", "One, indicating maximum expansion"],
+      "answer": 0
+    }
+  ]
 }
+```
