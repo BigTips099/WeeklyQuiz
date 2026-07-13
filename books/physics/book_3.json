@@ -1,0 +1,826 @@
+{
+  "category": "Electromagnetism",
+  "total_questions": 164,
+  "questions": [
+    {
+      "question": "The fundamental unit of charge is:",
+      "options": ["Coulomb", "Newton", "Joule", "Watt"],
+      "answer": 0
+    },
+    {
+      "question": "The charge on an electron is:",
+      "options": ["-1.6 × 10⁻¹⁹ C", "1.6 × 10⁻¹⁹ C", "-1.6 × 10⁻⁹ C", "1.6 × 10⁻⁹ C"],
+      "answer": 0
+    },
+    {
+      "question": "The charge on a proton is:",
+      "options": ["1.6 × 10⁻¹⁹ C", "-1.6 × 10⁻¹⁹ C", "1.6 × 10⁻⁹ C", "-1.6 × 10⁻⁹ C"],
+      "answer": 0
+    },
+    {
+      "question": "Coulomb's law states that the force between two charges is:",
+      "options": ["Directly proportional to product of charges and inversely proportional to square of distance", "Inversely proportional to product of charges and directly proportional to square of distance", "Directly proportional to product of charges and distance", "Inversely proportional to product of charges and distance"],
+      "answer": 0
+    },
+    {
+      "question": "The Coulomb constant k is approximately:",
+      "options": ["9 × 10⁹ N·m²/C²", "9 × 10⁶ N·m²/C²", "9 × 10¹² N·m²/C²", "9 × 10³ N·m²/C²"],
+      "answer": 0
+    },
+    {
+      "question": "The electric field is defined as:",
+      "options": ["Force per unit charge", "Force per unit mass", "Energy per unit charge", "Energy per unit mass"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of electric field is:",
+      "options": ["N/C", "V/m", "J/C", "Both A and B"],
+      "answer": 3
+    },
+    {
+      "question": "The electric field of a point charge is given by:",
+      "options": ["E = kQ/r²", "E = kQ/r", "E = kQ/r³", "E = kQ"],
+      "answer": 0
+    },
+    {
+      "question": "Electric field lines:",
+      "options": ["Start on positive charges and end on negative charges", "Start on negative charges and end on positive charges", "Form closed loops", "Start and end on the same charge"],
+      "answer": 0
+    },
+    {
+      "question": "Electric potential is defined as:",
+      "options": ["Potential energy per unit charge", "Force per unit charge", "Energy per unit mass", "Force per unit mass"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of electric potential is:",
+      "options": ["Volt", "Joule", "Newton", "Watt"],
+      "answer": 0
+    },
+    {
+      "question": "The electric potential of a point charge is given by:",
+      "options": ["V = kQ/r", "V = kQ/r²", "V = kQ/r³", "V = kQ"],
+      "answer": 0
+    },
+    {
+      "question": "The potential difference between two points is:",
+      "options": ["V_B - V_A", "V_A - V_B", "V_A + V_B", "V_A × V_B"],
+      "answer": 0
+    },
+    {
+      "question": "The electric field is related to potential by:",
+      "options": ["E = -∇V", "E = ∇V", "E = -dV/dx", "Both A and C"],
+      "answer": 3
+    },
+    {
+      "question": "A conductor is a material that:",
+      "options": ["Allows charges to move freely", "Does not allow charges to move", "Has no charges", "Is always charged"],
+      "answer": 0
+    },
+    {
+      "question": "An insulator is a material that:",
+      "options": ["Does not allow charges to move freely", "Allows charges to move freely", "Has many free charges", "Is always charged"],
+      "answer": 0
+    },
+    {
+      "question": "The capacitance of a conductor is defined as:",
+      "options": ["Q/V", "V/Q", "Q×V", "Q²/V"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of capacitance is:",
+      "options": ["Farad", "Coulomb", "Volt", "Ohm"],
+      "answer": 0
+    },
+    {
+      "question": "The capacitance of a parallel plate capacitor is:",
+      "options": ["ε₀A/d", "ε₀d/A", "A/ε₀d", "d/ε₀A"],
+      "answer": 0
+    },
+    {
+      "question": "For capacitors in series, the total capacitance is given by:",
+      "options": ["1/C = 1/C₁ + 1/C₂ + ...", "C = C₁ + C₂ + ...", "C = C₁C₂/(C₁+C₂)", "Both A and C"],
+      "answer": 0
+    },
+    {
+      "question": "For capacitors in parallel, the total capacitance is given by:",
+      "options": ["C = C₁ + C₂ + ...", "1/C = 1/C₁ + 1/C₂ + ...", "C = C₁C₂/(C₁+C₂)", "Both B and C"],
+      "answer": 0
+    },
+    {
+      "question": "The energy stored in a capacitor is:",
+      "options": ["½CV²", "½Q²/C", "½QV", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Ohm's law states that:",
+      "options": ["V = IR", "I = VR", "R = VI", "V = I/R"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of resistance is:",
+      "options": ["Ohm", "Volt", "Ampere", "Watt"],
+      "answer": 0
+    },
+    {
+      "question": "The resistance of a conductor is:",
+      "options": ["R = ρL/A", "R = ρA/L", "R = L/ρA", "R = A/ρL"],
+      "answer": 0
+    },
+    {
+      "question": "The resistivity of a material depends on:",
+      "options": ["Temperature", "Length", "Area", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Conductance is the reciprocal of:",
+      "options": ["Resistance", "Resistivity", "Voltage", "Current"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of conductance is:",
+      "options": ["Siemens", "Ohm", "Volt", "Ampere"],
+      "answer": 0
+    },
+    {
+      "question": "For resistors in series, the total resistance is:",
+      "options": ["R = R₁ + R₂ + ...", "1/R = 1/R₁ + 1/R₂ + ...", "R = R₁R₂/(R₁+R₂)", "Both B and C"],
+      "answer": 0
+    },
+    {
+      "question": "For resistors in parallel, the total resistance is:",
+      "options": ["1/R = 1/R₁ + 1/R₂ + ...", "R = R₁ + R₂ + ...", "R = R₁R₂/(R₁+R₂)", "Both A and C"],
+      "answer": 0
+    },
+    {
+      "question": "Kirchhoff's first law is the law of:",
+      "options": ["Conservation of charge", "Conservation of energy", "Conservation of momentum", "Conservation of mass"],
+      "answer": 0
+    },
+    {
+      "question": "Kirchhoff's second law is the law of:",
+      "options": ["Conservation of energy", "Conservation of charge", "Conservation of momentum", "Conservation of mass"],
+      "answer": 0
+    },
+    {
+      "question": "The electric current is:",
+      "options": ["The rate of flow of charge", "The rate of flow of energy", "The rate of flow of mass", "The rate of flow of momentum"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of current is:",
+      "options": ["Ampere", "Coulomb", "Volt", "Ohm"],
+      "answer": 0
+    },
+    {
+      "question": "The current density is:",
+      "options": ["Current per unit area", "Current per unit volume", "Current per unit length", "Current per unit charge"],
+      "answer": 0
+    },
+    {
+      "question": "The drift velocity of electrons is:",
+      "options": ["Very small (mm/s)", "Very large (km/s)", "Equal to speed of light", "Zero"],
+      "answer": 0
+    },
+    {
+      "question": "The mobility of charge carriers is defined as:",
+      "options": ["v_d/E", "v_d/E²", "E/v_d", "v_d × E"],
+      "answer": 0
+    },
+    {
+      "question": "The Hall effect is:",
+      "options": ["The production of a voltage across a current-carrying conductor in a magnetic field", "The production of current in a magnetic field", "The production of charge in a magnetic field", "The production of energy in a magnetic field"],
+      "answer": 0
+    },
+    {
+      "question": "The Hall effect is used to:",
+      "options": ["Determine the sign of charge carriers", "Measure resistance", "Measure capacitance", "Measure inductance"],
+      "answer": 0
+    },
+    {
+      "question": "Magnetic field lines:",
+      "options": ["Form closed loops", "Start on north poles and end on south poles", "Start on south poles and end on north poles", "Are straight lines"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field of a long straight wire is given by:",
+      "options": ["B = μ₀I/2πr", "B = μ₀I/4πr", "B = μ₀I/2r", "B = μ₀I/r"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field at the center of a circular loop is given by:",
+      "options": ["B = μ₀I/2r", "B = μ₀I/4πr", "B = μ₀I/2πr", "B = μ₀I/r"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field of a solenoid is given by:",
+      "options": ["B = μ₀nI", "B = μ₀I/2πr", "B = μ₀I/2r", "B = μ₀I/4πr"],
+      "answer": 0
+    },
+    {
+      "question": "The permeability of free space μ₀ is:",
+      "options": ["4π × 10⁻⁷ T·m/A", "4π × 10⁷ T·m/A", "4π × 10⁻⁷ N/A²", "Both A and C"],
+      "answer": 3
+    },
+    {
+      "question": "The force on a moving charge in a magnetic field is given by:",
+      "options": ["F = qv × B", "F = qE + qv × B", "F = qE", "F = qvB"],
+      "answer": 0
+    },
+    {
+      "question": "The Lorentz force is:",
+      "options": ["F = q(E + v × B)", "F = q(E - v × B)", "F = q(v + E × B)", "F = q(v - E × B)"],
+      "answer": 0
+    },
+    {
+      "question": "The force on a current-carrying conductor in a magnetic field is:",
+      "options": ["F = Il × B", "F = IlB", "F = Il/B", "F = lB/I"],
+      "answer": 0
+    },
+    {
+      "question": "The torque on a current loop in a magnetic field is:",
+      "options": ["τ = μ × B", "τ = μB", "τ = μ/B", "τ = B/μ"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic moment of a current loop is:",
+      "options": ["μ = IA", "μ = I/A", "μ = A/I", "μ = IA²"],
+      "answer": 0
+    },
+    {
+      "question": "The Biot-Savart law gives the magnetic field due to:",
+      "options": ["A current element", "A point charge", "A magnetic dipole", "An electric dipole"],
+      "answer": 0
+    },
+    {
+      "question": "The Biot-Savart law is:",
+      "options": ["dB = μ₀I dl × r̂ / 4πr²", "dB = μ₀I dl / 4πr²", "dB = μ₀I dl × r̂ / 4πr", "dB = μ₀I dl / 4πr"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic flux through a surface is:",
+      "options": ["Φ = ∫B·dA", "Φ = ∫B dA", "Φ = B·A", "Φ = B/A"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of magnetic flux is:",
+      "options": ["Weber", "Tesla", "Henry", "Farad"],
+      "answer": 0
+    },
+    {
+      "question": "Faraday's law of induction states:",
+      "options": ["ε = -dΦ/dt", "ε = dΦ/dt", "ε = -dI/dt", "ε = dI/dt"],
+      "answer": 0
+    },
+    {
+      "question": "Lenz's law states that the induced current:",
+      "options": ["Opposes the change that produced it", "Supports the change that produced it", "Is independent of the change", "Is proportional to the change"],
+      "answer": 0
+    },
+    {
+      "question": "The motional emf is given by:",
+      "options": ["ε = Blv", "ε = Blv sinθ", "ε = Bl/v", "ε = Bv/l"],
+      "answer": 0
+    },
+    {
+      "question": "Self-inductance is defined as:",
+      "options": ["L = Φ/I", "L = I/Φ", "L = dΦ/dI", "L = dI/dΦ"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of inductance is:",
+      "options": ["Henry", "Weber", "Tesla", "Farad"],
+      "answer": 0
+    },
+    {
+      "question": "The inductance of a solenoid is:",
+      "options": ["L = μ₀n²Al", "L = μ₀nAl", "L = μ₀n²A/l", "L = μ₀nA/l"],
+      "answer": 0
+    },
+    {
+      "question": "The energy stored in an inductor is:",
+      "options": ["½LI²", "½L²I", "LI²", "L²I"],
+      "answer": 0
+    },
+    {
+      "question": "The mutual inductance between two coils is:",
+      "options": ["M = Φ₁₂/I₁ = Φ₂₁/I₂", "M = I₁/Φ₁₂ = I₂/Φ₂₁", "M = Φ₁₂I₁ = Φ₂₁I₂", "M = Φ₁₂/I₂ = Φ₂₁/I₁"],
+      "answer": 0
+    },
+    {
+      "question": "The energy density in a magnetic field is:",
+      "options": ["B²/2μ₀", "B²/μ₀", "μ₀B²/2", "μ₀B²"],
+      "answer": 0
+    },
+    {
+      "question": "The displacement current is given by:",
+      "options": ["I_d = ε₀ dΦ_E/dt", "I_d = μ₀ dΦ_E/dt", "I_d = ε₀ Φ_E", "I_d = μ₀ Φ_E"],
+      "answer": 0
+    },
+    {
+      "question": "Maxwell's equations in integral form are:",
+      "options": ["∮E·dA = Q/ε₀", "∮B·dA = 0", "∮E·dl = -dΦ_B/dt", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Maxwell's equations in differential form are:",
+      "options": ["∇·E = ρ/ε₀", "∇·B = 0", "∇×E = -∂B/∂t", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Maxwell's equations predict:",
+      "options": ["Electromagnetic waves", "Gravitational waves", "Sound waves", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of electromagnetic waves is:",
+      "options": ["c = 1/√(μ₀ε₀)", "c = √(μ₀ε₀)", "c = μ₀ε₀", "c = 1/μ₀ε₀"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of light in vacuum is approximately:",
+      "options": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10¹⁰ m/s", "3 × 10⁴ m/s"],
+      "answer": 0
+    },
+    {
+      "question": "The electromagnetic spectrum includes:",
+      "options": ["Radio waves, microwaves, infrared, visible, UV, X-rays, gamma rays", "Only visible light", "Only radio waves", "Only X-rays"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency of visible light is about:",
+      "options": ["4 × 10¹⁴ to 7 × 10¹⁴ Hz", "10¹² to 10¹³ Hz", "10¹⁶ to 10¹⁷ Hz", "10⁹ to 10¹⁰ Hz"],
+      "answer": 0
+    },
+    {
+      "question": "The wavelength of visible light is about:",
+      "options": ["400 to 700 nm", "1 to 10 nm", "1 to 10 μm", "1 to 10 mm"],
+      "answer": 0
+    },
+    {
+      "question": "The Poynting vector is given by:",
+      "options": ["S = E × H", "S = E · H", "S = E/H", "S = H/E"],
+      "answer": 0
+    },
+    {
+      "question": "The Poynting vector represents:",
+      "options": ["Energy flux per unit area", "Momentum flux", "Charge flux", "Mass flux"],
+      "answer": 0
+    },
+    {
+      "question": "The radiation pressure is given by:",
+      "options": ["P = S/c", "P = S/c²", "P = cS", "P = c²S"],
+      "answer": 0
+    },
+    {
+      "question": "The skin depth in a conductor is given by:",
+      "options": ["δ = √(2/ωμσ)", "δ = √(ωμσ/2)", "δ = √(2/ωμ)", "δ = √(ωμ/2)"],
+      "answer": 0
+    },
+    {
+      "question": "The impedance of a transmission line is:",
+      "options": ["Z₀ = √(L/C)", "Z₀ = √(C/L)", "Z₀ = LC", "Z₀ = 1/LC"],
+      "answer": 0
+    },
+    {
+      "question": "The reflection coefficient at a boundary is:",
+      "options": ["Γ = (Z₂ - Z₁)/(Z₂ + Z₁)", "Γ = (Z₂ + Z₁)/(Z₂ - Z₁)", "Γ = Z₂/Z₁", "Γ = Z₁/Z₂"],
+      "answer": 0
+    },
+    {
+      "question": "The transmission coefficient at a boundary is:",
+      "options": ["τ = 2Z₂/(Z₁ + Z₂)", "τ = 2Z₁/(Z₁ + Z₂)", "τ = Z₂/Z₁", "τ = Z₁/Z₂"],
+      "answer": 0
+    },
+    {
+      "question": "The standing wave ratio (SWR) is:",
+      "options": ["SWR = (1 + |Γ|)/(1 - |Γ|)", "SWR = (1 - |Γ|)/(1 + |Γ|)", "SWR = |Γ|", "SWR = 1/|Γ|"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of light in a medium is:",
+      "options": ["v = c/n", "v = cn", "v = c/n²", "v = n/c"],
+      "answer": 0
+    },
+    {
+      "question": "The refractive index of a medium is:",
+      "options": ["n = c/v", "n = v/c", "n = c/v²", "n = v²/c"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency of a wave is:",
+      "options": ["f = c/λ", "f = cλ", "f = λ/c", "f = 1/λ"],
+      "answer": 0
+    },
+    {
+      "question": "The wave number is given by:",
+      "options": ["k = 2π/λ", "k = λ/2π", "k = 2πλ", "k = 1/λ"],
+      "answer": 0
+    },
+    {
+      "question": "The angular frequency is given by:",
+      "options": ["ω = 2πf", "ω = f/2π", "ω = 2π/f", "ω = 1/f"],
+      "answer": 0
+    },
+    {
+      "question": "The electric field and magnetic field in an EM wave are:",
+      "options": ["Perpendicular to each other", "Parallel to each other", "Anti-parallel to each other", "At 45° to each other"],
+      "answer": 0
+    },
+    {
+      "question": "The electric field and propagation direction in an EM wave are:",
+      "options": ["Perpendicular", "Parallel", "Anti-parallel", "At 45°"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field and propagation direction in an EM wave are:",
+      "options": ["Perpendicular", "Parallel", "Anti-parallel", "At 45°"],
+      "answer": 0
+    },
+    {
+      "question": "The direction of propagation of an EM wave is given by:",
+      "options": ["E × B", "E · B", "E/B", "B/E"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of EM waves in vacuum is:",
+      "options": ["Independent of frequency", "Dependent on frequency", "Dependent on amplitude", "Dependent on wavelength"],
+      "answer": 0
+    },
+    {
+      "question": "The dispersion relation for EM waves in vacuum is:",
+      "options": ["ω = ck", "ω = c/k", "ω = ck²", "ω = c²k"],
+      "answer": 0
+    },
+    {
+      "question": "The group velocity of a wave is:",
+      "options": ["v_g = dω/dk", "v_g = ω/k", "v_g = dk/dω", "v_g = k/ω"],
+      "answer": 0
+    },
+    {
+      "question": "The phase velocity of a wave is:",
+      "options": ["v_p = ω/k", "v_p = dω/dk", "v_p = dk/dω", "v_p = k/ω"],
+      "answer": 0
+    },
+    {
+      "question": "The Brewster angle is given by:",
+      "options": ["tanθ_B = n₂/n₁", "tanθ_B = n₁/n₂", "sinθ_B = n₂/n₁", "cosθ_B = n₂/n₁"],
+      "answer": 0
+    },
+    {
+      "question": "At Brewster angle, the reflected light is:",
+      "options": ["Polarized", "Unpolarized", "Circularly polarized", "Elliptically polarized"],
+      "answer": 0
+    },
+    {
+      "question": "The critical angle is given by:",
+      "options": ["sinθ_c = n₂/n₁", "sinθ_c = n₁/n₂", "tanθ_c = n₂/n₁", "cosθ_c = n₂/n₁"],
+      "answer": 0
+    },
+    {
+      "question": "Total internal reflection occurs when:",
+      "options": ["Angle of incidence > critical angle", "Angle of incidence < critical angle", "Angle of incidence = critical angle", "Angle of incidence = 90°"],
+      "answer": 0
+    },
+    {
+      "question": "The electric displacement field D is:",
+      "options": ["D = ε₀E + P", "D = εE", "D = ε₀E", "D = P"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field intensity H is:",
+      "options": ["H = B/μ₀ - M", "H = B/μ", "H = B/μ₀", "H = M"],
+      "answer": 0
+    },
+    {
+      "question": "The polarization P is:",
+      "options": ["P = ε₀χₑE", "P = χₑE", "P = ε₀E", "P = χₑε₀E"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetization M is:",
+      "options": ["M = χₘH", "M = χₘB", "M = μ₀χₘH", "M = μ₀χₘB"],
+      "answer": 0
+    },
+    {
+      "question": "The electric susceptibility χₑ relates:",
+      "options": ["P to E", "D to E", "B to H", "M to H"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic susceptibility χₘ relates:",
+      "options": ["M to H", "P to E", "D to E", "B to H"],
+      "answer": 0
+    },
+    {
+      "question": "The dielectric constant is:",
+      "options": ["ε_r = 1 + χₑ", "ε_r = χₑ", "ε_r = 1/χₑ", "ε_r = ε/ε₀"],
+      "answer": 3
+    },
+    {
+      "question": "The relative permeability is:",
+      "options": ["μ_r = 1 + χₘ", "μ_r = χₘ", "μ_r = 1/χₘ", "μ_r = μ/μ₀"],
+      "answer": 3
+    },
+    {
+      "question": "Boundary conditions for E at a surface charge:",
+      "options": ["E₂⊥ - E₁⊥ = σ/ε₀", "E₂⊥ - E₁⊥ = 0", "E₂∥ - E₁∥ = 0", "E₂∥ - E₁∥ = σ/ε₀"],
+      "answer": 0
+    },
+    {
+      "question": "Boundary conditions for B at a surface current:",
+      "options": ["B₂∥ - B₁∥ = μ₀K", "B₂⊥ - B₁⊥ = 0", "B₂∥ - B₁∥ = 0", "B₂⊥ - B₁⊥ = μ₀K"],
+      "answer": 0
+    },
+    {
+      "question": "Gauss's law for magnetism states:",
+      "options": ["∮B·dA = 0", "∮B·dA = Q_enclosed", "∮E·dA = Q_enclosed/ε₀", "∮E·dA = 0"],
+      "answer": 0
+    },
+    {
+      "question": "Ampere's law in integral form is:",
+      "options": ["∮B·dl = μ₀I_enclosed", "∮B·dl = 0", "∮E·dl = -dΦ_B/dt", "∮E·dl = 0"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic vector potential is defined by:",
+      "options": ["B = ∇×A", "B = ∇·A", "B = -∇φ", "B = ∇×φ"],
+      "answer": 0
+    },
+    {
+      "question": "The electric scalar potential is defined by:",
+      "options": ["E = -∇φ", "E = ∇×A", "E = ∇·A", "E = ∇φ"],
+      "answer": 0
+    },
+    {
+      "question": "The gauge transformation for A and φ is:",
+      "options": ["A → A + ∇χ, φ → φ - ∂χ/∂t", "A → A + ∇χ, φ → φ + ∂χ/∂t", "A → A - ∇χ, φ → φ + ∂χ/∂t", "A → A - ∇χ, φ → φ - ∂χ/∂t"],
+      "answer": 0
+    },
+    {
+      "question": "The Coulomb gauge condition is:",
+      "options": ["∇·A = 0", "∇·A = -μ₀ε₀∂φ/∂t", "∇·A = μ₀ε₀∂φ/∂t", "∇·A = 1/c²∂φ/∂t"],
+      "answer": 0
+    },
+    {
+      "question": "The Lorenz gauge condition is:",
+      "options": ["∇·A + μ₀ε₀∂φ/∂t = 0", "∇·A - μ₀ε₀∂φ/∂t = 0", "∇·A + μ₀ε₀∂φ/∂t = 1", "∇·A - μ₀ε₀∂φ/∂t = 1"],
+      "answer": 0
+    },
+    {
+      "question": "The electromagnetic wave equation is:",
+      "options": ["∇²E = μ₀ε₀ ∂²E/∂t²", "∇²E = -μ₀ε₀ ∂²E/∂t²", "∇²E = μ₀ε₀ ∂E/∂t", "∇²E = -μ₀ε₀ ∂E/∂t"],
+      "answer": 0
+    },
+    {
+      "question": "The electric dipole moment is:",
+      "options": ["p = qd", "p = q/d", "p = qd²", "p = qd³"],
+      "answer": 0
+    },
+    {
+      "question": "The electric field of a dipole is:",
+      "options": ["E ∝ 1/r³", "E ∝ 1/r²", "E ∝ 1/r", "E ∝ r"],
+      "answer": 0
+    },
+    {
+      "question": "The torque on a dipole in an electric field is:",
+      "options": ["τ = p × E", "τ = p · E", "τ = pE", "τ = p/E"],
+      "answer": 0
+    },
+    {
+      "question": "The potential energy of a dipole in an electric field is:",
+      "options": ["U = -p·E", "U = p·E", "U = pE", "U = -pE"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic dipole moment is:",
+      "options": ["m = IA", "m = I/A", "m = A/I", "m = IA²"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field of a magnetic dipole is:",
+      "options": ["B ∝ 1/r³", "B ∝ 1/r²", "B ∝ 1/r", "B ∝ r"],
+      "answer": 0
+    },
+    {
+      "question": "The torque on a magnetic dipole in a magnetic field is:",
+      "options": ["τ = m × B", "τ = m · B", "τ = mB", "τ = m/B"],
+      "answer": 0
+    },
+    {
+      "question": "The potential energy of a magnetic dipole in a magnetic field is:",
+      "options": ["U = -m·B", "U = m·B", "U = mB", "U = -mB"],
+      "answer": 0
+    },
+    {
+      "question": "The Faraday effect is:",
+      "options": ["Rotation of polarization in a magnetic field", "Production of current in a magnetic field", "Production of voltage in a magnetic field", "Production of charge in a magnetic field"],
+      "answer": 0
+    },
+    {
+      "question": "The Kerr effect is:",
+      "options": ["Electro-optic effect", "Magneto-optic effect", "Acousto-optic effect", "Thermo-optic effect"],
+      "answer": 0
+    },
+    {
+      "question": "The Zeeman effect is:",
+      "options": ["Splitting of spectral lines in a magnetic field", "Splitting of spectral lines in an electric field", "Splitting of spectral lines in a gravitational field", "Splitting of spectral lines in a temperature field"],
+      "answer": 0
+    },
+    {
+      "question": "The Stark effect is:",
+      "options": ["Splitting of spectral lines in an electric field", "Splitting of spectral lines in a magnetic field", "Splitting of spectral lines in a gravitational field", "Splitting of spectral lines in a temperature field"],
+      "answer": 0
+    },
+    {
+      "question": "The Larmor precession is:",
+      "options": ["Precession of angular momentum in a magnetic field", "Precession of angular momentum in an electric field", "Precession of angular momentum in a gravitational field", "Precession of angular momentum in a temperature field"],
+      "answer": 0
+    },
+    {
+      "question": "The Larmor frequency is:",
+      "options": ["ω = qB/2m", "ω = qB/m", "ω = 2qB/m", "ω = qB/4m"],
+      "answer": 0
+    },
+    {
+      "question": "The cyclotron frequency is:",
+      "options": ["ω = qB/m", "ω = qB/2m", "ω = 2qB/m", "ω = qB/4m"],
+      "answer": 0
+    },
+    {
+      "question": "The electron gyromagnetic ratio is:",
+      "options": ["γ = gμ_B/ℏ", "γ = μ_B/ℏ", "γ = gℏ/μ_B", "γ = ℏ/μ_B"],
+      "answer": 0
+    },
+    {
+      "question": "The fine structure constant is:",
+      "options": ["α = e²/4πε₀ℏc", "α = e²/4πε₀", "α = e²/ℏc", "α = 4πε₀e²/ℏc"],
+      "answer": 0
+    },
+    {
+      "question": "The value of the fine structure constant is approximately:",
+      "options": ["1/137", "1/100", "1/50", "1/200"],
+      "answer": 0
+    },
+    {
+      "question": "The Bohr magneton is:",
+      "options": ["μ_B = eℏ/2m", "μ_B = eℏ/m", "μ_B = eℏ/4m", "μ_B = eℏ/2"],
+      "answer": 0
+    },
+    {
+      "question": "The nuclear magneton is:",
+      "options": ["μ_N = eℏ/2m_p", "μ_N = eℏ/m_p", "μ_N = eℏ/4m_p", "μ_N = eℏ/2"],
+      "answer": 0
+    },
+    {
+      "question": "The Rydberg constant is:",
+      "options": ["R = me⁴/8ε₀²h³c", "R = me⁴/8ε₀h³c", "R = me⁴/8ε₀²h²c", "R = me⁴/8ε₀h²c"],
+      "answer": 0
+    },
+    {
+      "question": "The value of Rydberg constant is approximately:",
+      "options": ["1.097 × 10⁷ m⁻¹", "1.097 × 10⁷ cm⁻¹", "1.097 × 10⁹ m⁻¹", "1.097 × 10⁵ m⁻¹"],
+      "answer": 0
+    },
+    {
+      "question": "The Bohr radius is:",
+      "options": ["a₀ = 4πε₀ℏ²/me²", "a₀ = ℏ²/me²", "a₀ = 4πε₀ℏ²/m", "a₀ = me²/4πε₀ℏ²"],
+      "answer": 0
+    },
+    {
+      "question": "The value of Bohr radius is approximately:",
+      "options": ["0.529 Å", "0.529 nm", "0.529 μm", "0.529 pm"],
+      "answer": 0
+    },
+    {
+      "question": "The emission spectrum of hydrogen is given by:",
+      "options": ["1/λ = R(1/n₁² - 1/n₂²)", "1/λ = R(n₁² - n₂²)", "λ = R(1/n₁² - 1/n₂²)", "λ = R(n₁² - n₂²)"],
+      "answer": 0
+    },
+    {
+      "question": "The Lyman series corresponds to:",
+      "options": ["n₁ = 1", "n₁ = 2", "n₁ = 3", "n₁ = 4"],
+      "answer": 0
+    },
+    {
+      "question": "The Balmer series corresponds to:",
+      "options": ["n₁ = 2", "n₁ = 1", "n₁ = 3", "n₁ = 4"],
+      "answer": 0
+    },
+    {
+      "question": "The Paschen series corresponds to:",
+      "options": ["n₁ = 3", "n₁ = 1", "n₁ = 2", "n₁ = 4"],
+      "answer": 0
+    },
+    {
+      "question": "The Brackett series corresponds to:",
+      "options": ["n₁ = 4", "n₁ = 1", "n₁ = 2", "n₁ = 3"],
+      "answer": 0
+    },
+    {
+      "question": "The Pfund series corresponds to:",
+      "options": ["n₁ = 5", "n₁ = 1", "n₁ = 2", "n₁ = 3"],
+      "answer": 0
+    },
+    {
+      "question": "The Lyman limit is at:",
+      "options": ["91.2 nm", "91.2 μm", "91.2 pm", "91.2 cm"],
+      "answer": 0
+    },
+    {
+      "question": "The Balmer limit is at:",
+      "options": ["364.6 nm", "364.6 μm", "364.6 pm", "364.6 cm"],
+      "answer": 0
+    },
+    {
+      "question": "The ionization energy of hydrogen is:",
+      "options": ["13.6 eV", "13.6 MeV", "13.6 keV", "13.6 J"],
+      "answer": 0
+    },
+    {
+      "question": "The energy levels of hydrogen are given by:",
+      "options": ["E_n = -13.6/n² eV", "E_n = -13.6 n² eV", "E_n = 13.6/n² eV", "E_n = 13.6 n² eV"],
+      "answer": 0
+    },
+    {
+      "question": "The selection rules for electric dipole transitions are:",
+      "options": ["Δl = ±1, Δm_l = 0, ±1", "Δl = 0, Δm_l = 0", "Δl = ±2, Δm_l = 0", "Δl = ±1, Δm_l = 0"],
+      "answer": 0
+    },
+    {
+      "question": "The spin of an electron is:",
+      "options": ["ℏ/2", "ℏ", "2ℏ", "ℏ/4"],
+      "answer": 0
+    },
+    {
+      "question": "The spin quantum number for an electron is:",
+      "options": ["s = 1/2", "s = 1", "s = 0", "s = 3/2"],
+      "answer": 0
+    },
+    {
+      "question": "The Pauli exclusion principle states that:",
+      "options": ["No two electrons can have the same set of quantum numbers", "No two electrons can have the same spin", "No two electrons can occupy the same energy level", "No two electrons can have the same charge"],
+      "answer": 0
+    },
+    {
+      "question": "The spin-statistics theorem states that:",
+      "options": ["Particles with half-integer spin are fermions, integer spin are bosons", "Particles with integer spin are fermions, half-integer are bosons", "All particles are bosons", "All particles are fermions"],
+      "answer": 0
+    },
+    {
+      "question": "The Zeeman effect is classified as:",
+      "options": ["Normal and anomalous", "Simple and complex", "Strong and weak", "Longitudinal and transverse"],
+      "answer": 0
+    },
+    {
+      "question": "The normal Zeeman effect occurs for:",
+      "options": ["Singlet states", "Triplet states", "Doublet states", "All states"],
+      "answer": 0
+    },
+    {
+      "question": "The anomalous Zeeman effect occurs for:",
+      "options": ["States with spin", "States without spin", "Singlet states", "All states"],
+      "answer": 0
+    },
+    {
+      "question": "The Paschen-Back effect occurs:",
+      "options": ["In strong magnetic fields", "In weak magnetic fields", "In electric fields", "In gravitational fields"],
+      "answer": 0
+    },
+    {
+      "question": "The Stark effect is:",
+      "options": ["Splitting of spectral lines in an electric field", "Splitting of spectral lines in a magnetic field", "Splitting of spectral lines in a gravitational field", "Splitting of spectral lines in a temperature field"],
+      "answer": 0
+    },
+    {
+      "question": "The Faraday effect is used in:",
+      "options": ["Optical isolators", "Amplifiers", "Lasers", "Detectors"],
+      "answer": 0
+    },
+    {
+      "question": "The Kerr effect is used in:",
+      "options": ["Electro-optic modulators", "Magneto-optic modulators", "Acousto-optic modulators", "Thermo-optic modulators"],
+      "answer": 0
+    },
+    {
+      "question": "The electro-optic effect is:",
+      "options": ["Change in refractive index with electric field", "Change in refractive index with magnetic field", "Change in refractive index with temperature", "Change in refractive index with pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The acousto-optic effect is:",
+      "options": ["Change in refractive index with sound waves", "Change in refractive index with electric field", "Change in refractive index with magnetic field", "Change in refractive index with temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The electro-optic coefficient is defined as:",
+      "options": ["Change in refractive index per unit electric field", "Change in refractive index per unit magnetic field", "Change in refractive index per unit temperature", "Change in refractive index per unit pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The magneto-optic coefficient is defined as:",
+      "options": ["Change in refractive index per unit magnetic field", "Change in refractive index per unit electric field", "Change in refractive index per unit temperature", "Change in refractive index per unit pressure"],
+      "answer": 0
+    }
+  ]
+}

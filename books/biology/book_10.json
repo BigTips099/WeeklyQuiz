@@ -1,0 +1,1454 @@
+{
+  "questions": [
+    {
+      "question": "The basic unit of life is the:",
+      "options": [
+        "Tissue",
+        "Cell",
+        "Organ",
+        "Organism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which organelle is known as the 'powerhouse of the cell'?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The cell wall is present in:",
+      "options": [
+        "Animal cells",
+        "Plant cells",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Prokaryotic cells divide by:",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Genetic material is found in the:",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Golgi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Protein synthesis occurs in the:",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Golgi",
+        "ER"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The cell membrane is composed primarily of:",
+      "options": [
+        "Proteins",
+        "Lipids",
+        "Carbohydrates",
+        "Nucleic acids"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The largest organelle in a plant cell is the:",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Chloroplast",
+        "Vacuole"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Eukaryotic cells divide by:",
+      "options": [
+        "Binary fission",
+        "Mitosis",
+        "Meiosis",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which cells lack a nucleus?",
+      "options": [
+        "Plant cells",
+        "Animal cells",
+        "Red blood cells",
+        "White blood cells"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The endoplasmic reticulum is involved in:",
+      "options": [
+        "Lipid synthesis",
+        "Protein synthesis",
+        "Transport",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Lysosomes are known as:",
+      "options": [
+        "Suicide bags",
+        "Powerhouse",
+        "Protein factories",
+        "Packaging center"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Golgi apparatus packages:",
+      "options": [
+        "Proteins",
+        "Lipids",
+        "Carbohydrates",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prokaryotic cells lack:",
+      "options": [
+        "Cell wall",
+        "Nucleus",
+        "Ribosomes",
+        "Membrane"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The plasma membrane is selectively:",
+      "options": [
+        "Permeable",
+        "Impermeable",
+        "Permeable to all",
+        "Permeable to none"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The fluid within the cell is called:",
+      "options": [
+        "Plasma",
+        "Cytoplasm",
+        "Nucleoplasm",
+        "Water"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Lysosomes contain:",
+      "options": [
+        "Digestive enzymes",
+        "Photosynthetic pigments",
+        "RNA",
+        "Lipids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cytokinesis in plant cells involves:",
+      "options": [
+        "Cleavage furrow",
+        "Cell plate formation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cell theory was proposed by:",
+      "options": [
+        "Darwin and Mendel",
+        "Schleiden and Schwann",
+        "Watson and Crick",
+        "Pasteur and Koch"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The movement of water across a membrane is:",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Active transport",
+        "Facilitated diffusion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Chloroplasts are found in:",
+      "options": [
+        "Animal cells",
+        "Plant cells",
+        "Bacteria",
+        "Fungi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The nuclear membrane is:",
+      "options": [
+        "Single layered",
+        "Double layered",
+        "Triple layered",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cell death is called:",
+      "options": [
+        "Necrosis",
+        "Apoptosis",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The cell cycle consists of:",
+      "options": [
+        "Interphase and M phase",
+        "G1 and S phase",
+        "Mitosis and Meiosis",
+        "Prophase and Metaphase"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cancer cells exhibit:",
+      "options": [
+        "Uncontrolled division",
+        "Controlled division",
+        "Slow division",
+        "No division"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Protein modification occurs in the:",
+      "options": [
+        "Ribosome",
+        "ER",
+        "Golgi",
+        "Mitochondria"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fluid inside the nucleus is:",
+      "options": [
+        "Cytoplasm",
+        "Nucleoplasm",
+        "Water",
+        "Plasma"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The smallest organelle is the:",
+      "options": [
+        "Ribosome",
+        "Mitochondria",
+        "Golgi",
+        "Lysosome"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "DNA replication occurs in the:",
+      "options": [
+        "Cytoplasm",
+        "Nucleus",
+        "Ribosome",
+        "Golgi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The cytoskeleton provides:",
+      "options": [
+        "Structure and support",
+        "Energy",
+        "Photosynthesis",
+        "Digestion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Microtubules are components of the:",
+      "options": [
+        "Cytoskeleton",
+        "Cell wall",
+        "Nucleus",
+        "Mitochondria"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Microfilaments are composed of:",
+      "options": [
+        "Actin",
+        "Tubulin",
+        "Myosin",
+        "Keratin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Intermediate filaments are composed of:",
+      "options": [
+        "Keratin",
+        "Actin",
+        "Tubulin",
+        "Myosin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cilia and flagella are composed of:",
+      "options": [
+        "Microtubules",
+        "Microfilaments",
+        "Intermediate filaments",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The basal body anchors:",
+      "options": [
+        "Cilia and flagella",
+        "Nucleus",
+        "Mitochondria",
+        "ER"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Centrioles are involved in:",
+      "options": [
+        "Cell division",
+        "Protein synthesis",
+        "Photosynthesis",
+        "Digestion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Centrioles are found in:",
+      "options": [
+        "Animal cells",
+        "Plant cells",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The peroxisome contains:",
+      "options": [
+        "Oxidative enzymes",
+        "Digestive enzymes",
+        "Photosynthetic pigments",
+        "Lipids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Peroxisomes are involved in:",
+      "options": [
+        "Fatty acid oxidation",
+        "Protein synthesis",
+        "Photosynthesis",
+        "Cell division"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The nucleolus is responsible for:",
+      "options": [
+        "Ribosome synthesis",
+        "Protein synthesis",
+        "DNA replication",
+        "Cell division"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chromatin is composed of:",
+      "options": [
+        "DNA and protein",
+        "RNA and protein",
+        "DNA only",
+        "Protein only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chromosomes are visible during:",
+      "options": [
+        "Cell division",
+        "Interphase",
+        "G1 phase",
+        "G2 phase"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A nucleosome is:",
+      "options": [
+        "DNA wrapped around histones",
+        "DNA without histones",
+        "RNA with histones",
+        "Protein only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Histones are:",
+      "options": [
+        "Proteins that package DNA",
+        "Enzymes",
+        "Lipids",
+        "Carbohydrates"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Heterochromatin is:",
+      "options": [
+        "Condensed chromatin",
+        "Uncondensed chromatin",
+        "Active chromatin",
+        "Inactive chromatin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Euchromatin is:",
+      "options": [
+        "Uncondensed chromatin",
+        "Condensed chromatin",
+        "Inactive chromatin",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The smooth ER is involved in:",
+      "options": [
+        "Lipid synthesis",
+        "Protein synthesis",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The rough ER is involved in:",
+      "options": [
+        "Protein synthesis",
+        "Lipid synthesis",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ribosomes are composed of:",
+      "options": [
+        "rRNA and protein",
+        "DNA and protein",
+        "mRNA and protein",
+        "tRNA and protein"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ribosomes are found in:",
+      "options": [
+        "Cytoplasm",
+        "ER",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The signal peptide directs proteins to the:",
+      "options": [
+        "ER",
+        "Nucleus",
+        "Mitochondria",
+        "Golgi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vesicles are involved in:",
+      "options": [
+        "Transport",
+        "Protein synthesis",
+        "Photosynthesis",
+        "Cell division"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Endocytosis is:",
+      "options": [
+        "Uptake of material into the cell",
+        "Release of material from the cell",
+        "Cell division",
+        "Cell growth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Exocytosis is:",
+      "options": [
+        "Release of material from the cell",
+        "Uptake of material into the cell",
+        "Cell division",
+        "Cell growth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Phagocytosis is a type of:",
+      "options": [
+        "Endocytosis",
+        "Exocytosis",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pinocytosis is a type of:",
+      "options": [
+        "Endocytosis",
+        "Exocytosis",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Receptor-mediated endocytosis is:",
+      "options": [
+        "Specific uptake",
+        "Non-specific uptake",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The sodium-potassium pump is:",
+      "options": [
+        "Active transport",
+        "Passive transport",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The sodium-potassium pump moves:",
+      "options": [
+        "3 Na+ out, 2 K+ in",
+        "2 Na+ out, 3 K+ in",
+        "3 Na+ in, 2 K+ out",
+        "2 Na+ in, 3 K+ out"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Facilitated diffusion requires:",
+      "options": [
+        "A carrier protein",
+        "Energy",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Active transport requires:",
+      "options": [
+        "Energy",
+        "A carrier protein",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The cell cycle is controlled by:",
+      "options": [
+        "Cyclins and CDKs",
+        "Growth factors",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Checkpoints in the cell cycle ensure:",
+      "options": [
+        "Accuracy",
+        "Speed",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The G1 checkpoint checks for:",
+      "options": [
+        "DNA damage",
+        "Cell size",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The G2 checkpoint checks for:",
+      "options": [
+        "DNA replication completion",
+        "Cell size",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The M checkpoint checks for:",
+      "options": [
+        "Chromosome attachment to spindle",
+        "DNA damage",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cyclins are:",
+      "options": [
+        "Proteins that regulate the cell cycle",
+        "Enzymes",
+        "Lipids",
+        "Carbohydrates"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CDKs are:",
+      "options": [
+        "Cyclin-dependent kinases",
+        "Enzymes",
+        "Lipids",
+        "Carbohydrates"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Apoptosis is:",
+      "options": [
+        "Programmed cell death",
+        "Unprogrammed cell death",
+        "Cell division",
+        "Cell growth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Caspases are involved in:",
+      "options": [
+        "Apoptosis",
+        "Cell division",
+        "Cell growth",
+        "Cell repair"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cancer cells have:",
+      "options": [
+        "Mutations",
+        "No mutations",
+        "Less mutations",
+        "No DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tumor suppressor genes:",
+      "options": [
+        "Prevent cancer",
+        "Cause cancer",
+        "Have no role",
+        "Promote division"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Oncogenes:",
+      "options": [
+        "Promote cancer",
+        "Prevent cancer",
+        "Have no role",
+        "Repair DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The p53 gene is a:",
+      "options": [
+        "Tumor suppressor",
+        "Oncogene",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Ras gene is an:",
+      "options": [
+        "Oncogene",
+        "Tumor suppressor",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Telomerase is active in:",
+      "options": [
+        "Cancer cells",
+        "Normal cells",
+        "Stem cells",
+        "All cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Warburg effect is:",
+      "options": [
+        "Cancer cells using glycolysis",
+        "Cancer cells using oxidative phosphorylation",
+        "Cancer cells dying",
+        "Cancer cells growing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Metastasis is:",
+      "options": [
+        "Cancer spreading",
+        "Cancer shrinking",
+        "Cancer dying",
+        "Cancer growing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Angiogenesis is:",
+      "options": [
+        "New blood vessel formation",
+        "New cell formation",
+        "New protein formation",
+        "New DNA formation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chemotherapy targets:",
+      "options": [
+        "Rapidly dividing cells",
+        "Slowly dividing cells",
+        "Non-dividing cells",
+        "All cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Radiation therapy uses:",
+      "options": [
+        "Ionizing radiation",
+        "UV radiation",
+        "Heat",
+        "Cold"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Immunotherapy uses the:",
+      "options": [
+        "Immune system",
+        "Nervous system",
+        "Digestive system",
+        "Respiratory system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gene therapy for cancer involves:",
+      "options": [
+        "Inserting suicide genes",
+        "Inserting oncogenes",
+        "Removing tumor suppressors",
+        "Removing all genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cell membrane is composed of:",
+      "options": [
+        "Phospholipid bilayer",
+        "Phospholipid monolayer",
+        "Protein bilayer",
+        "Protein monolayer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Membrane proteins function as:",
+      "options": [
+        "Channels",
+        "Receptors",
+        "Carriers",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Cholesterol in the cell membrane:",
+      "options": [
+        "Stabilizes membrane",
+        "Destabilizes membrane",
+        "Increases permeability",
+        "Decreases permeability"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Glycoproteins are involved in:",
+      "options": [
+        "Cell recognition",
+        "Transport",
+        "Energy",
+        "Photosynthesis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cell membrane is described as a:",
+      "options": [
+        "Fluid mosaic model",
+        "Solid mosaic model",
+        "Fluid static model",
+        "Solid static model"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Membrane fluidity is affected by:",
+      "options": [
+        "Temperature",
+        "Lipid composition",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Mitochondria have:",
+      "options": [
+        "Double membrane",
+        "Single membrane",
+        "No membrane",
+        "Triple membrane"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mitochondria have their own:",
+      "options": [
+        "DNA",
+        "Ribosomes",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Chloroplasts have:",
+      "options": [
+        "Double membrane",
+        "Single membrane",
+        "No membrane",
+        "Triple membrane"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chloroplasts have their own:",
+      "options": [
+        "DNA",
+        "Ribosomes",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The endosymbiotic theory explains:",
+      "options": [
+        "Origin of mitochondria",
+        "Origin of chloroplasts",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The cytoskeleton includes:",
+      "options": [
+        "Microtubules",
+        "Microfilaments",
+        "Intermediate filaments",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Microtubules are made of:",
+      "options": [
+        "Tubulin",
+        "Actin",
+        "Keratin",
+        "Myosin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Microfilaments are made of:",
+      "options": [
+        "Actin",
+        "Tubulin",
+        "Keratin",
+        "Myosin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Intermediate filaments are made of:",
+      "options": [
+        "Keratin",
+        "Actin",
+        "Tubulin",
+        "Myosin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The centrosome contains:",
+      "options": [
+        "Centrioles",
+        "Microtubules",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The nucleolus is found in the:",
+      "options": [
+        "Nucleus",
+        "Cytoplasm",
+        "Mitochondria",
+        "Chloroplast"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Nuclear pores allow:",
+      "options": [
+        "Transport of molecules",
+        "Transport of proteins",
+        "Transport of RNA",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The nuclear envelope is:",
+      "options": [
+        "Double membrane",
+        "Single membrane",
+        "No membrane",
+        "Triple membrane"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The nucleus contains:",
+      "options": [
+        "Chromatin",
+        "Nucleolus",
+        "Nucleoplasm",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Ribosomes are found:",
+      "options": [
+        "Free in cytoplasm",
+        "Bound to ER",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Free ribosomes synthesize proteins for:",
+      "options": [
+        "Inside the cell",
+        "Outside the cell",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bound ribosomes synthesize proteins for:",
+      "options": [
+        "Secretion",
+        "Inside the cell",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The endomembrane system includes:",
+      "options": [
+        "ER, Golgi, vesicles",
+        "Mitochondria, chloroplasts",
+        "Ribosomes",
+        "Cytoskeleton"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Golgi apparatus modifies:",
+      "options": [
+        "Proteins",
+        "Lipids",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Lysosomes fuse with:",
+      "options": [
+        "Vesicles",
+        "Mitochondria",
+        "Nucleus",
+        "ER"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Autophagy is:",
+      "options": [
+        "Degradation of cellular components",
+        "Cell division",
+        "Cell growth",
+        "Protein synthesis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Peroxisomes produce:",
+      "options": [
+        "Hydrogen peroxide",
+        "Oxygen",
+        "Carbon dioxide",
+        "Water"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Catalase breaks down:",
+      "options": [
+        "Hydrogen peroxide",
+        "Oxygen",
+        "Carbon dioxide",
+        "Water"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The endoplasmic reticulum is continuous with:",
+      "options": [
+        "Nuclear envelope",
+        "Golgi",
+        "Mitochondria",
+        "Lysosomes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vesicles bud off from:",
+      "options": [
+        "ER",
+        "Golgi",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Cytoskeleton components are:",
+      "options": [
+        "Dynamic",
+        "Static",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cell adhesion molecules are:",
+      "options": [
+        "Proteins",
+        "Lipids",
+        "Carbohydrates",
+        "Nucleic acids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gap junctions allow:",
+      "options": [
+        "Cell communication",
+        "Cell adhesion",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tight junctions prevent:",
+      "options": [
+        "Leakage",
+        "Adhesion",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Desmosomes are involved in:",
+      "options": [
+        "Cell adhesion",
+        "Cell communication",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Plant cells have:",
+      "options": [
+        "Cell wall",
+        "Chloroplasts",
+        "Large vacuole",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The plant cell wall is made of:",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Lignin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The primary cell wall is:",
+      "options": [
+        "Flexible",
+        "Rigid",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The secondary cell wall is:",
+      "options": [
+        "Rigid",
+        "Flexible",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Plasmodesmata connect:",
+      "options": [
+        "Plant cells",
+        "Animal cells",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The vacuole stores:",
+      "options": [
+        "Water",
+        "Nutrients",
+        "Waste",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The tonoplast is the:",
+      "options": [
+        "Vacuolar membrane",
+        "Cell membrane",
+        "Nuclear membrane",
+        "Mitochondrial membrane"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chloroplasts are involved in:",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Protein synthesis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chloroplasts contain:",
+      "options": [
+        "Chlorophyll",
+        "Carotenoids",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Thylakoid membranes are found in:",
+      "options": [
+        "Chloroplasts",
+        "Mitochondria",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Granum is a stack of:",
+      "options": [
+        "Thylakoids",
+        "Stroma",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The stroma is the:",
+      "options": [
+        "Fluid in chloroplast",
+        "Membrane in chloroplast",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mitochondria are involved in:",
+      "options": [
+        "Cellular respiration",
+        "Photosynthesis",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cristae are:",
+      "options": [
+        "Folds in the inner mitochondrial membrane",
+        "Folds in the outer mitochondrial membrane",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The matrix is the:",
+      "options": [
+        "Fluid inside mitochondria",
+        "Membrane in mitochondria",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cell size is limited by the:",
+      "options": [
+        "Surface area to volume ratio",
+        "Nuclear size",
+        "Membrane thickness",
+        "DNA amount"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cells can be:",
+      "options": [
+        "Prokaryotic",
+        "Eukaryotic",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Bacteria are:",
+      "options": [
+        "Prokaryotic",
+        "Eukaryotic",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Archaea are:",
+      "options": [
+        "Prokaryotic",
+        "Eukaryotic",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Eukaryotic cells have:",
+      "options": [
+        "Membrane-bound organelles",
+        "No membrane-bound organelles",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of cells is called:",
+      "options": [
+        "Cytology",
+        "Histology",
+        "Biology",
+        "Zoology"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The microscope was invented by:",
+      "options": [
+        "Leeuwenhoek",
+        "Hooke",
+        "Pasteur",
+        "Koch"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hooke first observed:",
+      "options": [
+        "Cells",
+        "Bacteria",
+        "Viruses",
+        "Proteins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cell theory states that:",
+      "options": [
+        "All living things are made of cells",
+        "Cells are the basic unit of life",
+        "Cells come from existing cells",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Viruses are:",
+      "options": [
+        "Not cellular",
+        "Cellular",
+        "Living",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Viruses require:",
+      "options": [
+        "A host cell",
+        "Energy",
+        "Nutrients",
+        "All of the above"
+      ],
+      "answer": 0
+    }
+  ]
+}

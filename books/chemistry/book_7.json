@@ -1,0 +1,911 @@
+{
+  "category": "Medicinal Chemistry - Daily Common Drugs",
+  "total_questions": 200,
+  "questions": [
+    {
+      "question": "Paracetamol is also known as:",
+      "options": ["Acetaminophen", "Ibuprofen", "Aspirin", "Naproxen"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used painkiller worldwide is:",
+      "options": ["Paracetamol", "Aspirin", "Ibuprofen", "Diclofenac"],
+      "answer": 0
+    },
+    {
+      "question": "Aspirin belongs to which class of drugs?",
+      "options": ["NSAIDs", "Opioids", "Antibiotics", "Antihistamines"],
+      "answer": 0
+    },
+    {
+      "question": "The full form of NSAID is:",
+      "options": ["Non-Steroidal Anti-Inflammatory Drug", "Non-Steroidal Anti-Infective Drug", "Non-Steroidal Anti-Immune Drug", "Non-Steroidal Anti-Inflammatory Disease"],
+      "answer": 0
+    },
+    {
+      "question": "Ibuprofen is used to treat:",
+      "options": ["Pain and inflammation", "Bacterial infections", "Allergies", "Diabetes"],
+      "answer": 0
+    },
+    {
+      "question": "The most common side effect of aspirin is:",
+      "options": ["Gastric irritation", "Liver damage", "Kidney damage", "Heart problems"],
+      "answer": 0
+    },
+    {
+      "question": "Paracetamol is primarily metabolized in the:",
+      "options": ["Liver", "Kidney", "Heart", "Lungs"],
+      "answer": 0
+    },
+    {
+      "question": "The antidote for paracetamol overdose is:",
+      "options": ["N-acetylcysteine", "Activated charcoal", "Vitamin K", "Flumazenil"],
+      "answer": 0
+    },
+    {
+      "question": "Omeprazole is used to treat:",
+      "options": ["Acidity and GERD", "Pain", "Infection", "Allergy"],
+      "answer": 0
+    },
+    {
+      "question": "Omeprazole belongs to which class of drugs?",
+      "options": ["Proton Pump Inhibitors", "H2 Blockers", "Antacids", "Antibiotics"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antibiotic is:",
+      "options": ["Amoxicillin", "Azithromycin", "Ciprofloxacin", "Doxycycline"],
+      "answer": 0
+    },
+    {
+      "question": "Amoxicillin belongs to which class of antibiotics?",
+      "options": ["Penicillins", "Cephalosporins", "Macrolides", "Tetracyclines"],
+      "answer": 0
+    },
+    {
+      "question": "Azithromycin is commonly used for:",
+      "options": ["Respiratory infections", "Urinary infections", "Skin infections", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Ciprofloxacin belongs to which class of antibiotics?",
+      "options": ["Fluoroquinolones", "Penicillins", "Macrolides", "Tetracyclines"],
+      "answer": 0
+    },
+    {
+      "question": "Doxycycline belongs to which class of antibiotics?",
+      "options": ["Tetracyclines", "Penicillins", "Macrolides", "Fluoroquinolones"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antihistamine is:",
+      "options": ["Cetirizine", "Loratadine", "Fexofenadine", "Diphenhydramine"],
+      "answer": 0
+    },
+    {
+      "question": "Cetirizine is used to treat:",
+      "options": ["Allergies", "Pain", "Infection", "Acidity"],
+      "answer": 0
+    },
+    {
+      "question": "Loratadine is a:",
+      "options": ["Second-generation antihistamine", "First-generation antihistamine", "Antibiotic", "Painkiller"],
+      "answer": 0
+    },
+    {
+      "question": "Diphenhydramine is commonly used as:",
+      "options": ["Sleep aid", "Painkiller", "Antibiotic", "Antacid"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antacid is:",
+      "options": ["Calcium carbonate", "Sodium bicarbonate", "Magnesium hydroxide", "Aluminum hydroxide"],
+      "answer": 0
+    },
+    {
+      "question": "Ranitidine belongs to which class of drugs?",
+      "options": ["H2 Receptor Blockers", "Proton Pump Inhibitors", "Antacids", "Antibiotics"],
+      "answer": 0
+    },
+    {
+      "question": "Famotidine is used to treat:",
+      "options": ["Acidity and ulcers", "Pain", "Infection", "Allergy"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antihypertensive drug is:",
+      "options": ["Amlodipine", "Lisinopril", "Losartan", "Metoprolol"],
+      "answer": 0
+    },
+    {
+      "question": "Amlodipine belongs to which class of drugs?",
+      "options": ["Calcium Channel Blockers", "ACE Inhibitors", "ARBs", "Beta Blockers"],
+      "answer": 0
+    },
+    {
+      "question": "Lisinopril belongs to which class of drugs?",
+      "options": ["ACE Inhibitors", "Calcium Channel Blockers", "ARBs", "Beta Blockers"],
+      "answer": 0
+    },
+    {
+      "question": "Losartan belongs to which class of drugs?",
+      "options": ["ARBs", "ACE Inhibitors", "Calcium Channel Blockers", "Beta Blockers"],
+      "answer": 0
+    },
+    {
+      "question": "Metoprolol is used to treat:",
+      "options": ["High blood pressure", "Pain", "Infection", "Allergy"],
+      "answer": 0
+    },
+    {
+      "question": "Metoprolol belongs to which class of drugs?",
+      "options": ["Beta Blockers", "Calcium Channel Blockers", "ACE Inhibitors", "ARBs"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used statin is:",
+      "options": ["Atorvastatin", "Rosuvastatin", "Simvastatin", "Pravastatin"],
+      "answer": 0
+    },
+    {
+      "question": "Statins are used to lower:",
+      "options": ["Cholesterol", "Blood pressure", "Blood sugar", "Uric acid"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antidiabetic drug is:",
+      "options": ["Metformin", "Insulin", "Glimepiride", "Pioglitazone"],
+      "answer": 0
+    },
+    {
+      "question": "Metformin is used to treat:",
+      "options": ["Type 2 diabetes", "Type 1 diabetes", "Gestational diabetes", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The most common side effect of metformin is:",
+      "options": ["Gastrointestinal upset", "Liver damage", "Kidney damage", "Heart problems"],
+      "answer": 0
+    },
+    {
+      "question": "Insulin is used to treat:",
+      "options": ["Type 1 diabetes", "Type 2 diabetes", "Gestational diabetes", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used cough syrup ingredient is:",
+      "options": ["Dextromethorphan", "Guaifenesin", "Codeine", "Diphenhydramine"],
+      "answer": 0
+    },
+    {
+      "question": "Guaifenesin is used as:",
+      "options": ["Expectorant", "Antitussive", "Decongestant", "Antihistamine"],
+      "answer": 0
+    },
+    {
+      "question": "Dextromethorphan is used as:",
+      "options": ["Antitussive", "Expectorant", "Decongestant", "Antihistamine"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used decongestant is:",
+      "options": ["Pseudoephedrine", "Oxymetazoline", "Phenylephrine", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used inhaler for asthma is:",
+      "options": ["Salbutamol", "Budesonide", "Fluticasone", "Montelukast"],
+      "answer": 0
+    },
+    {
+      "question": "Salbutamol is used as:",
+      "options": ["Bronchodilator", "Antihistamine", "Antibiotic", "Painkiller"],
+      "answer": 0
+    },
+    {
+      "question": "Montelukast is used to treat:",
+      "options": ["Asthma and allergies", "Pain", "Infection", "Acidity"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antiemetic is:",
+      "options": ["Ondansetron", "Metoclopramide", "Domperidone", "Prochlorperazine"],
+      "answer": 0
+    },
+    {
+      "question": "Ondansetron is used to treat:",
+      "options": ["Nausea and vomiting", "Pain", "Infection", "Allergy"],
+      "answer": 0
+    },
+    {
+      "question": "Domperidone is used to treat:",
+      "options": ["Nausea and vomiting", "Pain", "Infection", "Allergy"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antidiarrheal is:",
+      "options": ["Loperamide", "Bismuth subsalicylate", "Atropine", "Diphenoxylate"],
+      "answer": 0
+    },
+    {
+      "question": "Loperamide works by:",
+      "options": ["Slowing intestinal motility", "Killing bacteria", "Neutralizing acid", "Reducing inflammation"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used laxative is:",
+      "options": ["Bisacodyl", "Lactulose", "Psyllium", "Senna"],
+      "answer": 0
+    },
+    {
+      "question": "Psyllium is used as:",
+      "options": ["Bulk-forming laxative", "Stimulant laxative", "Osmotic laxative", "Stool softener"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antifungal cream is:",
+      "options": ["Clotrimazole", "Miconazole", "Terbinafine", "Ketoconazole"],
+      "answer": 0
+    },
+    {
+      "question": "Clotrimazole is used to treat:",
+      "options": ["Fungal infections", "Bacterial infections", "Viral infections", "Allergic reactions"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antibacterial cream is:",
+      "options": ["Neosporin", "Mupirocin", "Polysporin", "Betadine"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used steroid cream is:",
+      "options": ["Hydrocortisone", "Betamethasone", "Clobetasol", "Triamcinolone"],
+      "answer": 0
+    },
+    {
+      "question": "Hydrocortisone cream is used to treat:",
+      "options": ["Inflammation and itching", "Pain", "Infection", "Allergy"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used sunscreen ingredient is:",
+      "options": ["Zinc oxide", "Titanium dioxide", "Avobenzone", "Oxybenzone"],
+      "answer": 0
+    },
+    {
+      "question": "Zinc oxide is used as:",
+      "options": ["Physical sunscreen", "Chemical sunscreen", "Antibiotic", "Painkiller"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used insect repellent is:",
+      "options": ["DEET", "Picaridin", "IR3535", "Oil of lemon eucalyptus"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antiseptic is:",
+      "options": ["Alcohol", "Iodine", "Hydrogen peroxide", "Chlorhexidine"],
+      "answer": 0
+    },
+    {
+      "question": "Hydrogen peroxide is used as:",
+      "options": ["Antiseptic", "Antibiotic", "Painkiller", "Antihistamine"],
+      "answer": 0
+    },
+    {
+      "question": "Chlorhexidine is used as:",
+      "options": ["Antiseptic mouthwash", "Antibiotic", "Painkiller", "Antihistamine"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used contraceptive pill contains:",
+      "options": ["Estrogen and Progestin", "Estrogen only", "Progestin only", "Testosterone"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used emergency contraceptive is:",
+      "options": ["Levonorgestrel", "Ulipristal", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The most commonly used erectile dysfunction drug is:",
+      "options": ["Sildenafil", "Tadalafil", "Vardenafil", "Avanafil"],
+      "answer": 0
+    },
+    {
+      "question": "Sildenafil is also known as:",
+      "options": ["Viagra", "Cialis", "Levitra", "Stendra"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used antidepressant is:",
+      "options": ["SSRIs", "SNRIs", "Tricyclics", "MAOIs"],
+      "answer": 0
+    },
+    {
+      "question": "Fluoxetine is also known as:",
+      "options": ["Prozac", "Zoloft", "Lexapro", "Paxil"],
+      "answer": 0
+    },
+    {
+      "question": "Sertraline is also known as:",
+      "options": ["Zoloft", "Prozac", "Lexapro", "Paxil"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used anti-anxiety drug is:",
+      "options": ["Benzodiazepines", "SSRIs", "SNRIs", "Beta blockers"],
+      "answer": 0
+    },
+    {
+      "question": "Alprazolam is also known as:",
+      "options": ["Xanax", "Valium", "Ativan", "Klonopin"],
+      "answer": 0
+    },
+    {
+      "question": "Diazepam is also known as:",
+      "options": ["Valium", "Xanax", "Ativan", "Klonopin"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used sleeping pill is:",
+      "options": ["Zolpidem", "Temazepam", "Eszopiclone", "Ramelteon"],
+      "answer": 0
+    },
+    {
+      "question": "Zolpidem is also known as:",
+      "options": ["Ambien", "Lunesta", "Restoril", "Rozerem"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used blood thinner is:",
+      "options": ["Aspirin", "Warfarin", "Clopidogrel", "Heparin"],
+      "answer": 0
+    },
+    {
+      "question": "Warfarin is also known as:",
+      "options": ["Coumadin", "Plavix", "Heparin", "Lovenox"],
+      "answer": 0
+    },
+    {
+      "question": "Clopidogrel is also known as:",
+      "options": ["Plavix", "Coumadin", "Heparin", "Lovenox"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used diuretic is:",
+      "options": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Bumetanide"],
+      "answer": 0
+    },
+    {
+      "question": "Furosemide is also known as:",
+      "options": ["Lasix", "Microzide", "Aldactone", "Bumex"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used anti-epileptic drug is:",
+      "options": ["Phenytoin", "Carbamazepine", "Valproic acid", "Levetiracetam"],
+      "answer": 0
+    },
+    {
+      "question": "Phenytoin is also known as:",
+      "options": ["Dilantin", "Tegretol", "Depakote", "Keppra"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used Parkinson's drug is:",
+      "options": ["Levodopa", "Carbidopa", "Pramipexole", "Ropinirole"],
+      "answer": 0
+    },
+    {
+      "question": "Levodopa is often combined with:",
+      "options": ["Carbidopa", "Entacapone", "Tolcapone", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used Alzheimer's drug is:",
+      "options": ["Donepezil", "Rivastigmine", "Galantamine", "Memantine"],
+      "answer": 0
+    },
+    {
+      "question": "Donepezil is also known as:",
+      "options": ["Aricept", "Exelon", "Razadyne", "Namenda"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used chemotherapy drug is:",
+      "options": ["Cisplatin", "Carboplatin", "Paclitaxel", "Doxorubicin"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used immunosuppressant is:",
+      "options": ["Prednisone", "Cyclosporine", "Tacrolimus", "Methotrexate"],
+      "answer": 0
+    },
+    {
+      "question": "Prednisone is used to treat:",
+      "options": ["Inflammation and autoimmune disorders", "Pain", "Infection", "Allergy"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used thyroid drug is:",
+      "options": ["Levothyroxine", "Liothyronine", "Propylthiouracil", "Methimazole"],
+      "answer": 0
+    },
+    {
+      "question": "Levothyroxine is used to treat:",
+      "options": ["Hypothyroidism", "Hyperthyroidism", "Goiter", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used osteoporosis drug is:",
+      "options": ["Alendronate", "Risedronate", "Zoledronic acid", "Calcitriol"],
+      "answer": 0
+    },
+    {
+      "question": "Alendronate is also known as:",
+      "options": ["Fosamax", "Actonel", "Reclast", "Rocaltrol"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used gout drug is:",
+      "options": ["Allopurinol", "Colchicine", "Febuxostat", "Probenecid"],
+      "answer": 0
+    },
+    {
+      "question": "Allopurinol works by:",
+      "options": ["Reducing uric acid production", "Increasing uric acid excretion", "Reducing inflammation", "Killing bacteria"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used migraine drug is:",
+      "options": ["Sumatriptan", "Rizatriptan", "Zolmitriptan", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Sumatriptan is used to treat:",
+      "options": ["Migraine", "Headache", "Tension headache", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used anti-psychotic drug is:",
+      "options": ["Risperidone", "Olanzapine", "Quetiapine", "Aripiprazole"],
+      "answer": 0
+    },
+    {
+      "question": "Risperidone is used to treat:",
+      "options": ["Schizophrenia", "Bipolar disorder", "Autism", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used anti-Parkinson drug is:",
+      "options": ["Levodopa", "Carbidopa", "Pramipexole", "Ropinirole"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used anti-HIV drug is:",
+      "options": ["Tenofovir", "Emtricitabine", "Efavirenz", "Raltegravir"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used anti-malarial drug is:",
+      "options": ["Artemisinin", "Chloroquine", "Quinine", "Mefloquine"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used anti-TB drug is:",
+      "options": ["Isoniazid", "Rifampicin", "Pyrazinamide", "Ethambutol"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used anti-fungal drug is:",
+      "options": ["Fluconazole", "Itraconazole", "Ketoconazole", "Terbinafine"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used anti-viral drug is:",
+      "options": ["Acyclovir", "Valacyclovir", "Famciclovir", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Acyclovir is used to treat:",
+      "options": ["Herpes infections", "Influenza", "HIV", "Hepatitis"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used eye drop for infection is:",
+      "options": ["Ciprofloxacin", "Moxifloxacin", "Ofloxacin", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used eye drop for glaucoma is:",
+      "options": ["Timolol", "Latanoprost", "Brimonidine", "Dorzolamide"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used nasal spray for allergy is:",
+      "options": ["Fluticasone", "Mometasone", "Budesonide", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used anti-dandruff shampoo ingredient is:",
+      "options": ["Ketoconazole", "Zinc pyrithione", "Selenium sulfide", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used skin moisturizer ingredient is:",
+      "options": ["Glycerin", "Hyaluronic acid", "Ceramides", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used acne treatment is:",
+      "options": ["Benzoyl peroxide", "Salicylic acid", "Retinoids", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Benzoyl peroxide is used for:",
+      "options": ["Acne", "Wrinkles", "Hyperpigmentation", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used anti-aging ingredient is:",
+      "options": ["Retinol", "Vitamin C", "Hyaluronic acid", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Retinol is derived from:",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used hair loss treatment is:",
+      "options": ["Minoxidil", "Finasteride", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "Minoxidil is applied:",
+      "options": ["Topically", "Orally", "By injection", "By inhalation"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used smoking cessation aid is:",
+      "options": ["Nicotine replacement", "Bupropion", "Varenicline", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used motion sickness drug is:",
+      "options": ["Meclizine", "Dimenhydrinate", "Scopolamine", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used oral rehydration salt contains:",
+      "options": ["Sodium, potassium, glucose", "Sodium only", "Potassium only", "Glucose only"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used prenatal vitamin is:",
+      "options": ["Folic acid", "Iron", "Calcium", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Folic acid is important for:",
+      "options": ["Neural tube development", "Bone health", "Blood clotting", "Vision"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used iron supplement is:",
+      "options": ["Ferrous sulfate", "Ferrous gluconate", "Ferrous fumarate", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used calcium supplement is:",
+      "options": ["Calcium carbonate", "Calcium citrate", "Calcium gluconate", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Calcium carbonate is best absorbed:",
+      "options": ["With food", "On empty stomach", "With milk", "With juice"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used vitamin D supplement is:",
+      "options": ["Cholecalciferol", "Ergocalciferol", "Calcidiol", "Calcitriol"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used vitamin C supplement is:",
+      "options": ["Ascorbic acid", "Sodium ascorbate", "Calcium ascorbate", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used vitamin B complex contains:",
+      "options": ["B1, B2, B3, B5, B6, B7, B9, B12", "B1 only", "B12 only", "Folic acid only"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used omega-3 supplement is:",
+      "options": ["Fish oil", "Flaxseed oil", "Algal oil", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used probiotic is:",
+      "options": ["Lactobacillus", "Bifidobacterium", "Saccharomyces", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used prebiotic is:",
+      "options": ["Inulin", "FOS", "GOS", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used anti-inflammatory supplement is:",
+      "options": ["Turmeric/Curcumin", "Ginger", "Omega-3", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used joint health supplement is:",
+      "options": ["Glucosamine", "Chondroitin", "MSM", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used memory supplement is:",
+      "options": ["Ginkgo biloba", "Phosphatidylserine", "Bacopa monnieri", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used sleep supplement is:",
+      "options": ["Melatonin", "Valerian root", "Magnesium", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used energy supplement is:",
+      "options": ["Caffeine", "B vitamins", "CoQ10", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used weight loss supplement is:",
+      "options": ["Green tea extract", "Garcinia cambogia", "CLA", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used protein supplement is:",
+      "options": ["Whey protein", "Casein protein", "Soy protein", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used sports supplement is:",
+      "options": ["Creatine", "Beta-alanine", "BCAAs", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used detox supplement is:",
+      "options": ["Activated charcoal", "Milk thistle", "Dandelion root", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used immune supplement is:",
+      "options": ["Vitamin C", "Zinc", "Echinacea", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used digestive enzyme is:",
+      "options": ["Amylase", "Protease", "Lipase", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used antacid ingredient is:",
+      "options": ["Calcium carbonate", "Aluminum hydroxide", "Magnesium hydroxide", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used pain relief patch contains:",
+      "options": ["Lidocaine", "Menthol", "Capsaicin", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used cough drop ingredient is:",
+      "options": ["Menthol", "Eucalyptus", "Honey", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used throat spray contains:",
+      "options": ["Benzocaine", "Phenol", "Diclofenac", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used mouthwash ingredient is:",
+      "options": ["Cetylpyridinium chloride", "Chlorhexidine", "Essential oils", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used toothpaste ingredient is:",
+      "options": ["Fluoride", "Abrasives", "Detergents", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used fluoride is:",
+      "options": ["Sodium fluoride", "Stannous fluoride", "Monofluorophosphate", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used mouth ulcer treatment is:",
+      "options": ["Benzocaine", "Hydrocortisone", "Triamcinolone", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used wart removal product contains:",
+      "options": ["Salicylic acid", "Cryotherapy", "Imiquimod", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used callus remover contains:",
+      "options": ["Salicylic acid", "Urea", "Lactic acid", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used anti-itch cream contains:",
+      "options": ["Hydrocortisone", "Calamine", "Pramoxine", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used diaper rash cream contains:",
+      "options": ["Zinc oxide", "Petrolatum", "Lanolin", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used burn cream contains:",
+      "options": ["Silver sulfadiazine", "Aloe vera", "Antibiotics", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used scar cream contains:",
+      "options": ["Silicone", "Onion extract", "Vitamin E", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used stretch mark cream contains:",
+      "options": ["Vitamin E", "Cocoa butter", "Shea butter", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used cellulite cream contains:",
+      "options": ["Caffeine", "Retinol", "Aminophylline", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used muscle pain cream contains:",
+      "options": ["Menthol", "Methyl salicylate", "Capsaicin", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used joint pain cream contains:",
+      "options": ["Diclofenac", "Menthol", "Glucosamine", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The most commonly used hemorrhoid cream contains:",
+      "options": ["Hydrocortisone", "Lidocaine", "Witch hazel", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used vaginal cream contains:",
+      "options": ["Miconazole", "Clotrimazole", "Metronidazole", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used ear drop contains:",
+      "options": ["Antibiotics", "Steroids", "Acidifiers", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used nasal drop contains:",
+      "options": ["Oxymetazoline", "Xylometazoline", "Saline", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used eye drop for dry eyes contains:",
+      "options": ["Artificial tears", "Hydroxypropyl methylcellulose", "Carboxymethylcellulose", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used contact lens solution contains:",
+      "options": ["Saline", "Hydrogen peroxide", "Antimicrobials", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used hair dye ingredient is:",
+      "options": ["PPD", "Ammonia", "Hydrogen peroxide", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used nail polish remover contains:",
+      "options": ["Acetone", "Ethyl acetate", "Isopropyl alcohol", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used perfume ingredient is:",
+      "options": ["Ethanol", "Fragrance oils", "Water", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used deodorant ingredient is:",
+      "options": ["Aluminum chlorohydrate", "Propylene glycol", "Fragrance", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used antiperspirant ingredient is:",
+      "options": ["Aluminum zirconium", "Aluminum chloride", "Aluminum chlorohydrate", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used shaving cream contains:",
+      "options": ["Stearic acid", "Glycerin", "Aloe vera", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used aftershave contains:",
+      "options": ["Alcohol", "Witch hazel", "Aloe vera", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used hand sanitizer contains:",
+      "options": ["Alcohol", "Hydrogen peroxide", "Glycerin", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used disinfectant contains:",
+      "options": ["Bleach", "Alcohol", "Quaternary ammonium", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used laundry detergent contains:",
+      "options": ["Surfactants", "Enzymes", "Fragrance", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used dish soap contains:",
+      "options": ["Surfactants", "Fragrance", "Color", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used pet shampoo contains:",
+      "options": ["Insecticides", "Conditioners", "Fragrance", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used mosquito repellent for babies contains:",
+      "options": ["Picaridin", "Oil of lemon eucalyptus", "IR3535", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used flea treatment for pets contains:",
+      "options": ["Fipronil", "Imidacloprid", "Selamectin", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used tick treatment contains:",
+      "options": ["Permethrin", "Deltamethrin", "Fipronil", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used weed killer contains:",
+      "options": ["Glyphosate", "2,4-D", "Dicamba", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used pesticide contains:",
+      "options": ["Organophosphates", "Pyrethroids", "Carbamates", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used fertilizer contains:",
+      "options": ["Nitrogen", "Phosphorus", "Potassium", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The most commonly used pool disinfectant is:",
+      "options": ["Chlorine", "Bromine", "Salt", "All of the above"],
+      "answer": 3
+    }
+  ]
+}

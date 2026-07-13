@@ -1,0 +1,1374 @@
+{
+  "questions": [
+    {
+      "question": "The study of the nervous system is called:",
+      "options": [
+        "Neurology",
+        "Neuroscience",
+        "Neurobiology",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The central nervous system consists of:",
+      "options": [
+        "Brain and spinal cord",
+        "Brain and nerves",
+        "Spinal cord and nerves",
+        "Peripheral nerves only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The basic unit of the nervous system is the:",
+      "options": [
+        "Neuron",
+        "Glial cell",
+        "Synapse",
+        "Axon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which part of the brain controls breathing and heart rate?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Midbrain"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The largest part of the human brain is the:",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Brainstem",
+        "Hypothalamus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The outer layer of the cerebrum is called the:",
+      "options": [
+        "Medulla",
+        "Cerebral cortex",
+        "White matter",
+        "Thalamus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which lobe of the brain is responsible for vision?",
+      "options": [
+        "Frontal lobe",
+        "Parietal lobe",
+        "Temporal lobe",
+        "Occipital lobe"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The gap between two neurons is called the:",
+      "options": [
+        "Myelin sheath",
+        "Synaptic cleft",
+        "Axon terminal",
+        "Dendrite"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which neurotransmitter is associated with mood and sleep?",
+      "options": [
+        "Dopamine",
+        "Serotonin",
+        "Acetylcholine",
+        "GABA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The cerebellum is responsible for:",
+      "options": [
+        "Balance and coordination",
+        "Thinking",
+        "Breathing",
+        "Digestion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which part of the brain is involved in memory?",
+      "options": [
+        "Cerebellum",
+        "Hippocampus",
+        "Medulla",
+        "Hypothalamus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Neurotransmitters are released from:",
+      "options": [
+        "Dendrites",
+        "Axon terminals",
+        "Cell body",
+        "Myelin sheath"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The type of neuron that carries signals to muscles is:",
+      "options": [
+        "Sensory neuron",
+        "Motor neuron",
+        "Interneuron",
+        "Glial cell"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Schwann cells form the:",
+      "options": [
+        "Nucleus",
+        "Myelin sheath",
+        "Synapse",
+        "Dendrites"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The 'fight or flight' response is controlled by the:",
+      "options": [
+        "Parasympathetic nervous system",
+        "Sympathetic nervous system",
+        "Enteric nervous system",
+        "Somatic nervous system"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which nerve connects the eye to the brain?",
+      "options": [
+        "Olfactory nerve",
+        "Optic nerve",
+        "Facial nerve",
+        "Vagus nerve"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The part of a neuron that receives signals is the:",
+      "options": [
+        "Axon",
+        "Dendrite",
+        "Cell body",
+        "Synaptic cleft"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Alzheimer's disease is associated with:",
+      "options": [
+        "Dopamine deficiency",
+        "Memory loss",
+        "Muscle spasms",
+        "Vision problems"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Parkinson's disease is caused by lack of:",
+      "options": [
+        "Serotonin",
+        "Dopamine",
+        "Acetylcholine",
+        "Norepinephrine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The brain uses approximately how much of the body's energy?",
+      "options": [
+        "5%",
+        "10%",
+        "20%",
+        "30%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The spinal cord extends from the brain down to the:",
+      "options": [
+        "Cervical region",
+        "Thoracic region",
+        "Lumbar region",
+        "Sacral region"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The speed of a nerve impulse is approximately:",
+      "options": [
+        "1 m/s",
+        "10 m/s",
+        "100 m/s",
+        "1000 m/s"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which part of the brain controls body temperature?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Hypothalamus",
+        "Medulla"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The three layers of meninges are:",
+      "options": [
+        "Dura mater, pia mater, arachnoid",
+        "Cortex, medulla, pons",
+        "White matter, gray matter, nucleus",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Multiple sclerosis affects the:",
+      "options": [
+        "Muscles",
+        "Myelin sheath",
+        "Bones",
+        "Skin"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The cranial nerves are part of which system?",
+      "options": [
+        "CNS",
+        "PNS",
+        "Autonomic",
+        "Somatic"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The chemical messengers in the brain are called:",
+      "options": [
+        "Hormones",
+        "Neurotransmitters",
+        "Enzymes",
+        "Vitamins"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The part of the brain responsible for homeostasis is the:",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Hypothalamus",
+        "Medulla"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The time taken for a reflex action is:",
+      "options": [
+        "Immediate",
+        "Very fast",
+        "Slow",
+        "Very slow"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The brain is protected by the:",
+      "options": [
+        "Muscles",
+        "Skull",
+        "Skin",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The cerebrum is divided into how many lobes?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The frontal lobe is associated with:",
+      "options": [
+        "Vision",
+        "Executive functions",
+        "Hearing",
+        "Touch"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The parietal lobe is associated with:",
+      "options": [
+        "Vision",
+        "Touch and spatial awareness",
+        "Hearing",
+        "Language"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The temporal lobe is associated with:",
+      "options": [
+        "Vision",
+        "Hearing and language",
+        "Touch",
+        "Movement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The occipital lobe is associated with:",
+      "options": [
+        "Vision",
+        "Hearing",
+        "Touch",
+        "Movement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The left hemisphere of the brain controls:",
+      "options": [
+        "Left side of the body",
+        "Right side of the body",
+        "Both sides",
+        "Neither side"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The right hemisphere of the brain controls:",
+      "options": [
+        "Left side of the body",
+        "Right side of the body",
+        "Both sides",
+        "Neither side"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The corpus callosum connects the:",
+      "options": [
+        "Left and right hemispheres",
+        "Frontal and occipital lobes",
+        "Cerebrum and cerebellum",
+        "Brain and spinal cord"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Broca's area is involved in:",
+      "options": [
+        "Language production",
+        "Language comprehension",
+        "Vision",
+        "Hearing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Wernicke's area is involved in:",
+      "options": [
+        "Language production",
+        "Language comprehension",
+        "Vision",
+        "Hearing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Damage to Broca's area results in:",
+      "options": [
+        "Inability to speak",
+        "Inability to understand speech",
+        "Vision loss",
+        "Hearing loss"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Damage to Wernicke's area results in:",
+      "options": [
+        "Inability to speak",
+        "Inability to understand speech",
+        "Vision loss",
+        "Hearing loss"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The brainstem consists of:",
+      "options": [
+        "Midbrain, pons, medulla",
+        "Cerebrum, cerebellum",
+        "Thalamus, hypothalamus",
+        "Cortex, white matter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The midbrain is involved in:",
+      "options": [
+        "Vision and hearing reflexes",
+        "Balance",
+        "Memory",
+        "Motor control"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The pons is involved in:",
+      "options": [
+        "Sleep and arousal",
+        "Motor control",
+        "Memory",
+        "Vision"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The medulla oblongata controls:",
+      "options": [
+        "Breathing and heart rate",
+        "Balance",
+        "Vision",
+        "Hearing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The reticular formation is involved in:",
+      "options": [
+        "Sleep and wakefulness",
+        "Balance",
+        "Vision",
+        "Hearing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The thalamus acts as a:",
+      "options": [
+        "Relay center for sensory information",
+        "Memory center",
+        "Emotional center",
+        "Motor control center"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The hypothalamus regulates:",
+      "options": [
+        "Homeostasis",
+        "Memory",
+        "Motor control",
+        "Vision"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The pituitary gland is controlled by the:",
+      "options": [
+        "Hypothalamus",
+        "Thalamus",
+        "Cerebellum",
+        "Medulla"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The limbic system is involved in:",
+      "options": [
+        "Emotions and memory",
+        "Motor control",
+        "Vision",
+        "Hearing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The amygdala is involved in:",
+      "options": [
+        "Emotional responses",
+        "Memory",
+        "Motor control",
+        "Vision"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The hippocampus is involved in:",
+      "options": [
+        "Memory formation",
+        "Emotional responses",
+        "Motor control",
+        "Vision"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The basal ganglia are involved in:",
+      "options": [
+        "Motor control",
+        "Memory",
+        "Vision",
+        "Hearing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cerebellum is located:",
+      "options": [
+        "At the back of the brain",
+        "At the front of the brain",
+        "At the top of the brain",
+        "At the bottom of the brain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cerebellum has how many hemispheres?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The brain has how many ventricles?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Cerebrospinal fluid is produced by the:",
+      "options": [
+        "Choroid plexus",
+        "Ventricles",
+        "Meninges",
+        "Blood vessels"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The blood-brain barrier protects the brain from:",
+      "options": [
+        "Substances in the blood",
+        "Physical injury",
+        "Infection",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The blood-brain barrier is formed by:",
+      "options": [
+        "Tight junctions between endothelial cells",
+        "Glial cells",
+        "Neurons",
+        "Meninges"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A stroke is caused by:",
+      "options": [
+        "Interruption of blood flow to the brain",
+        "Infection of the brain",
+        "Trauma to the brain",
+        "Tumor in the brain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An ischemic stroke is caused by:",
+      "options": [
+        "Blockage of a blood vessel",
+        "Bleeding in the brain",
+        "Trauma",
+        "Infection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A hemorrhagic stroke is caused by:",
+      "options": [
+        "Bleeding in the brain",
+        "Blockage of a blood vessel",
+        "Trauma",
+        "Infection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Transient ischemic attack (TIA) is also known as a:",
+      "options": [
+        "Mini-stroke",
+        "Major stroke",
+        "Brain hemorrhage",
+        "Brain tumor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Epilepsy is characterized by:",
+      "options": [
+        "Seizures",
+        "Memory loss",
+        "Paralysis",
+        "Vision loss"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A seizure is caused by:",
+      "options": [
+        "Abnormal electrical activity in the brain",
+        "Lack of blood flow",
+        "Infection",
+        "Trauma"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Multiple sclerosis is an:",
+      "options": [
+        "Autoimmune disease affecting myelin",
+        "Infectious disease",
+        "Genetic disorder",
+        "Traumatic injury"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Parkinson's disease is characterized by:",
+      "options": [
+        "Tremors and rigidity",
+        "Memory loss",
+        "Vision loss",
+        "Hearing loss"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Alzheimer's disease is characterized by:",
+      "options": [
+        "Memory loss and cognitive decline",
+        "Tremors and rigidity",
+        "Vision loss",
+        "Hearing loss"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Huntington's disease is:",
+      "options": [
+        "A genetic disorder",
+        "An infectious disease",
+        "An autoimmune disease",
+        "A traumatic injury"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Amyotrophic lateral sclerosis (ALS) affects:",
+      "options": [
+        "Motor neurons",
+        "Sensory neurons",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lou Gehrig's disease is also known as:",
+      "options": [
+        "ALS",
+        "Alzheimer's",
+        "Parkinson's",
+        "MS"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A concussion is a type of:",
+      "options": [
+        "Traumatic brain injury",
+        "Stroke",
+        "Tumor",
+        "Infection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cerebral palsy is caused by:",
+      "options": [
+        "Brain damage before or during birth",
+        "Genetic mutation",
+        "Infection",
+        "Trauma"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Spinal cord injury can result in:",
+      "options": [
+        "Paralysis",
+        "Vision loss",
+        "Hearing loss",
+        "Memory loss"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Paraplegia affects the:",
+      "options": [
+        "Legs",
+        "Arms",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quadriplegia affects the:",
+      "options": [
+        "Arms and legs",
+        "Legs only",
+        "Arms only",
+        "Head and neck"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The autonomic nervous system controls:",
+      "options": [
+        "Involuntary functions",
+        "Voluntary functions",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The somatic nervous system controls:",
+      "options": [
+        "Voluntary movements",
+        "Involuntary functions",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The sympathetic nervous system is responsible for:",
+      "options": [
+        "Fight or flight response",
+        "Rest and digest response",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The parasympathetic nervous system is responsible for:",
+      "options": [
+        "Rest and digest response",
+        "Fight or flight response",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Acetylcholine is a neurotransmitter that:",
+      "options": [
+        "Triggers muscle contraction",
+        "Inhibits muscle contraction",
+        "Affects mood",
+        "Affects sleep"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dopamine is involved in:",
+      "options": [
+        "Reward and movement",
+        "Sleep and mood",
+        "Memory",
+        "Vision"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Serotonin is involved in:",
+      "options": [
+        "Mood and sleep",
+        "Reward and movement",
+        "Memory",
+        "Vision"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Norepinephrine is involved in:",
+      "options": [
+        "Arousal and alertness",
+        "Sleep and mood",
+        "Memory",
+        "Vision"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "GABA is an:",
+      "options": [
+        "Inhibitory neurotransmitter",
+        "Excitatory neurotransmitter",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Glutamate is an:",
+      "options": [
+        "Excitatory neurotransmitter",
+        "Inhibitory neurotransmitter",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The endorphins are:",
+      "options": [
+        "Natural painkillers",
+        "Neurotransmitters",
+        "Hormones",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A neuron at rest has a membrane potential of approximately:",
+      "options": [
+        "-70 mV",
+        "-55 mV",
+        "0 mV",
+        "+30 mV"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An action potential is caused by:",
+      "options": [
+        "Influx of sodium ions",
+        "Efflux of potassium ions",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During depolarization, sodium ions:",
+      "options": [
+        "Enter the neuron",
+        "Leave the neuron",
+        "Remain outside",
+        "Remain inside"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During repolarization, potassium ions:",
+      "options": [
+        "Leave the neuron",
+        "Enter the neuron",
+        "Remain outside",
+        "Remain inside"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The refractory period prevents:",
+      "options": [
+        "Backward propagation of action potentials",
+        "Forward propagation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Saltatory conduction occurs in:",
+      "options": [
+        "Myelinated neurons",
+        "Unmyelinated neurons",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The nodes of Ranvier are:",
+      "options": [
+        "Gaps in the myelin sheath",
+        "Parts of the axon",
+        "Parts of the dendrite",
+        "Parts of the synapse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Excitatory postsynaptic potentials (EPSPs) make a neuron more likely to:",
+      "options": [
+        "Fire an action potential",
+        "Not fire an action potential",
+        "Have no effect",
+        "Inhibit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Inhibitory postsynaptic potentials (IPSPs) make a neuron more likely to:",
+      "options": [
+        "Not fire an action potential",
+        "Fire an action potential",
+        "Have no effect",
+        "Excite"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Summation in neurons is:",
+      "options": [
+        "Addition of EPSPs and IPSPs",
+        "Subtraction of EPSPs and IPSPs",
+        "Multiplication of signals",
+        "Division of signals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Temporal summation occurs when:",
+      "options": [
+        "Signals arrive at different times",
+        "Signals arrive at the same time",
+        "Signals arrive from different synapses",
+        "No signals arrive"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Spatial summation occurs when:",
+      "options": [
+        "Signals arrive from different synapses",
+        "Signals arrive at different times",
+        "Signals arrive at the same time from one synapse",
+        "No signals arrive"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The electroencephalogram (EEG) measures:",
+      "options": [
+        "Brain wave activity",
+        "Heart activity",
+        "Muscle activity",
+        "Respiratory activity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sleep consists of how many stages?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "REM sleep is characterized by:",
+      "options": [
+        "Rapid eye movements and dreaming",
+        "Deep sleep",
+        "Light sleep",
+        "No eye movements"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The hippocampus is critical for:",
+      "options": [
+        "Consolidating memories",
+        "Motor control",
+        "Vision",
+        "Hearing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Long-term potentiation (LTP) is:",
+      "options": [
+        "A mechanism of learning and memory",
+        "A type of seizure",
+        "A stroke",
+        "A brain tumor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The prefrontal cortex is involved in:",
+      "options": [
+        "Executive function and decision making",
+        "Vision",
+        "Hearing",
+        "Touch"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The primary motor cortex is located in the:",
+      "options": [
+        "Frontal lobe",
+        "Parietal lobe",
+        "Temporal lobe",
+        "Occipital lobe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The primary somatosensory cortex is located in the:",
+      "options": [
+        "Parietal lobe",
+        "Frontal lobe",
+        "Temporal lobe",
+        "Occipital lobe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The primary visual cortex is located in the:",
+      "options": [
+        "Occipital lobe",
+        "Frontal lobe",
+        "Parietal lobe",
+        "Temporal lobe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The primary auditory cortex is located in the:",
+      "options": [
+        "Temporal lobe",
+        "Frontal lobe",
+        "Parietal lobe",
+        "Occipital lobe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agnosia is the inability to:",
+      "options": [
+        "Recognize objects",
+        "Speak",
+        "Move",
+        "Hear"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Aphasia is the inability to:",
+      "options": [
+        "Communicate",
+        "Recognize objects",
+        "Move",
+        "Hear"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Apraxia is the inability to:",
+      "options": [
+        "Perform voluntary movements",
+        "Speak",
+        "Recognize objects",
+        "Hear"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The brain has approximately how many neurons?",
+      "options": [
+        "1 billion",
+        "10 billion",
+        "86 billion",
+        "100 billion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The brain has approximately how many synapses?",
+      "options": [
+        "100 trillion",
+        "10 trillion",
+        "1 trillion",
+        "100 billion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neuroplasticity refers to:",
+      "options": [
+        "The brain's ability to change",
+        "The brain's inability to change",
+        "The brain's structure",
+        "The brain's size"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neurogenesis in adults occurs in the:",
+      "options": [
+        "Hippocampus",
+        "Cerebellum",
+        "Brainstem",
+        "Spinal cord"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Stem cells in the brain can:",
+      "options": [
+        "Differentiate into neurons and glia",
+        "Only become neurons",
+        "Only become glia",
+        "Cannot divide"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The brain is affected by:",
+      "options": [
+        "Nutrition",
+        "Exercise",
+        "Sleep",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Magnetic resonance imaging (MRI) uses:",
+      "options": [
+        "Magnetic fields and radio waves",
+        "X-rays",
+        "Ultrasound",
+        "Gamma rays"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CT scans use:",
+      "options": [
+        "X-rays",
+        "Magnetic fields",
+        "Radio waves",
+        "Ultrasound"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "fMRI measures:",
+      "options": [
+        "Brain activity",
+        "Brain structure",
+        "Blood flow",
+        "Both A and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "PET scans use:",
+      "options": [
+        "Radioactive tracers",
+        "Magnetic fields",
+        "X-rays",
+        "Ultrasound"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neurotransmitters are synthesized in:",
+      "options": [
+        "The neuron's cell body",
+        "The axon terminal",
+        "The dendrites",
+        "The synapse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neurotransmitters are stored in:",
+      "options": [
+        "Synaptic vesicles",
+        "The cell body",
+        "The nucleus",
+        "The mitochondria"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Reuptake of neurotransmitters:",
+      "options": [
+        "Recycles neurotransmitters",
+        "Degrades neurotransmitters",
+        "Increases neurotransmitter release",
+        "Blocks neurotransmitter release"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "SSRIs are used to treat depression by:",
+      "options": [
+        "Increasing serotonin levels",
+        "Decreasing serotonin levels",
+        "Increasing dopamine levels",
+        "Decreasing dopamine levels"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Opioids mimic:",
+      "options": [
+        "Endorphins",
+        "Serotonin",
+        "Dopamine",
+        "Acetylcholine"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Caffeine is a:",
+      "options": [
+        "Stimulant",
+        "Depressant",
+        "Hallucinogen",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Alcohol is a:",
+      "options": [
+        "Depressant",
+        "Stimulant",
+        "Hallucinogen",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Nicotine is a:",
+      "options": [
+        "Stimulant",
+        "Depressant",
+        "Hallucinogen",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cocaine is a:",
+      "options": [
+        "Stimulant",
+        "Depressant",
+        "Hallucinogen",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Marijuana is a:",
+      "options": [
+        "Hallucinogen",
+        "Stimulant",
+        "Depressant",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The addiction pathway in the brain involves:",
+      "options": [
+        "Dopamine",
+        "Serotonin",
+        "Acetylcholine",
+        "GABA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tolerance to drugs means:",
+      "options": [
+        "Requiring more drug for the same effect",
+        "Requiring less drug for the same effect",
+        "The drug has no effect",
+        "The drug is toxic"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Withdrawal symptoms occur when:",
+      "options": [
+        "Drug use stops",
+        "Drug use continues",
+        "Drug dose increases",
+        "Drug dose decreases"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Relapse is:",
+      "options": [
+        "Returning to drug use after stopping",
+        "Stopping drug use",
+        "Increasing drug use",
+        "Decreasing drug use"
+      ],
+      "answer": 0
+    }
+  ]
+}

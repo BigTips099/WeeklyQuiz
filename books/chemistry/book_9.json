@@ -1,0 +1,771 @@
+{
+  "category": "Natural Products Chemistry",
+  "total_questions": 150,
+  "questions": [
+    {
+      "question": "The biosynthetic pathway responsible for the formation of most plant alkaloids involves which amino acid as a precursor?",
+      "options": ["L-tyrosine or L-tryptophan", "L-alanine", "L-glycine", "L-valine"],
+      "answer": 0
+    },
+    {
+      "question": "Shikimic acid pathway is involved in the biosynthesis of which class of natural products?",
+      "options": ["Aromatic amino acids", "Alkaloids", "Terpenes", "Polyketides"],
+      "answer": 0
+    },
+    {
+      "question": "The isoprene unit in terpenes has how many carbon atoms?",
+      "options": ["5", "10", "15", "20"],
+      "answer": 0
+    },
+    {
+      "question": "The precursor of all terpenoids is:",
+      "options": ["Isopentenyl pyrophosphate", "Acetyl CoA", "Malonyl CoA", "Mevalonic acid"],
+      "answer": 0
+    },
+    {
+      "question": "Mevalonic acid pathway and MEP pathway are two distinct routes for the biosynthesis of which natural product class?",
+      "options": ["Terpenoids", "Alkaloids", "Polyketides", "Flavonoids"],
+      "answer": 0
+    },
+    {
+      "question": "The precursor for polyketide biosynthesis is:",
+      "options": ["Acetyl CoA and Malonyl CoA", "Isopentenyl pyrophosphate", "Shikimic acid", "Mevalonic acid"],
+      "answer": 0
+    },
+    {
+      "question": "The enzyme responsible for the cyclization of 2,3-oxidosqualene to cholesterol is:",
+      "options": ["Oxidosqualene cyclase", "HMG CoA reductase", "Squalene synthase", "Lanosterol synthase"],
+      "answer": 0
+    },
+    {
+      "question": "The rate-limiting enzyme in cholesterol biosynthesis is:",
+      "options": ["HMG CoA reductase", "Squalene synthase", "Lanosterol synthase", "Oxidosqualene cyclase"],
+      "answer": 0
+    },
+    {
+      "question": "Digitoxin, a cardiac glycoside, is derived from which plant genus?",
+      "options": ["Digitalis", "Strophanthus", "Adonis", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The aglycone portion of cardiac glycosides is known as:",
+      "options": ["Genin", "Glycone", "Saponin", "Steroid"],
+      "answer": 0
+    },
+    {
+      "question": "Cardenolides and bufadienolides are two classes of which natural product?",
+      "options": ["Cardiac glycosides", "Saponins", "Alkaloids", "Flavonoids"],
+      "answer": 0
+    },
+    {
+      "question": "The lactone ring in cardenolides contains how many carbon atoms?",
+      "options": ["5-membered unsaturated lactone", "6-membered lactone", "4-membered lactone", "7-membered lactone"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of morphine involves which pathway?",
+      "options": ["Benzylisoquinoline alkaloid pathway", "Terpenoid pathway", "Polyketide pathway", "Shikimic acid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The key intermediate in morphine biosynthesis is:",
+      "options": ["(S)-Reticuline", "(R)-Reticuline", "Thebaine", "Codeine"],
+      "answer": 0
+    },
+    {
+      "question": "The conversion of thebaine to morphine involves which reaction?",
+      "options": ["O-demethylation", "N-demethylation", "Reduction", "Oxidation"],
+      "answer": 0
+    },
+    {
+      "question": "Camptothecin, a quinoline alkaloid, inhibits which enzyme?",
+      "options": ["Topoisomerase I", "Topoisomerase II", "DNA polymerase", "RNA polymerase"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthetic precursor of camptothecin is:",
+      "options": ["Tryptophan and secologanin", "Tyrosine", "Phenylalanine", "Lysine"],
+      "answer": 0
+    },
+    {
+      "question": "Vincristine and vinblastine are dimeric alkaloids derived from which monomeric units?",
+      "options": ["Catharanthine and vindoline", "Ajmalicine and serpentine", "Yohimbine and reserpine", "Quinine and quinidine"],
+      "answer": 0
+    },
+    {
+      "question": "The plant Catharanthus roseus produces which class of alkaloids?",
+      "options": ["Indole alkaloids", "Isoquinoline alkaloids", "Quinoline alkaloids", "Tropane alkaloids"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthetic precursor of quinine is:",
+      "options": ["Tryptophan and secologanin", "Tyrosine", "Phenylalanine", "Lysine"],
+      "answer": 0
+    },
+    {
+      "question": "Quinine belongs to which class of alkaloids?",
+      "options": ["Cinchona alkaloids", "Ipecac alkaloids", "Rauwolfia alkaloids", "Curare alkaloids"],
+      "answer": 0
+    },
+    {
+      "question": "The antimalarial activity of quinine is attributed to its interaction with:",
+      "options": ["Heme polymerase", "DNA gyrase", "Topoisomerase", "Ribosome"],
+      "answer": 0
+    },
+    {
+      "question": "Artemisinin, a sesquiterpene lactone, contains which unusual peroxide bridge?",
+      "options": ["Endoperoxide", "Hydroperoxide", "Peroxide", "Epoxide"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of artemisinin involves which pathway?",
+      "options": ["MEP pathway", "Mevalonic acid pathway", "Shikimic acid pathway", "Polyketide pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The active metabolite of artemisinin that exerts antimalarial activity is:",
+      "options": ["Dihydroartemisinin", "Artemether", "Artesunate", "Artemotil"],
+      "answer": 0
+    },
+    {
+      "question": "The tropane alkaloids like atropine and cocaine are derived from which amino acid?",
+      "options": ["Ornithine", "Lysine", "Tryptophan", "Tyrosine"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of nicotine involves which pathway?",
+      "options": ["Ornithine-putrescine pathway", "Shikimic acid pathway", "Mevalonic acid pathway", "Polyketide pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The pyrrolidine ring of nicotine is derived from:",
+      "options": ["Ornithine", "Lysine", "Tryptophan", "Tyrosine"],
+      "answer": 0
+    },
+    {
+      "question": "The pyridine ring of nicotine is derived from:",
+      "options": ["Nicotinic acid", "Ornithine", "Tryptophan", "Tyrosine"],
+      "answer": 0
+    },
+    {
+      "question": "Reserpine, a Rauwolfia alkaloid, is used for the treatment of:",
+      "options": ["Hypertension", "Cancer", "Malaria", "Infection"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthetic precursor of reserpine is:",
+      "options": ["Tryptophan", "Tyrosine", "Phenylalanine", "Lysine"],
+      "answer": 0
+    },
+    {
+      "question": "Physostigmine, a carbamate alkaloid, inhibits which enzyme?",
+      "options": ["Acetylcholinesterase", "Monoamine oxidase", "Cyclooxygenase", "Lipoxygenase"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of physostigmine involves which amino acid?",
+      "options": ["Tryptophan", "Tyrosine", "Phenylalanine", "Lysine"],
+      "answer": 0
+    },
+    {
+      "question": "Paclitaxel (Taxol) contains which unusual functional group?",
+      "options": ["Oxetane ring", "Lactone ring", "Epoxide ring", "Peroxide bridge"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of paclitaxel involves which pathway?",
+      "options": ["Terpenoid pathway", "Polyketide pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The diterpene core of paclitaxel is derived from:",
+      "options": ["Geranylgeranyl pyrophosphate", "Farnesyl pyrophosphate", "Geranyl pyrophosphate", "Isopentenyl pyrophosphate"],
+      "answer": 0
+    },
+    {
+      "question": "The podophyllotoxin lignans are derived from which amino acid?",
+      "options": ["Phenylalanine", "Tyrosine", "Tryptophan", "Lysine"],
+      "answer": 0
+    },
+    {
+      "question": "Etoposide and teniposide are semisynthetic derivatives of:",
+      "options": ["Podophyllotoxin", "Camptothecin", "Paclitaxel", "Vincristine"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthetic precursor of lignans is:",
+      "options": ["Coniferyl alcohol", "Sinapyl alcohol", "Coumaryl alcohol", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The oxidative coupling of coniferyl alcohol leads to the formation of:",
+      "options": ["Pinoresinol", "Lariciresinol", "Secoisolariciresinol", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of flavonoids involves which pathway?",
+      "options": ["Phenylpropanoid and polyketide pathways", "Mevalonic acid pathway", "MEP pathway", "Shikimic acid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The C6-C3-C6 skeleton of flavonoids is derived from:",
+      "options": ["Phenylalanine and malonyl CoA", "Tyrosine and acetyl CoA", "Tryptophan and malonyl CoA", "Phenylalanine and acetyl CoA"],
+      "answer": 0
+    },
+    {
+      "question": "Chalcone synthase is the key enzyme for:",
+      "options": ["Flavonoid biosynthesis", "Terpenoid biosynthesis", "Alkaloid biosynthesis", "Polyketide biosynthesis"],
+      "answer": 0
+    },
+    {
+      "question": "The conversion of chalcone to flavanone is catalyzed by:",
+      "options": ["Chalcone isomerase", "Chalcone synthase", "Flavonoid synthase", "Flavanone synthase"],
+      "answer": 0
+    },
+    {
+      "question": "Anthocyanins are water-soluble pigments derived from:",
+      "options": ["Flavonoids", "Carotenoids", "Terpenoids", "Alkaloids"],
+      "answer": 0
+    },
+    {
+      "question": "The color of anthocyanins depends on:",
+      "options": ["pH of the cellular environment", "Temperature", "Light intensity", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The biosynthetic precursor of carotenoids is:",
+      "options": ["Phytoene", "Lycopene", "β-Carotene", "Zeaxanthin"],
+      "answer": 0
+    },
+    {
+      "question": "The enzyme phytoene desaturase is involved in:",
+      "options": ["Carotenoid biosynthesis", "Flavonoid biosynthesis", "Terpenoid biosynthesis", "Alkaloid biosynthesis"],
+      "answer": 0
+    },
+    {
+      "question": "The cyclization of lycopene to β-carotene is catalyzed by:",
+      "options": ["Lycopene cyclase", "Phytoene desaturase", "Carotenoid synthase", "Isomerase"],
+      "answer": 0
+    },
+    {
+      "question": "Saponins are glycosides of which class of natural products?",
+      "options": ["Steroids or triterpenoids", "Alkaloids", "Flavonoids", "Polyketides"],
+      "answer": 0
+    },
+    {
+      "question": "The aglycone of saponins is called:",
+      "options": ["Sapogenin", "Genin", "Glycone", "Steroid"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthetic precursor of steroidal saponins is:",
+      "options": ["Cholesterol", "Squalene", "Mevalonic acid", "Acetyl CoA"],
+      "answer": 0
+    },
+    {
+      "question": "Diosgenin is a steroidal sapogenin used for the synthesis of:",
+      "options": ["Steroid hormones", "Antibiotics", "Alkaloids", "Flavonoids"],
+      "answer": 0
+    },
+    {
+      "question": "The plant Dioscorea is a rich source of which natural product?",
+      "options": ["Diosgenin", "Digitoxin", "Reserpine", "Quinine"],
+      "answer": 0
+    },
+    {
+      "question": "Cyanogenic glycosides release which toxic compound upon hydrolysis?",
+      "options": ["Hydrogen cyanide", "Hydrogen sulfide", "Ammonia", "Methanol"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthetic precursor of cyanogenic glycosides is:",
+      "options": ["Amino acids", "Terpenes", "Polyketides", "Flavonoids"],
+      "answer": 0
+    },
+    {
+      "question": "Glucosinolates are sulfur-containing natural products found in which family?",
+      "options": ["Brassicaceae", "Fabaceae", "Solanaceae", "Asteraceae"],
+      "answer": 0
+    },
+    {
+      "question": "The breakdown of glucosinolates by myrosinase produces:",
+      "options": ["Isothiocyanates", "Thiocyanates", "Nitriles", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Sulforaphane, an isothiocyanate, is found in which vegetable?",
+      "options": ["Broccoli", "Garlic", "Onion", "Ginger"],
+      "answer": 0
+    },
+    {
+      "question": "Allicin, the active compound in garlic, is formed from:",
+      "options": ["Alliin", "Allinase", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The conversion of alliin to allicin is catalyzed by:",
+      "options": ["Allinase", "Lipoxygenase", "Cyclooxygenase", "Peroxidase"],
+      "answer": 0
+    },
+    {
+      "question": "Curcumin, a diarylheptanoid, is composed of which functional groups?",
+      "options": ["β-diketone and methoxy groups", "Hydroxy and carbonyl groups", "Methyl and methoxy groups", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The biosynthetic precursor of curcumin is:",
+      "options": ["Phenylalanine", "Tyrosine", "Tryptophan", "Lysine"],
+      "answer": 0
+    },
+    {
+      "question": "Gingerols in ginger contain which functional group?",
+      "options": ["β-hydroxy ketone", "α-hydroxy ketone", "γ-hydroxy ketone", "δ-hydroxy ketone"],
+      "answer": 0
+    },
+    {
+      "question": "The conversion of gingerols to shogaols occurs through which reaction?",
+      "options": ["Dehydration", "Oxidation", "Reduction", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "Capsaicin, the pungent compound in chili peppers, is classified as:",
+      "options": ["Vanillylamide", "Alkaloid", "Terpenoid", "Flavonoid"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthetic precursor of capsaicin is:",
+      "options": ["Vanillin and 8-methyl-6-nonenoic acid", "Tyrosine", "Phenylalanine", "Tryptophan"],
+      "answer": 0
+    },
+    {
+      "question": "Piperine, the pungent compound in black pepper, contains which functional group?",
+      "options": ["Amide and piperidine ring", "Amine and pyridine ring", "Amide and pyrrole ring", "Amine and pyrrole ring"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of piperine involves which amino acid?",
+      "options": ["Piperidine from lysine", "Phenylalanine", "Tyrosine", "Tryptophan"],
+      "answer": 0
+    },
+    {
+      "question": "Eugenol, the main component of clove oil, is classified as:",
+      "options": ["Phenylpropanoid", "Terpenoid", "Alkaloid", "Flavonoid"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthetic precursor of eugenol is:",
+      "options": ["Phenylalanine", "Tyrosine", "Tryptophan", "Lysine"],
+      "answer": 0
+    },
+    {
+      "question": "Cinnamaldehyde, the main component of cinnamon oil, is derived from:",
+      "options": ["Phenylalanine", "Tyrosine", "Tryptophan", "Lysine"],
+      "answer": 0
+    },
+    {
+      "question": "The shikimic acid pathway leads to the biosynthesis of:",
+      "options": ["Phenylalanine and tyrosine", "Tryptophan", "Lysine", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The chorismate is the key intermediate in the biosynthesis of:",
+      "options": ["Aromatic amino acids", "Aliphatic amino acids", "Terpenes", "Polyketides"],
+      "answer": 0
+    },
+    {
+      "question": "The enzyme chorismate mutase catalyzes the conversion of chorismate to:",
+      "options": ["Prephenate", "Anthranilate", "Phenylpyruvate", "p-Hydroxyphenylpyruvate"],
+      "answer": 0
+    },
+    {
+      "question": "The phenylpropanoid pathway leads to the formation of:",
+      "options": ["Cinnamic acid derivatives", "Benzoic acid derivatives", "Coumarins", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The enzyme phenylalanine ammonia-lyase (PAL) catalyzes:",
+      "options": ["Deamination of phenylalanine to cinnamic acid", "Hydroxylation of phenylalanine", "Decarboxylation of phenylalanine", "Transamination of phenylalanine"],
+      "answer": 0
+    },
+    {
+      "question": "Coumarins are derived from which pathway?",
+      "options": ["Phenylpropanoid pathway", "Mevalonic acid pathway", "Polyketide pathway", "MEP pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of furanocoumarins involves which reaction?",
+      "options": ["Cyclization and oxidation", "Hydroxylation and methylation", "Reduction and dehydration", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Psoralen, a furanocoumarin, is used in the treatment of:",
+      "options": ["Skin disorders (PUVA therapy)", "Cancer", "Malaria", "Infection"],
+      "answer": 0
+    },
+    {
+      "question": "The formation of furanocoumarins from coumarins involves:",
+      "options": ["Oxidative cyclization", "Reductive cyclization", "Hydrolytic cyclization", "Dehydrative cyclization"],
+      "answer": 0
+    },
+    {
+      "question": "Lignin, a complex polymer, is formed by the polymerization of:",
+      "options": ["Coniferyl, sinapyl and coumaryl alcohols", "Phenylalanine", "Tyrosine", "Tryptophan"],
+      "answer": 0
+    },
+    {
+      "question": "The enzyme peroxidase is involved in the polymerization of lignin from:",
+      "options": ["Monolignols", "Flavonoids", "Alkaloids", "Terpenes"],
+      "answer": 0
+    },
+    {
+      "question": "Suberin and cutin are natural polymers found in:",
+      "options": ["Plant cell walls", "Animal cell walls", "Fungal cell walls", "Bacterial cell walls"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthetic precursor of suberin and cutin is:",
+      "options": ["Fatty acids and hydroxy fatty acids", "Amino acids", "Terpenes", "Flavonoids"],
+      "answer": 0
+    },
+    {
+      "question": "Sporopollenin, one of the most resistant natural polymers, is found in:",
+      "options": ["Pollen grains", "Plant cell walls", "Fungal spores", "Bacterial spores"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of sporopollenin involves which pathways?",
+      "options": ["Terpenoid and polyketide pathways", "Shikimic acid pathway", "Mevalonic acid pathway", "MEP pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The siderophores are low-molecular-weight natural products that:",
+      "options": ["Chelate iron", "Chelate calcium", "Chelate magnesium", "Chelate zinc"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of siderophores involves which amino acids?",
+      "options": ["Ornithine and serine", "Lysine and glycine", "Tryptophan and tyrosine", "Phenylalanine and alanine"],
+      "answer": 0
+    },
+    {
+      "question": "The plant hormone abscisic acid (ABA) is derived from:",
+      "options": ["Carotenoids", "Terpenes", "Alkaloids", "Flavonoids"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of ABA involves the cleavage of:",
+      "options": ["Violaxanthin", "β-Carotene", "Lycopene", "Zeaxanthin"],
+      "answer": 0
+    },
+    {
+      "question": "Gibberellins, plant growth hormones, are derived from:",
+      "options": ["Terpenoid pathway", "Polyketide pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The precursor of gibberellins is:",
+      "options": ["Geranylgeranyl pyrophosphate", "Farnesyl pyrophosphate", "Geranyl pyrophosphate", "Isopentenyl pyrophosphate"],
+      "answer": 0
+    },
+    {
+      "question": "Brassinosteroids are plant hormones derived from:",
+      "options": ["Steroids", "Terpenes", "Alkaloids", "Flavonoids"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of brassinosteroids involves the oxidation of:",
+      "options": ["Campesterol", "Cholesterol", "Stigmasterol", "β-Sitosterol"],
+      "answer": 0
+    },
+    {
+      "question": "Strigolactones, plant hormones, are derived from which pathway?",
+      "options": ["Carotenoid pathway", "Terpenoid pathway", "Polyketide pathway", "Shikimic acid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The cleavage of carotenoids to strigolactones is catalyzed by:",
+      "options": ["Carotenoid cleavage dioxygenase", "Lipoxygenase", "Cyclooxygenase", "Peroxidase"],
+      "answer": 0
+    },
+    {
+      "question": "Phytoalexins are antimicrobial natural products produced by plants in response to:",
+      "options": ["Pathogen attack", "Light stress", "Drought stress", "Salt stress"],
+      "answer": 0
+    },
+    {
+      "question": "Resveratrol, a phytoalexin, is derived from which pathway?",
+      "options": ["Phenylpropanoid and polyketide pathways", "Mevalonic acid pathway", "MEP pathway", "Shikimic acid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of resveratrol involves which enzyme?",
+      "options": ["Stilbene synthase", "Chalcone synthase", "Flavonoid synthase", "Terpenoid synthase"],
+      "answer": 0
+    },
+    {
+      "question": "Menthol, a monoterpenoid, is derived from:",
+      "options": ["Geranyl pyrophosphate", "Farnesyl pyrophosphate", "Geranylgeranyl pyrophosphate", "Isopentenyl pyrophosphate"],
+      "answer": 0
+    },
+    {
+      "question": "The cyclization of geranyl pyrophosphate to limonene is catalyzed by:",
+      "options": ["Limonene synthase", "Pinene synthase", "Terpinolene synthase", "Sabinene synthase"],
+      "answer": 0
+    },
+    {
+      "question": "The oxidation of limonene leads to the formation of:",
+      "options": ["Carvone and menthol", "Pinene", "Camphene", "Myrcene"],
+      "answer": 0
+    },
+    {
+      "question": "Camphor, a bicyclic monoterpenoid, is derived from:",
+      "options": ["α-Pinene", "β-Pinene", "Limonene", "Myrcene"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of camphor involves the oxidation of:",
+      "options": ["Bornyl pyrophosphate", "Geranyl pyrophosphate", "Farnesyl pyrophosphate", "Isopentenyl pyrophosphate"],
+      "answer": 0
+    },
+    {
+      "question": "Gossypol, a polyphenolic compound, is found in which plant?",
+      "options": ["Cotton", "Gossypium", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The biosynthesis of gossypol involves which pathway?",
+      "options": ["Terpenoid pathway", "Polyketide pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The dimerization of hemigossypol leads to the formation of:",
+      "options": ["Gossypol", "Gossypolone", "Gossypol acetate", "Gossypol aldehyde"],
+      "answer": 0
+    },
+    {
+      "question": "Rotenone, a natural insecticide, is classified as:",
+      "options": ["Isoflavonoid", "Flavonoid", "Alkaloid", "Terpenoid"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of rotenone involves which pathway?",
+      "options": ["Flavonoid pathway", "Terpenoid pathway", "Alkaloid pathway", "Polyketide pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The insecticidal activity of rotenone is due to its inhibition of:",
+      "options": ["Mitochondrial complex I", "Complex II", "Complex III", "ATP synthase"],
+      "answer": 0
+    },
+    {
+      "question": "Avermectins, natural insecticides, are produced by which microorganisms?",
+      "options": ["Streptomyces", "Penicillium", "Aspergillus", "Bacillus"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of avermectins involves which pathway?",
+      "options": ["Polyketide pathway", "Terpenoid pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "Spinosad, a natural insecticide, is produced by which bacteria?",
+      "options": ["Saccharopolyspora spinosa", "Streptomyces", "Bacillus thuringiensis", "Pseudomonas"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of spinosad involves which pathways?",
+      "options": ["Polyketide and amino acid pathways", "Terpenoid pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The macrolide polyketides are characterized by which structural feature?",
+      "options": ["Large lactone ring", "Large amine ring", "Large ether ring", "Large thioester ring"],
+      "answer": 0
+    },
+    {
+      "question": "Erythromycin, a macrolide antibiotic, is produced by which bacteria?",
+      "options": ["Saccharopolyspora erythraea", "Streptomyces", "Bacillus", "Penicillium"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of erythromycin involves which type of polyketide synthase?",
+      "options": ["Type I PKS", "Type II PKS", "Type III PKS", "Hybrid PKS"],
+      "answer": 0
+    },
+    {
+      "question": "The tetracycline antibiotics are produced by which microorganisms?",
+      "options": ["Streptomyces", "Penicillium", "Aspergillus", "Bacillus"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of tetracyclines involves which pathway?",
+      "options": ["Polyketide pathway", "Terpenoid pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The aminoglycoside antibiotics contain which structural feature?",
+      "options": ["Aminocyclitol ring", "Lactone ring", "Ether ring", "Thioester ring"],
+      "answer": 0
+    },
+    {
+      "question": "Streptomycin, an aminoglycoside antibiotic, is produced by:",
+      "options": ["Streptomyces griseus", "Streptomyces erythraeus", "Bacillus subtilis", "Penicillium chrysogenum"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of streptomycin involves which sugar units?",
+      "options": ["Streptose and N-methyl-L-glucosamine", "Glucose", "Fructose", "Galactose"],
+      "answer": 0
+    },
+    {
+      "question": "Chloramphenicol, a broad-spectrum antibiotic, is produced by:",
+      "options": ["Streptomyces venezuelae", "Penicillium", "Aspergillus", "Bacillus"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of chloramphenicol involves which pathway?",
+      "options": ["Shikimic acid pathway", "Polyketide pathway", "Terpenoid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "Rifamycin, a ansamycin antibiotic, is produced by:",
+      "options": ["Amycolatopsis rifamycinica", "Streptomyces", "Penicillium", "Aspergillus"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of rifamycin involves which pathway?",
+      "options": ["Polyketide pathway", "Terpenoid pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The ansamycin antibiotics contain which structural feature?",
+      "options": ["Macrocyclic lactam", "Lactone ring", "Ether ring", "Thioester ring"],
+      "answer": 0
+    },
+    {
+      "question": "Geldanamycin, an ansamycin antibiotic, is produced by:",
+      "options": ["Streptomyces geldanus", "Amycolatopsis", "Penicillium", "Aspergillus"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of geldanamycin involves which pathway?",
+      "options": ["Polyketide pathway", "Terpenoid pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "Rapamycin (sirolimus), an immunosuppressant, is produced by:",
+      "options": ["Streptomyces hygroscopicus", "Penicillium", "Aspergillus", "Bacillus"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of rapamycin involves which pathway?",
+      "options": ["Polyketide pathway", "Terpenoid pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "FK506 (tacrolimus), an immunosuppressant, is produced by:",
+      "options": ["Streptomyces tsukubaensis", "Penicillium", "Aspergillus", "Bacillus"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of FK506 involves which pathway?",
+      "options": ["Polyketide pathway", "Terpenoid pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "Cyclosporine, an immunosuppressant, is produced by:",
+      "options": ["Tolypocladium inflatum", "Penicillium", "Aspergillus", "Bacillus"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of cyclosporine involves which pathway?",
+      "options": ["Non-ribosomal peptide synthetase", "Polyketide synthase", "Ribosomal peptide synthesis", "Terpenoid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "The non-ribosomal peptide synthetases (NRPS) are responsible for the biosynthesis of:",
+      "options": ["Peptide natural products", "Polyketides", "Terpenes", "Alkaloids"],
+      "answer": 0
+    },
+    {
+      "question": "The modular architecture of NRPS involves which domains?",
+      "options": ["C, A, and T domains", "KS, AT, and ACP domains", "PKS domains", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The polyketide synthases (PKS) are responsible for the biosynthesis of:",
+      "options": ["Polyketide natural products", "Peptide natural products", "Terpenes", "Alkaloids"],
+      "answer": 0
+    },
+    {
+      "question": "The modular architecture of type I PKS involves which domains?",
+      "options": ["KS, AT, and ACP domains", "C, A, and T domains", "NRPS domains", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The iterative type I PKS is responsible for the biosynthesis of:",
+      "options": ["Aflatoxin", "Erythromycin", "Cyclosporine", "Penicillin"],
+      "answer": 0
+    },
+    {
+      "question": "The type II PKS is responsible for the biosynthesis of:",
+      "options": ["Aromatic polyketides", "Macrolides", "Peptides", "Terpenes"],
+      "answer": 0
+    },
+    {
+      "question": "The type III PKS is responsible for the biosynthesis of:",
+      "options": ["Chalcone-like compounds", "Macrolides", "Peptides", "Terpenes"],
+      "answer": 0
+    },
+    {
+      "question": "Aflatoxin, a mycotoxin, is produced by which fungi?",
+      "options": ["Aspergillus flavus", "Penicillium", "Fusarium", "Alternaria"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of aflatoxin involves which pathway?",
+      "options": ["Polyketide pathway", "Terpenoid pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "Patulin, a mycotoxin, is produced by which fungi?",
+      "options": ["Penicillium expansum", "Aspergillus flavus", "Fusarium", "Alternaria"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of patulin involves which pathway?",
+      "options": ["Polyketide pathway", "Terpenoid pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "Ochratoxin, a mycotoxin, is produced by which fungi?",
+      "options": ["Penicillium and Aspergillus", "Fusarium", "Alternaria", "Claviceps"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of ochratoxin involves which pathways?",
+      "options": ["Polyketide and amino acid pathways", "Terpenoid pathway", "Shikimic acid pathway", "Alkaloid pathway"],
+      "answer": 0
+    },
+    {
+      "question": "Ergot alkaloids are produced by which fungus?",
+      "options": ["Claviceps purpurea", "Penicillium", "Aspergillus", "Fusarium"],
+      "answer": 0
+    },
+    {
+      "question": "The biosynthesis of ergot alkaloids involves which amino acid?",
+      "options": ["Tryptophan", "Tyrosine", "Phenylalanine", "Lysine"],
+      "answer": 0
+    },
+    {
+      "question": "The ergot alkaloids are composed of which structural core?",
+      "options": ["Ergoline ring system", "Indole ring system", "Isoquinoline ring system", "Quinoline ring system"],
+      "answer": 0
+    },
+    {
+      "question": "Lysergic acid diethylamide (LSD) is a semisynthetic derivative of:",
+      "options": ["Ergot alkaloids", "Morphine", "Codeine", "Quinine"],
+      "answer": 0
+    }
+  ]
+}

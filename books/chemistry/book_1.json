@@ -1,0 +1,1226 @@
+{
+  "category": "Organic Chemistry",
+  "total_questions": 233,
+  "questions": [
+    {
+      "question": "The functional group in alcohols is:",
+      "options": ["-COOH", "-CO-", "-OH", "-CHO"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is the simplest alkane?",
+      "options": ["Propane", "Methane", "Butane", "Ethane"],
+      "answer": 1
+    },
+    {
+      "question": "The general formula for alkanes is:",
+      "options": ["CnH2n-2", "CnH2n+1", "CnH2n", "CnH2n+2"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an unsaturated hydrocarbon?",
+      "options": ["Butane", "Propane", "Ethene", "Ethane"],
+      "answer": 2
+    },
+    {
+      "question": "The IUPAC name of CH3OH is:",
+      "options": ["Ethanol", "Butanol", "Methanol", "Propanol"],
+      "answer": 2
+    },
+    {
+      "question": "Which functional group is present in aldehydes?",
+      "options": ["-CO-", "-OH", "-CHO", "-COOH"],
+      "answer": 2
+    },
+    {
+      "question": "The process of converting alkenes to alkanes is called:",
+      "options": ["Oxidation", "Hydrogenation", "Dehydrogenation", "Reduction"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a primary alcohol?",
+      "options": ["2-Methyl-2-propanol", "2-Propanol", "1-Propanol", "2-Butanol"],
+      "answer": 2
+    },
+    {
+      "question": "The IUPAC name of CH3COOH is:",
+      "options": ["Ethanol", "Methanol", "Ethanoic acid", "Propanone"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an aromatic hydrocarbon?",
+      "options": ["Hexane", "Cyclohexane", "Benzene", "Pentane"],
+      "answer": 2
+    },
+    {
+      "question": "The functional group in ketones is:",
+      "options": ["-CHO", "-CO-", "-COOH", "-OH"],
+      "answer": 1
+    },
+    {
+      "question": "The molecular formula of benzene is:",
+      "options": ["C6H12", "C5H5", "C6H6", "C6H10"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an example of a substitution reaction?",
+      "options": ["Alkane to alkene", "Alcohol to alkene", "Benzene to bromobenzene", "Alkene to alkane"],
+      "answer": 2
+    },
+    {
+      "question": "The IUPAC name of CH3COCH3 is:",
+      "options": ["Propanone", "Ethanal", "Butanone", "Acetone"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a secondary alcohol?",
+      "options": ["2-Butanol", "2,2-Dimethyl-1-propanol", "2-Methyl-1-propanol", "1-Butanol"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting alcohol to alkene is called:",
+      "options": ["Oxidation", "Dehydration", "Hydration", "Hydrogenation"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a carboxylic acid?",
+      "options": ["Acetone", "Ethanal", "Methanol", "Ethanoic acid"],
+      "answer": 3
+    },
+    {
+      "question": "The functional group in esters is:",
+      "options": ["-COO-", "-CO-", "-COOH", "-CHO"],
+      "answer": 0
+    },
+    {
+      "question": "The IUPAC name of HCHO is:",
+      "options": ["Methanal", "Ethanal", "Propanal", "Formaldehyde"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a tertiary alcohol?",
+      "options": ["1-Propanol", "2-Propanol", "2-Methyl-2-propanol", "1-Butanol"],
+      "answer": 2
+    },
+    {
+      "question": "The process of converting alkanes to alkenes is called:",
+      "options": ["Hydration", "Dehydrogenation", "Dehydration", "Hydrogenation"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an alkyne?",
+      "options": ["Ethene", "Propane", "Ethyne", "Ethane"],
+      "answer": 2
+    },
+    {
+      "question": "The general formula for alkynes is:",
+      "options": ["CnH2n+2", "CnH2n", "CnH2n-2", "CnH2n+1"],
+      "answer": 2
+    },
+    {
+      "question": "The IUPAC name of CH3CH2OH is:",
+      "options": ["Methanol", "Butanol", "Ethanol", "Propanol"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an ether?",
+      "options": ["CH3CHO", "CH3OCH3", "CH3COOH", "CH3OH"],
+      "answer": 1
+    },
+    {
+      "question": "The functional group in amines is:",
+      "options": ["-NH2", "-CHO", "-COOH", "-OH"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an amide?",
+      "options": ["CH3CONH2", "CH3NO2", "CH3NH2", "CH3CN"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting nitriles to amines is called:",
+      "options": ["Reduction", "Oxidation", "Hydrolysis", "Dehydration"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a heterocyclic compound?",
+      "options": ["Benzene", "Toluene", "Pyridine", "Xylene"],
+      "answer": 2
+    },
+    {
+      "question": "The IUPAC name of CH3CH2CHO is:",
+      "options": ["Butanal", "Propanal", "Ethanal", "Methanal"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a dicarboxylic acid?",
+      "options": ["Butanoic acid", "Propanoic acid", "Oxalic acid", "Ethanoic acid"],
+      "answer": 2
+    },
+    {
+      "question": "The process of converting carboxylic acid to ester is called:",
+      "options": ["Hydrolysis", "Saponification", "Oxidation", "Esterification"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a phenol?",
+      "options": ["C6H5COOH", "C6H5CH3", "C6H5OH", "C6H5NH2"],
+      "answer": 2
+    },
+    {
+      "question": "The functional group in nitro compounds is:",
+      "options": ["-NH2", "-NO2", "-OH", "-CN"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a nitrile?",
+      "options": ["CH3CONH2", "CH3CN", "CH3NO2", "CH3NH2"],
+      "answer": 1
+    },
+    {
+      "question": "The process of converting amines to diazonium salts is called:",
+      "options": ["Hydrolysis", "Oxidation", "Reduction", "Diazotization"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an azo compound?",
+      "options": ["C6H5NO2", "C6H5NH2", "C6H5N=NC6H5", "C6H5CN"],
+      "answer": 2
+    },
+    {
+      "question": "The IUPAC name of CH3CH2COCH3 is:",
+      "options": ["3-Butanone", "2-Propanone", "3-Propanone", "2-Butanone"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an aldehyde?",
+      "options": ["Acetone", "Acetic acid", "Formaldehyde", "Ethanol"],
+      "answer": 2
+    },
+    {
+      "question": "The process of converting alcohol to aldehyde is called:",
+      "options": ["Oxidation", "Hydrogenation", "Reduction", "Dehydration"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a ketone?",
+      "options": ["Acetone", "Acetic acid", "Formaldehyde", "Ethanol"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in acid chlorides is:",
+      "options": ["-COOH", "-COCl", "-CO-", "-CHO"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an acid anhydride?",
+      "options": ["CH3COOH", "(CH3CO)2O", "CH3COCl", "CH3CONH2"],
+      "answer": 1
+    },
+    {
+      "question": "The process of converting carboxylic acid to acid chloride is called:",
+      "options": ["Esterification", "Hydrolysis", "Chlorination", "Saponification"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a Grignard reagent?",
+      "options": ["CH3K", "CH3Na", "CH3MgBr", "CH3Li"],
+      "answer": 2
+    },
+    {
+      "question": "The IUPAC name of C6H5CH3 is:",
+      "options": ["Benzene", "Styrene", "Toluene", "Xylene"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a vinyl compound?",
+      "options": ["C6H5Cl", "CH2Cl2", "CH3CH2Cl", "CH2=CHCl"],
+      "answer": 3
+    },
+    {
+      "question": "The process of converting benzene to nitrobenzene is called:",
+      "options": ["Halogenation", "Sulfonation", "Alkylation", "Nitration"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an organometallic compound?",
+      "options": ["CH3NH2", "CH3OH", "CH3MgBr", "CH3CN"],
+      "answer": 2
+    },
+    {
+      "question": "The functional group in thiols is:",
+      "options": ["-SH", "-NH2", "-COOH", "-OH"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a disulfide?",
+      "options": ["CH3SH", "CH3SSCH3", "CH3NH2", "CH3OH"],
+      "answer": 1
+    },
+    {
+      "question": "The process of converting thiols to disulfides is called:",
+      "options": ["Oxidation", "Hydrolysis", "Reduction", "Dehydration"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a sulfonic acid?",
+      "options": ["C6H5SO3H", "C6H5NH2", "C6H5OH", "C6H5COOH"],
+      "answer": 0
+    },
+    {
+      "question": "The IUPAC name of CH3CH2CH2OH is:",
+      "options": ["2-Propanol", "1-Butanol", "1-Propanol", "2-Butanol"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a glycol?",
+      "options": ["Ethanol", "Methanol", "Ethylene glycol", "Glycerol"],
+      "answer": 2
+    },
+    {
+      "question": "The process of converting alkene to glycol is called:",
+      "options": ["Hydroxylation", "Hydration", "Dehydration", "Hydrogenation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an epoxy compound?",
+      "options": ["Ethanol", "Ethanal", "Ethanoic acid", "Ethylene oxide"],
+      "answer": 3
+    },
+    {
+      "question": "The functional group in epoxides is:",
+      "options": ["-O- (cyclic)", "-CO-", "-OH", "-CHO"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a crown ether?",
+      "options": ["12-crown-4", "15-crown-5", "18-crown-6", "All of these"],
+      "answer": 3
+    },
+    {
+      "question": "The process of converting alkene to epoxide is called:",
+      "options": ["Epoxidation", "Hydration", "Hydroxylation", "Hydrogenation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a peroxy acid?",
+      "options": ["Acetic acid", "Propionic acid", "Peracetic acid", "Butyric acid"],
+      "answer": 2
+    },
+    {
+      "question": "The IUPAC name of CH3CH2COOCH3 is:",
+      "options": ["Methyl ethanoate", "Ethyl propanoate", "Methyl propanoate", "Ethyl ethanoate"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a lactone?",
+      "options": ["Cyclic ether", "Cyclic amide", "Cyclic amine", "Cyclic ester"],
+      "answer": 3
+    },
+    {
+      "question": "The process of converting lactone to hydroxy acid is called:",
+      "options": ["Oxidation", "Reduction", "Dehydration", "Hydrolysis"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a lactam?",
+      "options": ["Cyclic ester", "Cyclic ether", "Cyclic amine", "Cyclic amide"],
+      "answer": 3
+    },
+    {
+      "question": "The functional group in lactams is:",
+      "options": ["-CONH- (cyclic)", "-NH- (cyclic)", "-COO- (cyclic)", "-O- (cyclic)"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an imine?",
+      "options": ["RCH=NR", "RCH=NH", "RCH=O", "RCH=OH"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting aldehyde to imine is called:",
+      "options": ["Condensation", "Reduction", "Hydrolysis", "Oxidation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an enamine?",
+      "options": ["R2C=CR-NR2", "RCH=OH", "RCH=O", "RCH=NR"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in enamines is:",
+      "options": ["C=C-N", "C-OH", "C=N", "C=O"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a Schiff base?",
+      "options": ["RCH=OH", "RCH=NR'", "RCH=NH", "RCH=O"],
+      "answer": 1
+    },
+    {
+      "question": "The process of converting imine to amine is called:",
+      "options": ["Reduction", "Hydrolysis", "Dehydration", "Oxidation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a hydrazone?",
+      "options": ["R2C=NNH2", "RCH=OH", "RCH=O", "RCH=NR"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in hydrazones is:",
+      "options": ["C=NNH2", "C=O", "C-OH", "C=N"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an oxime?",
+      "options": ["R2C=NOH", "RCH=OH", "RCH=O", "RCH=NR"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting aldehyde to oxime is called:",
+      "options": ["Condensation with hydroxylamine", "Reduction", "Oxidation", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a semicarbazone?",
+      "options": ["R2C=NNHCONH2", "RCH=OH", "RCH=O", "RCH=NR"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in semicarbazones is:",
+      "options": ["C=NNHCONH2", "C=N", "C-OH", "C=O"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a ketal?",
+      "options": ["R2C=O", "RCH=O", "R2C(OR')2", "RCH(OR')2"],
+      "answer": 2
+    },
+    {
+      "question": "The process of converting ketone to ketal is called:",
+      "options": ["Hydrolysis", "Acetal formation", "Reduction", "Oxidation"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an acetal?",
+      "options": ["R2C=O", "R2C(OR')2", "RCH(OR')2", "RCH=O"],
+      "answer": 2
+    },
+    {
+      "question": "The functional group in acetals is:",
+      "options": ["RCH(OR')2", "RCH=O", "R2C=O", "R2C(OR')2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a hemiacetal?",
+      "options": ["RCH(OR')2", "RCH(OH)OR'", "R2C(OR')2", "RCH=O"],
+      "answer": 1
+    },
+    {
+      "question": "The process of converting hemiacetal to acetal is called:",
+      "options": ["Etherification", "Reduction", "Oxidation", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a carbohydrate?",
+      "options": ["Glycerol", "Glycol", "Glycine", "Glucose"],
+      "answer": 3
+    },
+    {
+      "question": "The molecular formula of glucose is:",
+      "options": ["C5H10O5", "C6H12O6", "C6H12O5", "C12H22O11"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a disaccharide?",
+      "options": ["Glucose", "Fructose", "Sucrose", "Galactose"],
+      "answer": 2
+    },
+    {
+      "question": "The process of hydrolyzing sucrose gives:",
+      "options": ["Glucose + Galactose", "Fructose + Fructose", "Glucose + Fructose", "Glucose + Glucose"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a polysaccharide?",
+      "options": ["Lactose", "Maltose", "Sucrose", "Starch"],
+      "answer": 3
+    },
+    {
+      "question": "The functional group in starch is:",
+      "options": ["Hemiacetal", "Acetal", "Aldehyde", "Ketone"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an amino acid?",
+      "options": ["Glycol", "Glycine", "Glycerol", "Glucose"],
+      "answer": 1
+    },
+    {
+      "question": "The functional group in amino acids is:",
+      "options": ["-NH2 and -OH", "-CHO and -COOH", "-OH and -COOH", "-NH2 and -COOH"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a peptide?",
+      "options": ["Glycol", "Glycylalanine", "Glycerol", "Glucose"],
+      "answer": 1
+    },
+    {
+      "question": "The process of converting amino acids to peptides is called:",
+      "options": ["Condensation", "Reduction", "Oxidation", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a protein?",
+      "options": ["Glucose", "Sucrose", "Starch", "Hemoglobin"],
+      "answer": 3
+    },
+    {
+      "question": "The primary structure of protein is:",
+      "options": ["Beta sheet", "Amino acid sequence", "Tertiary structure", "Alpha helix"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an enzyme?",
+      "options": ["Glucose", "Sucrose", "Amylase", "Starch"],
+      "answer": 2
+    },
+    {
+      "question": "The functional group in enzymes is:",
+      "options": ["Binding site", "Active site", "Catalytic site", "Allosteric site"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a nucleic acid?",
+      "options": ["Protein", "Lipid", "DNA", "Carbohydrate"],
+      "answer": 2
+    },
+    {
+      "question": "The building blocks of DNA are:",
+      "options": ["Fatty acids", "Amino acids", "Monosaccharides", "Nucleotides"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a purine base?",
+      "options": ["Thymine", "Adenine", "Uracil", "Cytosine"],
+      "answer": 1
+    },
+    {
+      "question": "The process of DNA replication is:",
+      "options": ["Semiconservative", "Dispersive", "Random", "Conservative"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a pyrimidine base?",
+      "options": ["Guanine", "Hypoxanthine", "Adenine", "Cytosine"],
+      "answer": 3
+    },
+    {
+      "question": "The hydrogen bonds between A-T in DNA are:",
+      "options": ["3", "2", "4", "1"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a lipid?",
+      "options": ["Glucose", "Glycine", "Triglyceride", "DNA"],
+      "answer": 2
+    },
+    {
+      "question": "The building blocks of lipids are:",
+      "options": ["Monosaccharides", "Glycerol and fatty acids", "Nucleotides", "Amino acids"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a phospholipid?",
+      "options": ["Cholesterol", "Triglyceride", "Glycolipid", "Lecithin"],
+      "answer": 3
+    },
+    {
+      "question": "The process of saponification converts:",
+      "options": ["Lipids to glucose", "Lipids to amino acids", "Lipids to soap", "Lipids to nucleotides"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a steroid?",
+      "options": ["Phospholipid", "Cholesterol", "Triglyceride", "Glycolipid"],
+      "answer": 1
+    },
+    {
+      "question": "The functional group in steroids is:",
+      "options": ["Ester bond", "Cyclic structure with OH", "Amide bond", "Phosphate group"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a terpene?",
+      "options": ["Glucose", "Glycine", "Limonene", "DNA"],
+      "answer": 2
+    },
+    {
+      "question": "The building blocks of terpenes are:",
+      "options": ["Amino acids", "Isoprene units", "Nucleotides", "Monosaccharides"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a carotenoid?",
+      "options": ["Limonene", "Beta-carotene", "Menthol", "Camphor"],
+      "answer": 1
+    },
+    {
+      "question": "The process of converting terpenes to other compounds is called:",
+      "options": ["Rearrangement", "Reduction", "Hydrolysis", "Oxidation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an alkaloid?",
+      "options": ["Glucose", "Glycine", "Caffeine", "DNA"],
+      "answer": 2
+    },
+    {
+      "question": "The functional group in alkaloids is:",
+      "options": ["COOH group", "Nitrogen-containing heterocycle", "CHO group", "OH group"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a flavonoid?",
+      "options": ["Caffeine", "Quercetin", "Nicotine", "Morphine"],
+      "answer": 1
+    },
+    {
+      "question": "The process of isolating alkaloids from plants is called:",
+      "options": ["Extraction", "Crystallization", "Sublimation", "Distillation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a glycoside?",
+      "options": ["Fructose", "Glucose", "Sucrose", "Galactose"],
+      "answer": 2
+    },
+    {
+      "question": "The functional group in glycosides is:",
+      "options": ["Ketone", "Hemiacetal", "Aldehyde", "Acetal"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a phenol?",
+      "options": ["C6H5NH2", "C6H5OH", "C6H5COOH", "C6H5CH3"],
+      "answer": 1
+    },
+    {
+      "question": "The acidity of phenol is due to:",
+      "options": ["Resonance stabilization", "Steric effect", "Hydrogen bonding", "Inductive effect"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a cresol?",
+      "options": ["Methyl phenol", "Butyl phenol", "Propyl phenol", "Ethyl phenol"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting phenol to aspirin is:",
+      "options": ["Esterification", "Reduction", "Oxidation", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an aniline?",
+      "options": ["C6H5NH2", "C6H5COOH", "C6H5OH", "C6H5CH3"],
+      "answer": 0
+    },
+    {
+      "question": "The basicity of aniline is due to:",
+      "options": ["Lone pair on nitrogen", "Inductive effect", "Resonance stabilization", "Hydrogen bonding"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a nitrobenzene?",
+      "options": ["C6H5CH3", "C6H5OH", "C6H5NO2", "C6H5NH2"],
+      "answer": 2
+    },
+    {
+      "question": "The process of converting benzene to nitrobenzene is:",
+      "options": ["Halogenation", "Sulfonation", "Alkylation", "Nitration"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a halogenated compound?",
+      "options": ["C6H5Cl", "C6H5NH2", "C6H5OH", "C6H5CH3"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting benzene to chlorobenzene is:",
+      "options": ["Halogenation", "Alkylation", "Nitration", "Sulfonation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an alkyl benzene?",
+      "options": ["Toluene", "Nitrobenzene", "Aniline", "Chlorobenzene"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting benzene to toluene is:",
+      "options": ["Alkylation", "Sulfonation", "Halogenation", "Nitration"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a carboxylic acid derivative?",
+      "options": ["Ester", "Acid chloride", "Amide", "All of these"],
+      "answer": 3
+    },
+    {
+      "question": "The process of converting acid chloride to ester is:",
+      "options": ["Hydrolysis", "Oxidation", "Esterification", "Reduction"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an acid anhydride?",
+      "options": ["Acetic anhydride", "Ethanol", "Acetic acid", "Acetone"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting acid to acid anhydride is:",
+      "options": ["Dehydration", "Oxidation", "Reduction", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a lactone?",
+      "options": ["Gamma-butyrolactone", "Glycolic acid", "Lactic acid", "Malic acid"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in lactones is:",
+      "options": ["Cyclic amine", "Cyclic ether", "Cyclic amide", "Cyclic ester"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a lactam?",
+      "options": ["2-Pyrrolidinone", "Gamma-butyrolactone", "Tetrahydrofuran", "Ethylene oxide"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in lactams is:",
+      "options": ["Cyclic amine", "Cyclic amide", "Cyclic ester", "Cyclic ether"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a cyclic ether?",
+      "options": ["Tetrahydrofuran", "2-Pyrrolidinone", "Gamma-butyrolactone", "Ethylene oxide"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in cyclic ethers is:",
+      "options": ["-NH- (cyclic)", "-CONH- (cyclic)", "-O- (cyclic)", "-COO- (cyclic)"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an epoxide?",
+      "options": ["Ethylene oxide", "Propylene oxide", "Both 1 and 2", "None"],
+      "answer": 2
+    },
+    {
+      "question": "The process of converting alkene to epoxide is:",
+      "options": ["Epoxidation", "Hydration", "Hydrogenation", "Hydroxylation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a diol?",
+      "options": ["Ethylene glycol", "Glycerol", "1,2-Propanediol", "All of these"],
+      "answer": 3
+    },
+    {
+      "question": "The process of converting alkene to diol is:",
+      "options": ["Hydroxylation", "Hydration", "Hydrogenation", "Epoxidation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a triol?",
+      "options": ["Ethylene glycol", "Glycerol", "1,3-Propanediol", "1,2-Propanediol"],
+      "answer": 1
+    },
+    {
+      "question": "The functional group in glycerol is:",
+      "options": ["-COOH", "-CHO", "-CO-", "-OH"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an alcohol?",
+      "options": ["Ethanol", "Formaldehyde", "Acetic acid", "Acetone"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting alcohol to ether is:",
+      "options": ["Dehydration", "Oxidation", "Hydrolysis", "Reduction"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an ether?",
+      "options": ["Ethanol", "Acetone", "Diethyl ether", "Formaldehyde"],
+      "answer": 2
+    },
+    {
+      "question": "The process of converting alcohol to aldehyde is:",
+      "options": ["Oxidation", "Hydrogenation", "Reduction", "Dehydration"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a ketone?",
+      "options": ["Acetone", "Ethanol", "Formaldehyde", "Acetic acid"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting alcohol to ketone is:",
+      "options": ["Oxidation", "Dehydration", "Reduction", "Hydrogenation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a carboxylic acid?",
+      "options": ["Acetic acid", "Acetone", "Ethanol", "Formaldehyde"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting aldehyde to carboxylic acid is:",
+      "options": ["Oxidation", "Dehydration", "Hydrogenation", "Reduction"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an ester?",
+      "options": ["Ethyl acetate", "Ethanol", "Acetone", "Acetic acid"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting carboxylic acid to ester is:",
+      "options": ["Esterification", "Oxidation", "Reduction", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an amide?",
+      "options": ["Acetamide", "Acetone", "Acetic acid", "Ethanol"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting carboxylic acid to amide is:",
+      "options": ["Amidation", "Hydrolysis", "Esterification", "Oxidation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a nitrile?",
+      "options": ["Acetonitrile", "Ethanol", "Acetone", "Acetic acid"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting carboxylic acid to nitrile is:",
+      "options": ["Dehydration", "Reduction", "Oxidation", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an isocyanide?",
+      "options": ["Methyl isocyanide", "Ethanol", "Acetone", "Acetonitrile"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in isocyanides is:",
+      "options": ["-NC", "-NO2", "-CN", "-NH2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a nitroso compound?",
+      "options": ["C6H5NO", "C6H5CN", "C6H5NO2", "C6H5NH2"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in nitroso compounds is:",
+      "options": ["-NO", "-CN", "-NO2", "-NH2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an azide?",
+      "options": ["C6H5N3", "C6H5NO2", "C6H5CN", "C6H5NH2"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in azides is:",
+      "options": ["-N3", "-CN", "-NH2", "-NO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a diazo compound?",
+      "options": ["CH2N2", "C6H5NO2", "C6H5N3", "CH3N3"],
+      "answer": 0
+    },
+    {
+      "question": "The functional group in diazo compounds is:",
+      "options": ["-N2+", "-NO2", "-NH2", "-N3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a carbene?",
+      "options": ["CH2:", "C6H5:", "C2H5:", "CH3:"],
+      "answer": 0
+    },
+    {
+      "question": "The electronic configuration of carbene is:",
+      "options": ["Singlet or triplet", "Quartet", "Sextet", "Doublet"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a nitrene?",
+      "options": ["NH:", "C6H5:", "CH2:", "C2H5:"],
+      "answer": 0
+    },
+    {
+      "question": "The electronic configuration of nitrene is:",
+      "options": ["Singlet or triplet", "Doublet", "Sextet", "Quartet"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a radical?",
+      "options": ["CH3•", "CH4", "CH3-", "CH3+"],
+      "answer": 0
+    },
+    {
+      "question": "The process of radical formation is called:",
+      "options": ["Homolysis", "Hydrolysis", "Heterolysis", "Oxidation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a carbocation?",
+      "options": ["CH3+", "CH3-", "CH4", "CH3•"],
+      "answer": 0
+    },
+    {
+      "question": "The process of carbocation formation is called:",
+      "options": ["Heterolysis", "Oxidation", "Homolysis", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a carbanion?",
+      "options": ["CH3-", "CH3•", "CH3+", "CH4"],
+      "answer": 0
+    },
+    {
+      "question": "The process of carbanion formation is called:",
+      "options": ["Heterolysis", "Homolysis", "Hydrolysis", "Oxidation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a nucleophile?",
+      "options": ["OH-", "NO2+", "H+", "Br+"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an electrophile?",
+      "options": ["H+", "NH3", "OH-", "H2O"],
+      "answer": 0
+    },
+    {
+      "question": "The process of nucleophilic attack is called:",
+      "options": ["Nucleophilic substitution", "Addition", "Elimination", "Electrophilic substitution"],
+      "answer": 0
+    },
+    {
+      "question": "The process of electrophilic attack is called:",
+      "options": ["Electrophilic substitution", "Addition", "Elimination", "Nucleophilic substitution"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a leaving group?",
+      "options": ["Br-", "NH3", "OH-", "H+"],
+      "answer": 0
+    },
+    {
+      "question": "The process of SN1 reaction involves:",
+      "options": ["Carbocation intermediate", "Radical intermediate", "Carbanion intermediate", "No intermediate"],
+      "answer": 0
+    },
+    {
+      "question": "The process of SN2 reaction involves:",
+      "options": ["Backside attack", "No attack", "Radical attack", "Frontside attack"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an E1 reaction?",
+      "options": ["Elimination with carbocation", "Elimination with radical", "Elimination with carbanion", "No elimination"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an E2 reaction?",
+      "options": ["Elimination with concerted mechanism", "Elimination with carbanion", "Elimination with carbocation", "No elimination"],
+      "answer": 0
+    },
+    {
+      "question": "The process of addition to alkene is called:",
+      "options": ["Electrophilic addition", "Nucleophilic addition", "Cycloaddition", "Free radical addition"],
+      "answer": 0
+    },
+    {
+      "question": "The process of addition to carbonyl is called:",
+      "options": ["Nucleophilic addition", "Electrophilic addition", "Cycloaddition", "Free radical addition"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a conjugated diene?",
+      "options": ["1,3-Butadiene", "1,2-Butadiene", "2,3-Butadiene", "1,4-Butadiene"],
+      "answer": 0
+    },
+    {
+      "question": "The process of Diels-Alder reaction is:",
+      "options": ["Cycloaddition", "Electrophilic addition", "Free radical addition", "Nucleophilic addition"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a dienophile?",
+      "options": ["Maleic anhydride", "Propylene", "Butylene", "Ethylene"],
+      "answer": 0
+    },
+    {
+      "question": "The process of aromatic electrophilic substitution involves:",
+      "options": ["Electrophile attack on benzene", "Nucleophile attack on benzene", "Radical attack on benzene", "No attack"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an activating group?",
+      "options": ["-OH", "-Br", "-Cl", "-NO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a deactivating group?",
+      "options": ["-NO2", "-NH2", "-CH3", "-OH"],
+      "answer": 0
+    },
+    {
+      "question": "The process of ortho-para directing is shown by:",
+      "options": ["Activating groups", "Deactivating groups", "Both 1 and 2", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The process of meta directing is shown by:",
+      "options": ["Deactivating groups", "Activating groups", "Both 1 and 2", "None"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a heteroaromatic compound?",
+      "options": ["Pyridine", "Toluene", "Xylene", "Benzene"],
+      "answer": 0
+    },
+    {
+      "question": "The aromaticity of pyridine is due to:",
+      "options": ["6π electrons", "4π electrons", "8π electrons", "10π electrons"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a furan?",
+      "options": ["C4H4O", "C5H5N", "C4H4S", "C4H4NH"],
+      "answer": 0
+    },
+    {
+      "question": "The aromaticity of furan is due to:",
+      "options": ["6π electrons", "4π electrons", "8π electrons", "10π electrons"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a thiophene?",
+      "options": ["C4H4S", "C5H5N", "C4H4O", "C4H4NH"],
+      "answer": 0
+    },
+    {
+      "question": "The aromaticity of thiophene is due to:",
+      "options": ["6π electrons", "4π electrons", "8π electrons", "10π electrons"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a pyrrole?",
+      "options": ["C4H4NH", "C4H4S", "C4H4O", "C5H5N"],
+      "answer": 0
+    },
+    {
+      "question": "The aromaticity of pyrrole is due to:",
+      "options": ["6π electrons", "4π electrons", "8π electrons", "10π electrons"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an indole?",
+      "options": ["C8H7N", "C9H7N", "C8H8S", "C8H8O"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting pyrrole to indole is:",
+      "options": ["Fischer indole synthesis", "Electrophilic substitution", "Nucleophilic substitution", "Diels-Alder"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a quinoline?",
+      "options": ["C9H7N", "C7H7N", "C10H7N", "C8H7N"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting aniline to quinoline is:",
+      "options": ["Skraup synthesis", "Fischer synthesis", "Electrophilic substitution", "Diels-Alder"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an isoquinoline?",
+      "options": ["C9H7N", "C7H7N", "C10H7N", "C8H7N"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting benzaldehyde to isoquinoline is:",
+      "options": ["Pictet-Spengler synthesis", "Skraup synthesis", "Fischer synthesis", "Diels-Alder"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a carbazole?",
+      "options": ["C12H9N", "C10H9N", "C13H9N", "C11H9N"],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting diphenylamine to carbazole is:",
+      "options": ["Borsche-Drechsel cyclization", "Skraup synthesis", "Fischer synthesis", "Diels-Alder"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a porphyrin?",
+      "options": ["Heme", "Chlorophyll", "Both 1 and 2", "None"],
+      "answer": 2
+    },
+    {
+      "question": "The metal in heme is:",
+      "options": ["Fe", "Mg", "Zn", "Cu"],
+      "answer": 0
+    },
+    {
+      "question": "The metal in chlorophyll is:",
+      "options": ["Mg", "Fe", "Zn", "Cu"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a vitamin?",
+      "options": ["Vitamin C", "Glycine", "DNA", "Glucose"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical name of vitamin C is:",
+      "options": ["Ascorbic acid", "Tartaric acid", "Malic acid", "Citric acid"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a hormone?",
+      "options": ["Insulin", "Glucose", "DNA", "Glycine"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical nature of insulin is:",
+      "options": ["Protein", "Lipid", "Nucleic acid", "Carbohydrate"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a neurotransmitter?",
+      "options": ["Dopamine", "Glycine", "Glucose", "DNA"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical nature of dopamine is:",
+      "options": ["Catecholamine", "Lipid", "Carbohydrate", "Nucleic acid"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an antibiotic?",
+      "options": ["Penicillin", "Glycine", "DNA", "Glucose"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical nature of penicillin is:",
+      "options": ["Beta-lactam", "Lipid", "Carbohydrate", "Nucleic acid"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an analgesic?",
+      "options": ["Aspirin", "Glycine", "Glucose", "DNA"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical name of aspirin is:",
+      "options": ["Acetylsalicylic acid", "Salicylic acid", "Citric acid", "Acetic acid"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an antipyretic?",
+      "options": ["Paracetamol", "Glycine", "Glucose", "DNA"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical name of paracetamol is:",
+      "options": ["Acetaminophen", "Salicylic acid", "Citric acid", "Acetic acid"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an antihistamine?",
+      "options": ["Loratadine", "Glycine", "Glucose", "DNA"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical nature of loratadine is:",
+      "options": ["Piperidine derivative", "Lipid", "Carbohydrate", "Nucleic acid"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an antidepressant?",
+      "options": ["Fluoxetine", "Glycine", "Glucose", "DNA"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical nature of fluoxetine is:",
+      "options": ["SSRI", "Lipid", "Carbohydrate", "Nucleic acid"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an anticancer drug?",
+      "options": ["Cisplatin", "Glycine", "Glucose", "DNA"],
+      "answer": 0
+    },
+    {
+      "question": "The metal in cisplatin is:",
+      "options": ["Pt", "Ag", "Au", "Pd"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a steroid hormone?",
+      "options": ["Testosterone", "Glucose", "Insulin", "DNA"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical nature of testosterone is:",
+      "options": ["Steroid", "Protein", "Nucleic acid", "Carbohydrate"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a prostaglandin?",
+      "options": ["PGE2", "Glycine", "Glucose", "DNA"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical nature of prostaglandins is:",
+      "options": ["Lipid", "Protein", "Nucleic acid", "Carbohydrate"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a leukotriene?",
+      "options": ["LTA4", "Glycine", "Glucose", "DNA"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical nature of leukotrienes is:",
+      "options": ["Lipid", "Protein", "Nucleic acid", "Carbohydrate"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a thromboxane?",
+      "options": ["TXA2", "Glycine", "Glucose", "DNA"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical nature of thromboxanes is:",
+      "options": ["Lipid", "Protein", "Nucleic acid", "Carbohydrate"],
+      "answer": 0
+    }
+  ]
+}

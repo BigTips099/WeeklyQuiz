@@ -1,0 +1,1114 @@
+{
+  "questions": [
+    {
+      "question": "Who is considered the father of genetics?",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "James Watson",
+        "Thomas Morgan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In a monohybrid cross, the phenotypic ratio in F2 generation is:",
+      "options": [
+        "1:2:1",
+        "3:1",
+        "9:3:3:1",
+        "1:1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The ABO blood group system demonstrates which genetic principle?",
+      "options": [
+        "Multiple alleles",
+        "Incomplete dominance",
+        "Sex-linked inheritance",
+        "Codominance only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A person with genotype IAi has which blood group?",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type AB",
+        "Type O"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Color blindness is more common in males because:",
+      "options": [
+        "They have two X chromosomes",
+        "They have only one X chromosome",
+        "The trait is autosomal dominant",
+        "The trait is Y-linked"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "During which phase of cell division does crossing over occur?",
+      "options": [
+        "Mitosis",
+        "Meiosis I prophase",
+        "Meiosis II",
+        "Interphase"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A dihybrid cross between two heterozygotes produces which phenotypic ratio?",
+      "options": [
+        "3:1",
+        "9:3:3:1",
+        "1:2:1",
+        "1:1:1:1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The chromosome theory of inheritance was proposed by:",
+      "options": [
+        "Mendel and Darwin",
+        "Sutton and Boveri",
+        "Watson and Crick",
+        "Morgan and Sturtevant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If a woman is a carrier for hemophilia (XHXh), what is the chance her son will have hemophilia?",
+      "options": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The genotype 'Aa' represents:",
+      "options": [
+        "Homozygous dominant",
+        "Heterozygous",
+        "Homozygous recessive",
+        "Hemizygous"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When a dominant allele masks the expression of a recessive allele, this is called:",
+      "options": [
+        "Complete dominance",
+        "Incomplete dominance",
+        "Codominance",
+        "Epistasis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A test cross is used to determine:",
+      "options": [
+        "If an organism is homozygous or heterozygous",
+        "The genotype of the offspring",
+        "The phenotype of the offspring",
+        "The mutation rate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In humans, the male sex chromosomes are:",
+      "options": [
+        "XX",
+        "XY",
+        "X",
+        "Y"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The law of segregation states that:",
+      "options": [
+        "Alleles separate during gamete formation",
+        "Genes on different chromosomes assort independently",
+        "Dominant alleles mask recessive alleles",
+        "Mutations are random"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which genetic disorder is caused by trisomy 21?",
+      "options": [
+        "Turner syndrome",
+        "Down syndrome",
+        "Klinefelter syndrome",
+        "Fragile X syndrome"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many chromosomes are present in a human somatic cell?",
+      "options": [
+        "23",
+        "46",
+        "44",
+        "22"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mitochondrial DNA is inherited from which parent?",
+      "options": [
+        "Father",
+        "Mother",
+        "Both parents equally",
+        "Randomly from either parent"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When red and white flowered plants produce pink flowers, this is an example of:",
+      "options": [
+        "Complete dominance",
+        "Incomplete dominance",
+        "Codominance",
+        "Multiple alleles"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Linked genes tend to be inherited together because:",
+      "options": [
+        "They are on different chromosomes",
+        "They are on the same chromosome",
+        "They are always dominant",
+        "They mutate together"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The term 'genome' refers to:",
+      "options": [
+        "All the genes in a cell",
+        "All the proteins in a cell",
+        "All the chromosomes in a cell",
+        "All the DNA in a cell"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Huntington's disease is inherited as:",
+      "options": [
+        "Autosomal recessive",
+        "Autosomal dominant",
+        "X-linked recessive",
+        "X-linked dominant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Hardy-Weinberg equilibrium assumes all of the following EXCEPT:",
+      "options": [
+        "Large population size",
+        "Random mating",
+        "No mutations",
+        "Natural selection is occurring"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A mutation that changes a single nucleotide is called:",
+      "options": [
+        "Frameshift mutation",
+        "Point mutation",
+        "Chromosomal mutation",
+        "Deletion mutation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Color blindness is an example of:",
+      "options": [
+        "Autosomal recessive trait",
+        "X-linked recessive trait",
+        "Autosomal dominant trait",
+        "Y-linked trait"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Punnett square is used to predict:",
+      "options": [
+        "Genotypes of offspring",
+        "Phenotypes of offspring",
+        "Both genotypes and phenotypes",
+        "Mutation rates"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT a nitrogenous base found in DNA?",
+      "options": [
+        "Adenine",
+        "Guanine",
+        "Uracil",
+        "Thymine"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A carrier for a genetic disorder is always:",
+      "options": [
+        "Homozygous dominant",
+        "Heterozygous",
+        "Homozygous recessive",
+        "Hemizygous"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of DNA replication results in:",
+      "options": [
+        "Two identical DNA molecules",
+        "Two different DNA molecules",
+        "One DNA and one RNA molecule",
+        "One DNA and one protein molecule"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who discovered the structure of DNA?",
+      "options": [
+        "Mendel and Darwin",
+        "Watson and Crick",
+        "Sutton and Boveri",
+        "Morgan and Sturtevant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "RNA is different from DNA because RNA contains:",
+      "options": [
+        "Thymine instead of uracil",
+        "Uracil instead of thymine",
+        "Deoxyribose sugar",
+        "Double helix structure"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In a pedigree chart, a square represents:",
+      "options": [
+        "Female",
+        "Male",
+        "Affected individual",
+        "Carrier"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The chance of having a child with Down syndrome increases with:",
+      "options": [
+        "Maternal age",
+        "Paternal age",
+        "Both maternal and paternal age",
+        "Environmental factors"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genes are located on:",
+      "options": [
+        "Proteins",
+        "Chromosomes",
+        "Lipids",
+        "Carbohydrates"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Aneuploidy refers to:",
+      "options": [
+        "An abnormal number of chromosomes",
+        "A normal number of chromosomes",
+        "A mutation in a gene",
+        "A change in protein structure"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cystic fibrosis is caused by a mutation in which type of gene?",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked dominant",
+        "X-linked recessive"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The term 'allele' refers to:",
+      "options": [
+        "An alternative form of a gene",
+        "A chromosome",
+        "A protein",
+        "A trait"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When two alleles are expressed equally in the phenotype, this is called:",
+      "options": [
+        "Incomplete dominance",
+        "Codominance",
+        "Complete dominance",
+        "Epistasis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The human genome contains approximately how many genes?",
+      "options": [
+        "10,000",
+        "20,000",
+        "50,000",
+        "100,000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A person with genotype XhXh will have which condition?",
+      "options": [
+        "Hemophilia (if female)",
+        "Hemophilia (if male)",
+        "Color blindness",
+        "No genetic disorder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an example of a polygenic trait?",
+      "options": [
+        "Pea plant height",
+        "Human skin color",
+        "Blood type",
+        "Hemophilia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "DNA polymerase is responsible for:",
+      "options": [
+        "Unwinding DNA",
+        "Synthesizing DNA",
+        "Cutting DNA",
+        "Repairing DNA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of transcription produces:",
+      "options": [
+        "DNA from RNA",
+        "RNA from DNA",
+        "Protein from RNA",
+        "DNA from protein"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The start codon in mRNA is:",
+      "options": [
+        "UAA",
+        "AUG",
+        "UGA",
+        "UAG"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If a child has type O blood, what must be the genotypes of the parents?",
+      "options": [
+        "Both must be type O",
+        "Both must carry the i allele",
+        "Both must be type AB",
+        "At least one parent must be type A"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The DNA double helix was discovered in which year?",
+      "options": [
+        "1943",
+        "1953",
+        "1963",
+        "1973"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If a woman with blood type AB marries a man with blood type O, what blood types can their children have?",
+      "options": [
+        "A or B only",
+        "AB or O only",
+        "A, B, AB, or O",
+        "Only AB"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gene expression is regulated by:",
+      "options": [
+        "Promoters",
+        "Enhancers",
+        "Transcription factors",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A mutation that results in the production of a stop codon is called:",
+      "options": [
+        "Missense mutation",
+        "Nonsense mutation",
+        "Silent mutation",
+        "Frameshift mutation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is NOT a type of chromosomal mutation?",
+      "options": [
+        "Deletion",
+        "Duplication",
+        "Inversion",
+        "Point mutation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The genetic code is said to be degenerate because:",
+      "options": [
+        "Multiple codons code for the same amino acid",
+        "Each codon codes for multiple amino acids",
+        "Some amino acids have no codons",
+        "The code is not universal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Human gametes contain how many chromosomes?",
+      "options": [
+        "23",
+        "46",
+        "44",
+        "22"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A dominant allele is one that:",
+      "options": [
+        "Is always expressed in the phenotype",
+        "Is never expressed in the phenotype",
+        "Is expressed only in homozygous condition",
+        "Is expressed only in heterozygous condition"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genetic counseling is important for:",
+      "options": [
+        "Understanding genetic risks",
+        "Diagnosing genetic disorders",
+        "Planning for pregnancy",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a sex-linked trait?",
+      "options": [
+        "Cystic fibrosis",
+        "Hemophilia",
+        "Tay-Sachs disease",
+        "Huntington's disease"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Hardy-Weinberg principle is used to:",
+      "options": [
+        "Calculate allele frequencies in populations",
+        "Predict offspring genotypes",
+        "Determine mutation rates",
+        "Study protein structure"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CRISPR-Cas9 is a technology used for:",
+      "options": [
+        "Gene editing",
+        "DNA sequencing",
+        "Protein analysis",
+        "Cell culture"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What type of inheritance does ABO blood group demonstrate?",
+      "options": [
+        "Multiple alleles",
+        "Codominance",
+        "Both multiple alleles and codominance",
+        "Incomplete dominance"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The process of translation produces:",
+      "options": [
+        "DNA from RNA",
+        "Protein from mRNA",
+        "RNA from DNA",
+        "mRNA from protein"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A woman who is a carrier for an X-linked disorder has a child with a normal man. The chance her son will be affected is:",
+      "options": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT a stop codon?",
+      "options": [
+        "UAA",
+        "UGA",
+        "UAG",
+        "AUG"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The genetic material of a cell is organized into structures called:",
+      "options": [
+        "Genes",
+        "Chromosomes",
+        "Proteins",
+        "Lipids"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If both parents are heterozygous for a recessive trait, the chance of having an affected child is:",
+      "options": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Tay-Sachs disease is most common in which population?",
+      "options": [
+        "African Americans",
+        "Ashkenazi Jews",
+        "Caucasians",
+        "Asians"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The product of gene expression is:",
+      "options": [
+        "DNA",
+        "RNA",
+        "Protein",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A person with two identical alleles for a gene is said to be:",
+      "options": [
+        "Heterozygous",
+        "Homozygous",
+        "Hemizygous",
+        "Diploid"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Genes located on the same chromosome that are inherited together are called:",
+      "options": [
+        "Linked genes",
+        "Independent genes",
+        "Assorted genes",
+        "Recessive genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The number of chromosomes in a human egg cell is:",
+      "options": [
+        "23",
+        "46",
+        "44",
+        "22"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an example of a genetic disorder?",
+      "options": [
+        "Sickle cell anemia",
+        "Malaria",
+        "Tuberculosis",
+        "Cholera"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The term 'phenotype' refers to:",
+      "options": [
+        "The genetic makeup of an organism",
+        "The observable traits of an organism",
+        "The DNA sequence of an organism",
+        "The protein structure of an organism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "DNA replication occurs during which phase of the cell cycle?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The father of modern genetics is:",
+      "options": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "James Watson",
+        "Francis Crick"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the probability of a couple having a child with blood type O if both parents are type A heterozygous?",
+      "options": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Y chromosome is found in:",
+      "options": [
+        "Females only",
+        "Males only",
+        "Both males and females",
+        "Neither males nor females"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A person with two different alleles for a gene is:",
+      "options": [
+        "Homozygous",
+        "Heterozygous",
+        "Hemizygous",
+        "Diploid"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Genetic disorders can be caused by:",
+      "options": [
+        "Mutations",
+        "Chromosomal abnormalities",
+        "Environmental factors",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The study of heredity is called:",
+      "options": [
+        "Genetics",
+        "Ecology",
+        "Evolution",
+        "Anatomy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following diseases is caused by a dominant allele?",
+      "options": [
+        "Cystic fibrosis",
+        "Huntington's disease",
+        "Sickle cell anemia",
+        "Tay-Sachs disease"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The science of genetics began with the work of:",
+      "options": [
+        "Darwin",
+        "Mendel",
+        "Watson",
+        "Crick"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the probability of a couple having a child with blood type AB if the father is type A (IAi) and mother is type B (IBi)?",
+      "options": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mendel's laws of inheritance were based on experiments with:",
+      "options": [
+        "Fruit flies",
+        "Pea plants",
+        "Bacteria",
+        "Mice"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A person with type O blood has which genotype?",
+      "options": [
+        "IAIA",
+        "IBIB",
+        "IAIB",
+        "ii"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Fragile X syndrome is caused by a mutation in which type of gene?",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked dominant",
+        "X-linked recessive"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The number of chromosomes in a human sperm cell is:",
+      "options": [
+        "23",
+        "46",
+        "44",
+        "22"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genes are expressed as:",
+      "options": [
+        "DNA",
+        "Proteins",
+        "Lipids",
+        "Carbohydrates"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of forming gametes is called:",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Fertilization",
+        "Replication"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Sickle cell anemia is caused by a mutation in which gene?",
+      "options": [
+        "Hemoglobin",
+        "Insulin",
+        "Collagen",
+        "Myosin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A child receives genetic material from:",
+      "options": [
+        "Mother only",
+        "Father only",
+        "Both parents",
+        "Neither parent"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The genetic makeup of an organism is called its:",
+      "options": [
+        "Phenotype",
+        "Genotype",
+        "Proteome",
+        "Genome"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the probability of a male inheriting an X-linked recessive disorder from his father?",
+      "options": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chromosomes are composed of:",
+      "options": [
+        "DNA only",
+        "Protein only",
+        "DNA and protein",
+        "RNA and protein"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The passing of traits from parents to offspring is called:",
+      "options": [
+        "Evolution",
+        "Heredity",
+        "Mutation",
+        "Adaptation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If a person has genotype IAIB, their blood type is:",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type AB",
+        "Type O"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A recessive allele is expressed only when:",
+      "options": [
+        "It is present with a dominant allele",
+        "It is present in homozygous condition",
+        "It is present in heterozygous condition",
+        "It mutates"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The location of a gene on a chromosome is called:",
+      "options": [
+        "Locus",
+        "Allele",
+        "Centromere",
+        "Telomere"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Klinefelter syndrome results from which chromosomal abnormality?",
+      "options": [
+        "X0",
+        "XXY",
+        "XXX",
+        "XYY"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What percentage of human DNA codes for proteins?",
+      "options": [
+        "1-2%",
+        "10-15%",
+        "25-30%",
+        "50-60%"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The human genome project was completed in:",
+      "options": [
+        "1999",
+        "2000",
+        "2003",
+        "2005"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In pea plants, tall (T) is dominant over short (t). A cross between Tt and Tt will produce:",
+      "options": [
+        "All tall plants",
+        "All short plants",
+        "3 tall: 1 short",
+        "1 tall: 3 short"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The smallest unit of inheritance is:",
+      "options": [
+        "Chromosome",
+        "Gene",
+        "Protein",
+        "Nucleotide"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "During DNA replication, the enzyme that unwinds the DNA double helix is:",
+      "options": [
+        "DNA polymerase",
+        "Helicase",
+        "Ligase",
+        "Primase"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of genetic material?",
+      "options": [
+        "It must be stable",
+        "It must be mutable",
+        "It must be single-stranded",
+        "It must be replicated"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A female with Turner syndrome has which chromosomal makeup?",
+      "options": [
+        "XX",
+        "XY",
+        "XO",
+        "XXX"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which enzyme joins Okazaki fragments during DNA replication?",
+      "options": [
+        "Helicase",
+        "DNA polymerase",
+        "Ligase",
+        "Primase"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A child with blood type O has parents who:",
+      "options": [
+        "Must both have type O blood",
+        "Must both carry the i allele",
+        "Must have type AB blood",
+        "Cannot have type O blood"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The study of how genes affect drug response is called:",
+      "options": [
+        "Pharmacogenomics",
+        "Pharmacology",
+        "Pharmacokinetics",
+        "Pharmacodynamics"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an example of a chromosomal disorder?",
+      "options": [
+        "Cystic fibrosis",
+        "Down syndrome",
+        "Sickle cell anemia",
+        "Hemophilia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A person with genotype XHXh will:",
+      "options": [
+        "Be affected with hemophilia",
+        "Be a carrier for hemophilia",
+        "Be affected with color blindness",
+        "Be a carrier for color blindness"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mutations can be caused by:",
+      "options": [
+        "Radiation",
+        "Chemicals",
+        "Viruses",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The physical expression of genes is called the:",
+      "options": [
+        "Genotype",
+        "Phenotype",
+        "Proteome",
+        "Genome"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A heterozygous individual has:",
+      "options": [
+        "Two different alleles for a gene",
+        "Two identical alleles for a gene",
+        "One allele for a gene",
+        "No alleles for a gene"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "During transcription, which enzyme synthesizes RNA?",
+      "options": [
+        "DNA polymerase",
+        "RNA polymerase",
+        "Ligase",
+        "Helicase"
+      ],
+      "answer": 1
+    }
+  ]
+}

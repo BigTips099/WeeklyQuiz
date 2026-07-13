@@ -1,0 +1,1006 @@
+{
+  "category": "Regression & Correlation",
+  "total_questions": 200,
+  "questions": [
+    {
+      "question": "The relationship between two variables is called:",
+      "options": ["Regression", "Correlation", "Causation", "Association"],
+      "answer": 1
+    },
+    {
+      "question": "The correlation coefficient measures:",
+      "options": ["Strength of linear relationship", "Strength of non-linear relationship", "Causal relationship", "No relationship"],
+      "answer": 0
+    },
+    {
+      "question": "The correlation coefficient lies between:",
+      "options": ["0 and 1", "-1 and 1", "-∞ and ∞", "0 and ∞"],
+      "answer": 1
+    },
+    {
+      "question": "A correlation coefficient of +1 indicates:",
+      "options": ["Perfect positive correlation", "Perfect negative correlation", "No correlation", "Weak correlation"],
+      "answer": 0
+    },
+    {
+      "question": "A correlation coefficient of -1 indicates:",
+      "options": ["Perfect positive correlation", "Perfect negative correlation", "No correlation", "Weak correlation"],
+      "answer": 1
+    },
+    {
+      "question": "A correlation coefficient of 0 indicates:",
+      "options": ["Perfect correlation", "No correlation", "Weak correlation", "Strong correlation"],
+      "answer": 1
+    },
+    {
+      "question": "The coefficient of determination is:",
+      "options": ["r²", "r", "2r", "√r"],
+      "answer": 0
+    },
+    {
+      "question": "The coefficient of determination measures:",
+      "options": ["Proportion of variance explained", "Strength of correlation", "Causal effect", "No relationship"],
+      "answer": 0
+    },
+    {
+      "question": "If r = 0.8, then r² is:",
+      "options": ["0.64", "0.16", "0.8", "0.4"],
+      "answer": 0
+    },
+    {
+      "question": "If r = 0.6, then coefficient of determination is:",
+      "options": ["0.36", "0.6", "0.12", "0.24"],
+      "answer": 0
+    },
+    {
+      "question": "The formula for Pearson correlation coefficient is:",
+      "options": ["Σxy/√(Σx²Σy²)", "Σxy/(Σx²Σy²)", "Σxy/(n-1)", "Σxy/n"],
+      "answer": 0
+    },
+    {
+      "question": "The Pearson correlation coefficient is used for:",
+      "options": ["Linear relationship", "Non-linear relationship", "Categorical data", "Ordinal data"],
+      "answer": 0
+    },
+    {
+      "question": "The Spearman correlation coefficient is used for:",
+      "options": ["Ranked data", "Continuous data", "Categorical data", "Binary data"],
+      "answer": 0
+    },
+    {
+      "question": "The Kendall correlation coefficient is used for:",
+      "options": ["Ranked data", "Continuous data", "Categorical data", "Binary data"],
+      "answer": 0
+    },
+    {
+      "question": "The point biserial correlation is used for:",
+      "options": ["One continuous, one binary variable", "Two continuous variables", "Two categorical variables", "Ranked variables"],
+      "answer": 0
+    },
+    {
+      "question": "The phi coefficient is used for:",
+      "options": ["Two binary variables", "Two continuous variables", "Ranked variables", "Categorical variables"],
+      "answer": 0
+    },
+    {
+      "question": "The tetrachoric correlation is used for:",
+      "options": ["Two binary variables", "Two continuous variables", "Ranked variables", "Categorical variables"],
+      "answer": 0
+    },
+    {
+      "question": "The partial correlation measures:",
+      "options": ["Correlation after controlling for other variables", "Simple correlation", "Multiple correlation", "No correlation"],
+      "answer": 0
+    },
+    {
+      "question": "The multiple correlation measures:",
+      "options": ["Correlation between one variable and several others", "Simple correlation", "Partial correlation", "No correlation"],
+      "answer": 0
+    },
+    {
+      "question": "The regression equation is y = a + bx, where b is:",
+      "options": ["Slope", "Intercept", "Correlation", "Coefficient of determination"],
+      "answer": 0
+    },
+    {
+      "question": "The regression equation is y = a + bx, where a is:",
+      "options": ["Slope", "Intercept", "Correlation", "Coefficient of determination"],
+      "answer": 1
+    },
+    {
+      "question": "The slope of regression line is given by:",
+      "options": ["r(Sy/Sx)", "r(Sx/Sy)", "r²(Sy/Sx)", "r²(Sx/Sy)"],
+      "answer": 0
+    },
+    {
+      "question": "The intercept of regression line is given by:",
+      "options": ["ȳ - b̄x", "ȳ + b̄x", "b̄x - ȳ", "b̄x + ȳ"],
+      "answer": 0
+    },
+    {
+      "question": "The regression line always passes through:",
+      "options": ["(x̄, ȳ)", "(0,0)", "(1,1)", "(x̄, 0)"],
+      "answer": 0
+    },
+    {
+      "question": "The method of least squares minimizes:",
+      "options": ["Sum of squared errors", "Sum of errors", "Sum of absolute errors", "Sum of squared residuals"],
+      "answer": 0
+    },
+    {
+      "question": "The residual in regression is:",
+      "options": ["Observed - Predicted", "Predicted - Observed", "Observed + Predicted", "Observed × Predicted"],
+      "answer": 0
+    },
+    {
+      "question": "The sum of residuals in regression is:",
+      "options": ["Zero", "One", "Maximum", "Minimum"],
+      "answer": 0
+    },
+    {
+      "question": "The standard error of estimate is:",
+      "options": ["√(Σe²/(n-2))", "Σe²/(n-2)", "√(Σe²/n)", "Σe²/n"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence interval for regression slope uses:",
+      "options": ["t-distribution", "z-distribution", "F-distribution", "Chi-square distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The hypothesis test for regression slope uses:",
+      "options": ["t-test", "z-test", "F-test", "Chi-square test"],
+      "answer": 0
+    },
+    {
+      "question": "The ANOVA in regression tests:",
+      "options": ["Overall significance", "Individual significance", "Correlation", "Causation"],
+      "answer": 0
+    },
+    {
+      "question": "The F-test in regression tests:",
+      "options": ["Overall significance", "Individual significance", "Correlation", "Causation"],
+      "answer": 0
+    },
+    {
+      "question": "The multiple regression includes:",
+      "options": ["More than one predictor", "One predictor", "No predictor", "Categorical predictors"],
+      "answer": 0
+    },
+    {
+      "question": "The multiple regression equation is:",
+      "options": ["y = a + b₁x₁ + b₂x₂ + ...", "y = a + bx", "y = ax + b", "y = a + b₁x₁"],
+      "answer": 0
+    },
+    {
+      "question": "The adjusted R² in multiple regression:",
+      "options": ["Penalizes for number of predictors", "Rewards for number of predictors", "Same as R²", "Greater than R²"],
+      "answer": 0
+    },
+    {
+      "question": "The multicollinearity occurs when:",
+      "options": ["Predictors are highly correlated", "Predictors are independent", "Predictors are categorical", "Predictors are continuous"],
+      "answer": 0
+    },
+    {
+      "question": "The variance inflation factor measures:",
+      "options": ["Multicollinearity", "Heteroscedasticity", "Autocorrelation", "Non-linearity"],
+      "answer": 0
+    },
+    {
+      "question": "The heteroscedasticity means:",
+      "options": ["Non-constant variance", "Constant variance", "Zero variance", "Infinite variance"],
+      "answer": 0
+    },
+    {
+      "question": "The autocorrelation means:",
+      "options": ["Correlation of errors", "Correlation of predictors", "Correlation of responses", "No correlation"],
+      "answer": 0
+    },
+    {
+      "question": "The Durbin-Watson test checks for:",
+      "options": ["Autocorrelation", "Multicollinearity", "Heteroscedasticity", "Non-linearity"],
+      "answer": 0
+    },
+    {
+      "question": "The Breusch-Pagan test checks for:",
+      "options": ["Heteroscedasticity", "Autocorrelation", "Multicollinearity", "Non-linearity"],
+      "answer": 0
+    },
+    {
+      "question": "The white test checks for:",
+      "options": ["Heteroscedasticity", "Autocorrelation", "Multicollinearity", "Non-linearity"],
+      "answer": 0
+    },
+    {
+      "question": "The RESET test checks for:",
+      "options": ["Non-linearity", "Heteroscedasticity", "Autocorrelation", "Multicollinearity"],
+      "answer": 0
+    },
+    {
+      "question": "The leverage in regression measures:",
+      "options": ["Influence of observations", "Multicollinearity", "Heteroscedasticity", "Autocorrelation"],
+      "answer": 0
+    },
+    {
+      "question": "The Cook's distance measures:",
+      "options": ["Influence of observations", "Multicollinearity", "Heteroscedasticity", "Autocorrelation"],
+      "answer": 0
+    },
+    {
+      "question": "The studentized residual is:",
+      "options": ["Standardized residual", "Raw residual", "Squared residual", "Absolute residual"],
+      "answer": 0
+    },
+    {
+      "question": "The jackknife residual is:",
+      "options": ["Leave-one-out residual", "Standardized residual", "Raw residual", "Squared residual"],
+      "answer": 0
+    },
+    {
+      "question": "The PRESS statistic measures:",
+      "options": ["Prediction error", "Fit error", "Correlation", "Causation"],
+      "answer": 0
+    },
+    {
+      "question": "The AIC in model selection measures:",
+      "options": ["Model fit with penalty", "Model fit only", "Model complexity only", "Prediction error"],
+      "answer": 0
+    },
+    {
+      "question": "The BIC in model selection:",
+      "options": ["Penalizes complexity more than AIC", "Penalizes complexity less than AIC", "Same as AIC", "Does not penalize complexity"],
+      "answer": 0
+    },
+    {
+      "question": "The stepwise regression selects:",
+      "options": ["Best subset of predictors", "All predictors", "No predictors", "Random predictors"],
+      "answer": 0
+    },
+    {
+      "question": "The forward selection:",
+      "options": ["Adds predictors one by one", "Removes predictors one by one", "Adds and removes predictors", "Does not select"],
+      "answer": 0
+    },
+    {
+      "question": "The backward elimination:",
+      "options": ["Removes predictors one by one", "Adds predictors one by one", "Adds and removes predictors", "Does not select"],
+      "answer": 0
+    },
+    {
+      "question": "The best subset selection:",
+      "options": ["Considers all subsets", "Considers some subsets", "Considers no subsets", "Random selection"],
+      "answer": 0
+    },
+    {
+      "question": "The logistic regression is used when:",
+      "options": ["Response is binary", "Response is continuous", "Response is count", "Response is ordinal"],
+      "answer": 0
+    },
+    {
+      "question": "The logit function in logistic regression is:",
+      "options": ["log(p/(1-p))", "log(p)", "log(1-p)", "p/(1-p)"],
+      "answer": 0
+    },
+    {
+      "question": "The odds ratio in logistic regression:",
+      "options": ["exp(coefficient)", "coefficient", "log(coefficient)", "1/coefficient"],
+      "answer": 0
+    },
+    {
+      "question": "The maximum likelihood estimation is used in:",
+      "options": ["Logistic regression", "Linear regression", "Correlation", "ANOVA"],
+      "answer": 0
+    },
+    {
+      "question": "The deviance in logistic regression measures:",
+      "options": ["Goodness of fit", "Correlation", "Causation", "Variance"],
+      "answer": 0
+    },
+    {
+      "question": "The Hosmer-Lemeshow test checks:",
+      "options": ["Goodness of fit in logistic", "Multicollinearity", "Heteroscedasticity", "Autocorrelation"],
+      "answer": 0
+    },
+    {
+      "question": "The ROC curve in logistic regression measures:",
+      "options": ["Classification performance", "Fit performance", "Correlation", "Causation"],
+      "answer": 0
+    },
+    {
+      "question": "The AUC in logistic regression:",
+      "options": ["Area under ROC curve", "Area under curve", "Akaike information criterion", "Bayesian information criterion"],
+      "answer": 0
+    },
+    {
+      "question": "The confusion matrix in classification:",
+      "options": ["Shows predicted vs actual", "Shows correlation", "Shows causation", "Shows variance"],
+      "answer": 0
+    },
+    {
+      "question": "The sensitivity in classification is:",
+      "options": ["True positive rate", "True negative rate", "False positive rate", "False negative rate"],
+      "answer": 0
+    },
+    {
+      "question": "The specificity in classification is:",
+      "options": ["True negative rate", "True positive rate", "False positive rate", "False negative rate"],
+      "answer": 0
+    },
+    {
+      "question": "The precision in classification is:",
+      "options": ["TP/(TP+FP)", "TP/(TP+FN)", "TN/(TN+FP)", "TN/(TN+FN)"],
+      "answer": 0
+    },
+    {
+      "question": "The recall in classification is:",
+      "options": ["TP/(TP+FN)", "TP/(TP+FP)", "TN/(TN+FP)", "TN/(TN+FN)"],
+      "answer": 0
+    },
+    {
+      "question": "The F1 score in classification is:",
+      "options": ["2×Precision×Recall/(Precision+Recall)", "Precision+Recall", "Precision×Recall", "Precision-Recall"],
+      "answer": 0
+    },
+    {
+      "question": "The support vector regression is used for:",
+      "options": ["Non-linear regression", "Linear regression", "Logistic regression", "Poisson regression"],
+      "answer": 0
+    },
+    {
+      "question": "The decision tree regression is used for:",
+      "options": ["Non-linear relationships", "Linear relationships", "Logistic relationships", "Poisson relationships"],
+      "answer": 0
+    },
+    {
+      "question": "The random forest regression is:",
+      "options": ["Ensemble of decision trees", "Single decision tree", "Linear model", "Logistic model"],
+      "answer": 0
+    },
+    {
+      "question": "The gradient boosting regression is:",
+      "options": ["Ensemble of weak learners", "Single weak learner", "Linear model", "Logistic model"],
+      "answer": 0
+    },
+    {
+      "question": "The XGBoost regression is:",
+      "options": ["Extreme gradient boosting", "Gradient boosting", "Random forest", "Decision tree"],
+      "answer": 0
+    },
+    {
+      "question": "The neural network regression is:",
+      "options": ["Non-linear model", "Linear model", "Logistic model", "Poisson model"],
+      "answer": 0
+    },
+    {
+      "question": "The deep learning regression uses:",
+      "options": ["Multiple hidden layers", "Single hidden layer", "No hidden layers", "Random layers"],
+      "answer": 0
+    },
+    {
+      "question": "The regularization in regression prevents:",
+      "options": ["Overfitting", "Underfitting", "Correlation", "Causation"],
+      "answer": 0
+    },
+    {
+      "question": "The L1 regularization is:",
+      "options": ["LASSO", "Ridge", "Elastic net", "No regularization"],
+      "answer": 0
+    },
+    {
+      "question": "The L2 regularization is:",
+      "options": ["Ridge", "LASSO", "Elastic net", "No regularization"],
+      "answer": 0
+    },
+    {
+      "question": "The elastic net regularization combines:",
+      "options": ["L1 and L2", "L1 only", "L2 only", "No regularization"],
+      "answer": 0
+    },
+    {
+      "question": "The early stopping prevents:",
+      "options": ["Overfitting in neural networks", "Underfitting in neural networks", "Correlation", "Causation"],
+      "answer": 0
+    },
+    {
+      "question": "The dropout in neural networks prevents:",
+      "options": ["Overfitting", "Underfitting", "Correlation", "Causation"],
+      "answer": 0
+    },
+    {
+      "question": "The batch normalization in neural networks:",
+      "options": ["Stabilizes training", "Destabilizes training", "No effect", "Negative effect"],
+      "answer": 0
+    },
+    {
+      "question": "The cross-validation in regression:",
+      "options": ["Validates model performance", "Trains model", "Tests model", "Selects predictors"],
+      "answer": 0
+    },
+    {
+      "question": "The k-fold cross-validation uses:",
+      "options": ["k folds of data", "k samples", "k predictors", "k responses"],
+      "answer": 0
+    },
+    {
+      "question": "The leave-one-out cross-validation uses:",
+      "options": ["n-1 samples", "n samples", "k samples", "k-1 samples"],
+      "answer": 0
+    },
+    {
+      "question": "The bootstrap in regression:",
+      "options": ["Resamples with replacement", "Resamples without replacement", "No resampling", "Random sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The permutation importance in regression:",
+      "options": ["Measures variable importance", "Measures correlation", "Measures causation", "Measures variance"],
+      "answer": 0
+    },
+    {
+      "question": "The SHAP values in regression:",
+      "options": ["Explain predictions", "Make predictions", "Validate model", "Test model"],
+      "answer": 0
+    },
+    {
+      "question": "The LIME in regression:",
+      "options": ["Explain predictions", "Make predictions", "Validate model", "Test model"],
+      "answer": 0
+    },
+    {
+      "question": "The partial dependence plot shows:",
+      "options": ["Effect of one predictor", "Effect of all predictors", "Effect of no predictors", "Random effect"],
+      "answer": 0
+    },
+    {
+      "question": "The individual conditional expectation plot shows:",
+      "options": ["Individual prediction patterns", "Overall prediction patterns", "No patterns", "Random patterns"],
+      "answer": 0
+    },
+    {
+      "question": "The residual plot checks:",
+      "options": ["Model assumptions", "Model predictions", "Model correlations", "Model causations"],
+      "answer": 0
+    },
+    {
+      "question": "The Q-Q plot checks:",
+      "options": ["Normality of residuals", "Normality of predictors", "Normality of response", "No normality"],
+      "answer": 0
+    },
+    {
+      "question": "The scale-location plot checks:",
+      "options": ["Homoscedasticity", "Heteroscedasticity", "Autocorrelation", "Multicollinearity"],
+      "answer": 0
+    },
+    {
+      "question": "The influence plot shows:",
+      "options": ["Influential observations", "Normal observations", "Random observations", "No observations"],
+      "answer": 0
+    },
+    {
+      "question": "The added variable plot checks:",
+      "options": ["Effect of adding predictors", "Effect of removing predictors", "Effect of changing predictors", "No effect"],
+      "answer": 0
+    },
+    {
+      "question": "The component-plus-residual plot checks:",
+      "options": ["Non-linearity", "Linearity", "Correlation", "Causation"],
+      "answer": 0
+    },
+    {
+      "question": "The CERES plot checks:",
+      "options": ["Non-linearity", "Linearity", "Correlation", "Causation"],
+      "answer": 0
+    },
+    {
+      "question": "The variance inflation factor > 10 indicates:",
+      "options": ["High multicollinearity", "Low multicollinearity", "No multicollinearity", "Perfect multicollinearity"],
+      "answer": 0
+    },
+    {
+      "question": "The condition number measures:",
+      "options": ["Multicollinearity", "Heteroscedasticity", "Autocorrelation", "Non-linearity"],
+      "answer": 0
+    },
+    {
+      "question": "The eigenvalues in regression measure:",
+      "options": ["Multicollinearity", "Heteroscedasticity", "Autocorrelation", "Non-linearity"],
+      "answer": 0
+    },
+    {
+      "question": "The principal component regression:",
+      "options": ["Uses principal components", "Uses original predictors", "Uses random predictors", "Uses no predictors"],
+      "answer": 0
+    },
+    {
+      "question": "The partial least squares regression:",
+      "options": ["Uses latent components", "Uses principal components", "Uses original predictors", "Uses random predictors"],
+      "answer": 0
+    },
+    {
+      "question": "The canonical correlation measures:",
+      "options": ["Correlation between sets of variables", "Correlation between single variables", "Causation between sets", "No relationship"],
+      "answer": 0
+    },
+    {
+      "question": "The redundancy analysis:",
+      "options": ["Measures explanatory power", "Measures predictive power", "Measures correlation", "Measures causation"],
+      "answer": 0
+    },
+    {
+      "question": "The correspondence analysis:",
+      "options": ["Analyzes categorical data", "Analyzes continuous data", "Analyzes count data", "Analyzes binary data"],
+      "answer": 0
+    },
+    {
+      "question": "The multiple correspondence analysis:",
+      "options": ["Analyzes multiple categorical variables", "Analyzes single categorical variable", "Analyzes continuous variables", "Analyzes count data"],
+      "answer": 0
+    },
+    {
+      "question": "The discriminant analysis:",
+      "options": ["Classifies observations", "Regresses observations", "Correlates observations", "Causes observations"],
+      "answer": 0
+    },
+    {
+      "question": "The linear discriminant analysis:",
+      "options": ["Linear classification", "Non-linear classification", "Linear regression", "Non-linear regression"],
+      "answer": 0
+    },
+    {
+      "question": "The quadratic discriminant analysis:",
+      "options": ["Quadratic classification", "Linear classification", "Linear regression", "Non-linear regression"],
+      "answer": 0
+    },
+    {
+      "question": "The naive Bayes classifier:",
+      "options": ["Assumes independence of predictors", "Assumes dependence of predictors", "Assumes no predictors", "Assumes random predictors"],
+      "answer": 0
+    },
+    {
+      "question": "The k-nearest neighbors regression:",
+      "options": ["Uses nearest neighbors", "Uses all observations", "Uses random observations", "Uses no observations"],
+      "answer": 0
+    },
+    {
+      "question": "The k in k-nearest neighbors:",
+      "options": ["Number of neighbors", "Number of predictors", "Number of responses", "Number of samples"],
+      "answer": 0
+    },
+    {
+      "question": "The kernel regression:",
+      "options": ["Non-parametric regression", "Parametric regression", "Linear regression", "Logistic regression"],
+      "answer": 0
+    },
+    {
+      "question": "The smoothing parameter in kernel regression:",
+      "options": ["Controls smoothness", "Controls linearity", "Controls correlation", "Controls causation"],
+      "answer": 0
+    },
+    {
+      "question": "The local regression:",
+      "options": ["Local polynomial fitting", "Global polynomial fitting", "Local linear fitting", "Global linear fitting"],
+      "answer": 0
+    },
+    {
+      "question": "The LOESS regression:",
+      "options": ["Local regression", "Global regression", "Linear regression", "Logistic regression"],
+      "answer": 0
+    },
+    {
+      "question": "The LOWESS regression:",
+      "options": ["Locally weighted regression", "Locally unweighted regression", "Globally weighted regression", "Globally unweighted regression"],
+      "answer": 0
+    },
+    {
+      "question": "The non-parametric regression:",
+      "options": ["No fixed form of relationship", "Fixed form of relationship", "Linear relationship", "Non-linear relationship"],
+      "answer": 0
+    },
+    {
+      "question": "The parametric regression:",
+      "options": ["Fixed form of relationship", "No fixed form of relationship", "Linear relationship", "Non-linear relationship"],
+      "answer": 0
+    },
+    {
+      "question": "The semiparametric regression:",
+      "options": ["Combines parametric and non-parametric", "Only parametric", "Only non-parametric", "Neither parametric nor non-parametric"],
+      "answer": 0
+    },
+    {
+      "question": "The generalized additive model:",
+      "options": ["Additive non-parametric terms", "Additive parametric terms", "Multiplicative terms", "No terms"],
+      "answer": 0
+    },
+    {
+      "question": "The generalized additive mixed model:",
+      "options": ["Additive terms with random effects", "Additive terms with fixed effects", "Multiplicative terms", "No terms"],
+      "answer": 0
+    },
+    {
+      "question": "The varying coefficient model:",
+      "options": ["Coefficients vary with other variables", "Coefficients are constant", "Coefficients are zero", "Coefficients are infinite"],
+      "answer": 0
+    },
+    {
+      "question": "The functional regression:",
+      "options": ["Predictors are functions", "Predictors are scalars", "Predictors are vectors", "Predictors are matrices"],
+      "answer": 0
+    },
+    {
+      "question": "The functional linear regression:",
+      "options": ["Linear relationship with functional predictors", "Non-linear relationship with functional predictors", "Linear relationship with scalar predictors", "Non-linear relationship with scalar predictors"],
+      "answer": 0
+    },
+    {
+      "question": "The quantile regression:",
+      "options": ["Models conditional quantiles", "Models conditional mean", "Models conditional variance", "Models conditional mode"],
+      "answer": 0
+    },
+    {
+      "question": "The median regression:",
+      "options": ["Models conditional median", "Models conditional mean", "Models conditional variance", "Models conditional mode"],
+      "answer": 0
+    },
+    {
+      "question": "The robust regression:",
+      "options": ["Resistant to outliers", "Sensitive to outliers", "Resistant to multicollinearity", "Sensitive to multicollinearity"],
+      "answer": 0
+    },
+    {
+      "question": "The M-estimation in robust regression:",
+      "options": ["Minimizes a robust function", "Minimizes squared errors", "Minimizes absolute errors", "Maximizes likelihood"],
+      "answer": 0
+    },
+    {
+      "question": "The S-estimation in robust regression:",
+      "options": ["Uses robust scale", "Uses non-robust scale", "Uses variance", "Uses standard deviation"],
+      "answer": 0
+    },
+    {
+      "question": "The MM-estimation in robust regression:",
+      "options": ["Combines M and S estimation", "Uses M estimation only", "Uses S estimation only", "Uses no estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The Theil-Sen regression:",
+      "options": ["Robust median-based method", "Mean-based method", "Variance-based method", "Mode-based method"],
+      "answer": 0
+    },
+    {
+      "question": "The sign regression:",
+      "options": ["Uses signs of residuals", "Uses magnitudes of residuals", "Uses squared residuals", "Uses absolute residuals"],
+      "answer": 0
+    },
+    {
+      "question": "The rank regression:",
+      "options": ["Uses ranks of observations", "Uses original observations", "Uses transformed observations", "Uses no observations"],
+      "answer": 0
+    },
+    {
+      "question": "The isotonic regression:",
+      "options": ["Monotonic relationship", "Non-monotonic relationship", "Linear relationship", "Non-linear relationship"],
+      "answer": 0
+    },
+    {
+      "question": "The monotone regression:",
+      "options": ["Monotonic relationship", "Non-monotonic relationship", "Linear relationship", "Non-linear relationship"],
+      "answer": 0
+    },
+    {
+      "question": "The circular regression:",
+      "options": ["Circular response variable", "Linear response variable", "Circular predictor variable", "Linear predictor variable"],
+      "answer": 0
+    },
+    {
+      "question": "The directional regression:",
+      "options": ["Directional data", "Scalar data", "Vector data", "Matrix data"],
+      "answer": 0
+    },
+    {
+      "question": "The compositional regression:",
+      "options": ["Compositional data", "Scalar data", "Vector data", "Matrix data"],
+      "answer": 0
+    },
+    {
+      "question": "The interval regression:",
+      "options": ["Interval censored data", "Complete data", "Censored data", "Truncated data"],
+      "answer": 0
+    },
+    {
+      "question": "The censored regression:",
+      "options": ["Censored data", "Complete data", "Interval data", "Truncated data"],
+      "answer": 0
+    },
+    {
+      "question": "The truncated regression:",
+      "options": ["Truncated data", "Complete data", "Censored data", "Interval data"],
+      "answer": 0
+    },
+    {
+      "question": "The Tobit regression:",
+      "options": ["Censored response", "Complete response", "Binary response", "Count response"],
+      "answer": 0
+    },
+    {
+      "question": "The Heckman selection model:",
+      "options": ["Sample selection bias", "No selection bias", "Response bias", "Measurement bias"],
+      "answer": 0
+    },
+    {
+      "question": "The instrumental variables regression:",
+      "options": ["Endogeneity correction", "No endogeneity", "Measurement error", "Sampling error"],
+      "answer": 0
+    },
+    {
+      "question": "The two-stage least squares:",
+      "options": ["Instrumental variables method", "OLS method", "Logistic method", "Poisson method"],
+      "answer": 0
+    },
+    {
+      "question": "The generalized method of moments:",
+      "options": ["Moment-based estimation", "Likelihood-based estimation", "Bayesian estimation", "Non-parametric estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The maximum likelihood estimation:",
+      "options": ["Likelihood-based estimation", "Moment-based estimation", "Bayesian estimation", "Non-parametric estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The quasi-maximum likelihood:",
+      "options": ["Quasi-likelihood estimation", "Full likelihood estimation", "Bayesian estimation", "Non-parametric estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The pseudo-likelihood:",
+      "options": ["Approximate likelihood", "Exact likelihood", "Full likelihood", "Bayesian likelihood"],
+      "answer": 0
+    },
+    {
+      "question": "The composite likelihood:",
+      "options": ["Combines likelihood components", "Single likelihood component", "Full likelihood", "Bayesian likelihood"],
+      "answer": 0
+    },
+    {
+      "question": "The pairwise likelihood:",
+      "options": ["Uses pairs of observations", "Uses all observations", "Uses some observations", "Uses no observations"],
+      "answer": 0
+    },
+    {
+      "question": "The independence likelihood:",
+      "options": ["Assumes independence", "Assumes dependence", "Assumes correlation", "Assumes causation"],
+      "answer": 0
+    },
+    {
+      "question": "The working correlation matrix in GEE:",
+      "options": ["Correlation structure assumption", "No correlation assumption", "Perfect correlation assumption", "Zero correlation assumption"],
+      "answer": 0
+    },
+    {
+      "question": "The robust standard errors in GEE:",
+      "options": ["Sandwich estimator", "Bread estimator", "Meat estimator", "Bread-meat estimator"],
+      "answer": 0
+    },
+    {
+      "question": "The generalized estimating equations:",
+      "options": ["Correlated data analysis", "Independent data analysis", "Categorical data analysis", "Continuous data analysis"],
+      "answer": 0
+    },
+    {
+      "question": "The marginal model in GEE:",
+      "options": ["Population-averaged effects", "Subject-specific effects", "Fixed effects", "Random effects"],
+      "answer": 0
+    },
+    {
+      "question": "The subject-specific model:",
+      "options": ["Random effects model", "Fixed effects model", "Marginal model", "Population-averaged model"],
+      "answer": 0
+    },
+    {
+      "question": "The transition model:",
+      "options": ["Models state transitions", "Models fixed states", "Models random states", "Models no states"],
+      "answer": 0
+    },
+    {
+      "question": "The Markov model:",
+      "options": ["Markov property assumption", "No Markov property", "Stationary assumption", "Non-stationary assumption"],
+      "answer": 0
+    },
+    {
+      "question": "The hidden Markov model:",
+      "options": ["Hidden states", "Observed states", "Hidden parameters", "Observed parameters"],
+      "answer": 0
+    },
+    {
+      "question": "The Markov switching model:",
+      "options": ["Regime switching", "No regime switching", "Linear regime", "Non-linear regime"],
+      "answer": 0
+    },
+    {
+      "question": "The dynamic linear model:",
+      "options": ["State space model", "Non-state space model", "Static model", "Fixed model"],
+      "answer": 0
+    },
+    {
+      "question": "The Kalman filter in DLMs:",
+      "options": ["State estimation", "Parameter estimation", "Model selection", "Forecasting"],
+      "answer": 0
+    },
+    {
+      "question": "The Durbin-Levinson algorithm:",
+      "options": ["AR parameter estimation", "MA parameter estimation", "ARMA parameter estimation", "ARCH parameter estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The Yule-Walker equations:",
+      "options": ["AR parameter estimation", "MA parameter estimation", "ARMA parameter estimation", "ARCH parameter estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The Burg algorithm:",
+      "options": ["AR parameter estimation", "MA parameter estimation", "ARMA parameter estimation", "ARCH parameter estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The maximum entropy principle:",
+      "options": ["Spectrum estimation", "Parameter estimation", "Model selection", "Forecasting"],
+      "answer": 0
+    },
+    {
+      "question": "The periodogram:",
+      "options": ["Spectrum estimation", "Parameter estimation", "Model selection", "Forecasting"],
+      "answer": 0
+    },
+    {
+      "question": "The smoothed periodogram:",
+      "options": ["Spectral density estimation", "Parameter estimation", "Model selection", "Forecasting"],
+      "answer": 0
+    },
+    {
+      "question": "The kernel spectral density estimator:",
+      "options": ["Non-parametric spectral estimation", "Parametric spectral estimation", "Linear spectral estimation", "Non-linear spectral estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The bootstrap in time series:",
+      "options": ["Block bootstrap", "Simple bootstrap", "Parametric bootstrap", "Non-parametric bootstrap"],
+      "answer": 0
+    },
+    {
+      "question": "The moving blocks bootstrap:",
+      "options": ["Time series bootstrap", "Cross-sectional bootstrap", "Panel bootstrap", "Spatial bootstrap"],
+      "answer": 0
+    },
+    {
+      "question": "The stationary bootstrap:",
+      "options": ["Time series bootstrap", "Cross-sectional bootstrap", "Panel bootstrap", "Spatial bootstrap"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency domain bootstrap:",
+      "options": ["Spectral bootstrap", "Time domain bootstrap", "Cross-sectional bootstrap", "Panel bootstrap"],
+      "answer": 0
+    },
+    {
+      "question": "The wild bootstrap:",
+      "options": ["Heteroscedasticity-robust", "Homoscedasticity-robust", "Correlation-robust", "Causation-robust"],
+      "answer": 0
+    },
+    {
+      "question": "The pairs bootstrap:",
+      "options": ["Resamples pairs", "Resamples single observations", "Resamples residuals", "Resamples parameters"],
+      "answer": 0
+    },
+    {
+      "question": "The residual bootstrap:",
+      "options": ["Resamples residuals", "Resamples observations", "Resamples pairs", "Resamples parameters"],
+      "answer": 0
+    },
+    {
+      "question": "The Bayesian bootstrap:",
+      "options": ["Bayesian resampling", "Frequentist resampling", "Likelihood resampling", "Non-parametric resampling"],
+      "answer": 0
+    },
+    {
+      "question": "The weighted bootstrap:",
+      "options": ["Weighted resampling", "Unweighted resampling", "Random resampling", "Non-random resampling"],
+      "answer": 0
+    },
+    {
+      "question": "The importancesampling:",
+      "options": ["Monte Carlo method", "Bootstrap method", "Jackknife method", "Permutation method"],
+      "answer": 0
+    },
+    {
+      "question": "The sequential Monte Carlo:",
+      "options": ["Particle filter", "Bootstrap filter", "Kalman filter", "Particle filter"],
+      "answer": 0
+    },
+    {
+      "question": "The approximate Bayesian computation:",
+      "options": ["Likelihood-free inference", "Likelihood-based inference", "Bayesian inference", "Frequentist inference"],
+      "answer": 0
+    },
+    {
+      "question": "The synthetic likelihood:",
+      "options": ["Approximate likelihood", "Exact likelihood", "Full likelihood", "Bayesian likelihood"],
+      "answer": 0
+    },
+    {
+      "question": "The empirical likelihood:",
+      "options": ["Non-parametric likelihood", "Parametric likelihood", "Bayesian likelihood", "Frequentist likelihood"],
+      "answer": 0
+    },
+    {
+      "question": "The generalized empirical likelihood:",
+      "options": ["Non-parametric likelihood", "Parametric likelihood", "Bayesian likelihood", "Frequentist likelihood"],
+      "answer": 0
+    },
+    {
+      "question": "The estimating equations:",
+      "options": ["Moment conditions", "Likelihood conditions", "Bayesian conditions", "Frequentist conditions"],
+      "answer": 0
+    },
+    {
+      "question": "The generalized method of moments:",
+      "options": ["Moment-based estimation", "Likelihood-based estimation", "Bayesian estimation", "Non-parametric estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The simulated method of moments:",
+      "options": ["Simulation-based estimation", "Analytical estimation", "Bayesian estimation", "Non-parametric estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The method of simulated moments:",
+      "options": ["Simulation-based estimation", "Analytical estimation", "Bayesian estimation", "Non-parametric estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The indirect inference:",
+      "options": ["Simulation-based estimation", "Analytical estimation", "Bayesian estimation", "Non-parametric estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The efficient method of moments:",
+      "options": ["Optimal moment-based estimation", "Non-optimal moment-based estimation", "Likelihood-based estimation", "Bayesian estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The continuous updating estimator:",
+      "options": ["GMM estimator", "ML estimator", "Bayesian estimator", "Non-parametric estimator"],
+      "answer": 0
+    },
+    {
+      "question": "The two-step GMM:",
+      "options": ["Two-step estimation", "One-step estimation", "Three-step estimation", "Multi-step estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The iterative GMM:",
+      "options": ["Iterative estimation", "Single-step estimation", "Two-step estimation", "Three-step estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The empirical likelihood:",
+      "options": ["Non-parametric likelihood", "Parametric likelihood", "Bayesian likelihood", "Frequentist likelihood"],
+      "answer": 0
+    },
+    {
+      "question": "The exponential tilting:",
+      "options": ["Importance sampling method", "Bootstrap method", "Jackknife method", "Permutation method"],
+      "answer": 0
+    },
+    {
+      "question": "The saddlepoint approximation:",
+      "options": ["Density approximation", "Parameter estimation", "Model selection", "Forecasting"],
+      "answer": 0
+    },
+    {
+      "question": "The Laplace approximation:",
+      "options": ["Integral approximation", "Density approximation", "Parameter estimation", "Model selection"],
+      "answer": 0
+    }
+  ]
+}

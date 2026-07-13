@@ -1,0 +1,1241 @@
+{
+  "category": "Acoustics",
+  "total_questions": 247,
+  "questions": [
+    {
+      "question": "The branch of physics that deals with sound is called:",
+      "options": ["Acoustics", "Optics", "Thermodynamics", "Mechanics"],
+      "answer": 0
+    },
+    {
+      "question": "Sound is a:",
+      "options": ["Mechanical wave", "Electromagnetic wave", "Transverse wave", "Standing wave"],
+      "answer": 0
+    },
+    {
+      "question": "Sound waves are:",
+      "options": ["Longitudinal waves", "Transverse waves", "Both longitudinal and transverse", "Neither longitudinal nor transverse"],
+      "answer": 0
+    },
+    {
+      "question": "Sound cannot travel through:",
+      "options": ["Vacuum", "Air", "Water", "Solid"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound in air at room temperature is approximately:",
+      "options": ["343 m/s", "343 km/s", "343 m/s²", "343 km/h"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound is fastest in:",
+      "options": ["Solids", "Liquids", "Gases", "Vacuum"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound is slowest in:",
+      "options": ["Gases", "Liquids", "Solids", "Vacuum"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound in water is approximately:",
+      "options": ["1500 m/s", "343 m/s", "5000 m/s", "1000 m/s"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound in steel is approximately:",
+      "options": ["5000 m/s", "1500 m/s", "343 m/s", "10000 m/s"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound increases with:",
+      "options": ["Temperature", "Pressure", "Density", "Humidity"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound in air increases by approximately:",
+      "options": ["0.6 m/s per °C", "6 m/s per °C", "0.06 m/s per °C", "60 m/s per °C"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency of sound is measured in:",
+      "options": ["Hertz", "Decibel", "Watt", "Joule"],
+      "answer": 0
+    },
+    {
+      "question": "The intensity of sound is measured in:",
+      "options": ["Decibel", "Hertz", "Watt", "Joule"],
+      "answer": 0
+    },
+    {
+      "question": "The range of human hearing is approximately:",
+      "options": ["20 Hz to 20,000 Hz", "20 Hz to 200 Hz", "20 Hz to 2000 Hz", "200 Hz to 20,000 Hz"],
+      "answer": 0
+    },
+    {
+      "question": "Sound waves with frequency below 20 Hz are called:",
+      "options": ["Infrasound", "Ultrasound", "Audible sound", "Supersonic"],
+      "answer": 0
+    },
+    {
+      "question": "Sound waves with frequency above 20,000 Hz are called:",
+      "options": ["Ultrasound", "Infrasound", "Audible sound", "Supersonic"],
+      "answer": 0
+    },
+    {
+      "question": "The wavelength of sound is related to frequency and speed by:",
+      "options": ["λ = v/f", "λ = f/v", "λ = v × f", "λ = 1/(v × f)"],
+      "answer": 0
+    },
+    {
+      "question": "The pitch of sound depends on:",
+      "options": ["Frequency", "Amplitude", "Wavelength", "Speed"],
+      "answer": 0
+    },
+    {
+      "question": "The loudness of sound depends on:",
+      "options": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+      "answer": 0
+    },
+    {
+      "question": "The quality or timbre of sound depends on:",
+      "options": ["Waveform", "Frequency", "Amplitude", "Speed"],
+      "answer": 0
+    },
+    {
+      "question": "The decibel scale is:",
+      "options": ["Logarithmic", "Linear", "Exponential", "Quadratic"],
+      "answer": 0
+    },
+    {
+      "question": "The threshold of hearing is:",
+      "options": ["0 dB", "20 dB", "40 dB", "100 dB"],
+      "answer": 0
+    },
+    {
+      "question": "The threshold of pain is approximately:",
+      "options": ["120 dB", "20 dB", "60 dB", "100 dB"],
+      "answer": 0
+    },
+    {
+      "question": "A sound of 10 dB is how many times more intense than 0 dB?",
+      "options": ["10 times", "100 times", "1000 times", "2 times"],
+      "answer": 0
+    },
+    {
+      "question": "A sound of 20 dB is how many times more intense than 0 dB?",
+      "options": ["100 times", "10 times", "1000 times", "20 times"],
+      "answer": 0
+    },
+    {
+      "question": "The intensity level in dB is given by:",
+      "options": ["β = 10 log(I/I₀)", "β = 10 log(I₀/I)", "β = 20 log(I/I₀)", "β = 20 log(I₀/I)"],
+      "answer": 0
+    },
+    {
+      "question": "The Doppler effect for sound is:",
+      "options": ["Change in frequency due to relative motion", "Change in amplitude due to relative motion", "Change in speed due to relative motion", "Change in wavelength due to relative motion"],
+      "answer": 0
+    },
+    {
+      "question": "When a source moves towards an observer, the observed frequency:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "question": "When a source moves away from an observer, the observed frequency:",
+      "options": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "question": "The Doppler formula for sound is:",
+      "options": ["f' = f(v ± v₀)/(v ∓ v_s)", "f' = f(v ∓ v₀)/(v ± v_s)", "f' = f(v ± v₀)/(v ± v_s)", "f' = f(v ∓ v₀)/(v ∓ v_s)"],
+      "answer": 0
+    },
+    {
+      "question": "When source and observer are moving towards each other, the frequency:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "question": "When source and observer are moving away from each other, the frequency:",
+      "options": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "question": "The sonic boom is produced when:",
+      "options": ["An object travels faster than sound", "An object travels at the speed of sound", "An object travels slower than sound", "An object is stationary"],
+      "answer": 0
+    },
+    {
+      "question": "Mach number is the ratio of:",
+      "options": ["Speed of object to speed of sound", "Speed of sound to speed of object", "Speed of object to speed of light", "Speed of light to speed of object"],
+      "answer": 0
+    },
+    {
+      "question": "Supersonic speed is:",
+      "options": ["Speed greater than speed of sound", "Speed less than speed of sound", "Speed equal to speed of sound", "Speed greater than speed of light"],
+      "answer": 0
+    },
+    {
+      "question": "Subsonic speed is:",
+      "options": ["Speed less than speed of sound", "Speed greater than speed of sound", "Speed equal to speed of sound", "Speed less than speed of light"],
+      "answer": 0
+    },
+    {
+      "question": "The shock wave is produced when:",
+      "options": ["An object travels faster than sound", "An object travels at the speed of sound", "An object travels slower than sound", "An object is stationary"],
+      "answer": 0
+    },
+    {
+      "question": "The reflection of sound is called:",
+      "options": ["Echo", "Reverberation", "Refraction", "Diffraction"],
+      "answer": 0
+    },
+    {
+      "question": "The persistence of sound after the source has stopped is called:",
+      "options": ["Reverberation", "Echo", "Refraction", "Diffraction"],
+      "answer": 0
+    },
+    {
+      "question": "The minimum distance for an echo to be heard is approximately:",
+      "options": ["17 m", "34 m", "10 m", "20 m"],
+      "answer": 0
+    },
+    {
+      "question": "The bending of sound around obstacles is called:",
+      "options": ["Diffraction", "Reflection", "Refraction", "Reverberation"],
+      "answer": 0
+    },
+    {
+      "question": "The change in direction of sound when it passes from one medium to another is called:",
+      "options": ["Refraction", "Reflection", "Diffraction", "Reverberation"],
+      "answer": 0
+    },
+    {
+      "question": "The absorption of sound by materials is used in:",
+      "options": ["Acoustic insulation", "Musical instruments", "Communication", "Navigation"],
+      "answer": 0
+    },
+    {
+      "question": "The fundamental frequency of a vibrating string is given by:",
+      "options": ["f = (1/2L)√(T/μ)", "f = (2/L)√(T/μ)", "f = (1/L)√(T/μ)", "f = (1/2L)√(T/μ)"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency of the nth harmonic of a string is:",
+      "options": ["f_n = n f₁", "f_n = f₁/n", "f_n = n² f₁", "f_n = √n f₁"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of a wave on a string is:",
+      "options": ["v = √(T/μ)", "v = √(μ/T)", "v = √(Tμ)", "v = T/μ"],
+      "answer": 0
+    },
+    {
+      "question": "In a vibrating string, the length is related to wavelength by:",
+      "options": ["L = nλ/2", "L = nλ", "L = nλ/4", "L = 2nλ"],
+      "answer": 0
+    },
+    {
+      "question": "The fundamental frequency of a pipe open at both ends is:",
+      "options": ["f = v/2L", "f = v/L", "f = v/4L", "f = 2v/L"],
+      "answer": 0
+    },
+    {
+      "question": "The fundamental frequency of a pipe closed at one end is:",
+      "options": ["f = v/4L", "f = v/2L", "f = v/L", "f = 2v/L"],
+      "answer": 0
+    },
+    {
+      "question": "In a pipe open at both ends, harmonics are:",
+      "options": ["All harmonics", "Only odd harmonics", "Only even harmonics", "No harmonics"],
+      "answer": 0
+    },
+    {
+      "question": "In a pipe closed at one end, harmonics are:",
+      "options": ["Only odd harmonics", "All harmonics", "Only even harmonics", "No harmonics"],
+      "answer": 0
+    },
+    {
+      "question": "The beat frequency is:",
+      "options": ["The difference of two frequencies", "The sum of two frequencies", "The product of two frequencies", "The ratio of two frequencies"],
+      "answer": 0
+    },
+    {
+      "question": "Beats are produced when:",
+      "options": ["Two waves of slightly different frequencies interfere", "Two waves of same frequency interfere", "Two waves of same amplitude interfere", "Two waves of different amplitude interfere"],
+      "answer": 0
+    },
+    {
+      "question": "The beat frequency is given by:",
+      "options": ["f_beat = |f₁ - f₂|", "f_beat = f₁ + f₂", "f_beat = f₁ × f₂", "f_beat = f₁/f₂"],
+      "answer": 0
+    },
+    {
+      "question": "The resonance occurs when:",
+      "options": ["Driving frequency equals natural frequency", "Driving frequency is less than natural frequency", "Driving frequency is greater than natural frequency", "Driving frequency is zero"],
+      "answer": 0
+    },
+    {
+      "question": "At resonance, the amplitude is:",
+      "options": ["Maximum", "Minimum", "Zero", "Constant"],
+      "answer": 0
+    },
+    {
+      "question": "The quality factor of a resonant system is:",
+      "options": ["A measure of sharpness of resonance", "A measure of amplitude", "A measure of frequency", "A measure of wavelength"],
+      "answer": 0
+    },
+    {
+      "question": "The human ear is most sensitive to frequencies around:",
+      "options": ["1000-4000 Hz", "20-200 Hz", "200-1000 Hz", "4000-10000 Hz"],
+      "answer": 0
+    },
+    {
+      "question": "The structure of the ear consists of:",
+      "options": ["Outer, middle, and inner ear", "Outer and inner ear only", "Middle and inner ear only", "Outer and middle ear only"],
+      "answer": 0
+    },
+    {
+      "question": "The eardrum is also called:",
+      "options": ["Tympanic membrane", "Cochlea", "Eustachian tube", "Ossicles"],
+      "answer": 0
+    },
+    {
+      "question": "The ossicles are located in the:",
+      "options": ["Middle ear", "Outer ear", "Inner ear", "Eustachian tube"],
+      "answer": 0
+    },
+    {
+      "question": "The ossicles consist of:",
+      "options": ["Malleus, incus, and stapes", "Malleus and incus only", "Incus and stapes only", "Malleus and stapes only"],
+      "answer": 0
+    },
+    {
+      "question": "The cochlea is located in the:",
+      "options": ["Inner ear", "Middle ear", "Outer ear", "Eustachian tube"],
+      "answer": 0
+    },
+    {
+      "question": "The cochlea is responsible for:",
+      "options": ["Converting sound to electrical signals", "Amplifying sound", "Collecting sound", "Transmitting sound"],
+      "answer": 0
+    },
+    {
+      "question": "The hair cells in the cochlea detect:",
+      "options": ["Frequency and intensity", "Amplitude only", "Frequency only", "Intensity only"],
+      "answer": 0
+    },
+    {
+      "question": "The place theory of hearing explains:",
+      "options": ["Frequency discrimination", "Intensity discrimination", "Loudness discrimination", "Timbre discrimination"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency theory of hearing explains:",
+      "options": ["Frequency discrimination", "Intensity discrimination", "Loudness discrimination", "Timbre discrimination"],
+      "answer": 0
+    },
+    {
+      "question": "Hearing loss can be caused by:",
+      "options": ["Damage to hair cells", "Damage to eardrum", "Damage to ossicles", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Tinnitus is:",
+      "options": ["Ringing in the ears", "Loss of hearing", "Pain in the ears", "Dizziness"],
+      "answer": 0
+    },
+    {
+      "question": "The loudness of sound in dB is proportional to:",
+      "options": ["log I", "I", "I²", "√I"],
+      "answer": 0
+    },
+    {
+      "question": "The phon is a unit of:",
+      "options": ["Loudness level", "Frequency", "Intensity", "Wavelength"],
+      "answer": 0
+    },
+    {
+      "question": "The sone is a unit of:",
+      "options": ["Loudness", "Frequency", "Intensity", "Wavelength"],
+      "answer": 0
+    },
+    {
+      "question": "The Fletcher-Munson curves show:",
+      "options": ["Equal loudness contours", "Frequency response", "Intensity response", "Wavelength response"],
+      "answer": 0
+    },
+    {
+      "question": "The masking of sound is:",
+      "options": ["One sound making another inaudible", "One sound making another louder", "Two sounds combining", "Two sounds canceling"],
+      "answer": 0
+    },
+    {
+      "question": "Ultrasound has frequency:",
+      "options": ["Above 20,000 Hz", "Below 20 Hz", "Between 20-20,000 Hz", "Above 20 MHz"],
+      "answer": 0
+    },
+    {
+      "question": "Ultrasound is used in:",
+      "options": ["Medical imaging", "Sonar", "Cleaning", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Sonar uses:",
+      "options": ["Ultrasound waves", "Infrasound waves", "Audible sound waves", "Electromagnetic waves"],
+      "answer": 0
+    },
+    {
+      "question": "Sonar stands for:",
+      "options": ["Sound Navigation and Ranging", "Sound Navigation and Reflection", "Sonic Navigation and Ranging", "Sonic Navigation and Reflection"],
+      "answer": 0
+    },
+    {
+      "question": "RADAR uses:",
+      "options": ["Electromagnetic waves", "Sound waves", "Ultrasound waves", "Infrasound waves"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound in air is:",
+      "options": ["Proportional to √T", "Proportional to T", "Proportional to T²", "Proportional to 1/T"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound in a gas is given by:",
+      "options": ["v = √(γRT/M)", "v = √(RT/M)", "v = √(γRT)", "v = √(RT/γM)"],
+      "answer": 0
+    },
+    {
+      "question": "In the speed of sound formula, γ is:",
+      "options": ["Ratio of specific heats", "Density", "Pressure", "Temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound in a liquid depends on:",
+      "options": ["Bulk modulus and density", "Young's modulus and density", "Shear modulus and density", "Temperature only"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of sound in a solid depends on:",
+      "options": ["Young's modulus and density", "Bulk modulus and density", "Shear modulus and density", "Temperature only"],
+      "answer": 0
+    },
+    {
+      "question": "The sound wave in a solid can be:",
+      "options": ["Longitudinal and transverse", "Only longitudinal", "Only transverse", "Neither"],
+      "answer": 0
+    },
+    {
+      "question": "The sound wave in a liquid is:",
+      "options": ["Longitudinal", "Transverse", "Both", "Neither"],
+      "answer": 0
+    },
+    {
+      "question": "The sound wave in a gas is:",
+      "options": ["Longitudinal", "Transverse", "Both", "Neither"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic impedance of a medium is:",
+      "options": ["Z = ρv", "Z = ρ/v", "Z = v/ρ", "Z = ρv²"],
+      "answer": 0
+    },
+    {
+      "question": "The reflection coefficient at a boundary is:",
+      "options": ["R = (Z₂ - Z₁)/(Z₂ + Z₁)", "R = (Z₂ + Z₁)/(Z₂ - Z₁)", "R = Z₂/Z₁", "R = Z₁/Z₂"],
+      "answer": 0
+    },
+    {
+      "question": "The transmission coefficient at a boundary is:",
+      "options": ["T = 2Z₂/(Z₁ + Z₂)", "T = 2Z₁/(Z₁ + Z₂)", "T = Z₂/Z₁", "T = Z₁/Z₂"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic power is measured in:",
+      "options": ["Watts", "Joules", "Decibels", "Hertz"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic intensity is:",
+      "options": ["Power per unit area", "Power per unit volume", "Power per unit length", "Power per unit time"],
+      "answer": 0
+    },
+    {
+      "question": "The inverse square law for sound applies to:",
+      "options": ["Point sources", "Line sources", "Plane sources", "All sources"],
+      "answer": 0
+    },
+    {
+      "question": "The sound intensity decreases as:",
+      "options": ["1/r²", "1/r", "r²", "r"],
+      "answer": 0
+    },
+    {
+      "question": "The sound pressure level is given by:",
+      "options": ["SPL = 20 log(P/P_ref)", "SPL = 10 log(P/P_ref)", "SPL = 20 log(P_ref/P)", "SPL = 10 log(P_ref/P)"],
+      "answer": 0
+    },
+    {
+      "question": "The reference pressure for SPL is:",
+      "options": ["20 μPa", "20 Pa", "2 μPa", "2 Pa"],
+      "answer": 0
+    },
+    {
+      "question": "The reference intensity for sound is:",
+      "options": ["10⁻¹² W/m²", "10⁻¹² W/cm²", "10⁻¹² W/m²", "10⁻¹² W/m²"],
+      "answer": 0
+    },
+    {
+      "question": "The standing wave is formed by:",
+      "options": ["Interference of two waves traveling in opposite directions", "Interference of two waves traveling in same direction", "Interference of two waves of different frequencies", "Interference of two waves of different amplitudes"],
+      "answer": 0
+    },
+    {
+      "question": "In a standing wave, the points of maximum displacement are called:",
+      "options": ["Antinodes", "Nodes", "Harmonics", "Overtones"],
+      "answer": 0
+    },
+    {
+      "question": "In a standing wave, the points of zero displacement are called:",
+      "options": ["Nodes", "Antinodes", "Harmonics", "Overtones"],
+      "answer": 0
+    },
+    {
+      "question": "The distance between two adjacent nodes is:",
+      "options": ["λ/2", "λ", "λ/4", "2λ"],
+      "answer": 0
+    },
+    {
+      "question": "The distance between two adjacent antinodes is:",
+      "options": ["λ/2", "λ", "λ/4", "2λ"],
+      "answer": 0
+    },
+    {
+      "question": "The distance between a node and an adjacent antinode is:",
+      "options": ["λ/4", "λ/2", "λ", "2λ"],
+      "answer": 0
+    },
+    {
+      "question": "The overtones are:",
+      "options": ["Higher frequency modes", "Lower frequency modes", "The fundamental frequency", "The beat frequency"],
+      "answer": 0
+    },
+    {
+      "question": "The harmonics are:",
+      "options": ["Integer multiples of fundamental frequency", "Fractional multiples of fundamental frequency", "The fundamental frequency only", "The beat frequency"],
+      "answer": 0
+    },
+    {
+      "question": "The pitch of a musical note is determined by:",
+      "options": ["Frequency", "Amplitude", "Waveform", "Speed"],
+      "answer": 0
+    },
+    {
+      "question": "The loudness of a musical note is determined by:",
+      "options": ["Amplitude", "Frequency", "Waveform", "Speed"],
+      "answer": 0
+    },
+    {
+      "question": "The timbre of a musical note is determined by:",
+      "options": ["Waveform", "Frequency", "Amplitude", "Speed"],
+      "answer": 0
+    },
+    {
+      "question": "The musical scale uses:",
+      "options": ["Octaves", "Decibels", "Hertz", "Watts"],
+      "answer": 0
+    },
+    {
+      "question": "In an octave, the frequency ratio is:",
+      "options": ["2:1", "3:2", "4:3", "5:4"],
+      "answer": 0
+    },
+    {
+      "question": "In a perfect fifth, the frequency ratio is:",
+      "options": ["3:2", "2:1", "4:3", "5:4"],
+      "answer": 0
+    },
+    {
+      "question": "In a perfect fourth, the frequency ratio is:",
+      "options": ["4:3", "3:2", "2:1", "5:4"],
+      "answer": 0
+    },
+    {
+      "question": "In a major third, the frequency ratio is:",
+      "options": ["5:4", "4:3", "3:2", "2:1"],
+      "answer": 0
+    },
+    {
+      "question": "The equal temperament tuning divides the octave into:",
+      "options": ["12 equal semitones", "7 equal notes", "5 equal notes", "24 equal semitones"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency ratio of a semitone in equal temperament is:",
+      "options": ["2^(1/12)", "2^(1/7)", "2^(1/5)", "2^(1/24)"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency ratio of a whole tone in equal temperament is:",
+      "options": ["2^(2/12)", "2^(1/12)", "2^(2/7)", "2^(2/5)"],
+      "answer": 0
+    },
+    {
+      "question": "The vibrations of a string are:",
+      "options": ["Transverse", "Longitudinal", "Both", "Neither"],
+      "answer": 0
+    },
+    {
+      "question": "The vibrations of an air column are:",
+      "options": ["Longitudinal", "Transverse", "Both", "Neither"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency of a string is proportional to:",
+      "options": ["√T", "T", "T²", "1/T"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency of a string is inversely proportional to:",
+      "options": ["Length", "√T", "T", "T²"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency of a string is inversely proportional to:",
+      "options": ["√μ", "μ", "μ²", "1/μ"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency of a pipe is:",
+      "options": ["Proportional to speed of sound", "Inversely proportional to speed", "Independent of speed", "Proportional to square of speed"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency of a pipe is inversely proportional to:",
+      "options": ["Length", "Speed of sound", "Diameter", "Material"],
+      "answer": 0
+    },
+    {
+      "question": "The organ pipe produces:",
+      "options": ["Standing waves", "Traveling waves", "Beats", "Harmonics"],
+      "answer": 0
+    },
+    {
+      "question": "The sound quality of an instrument depends on:",
+      "options": ["Harmonic content", "Fundamental frequency", "Amplitude", "Speed"],
+      "answer": 0
+    },
+    {
+      "question": "The Fourier analysis of sound decomposes:",
+      "options": ["Sound into its frequency components", "Sound into its amplitude components", "Sound into its phase components", "Sound into its speed components"],
+      "answer": 0
+    },
+    {
+      "question": "The Fourier series represents:",
+      "options": ["Any periodic wave as sum of sine and cosine waves", "Any periodic wave as sum of exponential waves", "Any periodic wave as sum of square waves", "Any periodic wave as sum of triangle waves"],
+      "answer": 0
+    },
+    {
+      "question": "The sound spectrum is:",
+      "options": ["The distribution of frequencies in a sound", "The distribution of amplitudes in a sound", "The distribution of phases in a sound", "The distribution of speeds in a sound"],
+      "answer": 0
+    },
+    {
+      "question": "The white noise has:",
+      "options": ["Equal energy at all frequencies", "More energy at low frequencies", "More energy at high frequencies", "No energy at any frequency"],
+      "answer": 0
+    },
+    {
+      "question": "The pink noise has:",
+      "options": ["Equal energy per octave", "Equal energy at all frequencies", "More energy at low frequencies", "More energy at high frequencies"],
+      "answer": 0
+    },
+    {
+      "question": "The Brownian noise has:",
+      "options": ["Energy decreasing with frequency", "Energy increasing with frequency", "Equal energy at all frequencies", "No energy at any frequency"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic phonons are:",
+      "options": ["Quantized sound waves in solids", "Quantized light waves in solids", "Quantized electron waves in solids", "Quantized magnetic waves in solids"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of acoustic phonons is:",
+      "options": ["The speed of sound in the solid", "The speed of light", "The speed of electrons", "The speed of heat"],
+      "answer": 0
+    },
+    {
+      "question": "The Debye model describes:",
+      "options": ["Phonon distribution in solids", "Electron distribution in solids", "Photon distribution in solids", "Magnetic distribution in solids"],
+      "answer": 0
+    },
+    {
+      "question": "The Debye temperature is:",
+      "options": ["A characteristic temperature for phonons", "A characteristic temperature for electrons", "A characteristic temperature for photons", "A characteristic temperature for magnons"],
+      "answer": 0
+    },
+    {
+      "question": "The specific heat of solids at low temperature is proportional to:",
+      "options": ["T³", "T", "T²", "T⁴"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic attenuation is:",
+      "options": ["Decrease in sound intensity with distance", "Increase in sound intensity with distance", "No change in sound intensity", "Change in frequency with distance"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic attenuation is due to:",
+      "options": ["Absorption and scattering", "Reflection", "Refraction", "Diffraction"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic absorption coefficient is:",
+      "options": ["The fraction of sound energy absorbed", "The fraction of sound energy reflected", "The fraction of sound energy transmitted", "The fraction of sound energy scattered"],
+      "answer": 0
+    },
+    {
+      "question": "The sound absorption materials include:",
+      "options": ["Foam, fiberglass, and acoustic panels", "Metal, glass, and concrete", "Plastic, rubber, and wood", "Paper, cardboard, and fabric"],
+      "answer": 0
+    },
+    {
+      "question": "The sound insulation materials include:",
+      "options": ["Metal, glass, and concrete", "Foam, fiberglass, and acoustic panels", "Plastic, rubber, and wood", "Paper, cardboard, and fabric"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic transmission loss is:",
+      "options": ["The decrease in sound intensity through a barrier", "The increase in sound intensity through a barrier", "The reflection of sound", "The refraction of sound"],
+      "answer": 0
+    },
+    {
+      "question": "The mass law states that transmission loss increases with:",
+      "options": ["Mass per unit area", "Frequency", "Both mass and frequency", "Neither mass nor frequency"],
+      "answer": 2
+    },
+    {
+      "question": "The coincidence effect in sound transmission occurs when:",
+      "options": ["The wavelength matches the bending wave wavelength", "The frequency matches the natural frequency", "The amplitude matches the threshold", "The speed matches the speed of light"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic echo cancellation is used in:",
+      "options": ["Telecommunications", "Music recording", "Concert halls", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The active noise control uses:",
+      "options": ["Destructive interference", "Constructive interference", "Reflection", "Absorption"],
+      "answer": 0
+    },
+    {
+      "question": "The active noise control cancels noise by:",
+      "options": ["Producing sound of opposite phase", "Producing sound of same phase", "Absorbing sound", "Reflecting sound"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic levitation uses:",
+      "options": ["Standing waves to levitate objects", "Traveling waves to levitate objects", "Ultrasound to levitate objects", "Infrasound to levitate objects"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic levitation works because:",
+      "options": ["Pressure nodes trap objects", "Pressure antinodes trap objects", "Displacement nodes trap objects", "Displacement antinodes trap objects"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic focusing is:",
+      "options": ["Concentrating sound energy", "Spreading sound energy", "Absorbing sound energy", "Reflecting sound energy"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic lens is used to:",
+      "options": ["Focus sound waves", "Disperse sound waves", "Absorb sound waves", "Reflect sound waves"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic holography is:",
+      "options": ["Recording and reconstructing sound fields", "Recording and reconstructing light fields", "Recording and reconstructing electron fields", "Recording and reconstructing magnetic fields"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic microscopy uses:",
+      "options": ["Ultrasound to image surfaces", "Light to image surfaces", "Electrons to image surfaces", "Magnetic fields to image surfaces"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic microscope has resolution:",
+      "options": ["Determined by wavelength of sound", "Determined by wavelength of light", "Determined by electron wavelength", "Determined by magnetic field"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic logging is used in:",
+      "options": ["Oil exploration", "Medical imaging", "Archaeology", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The seismic waves are:",
+      "options": ["Sound waves in Earth", "Light waves in Earth", "Electron waves in Earth", "Magnetic waves in Earth"],
+      "answer": 0
+    },
+    {
+      "question": "The P-waves are:",
+      "options": ["Primary waves (longitudinal)", "Secondary waves (transverse)", "Surface waves", "Love waves"],
+      "answer": 0
+    },
+    {
+      "question": "The S-waves are:",
+      "options": ["Secondary waves (transverse)", "Primary waves (longitudinal)", "Surface waves", "Love waves"],
+      "answer": 0
+    },
+    {
+      "question": "The P-waves travel:",
+      "options": ["Faster than S-waves", "Slower than S-waves", "Same speed as S-waves", "No speed"],
+      "answer": 0
+    },
+    {
+      "question": "The S-waves cannot travel through:",
+      "options": ["Liquids", "Solids", "Gases", "Vacuum"],
+      "answer": 0
+    },
+    {
+      "question": "The seismic tomography uses:",
+      "options": ["Sound waves to image Earth's interior", "Light waves to image Earth's interior", "Electron waves to image Earth's interior", "Magnetic waves to image Earth's interior"],
+      "answer": 0
+    },
+    {
+      "question": "The underwater acoustics deals with:",
+      "options": ["Sound in water", "Sound in air", "Sound in solids", "Sound in vacuum"],
+      "answer": 0
+    },
+    {
+      "question": "The sonar uses:",
+      "options": ["Sound waves in water", "Light waves in water", "Radio waves in water", "Magnetic waves in water"],
+      "answer": 0
+    },
+    {
+      "question": "The sound speed in water is affected by:",
+      "options": ["Temperature, salinity, and pressure", "Temperature only", "Salinity only", "Pressure only"],
+      "answer": 0
+    },
+    {
+      "question": "The SOFAR channel is:",
+      "options": ["A depth where sound speed is minimum", "A depth where sound speed is maximum", "A depth where sound speed is constant", "A depth where sound speed is zero"],
+      "answer": 0
+    },
+    {
+      "question": "The SOFAR channel allows:",
+      "options": ["Long-range sound propagation", "Short-range sound propagation", "No sound propagation", "Sound absorption"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic communication uses:",
+      "options": ["Sound waves to transmit information", "Light waves to transmit information", "Radio waves to transmit information", "Magnetic waves to transmit information"],
+      "answer": 0
+    },
+    {
+      "question": "The underwater acoustic communication is:",
+      "options": ["Slower than radio communication", "Faster than radio communication", "Same speed as radio communication", "No communication"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic modem is used for:",
+      "options": ["Underwater communication", "Land communication", "Air communication", "Space communication"],
+      "answer": 0
+    },
+    {
+      "question": "The bioacoustics studies:",
+      "options": ["Sound production and reception in animals", "Sound production in humans", "Sound reception in humans", "Sound in the environment"],
+      "answer": 0
+    },
+    {
+      "question": "The echolocation is used by:",
+      "options": ["Bats and dolphins", "Humans", "Birds", "Fish"],
+      "answer": 0
+    },
+    {
+      "question": "The echolocation uses:",
+      "options": ["Sound echoes to locate objects", "Light echoes to locate objects", "Radio echoes to locate objects", "Magnetic echoes to locate objects"],
+      "answer": 0
+    },
+    {
+      "question": "The animal communication uses:",
+      "options": ["Sound", "Light", "Radio", "Magnetic"],
+      "answer": 0
+    },
+    {
+      "question": "The infrasound is used by:",
+      "options": ["Elephants and whales", "Bats and dolphins", "Birds", "Humans"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic ecology studies:",
+      "options": ["Sound in the environment", "Sound in the laboratory", "Sound in the city", "Sound in the forest"],
+      "answer": 0
+    },
+    {
+      "question": "The soundscape is:",
+      "options": ["The acoustic environment", "The visual environment", "The natural environment", "The built environment"],
+      "answer": 0
+    },
+    {
+      "question": "The noise pollution is:",
+      "options": ["Unwanted sound in the environment", "Wanted sound in the environment", "Neutral sound in the environment", "No sound"],
+      "answer": 0
+    },
+    {
+      "question": "The noise pollution can cause:",
+      "options": ["Hearing loss, stress, and sleep disturbance", "Improved hearing", "Better sleep", "No effects"],
+      "answer": 0
+    },
+    {
+      "question": "The occupational noise exposure limits are:",
+      "options": ["85 dB for 8 hours", "80 dB for 8 hours", "90 dB for 8 hours", "100 dB for 8 hours"],
+      "answer": 0
+    },
+    {
+      "question": "The hearing protection devices include:",
+      "options": ["Earplugs and earmuffs", "Headphones", "Earphones", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic comfort is:",
+      "options": ["The perception of sound as pleasant", "The perception of sound as unpleasant", "The perception of sound as neutral", "The perception of no sound"],
+      "answer": 0
+    },
+    {
+      "question": "The room acoustics deals with:",
+      "options": ["Sound behavior in enclosed spaces", "Sound behavior in open spaces", "Sound behavior in water", "Sound behavior in solids"],
+      "answer": 0
+    },
+    {
+      "question": "The reverberation time is:",
+      "options": ["The time for sound to decay by 60 dB", "The time for sound to decay by 30 dB", "The time for sound to decay by 90 dB", "The time for sound to decay by 120 dB"],
+      "answer": 0
+    },
+    {
+      "question": "The Sabine formula for reverberation time is:",
+      "options": ["T = 0.16 V/A", "T = 0.16 A/V", "T = 0.16 V", "T = 0.16/A"],
+      "answer": 0
+    },
+    {
+      "question": "The optimum reverberation time for speech is:",
+      "options": ["0.5-1.0 seconds", "1.0-2.0 seconds", "2.0-3.0 seconds", "3.0-4.0 seconds"],
+      "answer": 0
+    },
+    {
+      "question": "The optimum reverberation time for music is:",
+      "options": ["1.5-2.5 seconds", "0.5-1.0 seconds", "2.5-3.5 seconds", "0.1-0.5 seconds"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic design of concert halls is:",
+      "options": ["Important for sound quality", "Unimportant for sound quality", "Important for lighting", "Unimportant for lighting"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic diffusers are used to:",
+      "options": ["Scatter sound", "Absorb sound", "Reflect sound", "Amplify sound"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic absorbers are used to:",
+      "options": ["Absorb sound", "Scatter sound", "Reflect sound", "Amplify sound"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic reflectors are used to:",
+      "options": ["Reflect sound", "Absorb sound", "Scatter sound", "Amplify sound"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic stage design is:",
+      "options": ["Important for sound projection", "Unimportant for sound projection", "Important for lighting", "Unimportant for lighting"],
+      "answer": 0
+    },
+    {
+      "question": "The sound reinforcement system is used in:",
+      "options": ["Concerts and public speaking", "Home listening", "Recording studios", "Broadcast studios"],
+      "answer": 0
+    },
+    {
+      "question": "The sound amplification system consists of:",
+      "options": ["Microphones, amplifiers, and speakers", "Microphones and speakers only", "Amplifiers and speakers only", "Microphones and amplifiers only"],
+      "answer": 0
+    },
+    {
+      "question": "The microphone is a:",
+      "options": ["Sound to electrical transducer", "Electrical to sound transducer", "Light to sound transducer", "Sound to light transducer"],
+      "answer": 0
+    },
+    {
+      "question": "The loudspeaker is a:",
+      "options": ["Electrical to sound transducer", "Sound to electrical transducer", "Sound to light transducer", "Light to sound transducer"],
+      "answer": 0
+    },
+    {
+      "question": "The dynamic microphone uses:",
+      "options": ["Electromagnetic induction", "Electrostatic induction", "Piezoelectric effect", "Photoelectric effect"],
+      "answer": 0
+    },
+    {
+      "question": "The condenser microphone uses:",
+      "options": ["Electrostatic induction", "Electromagnetic induction", "Piezoelectric effect", "Photoelectric effect"],
+      "answer": 0
+    },
+    {
+      "question": "The ribbon microphone uses:",
+      "options": ["Electromagnetic induction", "Electrostatic induction", "Piezoelectric effect", "Photoelectric effect"],
+      "answer": 0
+    },
+    {
+      "question": "The piezoelectric microphone uses:",
+      "options": ["Piezoelectric effect", "Electromagnetic induction", "Electrostatic induction", "Photoelectric effect"],
+      "answer": 0
+    },
+    {
+      "question": "The loudspeaker frequency response is:",
+      "options": ["The range of frequencies it can reproduce", "The range of amplitudes it can reproduce", "The range of powers it can reproduce", "The range of impedances it can reproduce"],
+      "answer": 0
+    },
+    {
+      "question": "The woofer reproduces:",
+      "options": ["Low frequencies", "High frequencies", "Mid frequencies", "All frequencies"],
+      "answer": 0
+    },
+    {
+      "question": "The tweeter reproduces:",
+      "options": ["High frequencies", "Low frequencies", "Mid frequencies", "All frequencies"],
+      "answer": 0
+    },
+    {
+      "question": "The mid-range speaker reproduces:",
+      "options": ["Mid frequencies", "Low frequencies", "High frequencies", "All frequencies"],
+      "answer": 0
+    },
+    {
+      "question": "The crossover network divides:",
+      "options": ["Frequency range among speakers", "Power among speakers", "Impedance among speakers", "Amplitude among speakers"],
+      "answer": 0
+    },
+    {
+      "question": "The audio amplifier increases:",
+      "options": ["Signal power", "Signal frequency", "Signal wavelength", "Signal speed"],
+      "answer": 0
+    },
+    {
+      "question": "The audio mixer combines:",
+      "options": ["Audio signals", "Video signals", "Power signals", "Control signals"],
+      "answer": 0
+    },
+    {
+      "question": "The audio effects include:",
+      "options": ["Reverb, delay, and equalization", "Reflection and refraction", "Absorption and scattering", "Diffraction and interference"],
+      "answer": 0
+    },
+    {
+      "question": "The sound recording uses:",
+      "options": ["Transducers to convert sound to electrical signals", "Transducers to convert electrical signals to sound", "Transducers to convert sound to light", "Transducers to convert light to sound"],
+      "answer": 0
+    },
+    {
+      "question": "The analog recording stores:",
+      "options": ["Continuous signals", "Digital signals", "Discrete signals", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The digital recording stores:",
+      "options": ["Discrete samples", "Continuous signals", "Analog signals", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The sampling rate in digital audio is:",
+      "options": ["44.1 kHz for CD quality", "48 kHz for CD quality", "96 kHz for CD quality", "192 kHz for CD quality"],
+      "answer": 0
+    },
+    {
+      "question": "The bit depth in digital audio is:",
+      "options": ["16 bit for CD quality", "8 bit for CD quality", "24 bit for CD quality", "32 bit for CD quality"],
+      "answer": 0
+    },
+    {
+      "question": "The Nyquist theorem states sampling rate must be:",
+      "options": ["At least twice the highest frequency", "At least the highest frequency", "At least half the highest frequency", "At least four times the highest frequency"],
+      "answer": 0
+    },
+    {
+      "question": "The aliasing occurs when:",
+      "options": ["Sampling rate is too low", "Sampling rate is too high", "Bit depth is too low", "Bit depth is too high"],
+      "answer": 0
+    },
+    {
+      "question": "The anti-aliasing filter is used:",
+      "options": ["Before sampling", "After sampling", "Before amplification", "After amplification"],
+      "answer": 0
+    },
+    {
+      "question": "The MP3 compression uses:",
+      "options": ["Perceptual audio coding", "Lossless compression", "Analog compression", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The lossless audio compression:",
+      "options": ["Preserves all information", "Removes some information", "Adds information", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The surround sound uses:",
+      "options": ["Multiple channels", "Single channel", "Two channels", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The 5.1 surround sound has:",
+      "options": ["5 full-range channels and 1 subwoofer", "5 speakers and 1 amplifier", "5 full-range channels and 1 speaker", "5 subwoofers and 1 full-range channel"],
+      "answer": 0
+    },
+    {
+      "question": "The 7.1 surround sound has:",
+      "options": ["7 full-range channels and 1 subwoofer", "7 speakers and 1 amplifier", "7 full-range channels and 1 speaker", "7 subwoofers and 1 full-range channel"],
+      "answer": 0
+    },
+    {
+      "question": "The binaural recording uses:",
+      "options": ["Two microphones to simulate human hearing", "One microphone", "Multiple microphones", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The binaural recording is used for:",
+      "options": ["Headphone listening", "Speaker listening", "Concert recording", "Studio recording"],
+      "answer": 0
+    },
+    {
+      "question": "The sound localization is:",
+      "options": ["The ability to determine sound direction", "The ability to determine sound distance", "The ability to determine sound frequency", "The ability to determine sound amplitude"],
+      "answer": 0
+    },
+    {
+      "question": "The interaural time difference is:",
+      "options": ["The time difference in sound arrival at the two ears", "The level difference in sound at the two ears", "The phase difference in sound at the two ears", "The frequency difference in sound at the two ears"],
+      "answer": 0
+    },
+    {
+      "question": "The interaural level difference is:",
+      "options": ["The level difference in sound at the two ears", "The time difference in sound arrival at the two ears", "The phase difference in sound at the two ears", "The frequency difference in sound at the two ears"],
+      "answer": 0
+    },
+    {
+      "question": "The head shadow effect causes:",
+      "options": ["High frequency attenuation on the far side of head", "Low frequency attenuation on the far side of head", "High frequency amplification on the far side", "Low frequency amplification on the far side"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic physics of musical instruments:",
+      "options": ["Deals with how instruments produce sound", "Deals with how instruments are made", "Deals with how instruments are tuned", "Deals with how instruments are played"],
+      "answer": 0
+    },
+    {
+      "question": "The string instruments produce sound through:",
+      "options": ["Vibrating strings", "Vibrating air columns", "Vibrating membranes", "Vibrating bars"],
+      "answer": 0
+    },
+    {
+      "question": "The wind instruments produce sound through:",
+      "options": ["Vibrating air columns", "Vibrating strings", "Vibrating membranes", "Vibrating bars"],
+      "answer": 0
+    },
+    {
+      "question": "The percussion instruments produce sound through:",
+      "options": ["Vibrating membranes, bars, or other elements", "Vibrating air columns", "Vibrating strings", "Vibrating plates"],
+      "answer": 0
+    },
+    {
+      "question": "The brass instruments produce sound through:",
+      "options": ["Vibrating air columns with lips", "Vibrating strings", "Vibrating membranes", "Vibrating bars"],
+      "answer": 0
+    },
+    {
+      "question": "The woodwind instruments produce sound through:",
+      "options": ["Vibrating air columns with reeds or openings", "Vibrating strings", "Vibrating membranes", "Vibrating bars"],
+      "answer": 0
+    },
+    {
+      "question": "The piano is a:",
+      "options": ["String instrument with hammer action", "Wind instrument", "Percussion instrument", "Electronic instrument"],
+      "answer": 0
+    },
+    {
+      "question": "The guitar is a:",
+      "options": ["String instrument", "Wind instrument", "Percussion instrument", "Electronic instrument"],
+      "answer": 0
+    },
+    {
+      "question": "The violin is a:",
+      "options": ["String instrument", "Wind instrument", "Percussion instrument", "Electronic instrument"],
+      "answer": 0
+    },
+    {
+      "question": "The flute is a:",
+      "options": ["Woodwind instrument", "Brass instrument", "String instrument", "Percussion instrument"],
+      "answer": 0
+    },
+    {
+      "question": "The trumpet is a:",
+      "options": ["Brass instrument", "Woodwind instrument", "String instrument", "Percussion instrument"],
+      "answer": 0
+    },
+    {
+      "question": "The drum is a:",
+      "options": ["Percussion instrument", "Brass instrument", "Woodwind instrument", "String instrument"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic impedance of a musical instrument:",
+      "options": ["Affects the sound radiation efficiency", "Affects the instrument size", "Affects the instrument weight", "Affects the instrument color"],
+      "answer": 0
+    },
+    {
+      "question": "The sound radiation pattern:",
+      "options": ["Describes how sound is emitted in different directions", "Describes how sound is absorbed", "Describes how sound is reflected", "Describes how sound is refracted"],
+      "answer": 0
+    },
+    {
+      "question": "The directivity of a sound source is:",
+      "options": ["The dependence of sound intensity on direction", "The dependence of sound frequency on direction", "The dependence of sound amplitude on direction", "The dependence of sound speed on direction"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic wave equation is:",
+      "options": ["∇²p = 1/c² ∂²p/∂t²", "∇²p = c² ∂²p/∂t²", "∇²p = 1/c ∂p/∂t", "∇²p = c ∂p/∂t"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic wave equation describes:",
+      "options": ["Sound propagation", "Light propagation", "Electron propagation", "Magnetic propagation"],
+      "answer": 0
+    },
+    {
+      "question": "The Helmholtz equation is:",
+      "options": ["∇²p + k²p = 0", "∇²p - k²p = 0", "∇²p + k p = 0", "∇²p - k p = 0"],
+      "answer": 0
+    },
+    {
+      "question": "The Helmholtz equation applies to:",
+      "options": ["Time-harmonic sound waves", "Transient sound waves", "Standing sound waves", "Traveling sound waves"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic radiation impedance is:",
+      "options": ["The ratio of pressure to velocity at a surface", "The ratio of velocity to pressure at a surface", "The ratio of density to pressure", "The ratio of pressure to density"],
+      "answer": 0
+    },
+    {
+      "question": "The acoustic radiation impedance affects:",
+      "options": ["Sound radiation efficiency", "Sound frequency", "Sound amplitude", "Sound speed"],
+      "answer": 0
+    }
+  ]
+}

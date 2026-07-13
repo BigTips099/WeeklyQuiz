@@ -1,0 +1,1011 @@
+{
+  "category": "Physical Chemistry",
+  "total_questions": 230,
+  "questions": [
+    {
+      "question": "The SI unit of pressure is:",
+      "options": ["Atmosphere", "Pascal", "Torr", "Bar"],
+      "answer": 1
+    },
+    {
+      "question": "The ideal gas equation is:",
+      "options": ["PV = nRT", "P = nRT/V", "V = nRT/P", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The value of universal gas constant R is:",
+      "options": ["8.314 J/mol/K", "0.0821 L atm/mol/K", "1.987 cal/mol/K", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The temperature at which real gases obey ideal gas law is called:",
+      "options": ["Critical temperature", "Boyle temperature", "Inversion temperature", "Triple point"],
+      "answer": 1
+    },
+    {
+      "question": "The law that states volume is inversely proportional to pressure at constant temperature is:",
+      "options": ["Charles law", "Boyle's law", "Avogadro's law", "Gay-Lussac's law"],
+      "answer": 1
+    },
+    {
+      "question": "The law that states volume is directly proportional to absolute temperature at constant pressure is:",
+      "options": ["Charles law", "Boyle's law", "Avogadro's law", "Dalton's law"],
+      "answer": 0
+    },
+    {
+      "question": "The law that states equal volumes of gases contain equal number of molecules at same temperature and pressure is:",
+      "options": ["Charles law", "Boyle's law", "Avogadro's law", "Dalton's law"],
+      "answer": 2
+    },
+    {
+      "question": "The pressure exerted by a mixture of gases is equal to sum of partial pressures. This is:",
+      "options": ["Dalton's law", "Henry's law", "Raoult's law", "Graham's law"],
+      "answer": 0
+    },
+    {
+      "question": "The law that states rate of diffusion is inversely proportional to square root of density is:",
+      "options": ["Dalton's law", "Henry's law", "Raoult's law", "Graham's law"],
+      "answer": 3
+    },
+    {
+      "question": "The solubility of gas in liquid is directly proportional to partial pressure of gas. This is:",
+      "options": ["Dalton's law", "Henry's law", "Raoult's law", "Graham's law"],
+      "answer": 1
+    },
+    {
+      "question": "The vapour pressure of solution is directly proportional to mole fraction of solvent. This is:",
+      "options": ["Dalton's law", "Henry's law", "Raoult's law", "Graham's law"],
+      "answer": 2
+    },
+    {
+      "question": "The critical temperature of water is:",
+      "options": ["374°C", "100°C", "0°C", "647°C"],
+      "answer": 0
+    },
+    {
+      "question": "The critical pressure of water is:",
+      "options": ["218 atm", "1 atm", "100 atm", "374 atm"],
+      "answer": 0
+    },
+    {
+      "question": "The temperature and pressure at which three phases coexist is called:",
+      "options": ["Critical point", "Triple point", "Boiling point", "Melting point"],
+      "answer": 1
+    },
+    {
+      "question": "The process of conversion of solid directly to gas is called:",
+      "options": ["Sublimation", "Deposition", "Condensation", "Evaporation"],
+      "answer": 0
+    },
+    {
+      "question": "The process of conversion of gas directly to solid is called:",
+      "options": ["Sublimation", "Deposition", "Condensation", "Evaporation"],
+      "answer": 1
+    },
+    {
+      "question": "The heat required to raise temperature of 1 gram of substance by 1°C is called:",
+      "options": ["Specific heat", "Molar heat capacity", "Latent heat", "Heat capacity"],
+      "answer": 0
+    },
+    {
+      "question": "The heat required to raise temperature of 1 mole of substance by 1°C is called:",
+      "options": ["Specific heat", "Molar heat capacity", "Latent heat", "Heat capacity"],
+      "answer": 1
+    },
+    {
+      "question": "The heat absorbed during melting at constant temperature is called:",
+      "options": ["Latent heat of fusion", "Latent heat of vaporization", "Latent heat of sublimation", "Specific heat"],
+      "answer": 0
+    },
+    {
+      "question": "The heat absorbed during boiling at constant temperature is called:",
+      "options": ["Latent heat of fusion", "Latent heat of vaporization", "Latent heat of sublimation", "Specific heat"],
+      "answer": 1
+    },
+    {
+      "question": "The first law of thermodynamics is based on:",
+      "options": ["Conservation of energy", "Conservation of mass", "Conservation of momentum", "Conservation of charge"],
+      "answer": 0
+    },
+    {
+      "question": "The mathematical expression for first law of thermodynamics is:",
+      "options": ["ΔU = q + w", "ΔH = q + w", "ΔG = ΔH - TΔS", "ΔS = q/T"],
+      "answer": 0
+    },
+    {
+      "question": "The second law of thermodynamics is related to:",
+      "options": ["Entropy", "Enthalpy", "Free energy", "Internal energy"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy of a perfect crystal at absolute zero is zero. This is:",
+      "options": ["First law", "Second law", "Third law", "Zeroth law"],
+      "answer": 2
+    },
+    {
+      "question": "The thermodynamic function that measures disorder is:",
+      "options": ["Enthalpy", "Entropy", "Free energy", "Internal energy"],
+      "answer": 1
+    },
+    {
+      "question": "The Gibbs free energy is defined as:",
+      "options": ["G = H - TS", "G = H + TS", "G = U - TS", "G = U + TS"],
+      "answer": 0
+    },
+    {
+      "question": "The Helmholtz free energy is defined as:",
+      "options": ["A = U - TS", "A = U + TS", "A = H - TS", "A = H + TS"],
+      "answer": 0
+    },
+    {
+      "question": "A spontaneous process has:",
+      "options": ["ΔG < 0", "ΔG > 0", "ΔG = 0", "ΔH < 0"],
+      "answer": 0
+    },
+    {
+      "question": "A non-spontaneous process has:",
+      "options": ["ΔG < 0", "ΔG > 0", "ΔG = 0", "ΔH < 0"],
+      "answer": 1
+    },
+    {
+      "question": "At equilibrium, the Gibbs free energy change is:",
+      "options": ["ΔG < 0", "ΔG > 0", "ΔG = 0", "ΔH = 0"],
+      "answer": 2
+    },
+    {
+      "question": "The enthalpy of formation of elements in standard state is:",
+      "options": ["Zero", "Positive", "Negative", "Variable"],
+      "answer": 0
+    },
+    {
+      "question": "The heat of neutralization of strong acid and strong base is approximately:",
+      "options": ["-57.1 kJ/mol", "-57.1 J/mol", "-57.1 cal/mol", "-57.1 kcal/mol"],
+      "answer": 0
+    },
+    {
+      "question": "The bond dissociation energy of H-H bond is:",
+      "options": ["104 kcal/mol", "104 kJ/mol", "436 kJ/mol", "436 kcal/mol"],
+      "answer": 2
+    },
+    {
+      "question": "The unit of entropy is:",
+      "options": ["J/K", "J/mol/K", "J/K/mol", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The entropy of mixing of ideal gases is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy change for isothermal reversible expansion is:",
+      "options": ["nR ln(V2/V1)", "nR ln(P2/P1)", "nR ln(T2/T1)", "nR ln(P1/P2)"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy change for isothermal reversible compression is:",
+      "options": ["Positive", "Negative", "Zero", "Variable"],
+      "answer": 1
+    },
+    {
+      "question": "The pH of pure water at 25°C is:",
+      "options": ["7", "14", "0", "10"],
+      "answer": 0
+    },
+    {
+      "question": "The ionic product of water at 25°C is:",
+      "options": ["1 × 10^-14", "1 × 10^-7", "1 × 10^-10", "1 × 10^-21"],
+      "answer": 0
+    },
+    {
+      "question": "The pH of a solution with [H+] = 1 × 10^-3 is:",
+      "options": ["2", "3", "4", "5"],
+      "answer": 1
+    },
+    {
+      "question": "The pH of a solution with [OH-] = 1 × 10^-4 is:",
+      "options": ["4", "6", "8", "10"],
+      "answer": 3
+    },
+    {
+      "question": "The Henderson-Hasselbalch equation for acid buffer is:",
+      "options": ["pH = pKa + log([salt]/[acid])", "pH = pKa - log([salt]/[acid])", "pH = pKa + log([acid]/[salt])", "pH = pKa - log([acid]/[salt])"],
+      "answer": 0
+    },
+    {
+      "question": "The Henderson-Hasselbalch equation for base buffer is:",
+      "options": ["pOH = pKb + log([salt]/[base])", "pOH = pKb - log([salt]/[base])", "pH = pKa + log([salt]/[base])", "pH = pKa - log([salt]/[base])"],
+      "answer": 0
+    },
+    {
+      "question": "The buffer capacity is maximum when:",
+      "options": ["pH = pKa", "pH > pKa", "pH < pKa", "pH = 7"],
+      "answer": 0
+    },
+    {
+      "question": "The pH of a buffer solution is determined by:",
+      "options": ["Henderson-Hasselbalch equation", "Nernst equation", "Arrhenius equation", "Boltzmann equation"],
+      "answer": 0
+    },
+    {
+      "question": "The common ion effect is observed in:",
+      "options": ["Buffer solution", "Salt hydrolysis", "Acid-base titration", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The solubility product is represented by:",
+      "options": ["Ksp", "Ka", "Kb", "Kw"],
+      "answer": 0
+    },
+    {
+      "question": "The solubility of sparingly soluble salt decreases in presence of common ion due to:",
+      "options": ["Common ion effect", "Salt effect", "Temperature effect", "Pressure effect"],
+      "answer": 0
+    },
+    {
+      "question": "The Nernst equation for electrode potential is:",
+      "options": ["E = E° - (RT/nF) ln Q", "E = E° + (RT/nF) ln Q", "E = E° - (RT/F) ln Q", "E = E° + (RT/F) ln Q"],
+      "answer": 0
+    },
+    {
+      "question": "The standard electrode potential of hydrogen electrode is:",
+      "options": ["0 V", "1 V", "-1 V", "0.5 V"],
+      "answer": 0
+    },
+    {
+      "question": "The electrochemical series arranges elements in order of:",
+      "options": ["Reducing power", "Oxidizing power", "Electronegativity", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The cell potential is positive for:",
+      "options": ["Spontaneous reaction", "Non-spontaneous reaction", "Equilibrium reaction", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The number of Faradays required to deposit 1 mole of Ag is:",
+      "options": ["1 F", "2 F", "3 F", "4 F"],
+      "answer": 0
+    },
+    {
+      "question": "The number of Faradays required to deposit 1 mole of Cu is:",
+      "options": ["1 F", "2 F", "3 F", "4 F"],
+      "answer": 1
+    },
+    {
+      "question": "The number of Faradays required to deposit 1 mole of Al is:",
+      "options": ["1 F", "2 F", "3 F", "4 F"],
+      "answer": 2
+    },
+    {
+      "question": "The conductance of a solution depends on:",
+      "options": ["Concentration", "Temperature", "Nature of electrolyte", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The molar conductivity of a strong electrolyte:",
+      "options": ["Increases with dilution", "Decreases with dilution", "Remains constant", "First increases then decreases"],
+      "answer": 0
+    },
+    {
+      "question": "The molar conductivity of a weak electrolyte:",
+      "options": ["Increases slowly with dilution", "Decreases with dilution", "Remains constant", "First increases then decreases"],
+      "answer": 0
+    },
+    {
+      "question": "The Kohlrausch's law of independent migration of ions is used to calculate:",
+      "options": ["Molar conductivity", "Equivalent conductivity", "Limiting molar conductivity", "All of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The degree of dissociation of weak electrolyte can be calculated using:",
+      "options": ["Kohlrausch's law", "Ostwald's dilution law", "Nernst equation", "Faraday's law"],
+      "answer": 1
+    },
+    {
+      "question": "The pH of a salt of weak acid and strong base is:",
+      "options": ["> 7", "< 7", "= 7", "Depends on concentration"],
+      "answer": 0
+    },
+    {
+      "question": "The pH of a salt of strong acid and weak base is:",
+      "options": ["> 7", "< 7", "= 7", "Depends on concentration"],
+      "answer": 1
+    },
+    {
+      "question": "The pH of a salt of weak acid and weak base is:",
+      "options": ["> 7", "< 7", "= 7", "Depends on Ka and Kb"],
+      "answer": 3
+    },
+    {
+      "question": "The hydrolysis of salt of weak acid and strong base is called:",
+      "options": ["Anionic hydrolysis", "Cationic hydrolysis", "Both", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The hydrolysis of salt of strong acid and weak base is called:",
+      "options": ["Anionic hydrolysis", "Cationic hydrolysis", "Both", "None"],
+      "answer": 1
+    },
+    {
+      "question": "The degree of hydrolysis depends on:",
+      "options": ["Temperature", "Concentration", "Nature of salt", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The rate of reaction increases with temperature because:",
+      "options": ["More molecules have energy above activation energy", "More collisions occur", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The Arrhenius equation is:",
+      "options": ["k = A e^(-Ea/RT)", "k = A e^(Ea/RT)", "k = A e^(-Ea/T)", "k = A e^(Ea/T)"],
+      "answer": 0
+    },
+    {
+      "question": "The activation energy is defined as:",
+      "options": ["Minimum energy required for reaction", "Maximum energy released", "Energy of reactants", "Energy of products"],
+      "answer": 0
+    },
+    {
+      "question": "A catalyst increases the rate of reaction by:",
+      "options": ["Lowering activation energy", "Increasing activation energy", "Changing equilibrium constant", "Changing temperature"],
+      "answer": 0
+    },
+    {
+      "question": "A catalyst does not change:",
+      "options": ["Rate of reaction", "Activation energy", "Equilibrium constant", "Pathway of reaction"],
+      "answer": 2
+    },
+    {
+      "question": "The order of reaction can be determined by:",
+      "options": ["Rate law", "Stoichiometry", "Temperature", "Pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The molecularity of a reaction is:",
+      "options": ["Number of molecules in elementary step", "Order of reaction", "Rate of reaction", "Activation energy"],
+      "answer": 0
+    },
+    {
+      "question": "The rate of a zero order reaction is:",
+      "options": ["Independent of concentration", "Proportional to concentration", "Proportional to square of concentration", "Proportional to cube of concentration"],
+      "answer": 0
+    },
+    {
+      "question": "The half-life of a zero order reaction is:",
+      "options": ["[A]0/2k", "ln2/k", "1/k[A]0", "k[A]0"],
+      "answer": 0
+    },
+    {
+      "question": "The half-life of a first order reaction is:",
+      "options": ["[A]0/2k", "ln2/k", "1/k[A]0", "k[A]0"],
+      "answer": 1
+    },
+    {
+      "question": "The half-life of a second order reaction is:",
+      "options": ["[A]0/2k", "ln2/k", "1/k[A]0", "k[A]0"],
+      "answer": 2
+    },
+    {
+      "question": "The rate constant for a first order reaction has units:",
+      "options": ["s^-1", "mol/L/s", "L/mol/s", "s^-2"],
+      "answer": 0
+    },
+    {
+      "question": "The rate constant for a second order reaction has units:",
+      "options": ["s^-1", "mol/L/s", "L/mol/s", "s^-2"],
+      "answer": 2
+    },
+    {
+      "question": "The Collision Theory was proposed by:",
+      "options": ["Arrhenius", "Maxwell", "Boltzmann", "Van't Hoff"],
+      "answer": 0
+    },
+    {
+      "question": "The Transition State Theory was proposed by:",
+      "options": ["Eyring", "Arrhenius", "Boltzmann", "Maxwell"],
+      "answer": 0
+    },
+    {
+      "question": "The activated complex is also called:",
+      "options": ["Transition state", "Intermediate", "Product", "Reactant"],
+      "answer": 0
+    },
+    {
+      "question": "The frequency factor in Arrhenius equation is represented by:",
+      "options": ["A", "Ea", "R", "T"],
+      "answer": 0
+    },
+    {
+      "question": "The rate of reaction is proportional to:",
+      "options": ["Frequency of collisions", "Fraction of molecules with energy above Ea", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The thermodynamic equilibrium constant is related to standard free energy change by:",
+      "options": ["ΔG° = -RT ln K", "ΔG° = RT ln K", "ΔG° = -RT ln Q", "ΔG° = RT ln Q"],
+      "answer": 0
+    },
+    {
+      "question": "The equilibrium constant for a reaction is affected by:",
+      "options": ["Temperature", "Pressure", "Concentration", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Le Chatelier's principle states that:",
+      "options": ["Equilibrium shifts to relieve stress", "Equilibrium remains constant", "Equilibrium shifts to increase stress", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "For an exothermic reaction, increase in temperature:",
+      "options": ["Favors reactants", "Favors products", "No effect", "Depends on pressure"],
+      "answer": 0
+    },
+    {
+      "question": "For an endothermic reaction, increase in temperature:",
+      "options": ["Favors products", "Favors reactants", "No effect", "Depends on pressure"],
+      "answer": 0
+    },
+    {
+      "question": "Increase in pressure favors:",
+      "options": ["Side with fewer moles of gas", "Side with more moles of gas", "No effect", "Depends on temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The degree of dissociation of a weak electrolyte increases with:",
+      "options": ["Dilution", "Concentration", "Temperature", "Pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The colligative properties depend on:",
+      "options": ["Number of solute particles", "Nature of solute", "Size of solute", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The colligative properties include:",
+      "options": ["Boiling point elevation", "Freezing point depression", "Osmotic pressure", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The boiling point elevation is given by:",
+      "options": ["ΔTb = Kb × m", "ΔTb = Kb × i × m", "ΔTf = Kf × m", "Π = CRT"],
+      "answer": 1
+    },
+    {
+      "question": "The freezing point depression is given by:",
+      "options": ["ΔTf = Kf × i × m", "ΔTf = Kf × m", "ΔTb = Kb × m", "Π = CRT"],
+      "answer": 0
+    },
+    {
+      "question": "The osmotic pressure is given by:",
+      "options": ["Π = CRT", "Π = iCRT", "Π = CRT × i", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The Van't Hoff factor is represented by:",
+      "options": ["i", "α", "β", "γ"],
+      "answer": 0
+    },
+    {
+      "question": "For a non-electrolyte, the Van't Hoff factor is:",
+      "options": ["1", "2", "3", "0"],
+      "answer": 0
+    },
+    {
+      "question": "For NaCl, the Van't Hoff factor is:",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1
+    },
+    {
+      "question": "For CaCl2, the Van't Hoff factor is:",
+      "options": ["1", "2", "3", "4"],
+      "answer": 2
+    },
+    {
+      "question": "The Van't Hoff factor for a strong electrolyte is:",
+      "options": ["Equal to number of ions", "Less than number of ions", "Greater than number of ions", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The Van't Hoff factor for a weak electrolyte is:",
+      "options": ["Equal to number of ions", "Less than number of ions", "Greater than number of ions", "None of the above"],
+      "answer": 1
+    },
+    {
+      "question": "The osmotic pressure of a solution is directly proportional to:",
+      "options": ["Concentration", "Temperature", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The isotonic solutions have same:",
+      "options": ["Osmotic pressure", "Concentration", "Boiling point", "Freezing point"],
+      "answer": 0
+    },
+    {
+      "question": "The phenomenon of passage of solvent through semi-permeable membrane is:",
+      "options": ["Osmosis", "Diffusion", "Filtration", "Absorption"],
+      "answer": 0
+    },
+    {
+      "question": "The minimum pressure required to stop osmosis is:",
+      "options": ["Osmotic pressure", "Atmospheric pressure", "Hydrostatic pressure", "Vapour pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The surface tension is defined as:",
+      "options": ["Force per unit length", "Energy per unit area", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The surface tension of a liquid decreases with:",
+      "options": ["Increase in temperature", "Decrease in temperature", "Increase in pressure", "Decrease in pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The viscosity is defined as:",
+      "options": ["Internal friction of fluid", "Resistance to flow", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The viscosity of a liquid decreases with:",
+      "options": ["Increase in temperature", "Decrease in temperature", "Increase in pressure", "Decrease in pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The coefficient of viscosity has units:",
+      "options": ["Poise", "Pascal-second", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The Stokes law is used to calculate:",
+      "options": ["Viscosity", "Surface tension", "Osmotic pressure", "Diffusion"],
+      "answer": 0
+    },
+    {
+      "question": "The diffusion of gases is governed by:",
+      "options": ["Fick's law", "Graham's law", "Dalton's law", "Henry's law"],
+      "answer": 0
+    },
+    {
+      "question": "The rate of diffusion is proportional to:",
+      "options": ["Concentration gradient", "Temperature", "Pressure", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The phenomenon of light scattering by colloidal particles is:",
+      "options": ["Tyndall effect", "Brownian movement", "Electrophoresis", "Coagulation"],
+      "answer": 0
+    },
+    {
+      "question": "The random motion of colloidal particles is:",
+      "options": ["Brownian movement", "Tyndall effect", "Electrophoresis", "Coagulation"],
+      "answer": 0
+    },
+    {
+      "question": "The movement of colloidal particles under electric field is:",
+      "options": ["Electrophoresis", "Brownian movement", "Tyndall effect", "Coagulation"],
+      "answer": 0
+    },
+    {
+      "question": "The process of precipitation of colloidal particles is:",
+      "options": ["Coagulation", "Electrophoresis", "Brownian movement", "Tyndall effect"],
+      "answer": 0
+    },
+    {
+      "question": "The charge on colloidal particles can be determined by:",
+      "options": ["Electrophoresis", "Tyndall effect", "Brownian movement", "Coagulation"],
+      "answer": 0
+    },
+    {
+      "question": "The gold number is related to:",
+      "options": ["Protective action of colloids", "Coagulation", "Electrophoresis", "Tyndall effect"],
+      "answer": 0
+    },
+    {
+      "question": "The adsorption of gas on solid is:",
+      "options": ["Exothermic", "Endothermic", "No heat change", "Depends on pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The Freundlich adsorption isotherm is:",
+      "options": ["x/m = kP^(1/n)", "x/m = kP", "x/m = k/nP", "x/m = kP^n"],
+      "answer": 0
+    },
+    {
+      "question": "The Langmuir adsorption isotherm assumes:",
+      "options": ["Monolayer adsorption", "Multilayer adsorption", "Chemical adsorption", "Physical adsorption"],
+      "answer": 0
+    },
+    {
+      "question": "The BET theory describes:",
+      "options": ["Multilayer adsorption", "Monolayer adsorption", "Chemical adsorption", "Physical adsorption"],
+      "answer": 0
+    },
+    {
+      "question": "The phenomenon of adsorption is used in:",
+      "options": ["Chromatography", "Catalysis", "Water purification", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The photochemical reactions are initiated by:",
+      "options": ["Light", "Heat", "Pressure", "Catalyst"],
+      "answer": 0
+    },
+    {
+      "question": "The Stark-Einstein law states that:",
+      "options": ["One photon initiates one reaction", "Multiple photons initiate one reaction", "One photon initiates multiple reactions", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum yield is defined as:",
+      "options": ["Number of molecules reacted per photon", "Number of photons per molecule", "Number of reactions per second", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum yield is greater than 1 for:",
+      "options": ["Chain reactions", "Non-chain reactions", "Both", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The Lambert-Beer law is used in:",
+      "options": ["Spectrophotometry", "Colorimetry", "Both A and B", "None"],
+      "answer": 2
+    },
+    {
+      "question": "The Lambert-Beer law states that:",
+      "options": ["Absorbance is proportional to concentration", "Absorbance is proportional to path length", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The molar extinction coefficient has units:",
+      "options": ["L/mol/cm", "L/mol", "mol/L/cm", "cm/mol/L"],
+      "answer": 0
+    },
+    {
+      "question": "The rotational spectra of molecules are observed in:",
+      "options": ["Microwave region", "Infrared region", "UV region", "Visible region"],
+      "answer": 0
+    },
+    {
+      "question": "The vibrational spectra of molecules are observed in:",
+      "options": ["Infrared region", "Microwave region", "UV region", "Visible region"],
+      "answer": 0
+    },
+    {
+      "question": "The electronic spectra of molecules are observed in:",
+      "options": ["UV-visible region", "Infrared region", "Microwave region", "Radio wave region"],
+      "answer": 0
+    },
+    {
+      "question": "The nuclear magnetic resonance is based on:",
+      "options": ["Spin of nuclei", "Charge of nuclei", "Mass of nuclei", "Size of nuclei"],
+      "answer": 0
+    },
+    {
+      "question": "The ESR spectroscopy is based on:",
+      "options": ["Spin of electrons", "Spin of nuclei", "Charge of electrons", "Mass of electrons"],
+      "answer": 0
+    },
+    {
+      "question": "The Mossbauer spectroscopy is based on:",
+      "options": ["Nuclear resonance", "Electron resonance", "Vibrational resonance", "Rotational resonance"],
+      "answer": 0
+    },
+    {
+      "question": "The Raman spectroscopy is based on:",
+      "options": ["Inelastic scattering", "Elastic scattering", "Absorption", "Emission"],
+      "answer": 0
+    },
+    {
+      "question": "The fluorescence is:",
+      "options": ["Emission after absorption", "Absorption after emission", "Scattering of light", "Reflection of light"],
+      "answer": 0
+    },
+    {
+      "question": "The phosphorescence is:",
+      "options": ["Delayed fluorescence", "Immediate fluorescence", "Absorption", "Scattering"],
+      "answer": 0
+    },
+    {
+      "question": "The rate constant of a reaction depends on:",
+      "options": ["Temperature", "Concentration", "Pressure", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The activation energy can be determined from:",
+      "options": ["Arrhenius plot", "Van't Hoff plot", "Nernst plot", "Langmuir plot"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy of activation is given by:",
+      "options": ["ΔS‡", "ΔH‡", "ΔG‡", "ΔU‡"],
+      "answer": 0
+    },
+    {
+      "question": "The enthalpy of activation is given by:",
+      "options": ["ΔH‡", "ΔS‡", "ΔG‡", "ΔU‡"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibbs free energy of activation is given by:",
+      "options": ["ΔG‡ = ΔH‡ - TΔS‡", "ΔG‡ = ΔH‡ + TΔS‡", "ΔG‡ = -ΔH‡ - TΔS‡", "ΔG‡ = -ΔH‡ + TΔS‡"],
+      "answer": 0
+    },
+    {
+      "question": "The Eyring equation relates:",
+      "options": ["Rate constant to activation parameters", "Rate constant to temperature", "Rate constant to concentration", "Rate constant to pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The kinetics of enzyme catalyzed reaction follows:",
+      "options": ["Michaelis-Menten equation", "Arrhenius equation", "Nernst equation", "Van't Hoff equation"],
+      "answer": 0
+    },
+    {
+      "question": "The Michaelis-Menten constant Km is:",
+      "options": ["Substrate concentration at half Vmax", "Substrate concentration at Vmax", "Enzyme concentration at half Vmax", "Enzyme concentration at Vmax"],
+      "answer": 0
+    },
+    {
+      "question": "The Lineweaver-Burk plot is:",
+      "options": ["1/v vs 1/[S]", "v vs [S]", "1/v vs [S]", "v vs 1/[S]"],
+      "answer": 0
+    },
+    {
+      "question": "The competitive inhibition increases:",
+      "options": ["Km", "Vmax", "Both", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The non-competitive inhibition decreases:",
+      "options": ["Vmax", "Km", "Both", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The uncompetitive inhibition decreases:",
+      "options": ["Both Km and Vmax", "Only Km", "Only Vmax", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibbs free energy change is related to equilibrium constant by:",
+      "options": ["ΔG° = -RT ln K", "ΔG° = RT ln K", "ΔG° = -RT log K", "ΔG° = RT log K"],
+      "answer": 0
+    },
+    {
+      "question": "The relationship between Kp and Kc is:",
+      "options": ["Kp = Kc(RT)^Δn", "Kp = Kc/(RT)^Δn", "Kp = Kc(RT)", "Kp = Kc/(RT)"],
+      "answer": 0
+    },
+    {
+      "question": "The van't Hoff equation relates equilibrium constant to:",
+      "options": ["Temperature", "Pressure", "Concentration", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The van't Hoff equation is:",
+      "options": ["ln(K2/K1) = -ΔH/R(1/T2 - 1/T1)", "ln(K2/K1) = ΔH/R(1/T2 - 1/T1)", "ln(K2/K1) = -ΔH/R(1/T2 + 1/T1)", "ln(K2/K1) = ΔH/R(1/T2 + 1/T1)"],
+      "answer": 0
+    },
+    {
+      "question": "The Clausius-Clapeyron equation relates vapour pressure to:",
+      "options": ["Temperature", "Pressure", "Volume", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The Clausius-Clapeyron equation is:",
+      "options": ["ln(P2/P1) = -ΔHvap/R(1/T2 - 1/T1)", "ln(P2/P1) = ΔHvap/R(1/T2 - 1/T1)", "ln(P2/P1) = -ΔHvap/R(1/T2 + 1/T1)", "ln(P2/P1) = ΔHvap/R(1/T2 + 1/T1)"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy of vaporization at boiling point is approximately:",
+      "options": ["88 J/mol/K", "88 kJ/mol/K", "88 cal/mol/K", "88 kcal/mol/K"],
+      "answer": 0
+    },
+    {
+      "question": "The Trouton's rule states that:",
+      "options": ["ΔSvap ≈ 88 J/mol/K", "ΔHvap ≈ 88 J/mol", "ΔGvap ≈ 88 J/mol", "ΔUvap ≈ 88 J/mol"],
+      "answer": 0
+    },
+    {
+      "question": "The critical temperature is related to van der Waals constants by:",
+      "options": ["Tc = 8a/27Rb", "Tc = 8a/27R", "Tc = a/27Rb", "Tc = 8a/27b"],
+      "answer": 0
+    },
+    {
+      "question": "The critical pressure is related to van der Waals constants by:",
+      "options": ["Pc = a/27b^2", "Pc = a/27b", "Pc = 8a/27b", "Pc = a/b^2"],
+      "answer": 0
+    },
+    {
+      "question": "The critical volume is related to van der Waals constants by:",
+      "options": ["Vc = 3b", "Vc = b", "Vc = 2b", "Vc = 4b"],
+      "answer": 0
+    },
+    {
+      "question": "The van der Waals equation is:",
+      "options": ["(P + a/V^2)(V - b) = RT", "(P - a/V^2)(V - b) = RT", "(P + a/V^2)(V + b) = RT", "(P - a/V^2)(V + b) = RT"],
+      "answer": 0
+    },
+    {
+      "question": "The Boyle temperature is given by:",
+      "options": ["Tb = a/Rb", "Tb = a/R", "Tb = a/b", "Tb = a/Rb^2"],
+      "answer": 0
+    },
+    {
+      "question": "The Joule-Thomson coefficient is zero at:",
+      "options": ["Inversion temperature", "Boyle temperature", "Critical temperature", "Triple point"],
+      "answer": 0
+    },
+    {
+      "question": "The compressibility factor is defined as:",
+      "options": ["Z = PV/RT", "Z = RT/PV", "Z = PV/RT", "Z = V/RT"],
+      "answer": 0
+    },
+    {
+      "question": "For an ideal gas, the compressibility factor is:",
+      "options": ["1", "0", "2", "3"],
+      "answer": 0
+    },
+    {
+      "question": "For real gases at high pressure, the compressibility factor is:",
+      "options": [">1", "<1", "=1", "=0"],
+      "answer": 0
+    },
+    {
+      "question": "For real gases at low pressure, the compressibility factor is:",
+      "options": ["<1", ">1", "=1", "=0"],
+      "answer": 0
+    },
+    {
+      "question": "The reduced temperature is defined as:",
+      "options": ["Tr = T/Tc", "Tr = Tc/T", "Tr = P/Pc", "Tr = V/Vc"],
+      "answer": 0
+    },
+    {
+      "question": "The law of corresponding states is applicable to:",
+      "options": ["All gases", "Only ideal gases", "Only real gases", "Only noble gases"],
+      "answer": 0
+    },
+    {
+      "question": "The mean free path is inversely proportional to:",
+      "options": ["Pressure", "Temperature", "Volume", "Mass"],
+      "answer": 0
+    },
+    {
+      "question": "The mean free path is directly proportional to:",
+      "options": ["Temperature", "Pressure", "Concentration", "Density"],
+      "answer": 0
+    },
+    {
+      "question": "The collision frequency is proportional to:",
+      "options": ["Pressure", "Temperature", "Volume", "Mass"],
+      "answer": 0
+    },
+    {
+      "question": "The Maxwell distribution of velocities is given by:",
+      "options": ["f(v) = 4π(m/2πkT)^(3/2) v^2 e^(-mv^2/2kT)", "f(v) = 4π(m/2πkT)^(1/2) v^2 e^(-mv^2/2kT)", "f(v) = 4π(m/2πkT)^(3/2) v e^(-mv^2/2kT)", "f(v) = 4π(m/2πkT)^(1/2) v e^(-mv^2/2kT)"],
+      "answer": 0
+    },
+    {
+      "question": "The most probable velocity is given by:",
+      "options": ["√(2RT/M)", "√(3RT/M)", "√(8RT/πM)", "√(RT/M)"],
+      "answer": 0
+    },
+    {
+      "question": "The root mean square velocity is given by:",
+      "options": ["√(3RT/M)", "√(2RT/M)", "√(8RT/πM)", "√(RT/M)"],
+      "answer": 0
+    },
+    {
+      "question": "The average velocity is given by:",
+      "options": ["√(8RT/πM)", "√(2RT/M)", "√(3RT/M)", "√(RT/M)"],
+      "answer": 0
+    },
+    {
+      "question": "The equipartition principle states that energy is equally distributed among:",
+      "options": ["Degrees of freedom", "Molecules", "Atoms", "Electrons"],
+      "answer": 0
+    },
+    {
+      "question": "The rotational kinetic energy for a linear molecule is:",
+      "options": ["kT", "3/2 kT", "5/2 kT", "1/2 kT"],
+      "answer": 0
+    },
+    {
+      "question": "The vibrational kinetic energy for a diatomic molecule is:",
+      "options": ["kT", "3/2 kT", "5/2 kT", "1/2 kT"],
+      "answer": 0
+    },
+    {
+      "question": "The translational kinetic energy for a molecule is:",
+      "options": ["3/2 kT", "kT", "5/2 kT", "1/2 kT"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibb's paradox is related to:",
+      "options": ["Entropy of mixing", "Enthalpy of mixing", "Free energy of mixing", "Volume of mixing"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy of mixing for ideal gases is:",
+      "options": ["-RΣ ni ln xi", "RΣ ni ln xi", "-RΣ xi ln xi", "RΣ xi ln xi"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical potential is defined as:",
+      "options": ["μi = (∂G/∂ni)T,P,nj", "μi = (∂H/∂ni)T,P,nj", "μi = (∂U/∂ni)T,P,nj", "μi = (∂S/∂ni)T,P,nj"],
+      "answer": 0
+    },
+    {
+      "question": "The fugacity is the effective pressure for:",
+      "options": ["Real gases", "Ideal gases", "Liquids", "Solids"],
+      "answer": 0
+    },
+    {
+      "question": "The activity is the effective concentration for:",
+      "options": ["Real solutions", "Ideal solutions", "Gases", "Solids"],
+      "answer": 0
+    },
+    {
+      "question": "The Debye-Huckel theory is used for:",
+      "options": ["Electrolyte solutions", "Non-electrolyte solutions", "Gases", "Solids"],
+      "answer": 0
+    },
+    {
+      "question": "The ionic strength is defined as:",
+      "options": ["I = 1/2Σci zi^2", "I = Σci zi^2", "I = 1/2Σci zi", "I = Σci zi"],
+      "answer": 0
+    },
+    {
+      "question": "The Debye length is related to:",
+      "options": ["Thickness of ionic atmosphere", "Concentration of ions", "Temperature", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The activity coefficient is related to ionic strength by:",
+      "options": ["log γ = -A z^2 √I", "log γ = A z^2 √I", "log γ = -A z^2 I", "log γ = A z^2 I"],
+      "answer": 0
+    },
+    {
+      "question": "The Debye-Huckel limiting law is valid for:",
+      "options": ["Dilute solutions", "Concentrated solutions", "All solutions", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The thermodynamic activity is related to concentration by:",
+      "options": ["a = γ × c", "a = γ/c", "a = c/γ", "a = γ × c^2"],
+      "answer": 0
+    },
+    {
+      "question": "The activity coefficient approaches 1 at:",
+      "options": ["Infinite dilution", "Infinite concentration", "Standard state", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The standard state for a gas is:",
+      "options": ["1 atm", "1 bar", "1 Pa", "1 Torr"],
+      "answer": 0
+    },
+    {
+      "question": "The standard state for a solute in solution is:",
+      "options": ["1 M", "1 N", "1 m", "1 mol/kg"],
+      "answer": 0
+    },
+    {
+      "question": "The absolute entropy is calculated using:",
+      "options": ["Third law of thermodynamics", "First law of thermodynamics", "Second law of thermodynamics", "Zeroth law"],
+      "answer": 0
+    },
+    {
+      "question": "The standard entropy of formation of an element is:",
+      "options": ["Zero", "Positive", "Negative", "Variable"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibbs free energy of formation of an element is:",
+      "options": ["Zero", "Positive", "Negative", "Variable"],
+      "answer": 0
+    }
+  ]
+}

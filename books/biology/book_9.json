@@ -1,0 +1,1164 @@
+{
+  "questions": [
+    {
+      "question": "The theory of natural selection was proposed by:",
+      "options": [
+        "Lamarck",
+        "Charles Darwin",
+        "Mendel",
+        "Wallace"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'On the Origin of Species' was published in:",
+      "options": [
+        "1849",
+        "1859",
+        "1869",
+        "1879"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The concept of 'survival of the fittest' was given by:",
+      "options": [
+        "Darwin",
+        "Mendel",
+        "Lamarck",
+        "Herbert Spencer"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Fossils provide evidence for:",
+      "options": [
+        "Evolution",
+        "Creation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The oldest fossils are found in which type of rock?",
+      "options": [
+        "Igneous",
+        "Sedimentary",
+        "Metamorphic",
+        "Volcanic"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is NOT a type of natural selection?",
+      "options": [
+        "Stabilizing",
+        "Directional",
+        "Disruptive",
+        "Artificial"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Darwin's finches are an example of:",
+      "options": [
+        "Adaptive radiation",
+        "Convergent evolution",
+        "Divergent evolution",
+        "Co-evolution"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Homologous organs show:",
+      "options": [
+        "Common ancestor",
+        "Different ancestor",
+        "Same function",
+        "Analogous structure"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Analogous organs show:",
+      "options": [
+        "Different ancestor",
+        "Common ancestor",
+        "Same structure",
+        "Same ancestor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The theory of evolution by acquired characteristics was proposed by:",
+      "options": [
+        "Darwin",
+        "Lamarck",
+        "Mendel",
+        "Wallace"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The mechanism of evolution involving allele frequency change is:",
+      "options": [
+        "Natural selection",
+        "Gene flow",
+        "Genetic drift",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Speciation requires:",
+      "options": [
+        "Geographic isolation",
+        "Reproductive isolation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Evolution means:",
+      "options": [
+        "Change in species over time",
+        "Change in environment",
+        "Change in climate",
+        "No change"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The 'Age of Dinosaurs' was the:",
+      "options": [
+        "Mesozoic",
+        "Paleozoic",
+        "Cenozoic",
+        "Precambrian"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The current era is the:",
+      "options": [
+        "Mesozoic",
+        "Paleozoic",
+        "Cenozoic",
+        "Precambrian"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first living organisms on Earth were:",
+      "options": [
+        "Plants",
+        "Animals",
+        "Bacteria",
+        "Fungi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Wings in birds and insects are an example of:",
+      "options": [
+        "Homologous structures",
+        "Analogous structures",
+        "Vestigial structures",
+        "Fossil structures"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Hardy-Weinberg principle assumes:",
+      "options": [
+        "Large population",
+        "Random mating",
+        "No mutations",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which organism is considered a 'living fossil'?",
+      "options": [
+        "Dinosaurs",
+        "Horseshoe crab",
+        "Human",
+        "Elephant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Natural selection is described as:",
+      "options": [
+        "Survival of the fittest",
+        "Survival of the strongest",
+        "Survival of the smartest",
+        "Survival of the fastest"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mutations are important for evolution because they:",
+      "options": [
+        "Increase variation",
+        "Decrease variation",
+        "Maintain stability",
+        "Reduce fitness"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The concept of 'punctuated equilibrium' was proposed by:",
+      "options": [
+        "Darwin",
+        "Gould and Eldredge",
+        "Mendel",
+        "Wallace"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Human evolution began in:",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "Australia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The oldest human ancestor is:",
+      "options": [
+        "Homo sapiens",
+        "Homo habilis",
+        "Australopithecus",
+        "Neanderthal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Galapagos finches contributed to Darwin's:",
+      "options": [
+        "Theory of evolution",
+        "Theory of inheritance",
+        "Theory of genetics",
+        "Theory of adaptation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which is NOT a key mechanism of evolution?",
+      "options": [
+        "Natural selection",
+        "Genetic drift",
+        "Gene flow",
+        "Social selection"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Adaptation is:",
+      "options": [
+        "A trait that helps survival",
+        "A trait that hinders survival",
+        "A trait with no effect",
+        "A trait that causes death"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The distribution of species is studied in:",
+      "options": [
+        "Biogeography",
+        "Ecology",
+        "Genetics",
+        "Evolution"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Darwin's theory of evolution is based on:",
+      "options": [
+        "Overproduction",
+        "Variation",
+        "Selection",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "'Descent with modification' means:",
+      "options": [
+        "Species change over time",
+        "Species remain unchanged",
+        "Species evolve backwards",
+        "Species adapt instantly"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The age of the Earth is approximately:",
+      "options": [
+        "2.5 billion years",
+        "3.5 billion years",
+        "4.5 billion years",
+        "5.5 billion years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The oldest fossils date back:",
+      "options": [
+        "1.5 billion years",
+        "2.5 billion years",
+        "3.5 billion years",
+        "4.5 billion years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pangaea was:",
+      "options": [
+        "A supercontinent",
+        "A superocean",
+        "A supermountain",
+        "A supervolcano"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Continental drift was proposed by:",
+      "options": [
+        "Wegener",
+        "Darwin",
+        "Mendel",
+        "Wallace"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Plate tectonics explains:",
+      "options": [
+        "Movement of continents",
+        "Formation of mountains",
+        "Earthquakes",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Cambrian explosion was:",
+      "options": [
+        "Rapid diversification of life",
+        "Mass extinction",
+        "Ice age",
+        "Formation of the Earth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mass extinctions have occurred:",
+      "options": [
+        "Multiple times",
+        "Once",
+        "Never",
+        "Only once"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Permian-Triassic extinction was the:",
+      "options": [
+        "Largest mass extinction",
+        "Smallest mass extinction",
+        "Only mass extinction",
+        "Recent mass extinction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Cretaceous-Tertiary extinction killed the:",
+      "options": [
+        "Dinosaurs",
+        "Mammals",
+        "Birds",
+        "Reptiles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mammals evolved after the:",
+      "options": [
+        "Dinosaur extinction",
+        "Cambrian explosion",
+        "Permian extinction",
+        "Ice age"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Birds evolved from:",
+      "options": [
+        "Dinosaurs",
+        "Mammals",
+        "Reptiles",
+        "Fish"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Archaeopteryx is a:",
+      "options": [
+        "Transitional fossil between dinosaurs and birds",
+        "Transitional fossil between fish and amphibians",
+        "Transitional fossil between reptiles and mammals",
+        "Modern bird"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Transitional fossils provide evidence for:",
+      "options": [
+        "Gradual change",
+        "Sudden change",
+        "No change",
+        "Instant change"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vestigial structures are:",
+      "options": [
+        "Remnants of ancestral structures",
+        "New structures",
+        "Fully functional structures",
+        "Adaptive structures"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The human appendix is a:",
+      "options": [
+        "Vestigial structure",
+        "New structure",
+        "Functional structure",
+        "Adaptive structure"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Whales have vestigial:",
+      "options": [
+        "Hind limbs",
+        "Forelimbs",
+        "Tail",
+        "Head"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Comparing DNA sequences is:",
+      "options": [
+        "Molecular evidence for evolution",
+        "Fossil evidence",
+        "Anatomical evidence",
+        "Biogeographical evidence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Molecular clocks are used to:",
+      "options": [
+        "Estimate divergence times",
+        "Measure temperature",
+        "Count species",
+        "Map genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The genetic code is:",
+      "options": [
+        "Universal",
+        "Species-specific",
+        "Variable",
+        "Inconsistent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Universal genetic code supports:",
+      "options": [
+        "Common descent",
+        "Independent creation",
+        "Convergent evolution",
+        "Coincidence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The chimpanzee genome is about how similar to humans?",
+      "options": [
+        "85%",
+        "90%",
+        "95%",
+        "99%"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Human and chimpanzee similarities suggest:",
+      "options": [
+        "Common ancestor",
+        "Independent evolution",
+        "Convergent evolution",
+        "Coincidence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The human lineage split from chimpanzees about:",
+      "options": [
+        "1-2 million years ago",
+        "3-4 million years ago",
+        "5-7 million years ago",
+        "8-10 million years ago"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Bipedalism is:",
+      "options": [
+        "Walking on two legs",
+        "Walking on four legs",
+        "Climbing",
+        "Swimming"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first bipedal hominids were:",
+      "options": [
+        "Australopithecus",
+        "Homo erectus",
+        "Homo sapiens",
+        "Homo habilis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Homo erectus was the first to:",
+      "options": [
+        "Use fire",
+        "Make tools",
+        "Walk upright",
+        "Speak"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Homo habilis means:",
+      "options": [
+        "Handy man",
+        "Wise man",
+        "Upright man",
+        "Tool man"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neanderthals were:",
+      "options": [
+        "Early humans",
+        "Modern humans",
+        "Apes",
+        "Dinosaurs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neanderthals lived in:",
+      "options": [
+        "Europe and Asia",
+        "Africa",
+        "Australia",
+        "Americas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Modern humans are:",
+      "options": [
+        "Homo sapiens",
+        "Homo erectus",
+        "Homo habilis",
+        "Neanderthals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Out of Africa theory suggests:",
+      "options": [
+        "Humans originated in Africa",
+        "Humans originated in Asia",
+        "Humans originated in Europe",
+        "Humans originated in Australia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The multiregional hypothesis suggests:",
+      "options": [
+        "Humans originated in multiple regions",
+        "Humans originated in one region",
+        "Humans did not evolve",
+        "Humans evolved from apes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mitochondrial Eve is:",
+      "options": [
+        "The most recent common ancestor through maternal line",
+        "The most recent common ancestor through paternal line",
+        "The oldest human",
+        "The first human"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Y-chromosomal Adam is:",
+      "options": [
+        "The most recent common ancestor through paternal line",
+        "The most recent common ancestor through maternal line",
+        "The oldest human",
+        "The first human"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The fossil record shows:",
+      "options": [
+        "Gradual change",
+        "Sudden change",
+        "No change",
+        "Random change"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genetic diversity in populations:",
+      "options": [
+        "Is a source of variation",
+        "Decreases variation",
+        "Maintains stability",
+        "Is not important"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mutations are:",
+      "options": [
+        "Random",
+        "Directed",
+        "Purposeful",
+        "Always beneficial"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gene flow is:",
+      "options": [
+        "The movement of genes between populations",
+        "Gene mutation",
+        "Gene duplication",
+        "Gene deletion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genetic drift is:",
+      "options": [
+        "Random change in allele frequencies",
+        "Non-random change in allele frequencies",
+        "Mutation",
+        "Selection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The bottleneck effect is:",
+      "options": [
+        "Reduction in population size",
+        "Increase in population size",
+        "No change in population",
+        "New species formation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The founder effect is:",
+      "options": [
+        "A small group colonizing a new area",
+        "A large group colonizing a new area",
+        "No colonization",
+        "Extinction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Allopatric speciation occurs due to:",
+      "options": [
+        "Geographic isolation",
+        "Reproductive isolation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sympatric speciation occurs without:",
+      "options": [
+        "Geographic isolation",
+        "Reproductive isolation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Reproductive isolation prevents:",
+      "options": [
+        "Gene flow",
+        "Mutation",
+        "Selection",
+        "Drift"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pre-zygotic isolation prevents:",
+      "options": [
+        "Fertilization",
+        "Zygote formation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Post-zygotic isolation prevents:",
+      "options": [
+        "Zygote development",
+        "Fertilization",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hybrid sterility is an example of:",
+      "options": [
+        "Post-zygotic isolation",
+        "Pre-zygotic isolation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Habitat isolation is an example of:",
+      "options": [
+        "Pre-zygotic isolation",
+        "Post-zygotic isolation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Behavioral isolation is an example of:",
+      "options": [
+        "Pre-zygotic isolation",
+        "Post-zygotic isolation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mechanical isolation is an example of:",
+      "options": [
+        "Pre-zygotic isolation",
+        "Post-zygotic isolation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gametic isolation is an example of:",
+      "options": [
+        "Pre-zygotic isolation",
+        "Post-zygotic isolation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Temporal isolation is an example of:",
+      "options": [
+        "Pre-zygotic isolation",
+        "Post-zygotic isolation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ecological isolation is an example of:",
+      "options": [
+        "Pre-zygotic isolation",
+        "Post-zygotic isolation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Coevolution is:",
+      "options": [
+        "Reciprocal evolutionary change",
+        "One-sided evolutionary change",
+        "No evolutionary change",
+        "Sudden change"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Predator-prey relationships can lead to:",
+      "options": [
+        "Coevolution",
+        "No evolution",
+        "Extinction",
+        "Speciation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Flowers and their pollinators are an example of:",
+      "options": [
+        "Coevolution",
+        "Convergent evolution",
+        "Divergent evolution",
+        "Adaptive radiation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Convergent evolution occurs when:",
+      "options": [
+        "Unrelated species evolve similar traits",
+        "Related species evolve similar traits",
+        "Unrelated species evolve different traits",
+        "Related species evolve different traits"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Divergent evolution occurs when:",
+      "options": [
+        "Related species evolve different traits",
+        "Unrelated species evolve similar traits",
+        "Related species evolve similar traits",
+        "Unrelated species evolve different traits"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Adaptive radiation is:",
+      "options": [
+        "Rapid diversification into new niches",
+        "Slow diversification",
+        "No diversification",
+        "Extinction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Darwin's finches are an example of:",
+      "options": [
+        "Adaptive radiation",
+        "Convergent evolution",
+        "Coevolution",
+        "Divergent evolution"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Phylogeny is:",
+      "options": [
+        "Evolutionary history of a species",
+        "Genetics of a species",
+        "Geography of a species",
+        "Anatomy of a species"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A phylogenetic tree shows:",
+      "options": [
+        "Evolutionary relationships",
+        "Genetic relationships",
+        "Geographic relationships",
+        "Anatomical relationships"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cladistics classifies organisms based on:",
+      "options": [
+        "Shared derived characteristics",
+        "Shared primitive characteristics",
+        "Appearance",
+        "Behavior"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A clade is:",
+      "options": [
+        "A group with a common ancestor",
+        "A group without common ancestor",
+        "A species",
+        "A population"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Monophyletic groups include:",
+      "options": [
+        "A common ancestor and all its descendants",
+        "A common ancestor and some descendants",
+        "No common ancestor",
+        "Only one species"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Paraphyletic groups include:",
+      "options": [
+        "A common ancestor and some, not all, descendants",
+        "A common ancestor and all descendants",
+        "No common ancestor",
+        "Only one species"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Polyphyletic groups include:",
+      "options": [
+        "Multiple ancestors",
+        "A common ancestor",
+        "No common ancestor",
+        "Only one species"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The three domains of life are:",
+      "options": [
+        "Bacteria, Archaea, Eukarya",
+        "Bacteria, Fungi, Animals",
+        "Plants, Animals, Fungi",
+        "Protists, Fungi, Animals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The oldest domain of life is:",
+      "options": [
+        "Bacteria",
+        "Archaea",
+        "Eukarya",
+        "All are equally old"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Eukaryotic cells evolved from:",
+      "options": [
+        "Prokaryotic cells",
+        "Archaea",
+        "Bacteria",
+        "Viruses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The endosymbiotic theory explains:",
+      "options": [
+        "Origin of mitochondria and chloroplasts",
+        "Origin of the nucleus",
+        "Origin of the cell membrane",
+        "Origin of ribosomes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mitochondria and chloroplasts have their own:",
+      "options": [
+        "DNA",
+        "RNA",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Earth's atmosphere was originally:",
+      "options": [
+        "Reducing",
+        "Oxidizing",
+        "Neutral",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Oxygen in the atmosphere was produced by:",
+      "options": [
+        "Photosynthetic organisms",
+        "Volcanoes",
+        "Lightning",
+        "Meteorites"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The ozone layer formed due to:",
+      "options": [
+        "Oxygen accumulation",
+        "Carbon dioxide accumulation",
+        "Nitrogen accumulation",
+        "Water vapor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The ozone layer allowed:",
+      "options": [
+        "Life on land",
+        "Life in water",
+        "Life in air",
+        "No life"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Natural selection was independently discovered by:",
+      "options": [
+        "Darwin and Wallace",
+        "Darwin and Mendel",
+        "Mendel and Wallace",
+        "Lamarck and Darwin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Darwin's observations on the Galapagos Islands included:",
+      "options": [
+        "Finches with different beak shapes",
+        "Tortoises with different shell shapes",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The HMS Beagle was:",
+      "options": [
+        "Darwin's ship",
+        "Mendel's ship",
+        "Wallace's ship",
+        "A research station"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Darwin's voyage lasted:",
+      "options": [
+        "2 years",
+        "5 years",
+        "10 years",
+        "15 years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Darwin's theory was controversial because it:",
+      "options": [
+        "Challenged religious views",
+        "Challenged scientific views",
+        "Challenged political views",
+        "Challenged social views"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Evolution is:",
+      "options": [
+        "A fact and a theory",
+        "Only a theory",
+        "Only a fact",
+        "A hypothesis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Evolution is supported by evidence from:",
+      "options": [
+        "Fossils, DNA, and anatomy",
+        "Fossils only",
+        "DNA only",
+        "Anatomy only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of evolution is important for:",
+      "options": [
+        "Understanding life's history",
+        "Medicine",
+        "Conservation",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Evolution by natural selection is:",
+      "options": [
+        "A well-supported scientific theory",
+        "An unsupported hypothesis",
+        "A belief system",
+        "A political statement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The future of evolution includes:",
+      "options": [
+        "Continued change",
+        "No change",
+        "Extinction of all species",
+        "Reversal of evolution"
+      ],
+      "answer": 0
+    }
+  ]
+}

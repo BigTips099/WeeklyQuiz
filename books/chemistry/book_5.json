@@ -1,0 +1,666 @@
+{
+  "category": "Analytical Chemistry",
+  "total_questions": 140,
+  "questions": [
+    {
+      "question": "The technique used to separate components of a mixture based on their partition between stationary and mobile phases is called:",
+      "options": ["Chromatography", "Spectrophotometry", "Titration", "Electrophoresis"],
+      "answer": 0
+    },
+    {
+      "question": "The mobile phase in gas chromatography is:",
+      "options": ["Gas", "Liquid", "Solid", "Supercritical fluid"],
+      "answer": 0
+    },
+    {
+      "question": "The stationary phase in paper chromatography is:",
+      "options": ["Paper", "Silica gel", "Alumina", "Cellulose"],
+      "answer": 0
+    },
+    {
+      "question": "The technique in which the stationary phase is coated on the inside of a capillary column is:",
+      "options": ["Open tubular chromatography", "Packed column chromatography", "Thin layer chromatography", "Paper chromatography"],
+      "answer": 0
+    },
+    {
+      "question": "The detector used in HPLC that measures absorbance of UV light is:",
+      "options": ["UV-Vis detector", "Fluorescence detector", "Refractive index detector", "Electrochemical detector"],
+      "answer": 0
+    },
+    {
+      "question": "The elution order in normal phase chromatography is:",
+      "options": ["Least polar first", "Most polar first", "Both elute together", "Depends on temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The elution order in reversed phase chromatography is:",
+      "options": ["Most polar first", "Least polar first", "Both elute together", "Depends on temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The retention time in chromatography is defined as:",
+      "options": ["Time taken for solute to elute", "Time taken for mobile phase to pass", "Time taken for injection", "Time taken for detection"],
+      "answer": 0
+    },
+    {
+      "question": "The capacity factor in chromatography is given by:",
+      "options": ["k' = (tR - tM)/tM", "k' = (tR + tM)/tM", "k' = tR/tM", "k' = tM/tR"],
+      "answer": 0
+    },
+    {
+      "question": "The resolution in chromatography is improved by:",
+      "options": ["Increasing column length", "Decreasing column length", "Increasing flow rate", "Decreasing temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The Van Deemter equation relates plate height to:",
+      "options": ["Flow rate", "Temperature", "Pressure", "Concentration"],
+      "answer": 0
+    },
+    {
+      "question": "The term 'A' in Van Deemter equation represents:",
+      "options": ["Eddy diffusion", "Longitudinal diffusion", "Mass transfer", "Partition coefficient"],
+      "answer": 0
+    },
+    {
+      "question": "The term 'B' in Van Deemter equation represents:",
+      "options": ["Longitudinal diffusion", "Eddy diffusion", "Mass transfer", "Partition coefficient"],
+      "answer": 0
+    },
+    {
+      "question": "The term 'C' in Van Deemter equation represents:",
+      "options": ["Mass transfer", "Eddy diffusion", "Longitudinal diffusion", "Partition coefficient"],
+      "answer": 0
+    },
+    {
+      "question": "The number of theoretical plates is calculated by:",
+      "options": ["N = 16(tR/w)^2", "N = 16(tR/w)", "N = 16(tM/w)^2", "N = 16(tR/tM)^2"],
+      "answer": 0
+    },
+    {
+      "question": "The technique used to separate charged particles based on their charge-to-mass ratio is:",
+      "options": ["Electrophoresis", "Chromatography", "Spectrophotometry", "Titration"],
+      "answer": 0
+    },
+    {
+      "question": "The pH at which a molecule has no net charge and does not migrate in electrophoresis is called:",
+      "options": ["Isoelectric point", "Equivalence point", "End point", "Inflection point"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of capillary electrophoresis separates molecules based on:",
+      "options": ["Charge-to-mass ratio", "Size", "Shape", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The detection method in capillary electrophoresis that is most commonly used is:",
+      "options": ["UV-Vis absorbance", "Fluorescence", "Conductivity", "Mass spectrometry"],
+      "answer": 0
+    },
+    {
+      "question": "The electroosmotic flow in capillary electrophoresis is due to:",
+      "options": ["Charge on capillary wall", "Applied voltage", "Buffer composition", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The technique of mass spectrometry separates ions based on:",
+      "options": ["Mass-to-charge ratio", "Charge", "Mass", "Size"],
+      "answer": 0
+    },
+    {
+      "question": "The ionization technique in mass spectrometry that uses a laser is:",
+      "options": ["MALDI", "ESI", "EI", "CI"],
+      "answer": 0
+    },
+    {
+      "question": "The ionization technique in mass spectrometry that uses electrospray is:",
+      "options": ["ESI", "MALDI", "EI", "CI"],
+      "answer": 0
+    },
+    {
+      "question": "The mass analyzer that uses a magnetic field to separate ions is:",
+      "options": ["Magnetic sector", "Quadrupole", "Time-of-flight", "Ion trap"],
+      "answer": 0
+    },
+    {
+      "question": "The mass analyzer that measures the time for ions to travel a fixed distance is:",
+      "options": ["Time-of-flight", "Quadrupole", "Magnetic sector", "Ion trap"],
+      "answer": 0
+    },
+    {
+      "question": "The detector in mass spectrometry that is most commonly used is:",
+      "options": ["Electron multiplier", "Photomultiplier", "Photodiode", "Thermal detector"],
+      "answer": 0
+    },
+    {
+      "question": "The technique that combines chromatography and mass spectrometry is called:",
+      "options": ["LC-MS", "GC-MS", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The Beer-Lambert law is used in:",
+      "options": ["Spectrophotometry", "Chromatography", "Electrophoresis", "Mass spectrometry"],
+      "answer": 0
+    },
+    {
+      "question": "The absorbance is related to transmittance by:",
+      "options": ["A = -log T", "A = log T", "A = 2 - log T", "A = 2 + log T"],
+      "answer": 0
+    },
+    {
+      "question": "The molar absorptivity is also called:",
+      "options": ["Molar extinction coefficient", "Absorbance", "Transmittance", "Path length"],
+      "answer": 0
+    },
+    {
+      "question": "The instrument used to measure fluorescence is called:",
+      "options": ["Fluorimeter", "Spectrophotometer", "Colorimeter", "Nephelometer"],
+      "answer": 0
+    },
+    {
+      "question": "The emission of light after absorption of light is called:",
+      "options": ["Fluorescence", "Phosphorescence", "Chemiluminescence", "Bioluminescence"],
+      "answer": 0
+    },
+    {
+      "question": "The emission that continues after the excitation source is removed is called:",
+      "options": ["Phosphorescence", "Fluorescence", "Chemiluminescence", "Bioluminescence"],
+      "answer": 0
+    },
+    {
+      "question": "The technique that measures scattered light at right angles is called:",
+      "options": ["Nephelometry", "Turbidimetry", "Spectrophotometry", "Colorimetry"],
+      "answer": 0
+    },
+    {
+      "question": "The technique that measures the decrease in transmitted light is called:",
+      "options": ["Turbidimetry", "Nephelometry", "Spectrophotometry", "Colorimetry"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of atomic absorption spectroscopy is used to determine:",
+      "options": ["Metals", "Non-metals", "Organic compounds", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The atomization source in flame atomic absorption spectroscopy is:",
+      "options": ["Flame", "Furnace", "Plasma", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The hollow cathode lamp is used as the light source in:",
+      "options": ["Atomic absorption spectroscopy", "UV-Vis spectroscopy", "Fluorescence spectroscopy", "IR spectroscopy"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of inductively coupled plasma (ICP) is used with:",
+      "options": ["Atomic emission spectroscopy", "Atomic absorption spectroscopy", "Both A and B", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of infrared spectroscopy is used to identify:",
+      "options": ["Functional groups", "Metals", "Ions", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The region of IR spectrum used for functional group identification is:",
+      "options": ["4000-1400 cm^-1", "1400-600 cm^-1", "600-200 cm^-1", "200-50 cm^-1"],
+      "answer": 0
+    },
+    {
+      "question": "The fingerprint region in IR spectroscopy is:",
+      "options": ["1400-600 cm^-1", "4000-1400 cm^-1", "600-200 cm^-1", "200-50 cm^-1"],
+      "answer": 0
+    },
+    {
+      "question": "The stretching frequency of C=O bond in IR is around:",
+      "options": ["1700 cm^-1", "3400 cm^-1", "2200 cm^-1", "1200 cm^-1"],
+      "answer": 0
+    },
+    {
+      "question": "The stretching frequency of O-H bond in IR is around:",
+      "options": ["3400 cm^-1", "1700 cm^-1", "2200 cm^-1", "1200 cm^-1"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of nuclear magnetic resonance spectroscopy is based on:",
+      "options": ["Nuclear spin", "Electron spin", "Vibrational modes", "Rotational modes"],
+      "answer": 0
+    },
+    {
+      "question": "The nucleus commonly studied in NMR is:",
+      "options": ["1H", "13C", "19F", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The chemical shift in NMR is measured in:",
+      "options": ["Parts per million (ppm)", "Hertz", "Joules", "Volts"],
+      "answer": 0
+    },
+    {
+      "question": "The reference standard used in 1H NMR is:",
+      "options": ["TMS", "DSS", "MeOH", "CDCl3"],
+      "answer": 0
+    },
+    {
+      "question": "The coupling constant in NMR is measured in:",
+      "options": ["Hertz", "ppm", "Joules", "Volts"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of electron spin resonance spectroscopy studies:",
+      "options": ["Unpaired electrons", "Paired electrons", "Nuclei", "Atoms"],
+      "answer": 0
+    },
+    {
+      "question": "The g-factor in ESR is analogous to:",
+      "options": ["Chemical shift in NMR", "Coupling constant in NMR", "Integration in NMR", "Relaxation time in NMR"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of X-ray diffraction is used to determine:",
+      "options": ["Crystal structure", "Molecular weight", "Elemental composition", "Functional groups"],
+      "answer": 0
+    },
+    {
+      "question": "The Bragg's law is used in:",
+      "options": ["X-ray diffraction", "NMR spectroscopy", "IR spectroscopy", "Mass spectrometry"],
+      "answer": 0
+    },
+    {
+      "question": "The Bragg's law is:",
+      "options": ["nλ = 2d sinθ", "nλ = d sinθ", "nλ = 2d cosθ", "nλ = d cosθ"],
+      "answer": 0
+    },
+    {
+      "question": "The unit cell in X-ray crystallography is described by:",
+      "options": ["Lattice parameters", "Molecular weight", "Density", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of scanning electron microscopy provides information about:",
+      "options": ["Surface morphology", "Elemental composition", "Crystal structure", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The technique of transmission electron microscopy provides information about:",
+      "options": ["Internal structure", "Surface morphology", "Elemental composition", "Crystal structure"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of atomic force microscopy measures:",
+      "options": ["Surface topography", "Elemental composition", "Molecular weight", "Functional groups"],
+      "answer": 0
+    },
+    {
+      "question": "The titration technique used to determine chloride ions is:",
+      "options": ["Argentometric titration", "Iodometric titration", "Acid-base titration", "Complexometric titration"],
+      "answer": 0
+    },
+    {
+      "question": "The indicator used in Mohr's titration is:",
+      "options": ["Potassium chromate", "Starch", "Methyl orange", "Phenolphthalein"],
+      "answer": 0
+    },
+    {
+      "question": "The indicator used in Volhard's titration is:",
+      "options": ["Ferric alum", "Potassium chromate", "Starch", "Methyl orange"],
+      "answer": 0
+    },
+    {
+      "question": "The indicator used in Fajan's titration is:",
+      "options": ["Adsorption indicator", "Potassium chromate", "Ferric alum", "Starch"],
+      "answer": 0
+    },
+    {
+      "question": "The titration technique used to determine calcium ions is:",
+      "options": ["Complexometric titration", "Acid-base titration", "Redox titration", "Precipitation titration"],
+      "answer": 0
+    },
+    {
+      "question": "The indicator used in complexometric titration for calcium is:",
+      "options": ["Eriochrome Black T", "Murexide", "Phenolphthalein", "Methyl orange"],
+      "answer": 1
+    },
+    {
+      "question": "The titration technique used to determine iodine is:",
+      "options": ["Iodometric titration", "Acid-base titration", "Complexometric titration", "Precipitation titration"],
+      "answer": 0
+    },
+    {
+      "question": "The indicator used in iodometric titration is:",
+      "options": ["Starch", "Methyl orange", "Phenolphthalein", "Eriochrome Black T"],
+      "answer": 0
+    },
+    {
+      "question": "The titration technique used to determine oxidizing agents is:",
+      "options": ["Permanganometry", "Iodometry", "Acid-base", "Complexometric"],
+      "answer": 0
+    },
+    {
+      "question": "The self-indicator in permanganometry is:",
+      "options": ["KMnO4", "Starch", "Phenolphthalein", "Methyl orange"],
+      "answer": 0
+    },
+    {
+      "question": "The titration technique used to determine reducing agents is:",
+      "options": ["Iodometry", "Permanganometry", "Acid-base", "Complexometric"],
+      "answer": 0
+    },
+    {
+      "question": "The primary standard used in acid-base titration is:",
+      "options": ["Sodium carbonate", "NaOH", "HCl", "H2SO4"],
+      "answer": 0
+    },
+    {
+      "question": "The primary standard used in permanganometry is:",
+      "options": ["Oxalic acid", "Sodium carbonate", "NaOH", "HCl"],
+      "answer": 0
+    },
+    {
+      "question": "The primary standard used in iodometry is:",
+      "options": ["Potassium iodate", "Oxalic acid", "Sodium carbonate", "NaOH"],
+      "answer": 0
+    },
+    {
+      "question": "The equivalence point in titration is:",
+      "options": ["When moles of titrant equals moles of analyte", "When pH changes suddenly", "When color changes", "When volume is half"],
+      "answer": 0
+    },
+    {
+      "question": "The end point in titration is:",
+      "options": ["When indicator changes color", "When equivalence point is reached", "When pH is 7", "When volume is zero"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of gravimetric analysis involves:",
+      "options": ["Mass measurement", "Volume measurement", "Color measurement", "Temperature measurement"],
+      "answer": 0
+    },
+    {
+      "question": "The precipitate in gravimetric analysis should be:",
+      "options": ["Insoluble and pure", "Soluble", "Volatile", "Reactive"],
+      "answer": 0
+    },
+    {
+      "question": "The drying step in gravimetric analysis removes:",
+      "options": ["Moisture", "Impurities", "Precipitate", "Solvent"],
+      "answer": 0
+    },
+    {
+      "question": "The ignition step in gravimetric analysis converts:",
+      "options": ["Precipitate to a known compound", "Precipitate to solution", "Precipitate to gas", "Precipitate to metal"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of thermogravimetric analysis measures:",
+      "options": ["Weight change with temperature", "Heat change with temperature", "Volume change with temperature", "Pressure change with temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of differential scanning calorimetry measures:",
+      "options": ["Heat flow", "Weight change", "Volume change", "Pressure change"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of differential thermal analysis measures:",
+      "options": ["Temperature difference", "Weight change", "Heat flow", "Volume change"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of polarography is based on:",
+      "options": ["Current-voltage relationship", "Light absorption", "Mass measurement", "Volume measurement"],
+      "answer": 0
+    },
+    {
+      "question": "The dropping mercury electrode is used in:",
+      "options": ["Polarography", "Spectrophotometry", "Chromatography", "Electrophoresis"],
+      "answer": 0
+    },
+    {
+      "question": "The half-wave potential in polarography is used for:",
+      "options": ["Identification of species", "Quantification of species", "Both A and B", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The diffusion current in polarography is proportional to:",
+      "options": ["Concentration", "Square root of concentration", "Logarithm of concentration", "Inverse of concentration"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of amperometry measures:",
+      "options": ["Current at constant potential", "Voltage at constant current", "Resistance", "Conductance"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of coulometry measures:",
+      "options": ["Charge", "Current", "Voltage", "Resistance"],
+      "answer": 0
+    },
+    {
+      "question": "The Faraday's law is used in:",
+      "options": ["Coulometry", "Polarography", "Amperometry", "Chromatography"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of conductometry measures:",
+      "options": ["Conductance", "Current", "Voltage", "Resistance"],
+      "answer": 0
+    },
+    {
+      "question": "The potentiometric titration measures:",
+      "options": ["Potential", "Current", "Conductance", "Absorbance"],
+      "answer": 0
+    },
+    {
+      "question": "The indicator electrode in pH measurement is:",
+      "options": ["Glass electrode", "Calomel electrode", "Silver chloride electrode", "Platinum electrode"],
+      "answer": 0
+    },
+    {
+      "question": "The reference electrode in pH measurement is:",
+      "options": ["Calomel electrode", "Glass electrode", "Silver chloride electrode", "Platinum electrode"],
+      "answer": 0
+    },
+    {
+      "question": "The pH meter measures:",
+      "options": ["Hydrogen ion activity", "Hydrogen ion concentration", "Hydroxyl ion activity", "Hydroxyl ion concentration"],
+      "answer": 0
+    },
+    {
+      "question": "The Nernst equation is used in:",
+      "options": ["Potentiometry", "Conductometry", "Coulometry", "Polarography"],
+      "answer": 0
+    },
+    {
+      "question": "The standard electrode potential is measured using:",
+      "options": ["Hydrogen electrode", "Calomel electrode", "Silver chloride electrode", "Glass electrode"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of ion selective electrodes is used to measure:",
+      "options": ["Specific ions", "All ions", "Neutral molecules", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The fluoride ion selective electrode is used to measure:",
+      "options": ["F- ions", "Cl- ions", "Na+ ions", "K+ ions"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of gas sensing electrodes is used to measure:",
+      "options": ["Dissolved gases", "Ions", "Metals", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of biosensors uses:",
+      "options": ["Biological recognition", "Chemical recognition", "Physical recognition", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The enzyme electrode is a type of:",
+      "options": ["Biosensor", "Chemical sensor", "Physical sensor", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of immunoassay uses:",
+      "options": ["Antibody-antigen reaction", "Enzyme-substrate reaction", "Acid-base reaction", "Redox reaction"],
+      "answer": 0
+    },
+    {
+      "question": "The ELISA is a type of:",
+      "options": ["Immunoassay", "Chromatography", "Spectrophotometry", "Electrophoresis"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of DNA sequencing uses:",
+      "options": ["Chain termination method", "Mass spectrometry", "Chromatography", "Electrophoresis"],
+      "answer": 0
+    },
+    {
+      "question": "The Sanger method is used for:",
+      "options": ["DNA sequencing", "Protein sequencing", "Carbohydrate analysis", "Lipid analysis"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of PCR is used for:",
+      "options": ["DNA amplification", "DNA sequencing", "Protein synthesis", "Lipid synthesis"],
+      "answer": 0
+    },
+    {
+      "question": "The thermal cycler is used in:",
+      "options": ["PCR", "DNA sequencing", "Chromatography", "Electrophoresis"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of gel electrophoresis separates DNA based on:",
+      "options": ["Size", "Charge", "Shape", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The agarose gel is used for:",
+      "options": ["DNA electrophoresis", "Protein electrophoresis", "Chromatography", "Spectrophotometry"],
+      "answer": 0
+    },
+    {
+      "question": "The polyacrylamide gel is used for:",
+      "options": ["Protein electrophoresis", "DNA electrophoresis", "Chromatography", "Spectrophotometry"],
+      "answer": 0
+    },
+    {
+      "question": "The SDS-PAGE is used for:",
+      "options": ["Protein analysis", "DNA analysis", "Lipid analysis", "Carbohydrate analysis"],
+      "answer": 0
+    },
+    {
+      "question": "The Western blotting is used for:",
+      "options": ["Protein detection", "DNA detection", "Lipid detection", "Carbohydrate detection"],
+      "answer": 0
+    },
+    {
+      "question": "The Southern blotting is used for:",
+      "options": ["DNA detection", "Protein detection", "Lipid detection", "Carbohydrate detection"],
+      "answer": 0
+    },
+    {
+      "question": "The Northern blotting is used for:",
+      "options": ["RNA detection", "DNA detection", "Protein detection", "Lipid detection"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of microarray is used for:",
+      "options": ["Gene expression analysis", "Protein analysis", "Lipid analysis", "Carbohydrate analysis"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of flow cytometry is used for:",
+      "options": ["Cell analysis", "Protein analysis", "DNA analysis", "Lipid analysis"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of FACS is used for:",
+      "options": ["Cell sorting", "Cell counting", "Cell analysis", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The technique of microscopy is used for:",
+      "options": ["Visualization", "Analysis", "Characterization", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The resolution of a microscope is limited by:",
+      "options": ["Wavelength of light", "Numerical aperture", "Both A and B", "None of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The confocal microscopy provides:",
+      "options": ["Three-dimensional images", "Two-dimensional images", "Chemical information", "Elemental information"],
+      "answer": 0
+    },
+    {
+      "question": "The fluorescence microscopy uses:",
+      "options": ["Fluorescence emission", "Absorbance", "Scattering", "Reflection"],
+      "answer": 0
+    },
+    {
+      "question": "The electron microscopy uses:",
+      "options": ["Electrons", "Light", "X-rays", "Radio waves"],
+      "answer": 0
+    },
+    {
+      "question": "The resolution of electron microscopy is:",
+      "options": ["Higher than optical microscopy", "Lower than optical microscopy", "Same as optical microscopy", "Not comparable"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of sample preparation includes:",
+      "options": ["Extraction", "Purification", "Concentration", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The technique of solid phase extraction is used for:",
+      "options": ["Sample cleanup", "Analysis", "Identification", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of liquid-liquid extraction is based on:",
+      "options": ["Partition coefficient", "Distillation", "Crystallization", "Filtration"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of distillation is used to separate:",
+      "options": ["Volatile components", "Non-volatile components", "Suspended particles", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of filtration is used to separate:",
+      "options": ["Solid from liquid", "Liquid from liquid", "Gas from gas", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of centrifugation is used to separate:",
+      "options": ["Based on density", "Based on size", "Based on charge", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The technique of dialysis is used to separate:",
+      "options": ["Based on molecular size", "Based on charge", "Based on density", "Based on volatility"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of ultrafiltration is used to separate:",
+      "options": ["Based on molecular size", "Based on charge", "Based on density", "Based on volatility"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of freeze-drying is also called:",
+      "options": ["Lyophilization", "Crystallization", "Distillation", "Filtration"],
+      "answer": 0
+    },
+    {
+      "question": "The technique of lyophilization is used to:",
+      "options": ["Preserve samples", "Analyze samples", "Identify samples", "All of the above"],
+      "answer": 0
+    }
+  ]
+}

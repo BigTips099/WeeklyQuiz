@@ -1,0 +1,981 @@
+{
+  "category": "Environmental Chemistry",
+  "total_questions": 254,
+  "questions": [
+    {
+      "question": "The study of chemical processes occurring in the environment is called:",
+      "options": ["Environmental chemistry", "Organic chemistry", "Inorganic chemistry", "Physical chemistry"],
+      "answer": 0
+    },
+    {
+      "question": "The layer of atmosphere closest to Earth's surface is:",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "answer": 0
+    },
+    {
+      "question": "The layer of atmosphere containing the ozone layer is:",
+      "options": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
+      "answer": 0
+    },
+    {
+      "question": "The most abundant gas in the atmosphere is:",
+      "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+      "answer": 0
+    },
+    {
+      "question": "The second most abundant gas in the atmosphere is:",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+      "answer": 0
+    },
+    {
+      "question": "The concentration of carbon dioxide in the atmosphere is approximately:",
+      "options": ["0.04%", "21%", "78%", "1%"],
+      "answer": 0
+    },
+    {
+      "question": "The greenhouse effect is caused by:",
+      "options": ["Greenhouse gases", "Ozone depletion", "Acid rain", "Deforestation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a greenhouse gas?",
+      "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Argon"],
+      "answer": 0
+    },
+    {
+      "question": "The most potent greenhouse gas is:",
+      "options": ["CFCs", "Carbon dioxide", "Methane", "Nitrous oxide"],
+      "answer": 0
+    },
+    {
+      "question": "The global warming potential (GWP) of CO2 is:",
+      "options": ["1", "25", "298", "1000"],
+      "answer": 0
+    },
+    {
+      "question": "The global warming potential (GWP) of methane is:",
+      "options": ["25", "1", "298", "1000"],
+      "answer": 0
+    },
+    {
+      "question": "The global warming potential (GWP) of nitrous oxide is:",
+      "options": ["298", "1", "25", "1000"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of methane is:",
+      "options": ["Agriculture", "Industry", "Transport", "Deforestation"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of carbon dioxide is:",
+      "options": ["Fossil fuel combustion", "Agriculture", "Industry", "Deforestation"],
+      "answer": 0
+    },
+    {
+      "question": "The ozone layer is present in the:",
+      "options": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
+      "answer": 0
+    },
+    {
+      "question": "The ozone-depleting substances include:",
+      "options": ["CFCs", "CO2", "Methane", "Nitrous oxide"],
+      "answer": 0
+    },
+    {
+      "question": "The Montreal Protocol was signed to protect:",
+      "options": ["Ozone layer", "Air quality", "Water quality", "Biodiversity"],
+      "answer": 0
+    },
+    {
+      "question": "The Montreal Protocol was signed in the year:",
+      "options": ["1987", "1992", "1997", "2000"],
+      "answer": 0
+    },
+    {
+      "question": "The Kyoto Protocol was signed to reduce:",
+      "options": ["Greenhouse gases", "Ozone-depleting substances", "Acid rain", "Water pollution"],
+      "answer": 0
+    },
+    {
+      "question": "The Kyoto Protocol was signed in the year:",
+      "options": ["1997", "1987", "1992", "2000"],
+      "answer": 0
+    },
+    {
+      "question": "The Paris Agreement was signed in the year:",
+      "options": ["2015", "2010", "2005", "2020"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of air pollution is:",
+      "options": ["Fossil fuel combustion", "Agriculture", "Deforestation", "Mining"],
+      "answer": 0
+    },
+    {
+      "question": "The particulate matter with diameter less than 2.5 μm is called:",
+      "options": ["PM2.5", "PM10", "PM1", "PM5"],
+      "answer": 0
+    },
+    {
+      "question": "The particulate matter with diameter less than 10 μm is called:",
+      "options": ["PM10", "PM2.5", "PM1", "PM5"],
+      "answer": 0
+    },
+    {
+      "question": "The major component of smog is:",
+      "options": ["Ozone", "CO2", "SO2", "NOx"],
+      "answer": 0
+    },
+    {
+      "question": "The major component of photochemical smog is:",
+      "options": ["Ozone", "SO2", "CO2", "Methane"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of SO2 is:",
+      "options": ["Coal combustion", "Vehicle exhaust", "Agriculture", "Deforestation"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of NOx is:",
+      "options": ["Vehicle exhaust", "Coal combustion", "Agriculture", "Industry"],
+      "answer": 0
+    },
+    {
+      "question": "The acid rain is caused by:",
+      "options": ["SO2 and NOx", "CO2", "Methane", "CFCs"],
+      "answer": 0
+    },
+    {
+      "question": "The pH of acid rain is less than:",
+      "options": ["5.6", "7.0", "6.5", "4.0"],
+      "answer": 0
+    },
+    {
+      "question": "The normal pH of rainwater is:",
+      "options": ["5.6", "7.0", "6.5", "8.0"],
+      "answer": 0
+    },
+    {
+      "question": "The major acids in acid rain are:",
+      "options": ["H2SO4 and HNO3", "HCl and H2SO4", "HNO3 and HCl", "H2CO3 and H2SO4"],
+      "answer": 0
+    },
+    {
+      "question": "The effect of acid rain on aquatic life is:",
+      "options": ["Fish kills", "Eutrophication", "Algal blooms", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The effect of acid rain on buildings is:",
+      "options": ["Corrosion", "Erosion", "Discoloration", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The major component of water is:",
+      "options": ["H2O", "O2", "CO2", "N2"],
+      "answer": 0
+    },
+    {
+      "question": "The total water on Earth is approximately:",
+      "options": ["1.4 billion km³", "1.4 million km³", "1.4 trillion km³", "1.4 thousand km³"],
+      "answer": 0
+    },
+    {
+      "question": "The percentage of freshwater on Earth is approximately:",
+      "options": ["2.5%", "50%", "75%", "97.5%"],
+      "answer": 0
+    },
+    {
+      "question": "The largest source of freshwater is:",
+      "options": ["Glaciers", "Groundwater", "Lakes", "Rivers"],
+      "answer": 0
+    },
+    {
+      "question": "The term BOD stands for:",
+      "options": ["Biological Oxygen Demand", "Biochemical Oxygen Demand", "Biological Organic Demand", "Biochemical Organic Demand"],
+      "answer": 1
+    },
+    {
+      "question": "The term COD stands for:",
+      "options": ["Chemical Oxygen Demand", "Chemical Organic Demand", "Combined Oxygen Demand", "Combined Organic Demand"],
+      "answer": 0
+    },
+    {
+      "question": "The BOD of clean water is:",
+      "options": ["Less than 1 ppm", "More than 100 ppm", "About 50 ppm", "About 10 ppm"],
+      "answer": 0
+    },
+    {
+      "question": "The BOD of polluted water is:",
+      "options": ["Greater than 100 ppm", "Less than 1 ppm", "About 10 ppm", "About 5 ppm"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of water pollution is:",
+      "options": ["Industrial waste", "Agricultural runoff", "Sewage", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The process of eutrophication is caused by:",
+      "options": ["Excess nutrients", "Excess oxygen", "Excess temperature", "Excess pH"],
+      "answer": 0
+    },
+    {
+      "question": "The major nutrients causing eutrophication are:",
+      "options": ["Nitrates and Phosphates", "Carbonates and Bicarbonates", "Sulfates and Chlorides", "Sodium and Potassium"],
+      "answer": 0
+    },
+    {
+      "question": "The process of eutrophication leads to:",
+      "options": ["Algal blooms", "Fish kills", "Oxygen depletion", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The dissolved oxygen in water is affected by:",
+      "options": ["Temperature", "Salinity", "Pressure", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The solubility of oxygen in water decreases with:",
+      "options": ["Increase in temperature", "Decrease in temperature", "Increase in pressure", "Decrease in pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The main source of heavy metals in water is:",
+      "options": ["Industrial waste", "Agricultural runoff", "Sewage", "Stormwater"],
+      "answer": 0
+    },
+    {
+      "question": "The heavy metal that causes Minamata disease is:",
+      "options": ["Mercury", "Lead", "Cadmium", "Arsenic"],
+      "answer": 0
+    },
+    {
+      "question": "The heavy metal that causes Itai-Itai disease is:",
+      "options": ["Cadmium", "Mercury", "Lead", "Arsenic"],
+      "answer": 0
+    },
+    {
+      "question": "The heavy metal that causes lead poisoning is:",
+      "options": ["Lead", "Mercury", "Cadmium", "Arsenic"],
+      "answer": 0
+    },
+    {
+      "question": "The heavy metal that causes arsenic poisoning is:",
+      "options": ["Arsenic", "Lead", "Mercury", "Cadmium"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of mercury in water is:",
+      "options": ["Industrial discharges", "Agricultural runoff", "Sewage", "Mining"],
+      "answer": 0
+    },
+    {
+      "question": "The process of biomagnification is:",
+      "options": ["Increase in concentration along food chain", "Decrease in concentration along food chain", "No change in concentration along food chain", "Random change in concentration"],
+      "answer": 0
+    },
+    {
+      "question": "The process of bioaccumulation is:",
+      "options": ["Accumulation in an organism", "Increase along food chain", "Decrease along food chain", "No change"],
+      "answer": 0
+    },
+    {
+      "question": "The term PAH stands for:",
+      "options": ["Polycyclic Aromatic Hydrocarbons", "Polycyclic Aromatic Hydroxides", "Polycyclic Aromatic Halides", "Polycyclic Aromatic Hydrides"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of PAHs is:",
+      "options": ["Fossil fuel combustion", "Agriculture", "Deforestation", "Mining"],
+      "answer": 0
+    },
+    {
+      "question": "The term PCB stands for:",
+      "options": ["Polychlorinated Biphenyls", "Polychlorinated Biphenyles", "Polychlorinated Biphenols", "Polycarbonate Biphenyls"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of PCBs is:",
+      "options": ["Industrial waste", "Agricultural runoff", "Sewage", "Mining"],
+      "answer": 0
+    },
+    {
+      "question": "The term VOC stands for:",
+      "options": ["Volatile Organic Compounds", "Volatile Organic Chemicals", "Variable Organic Compounds", "Volatile Oxygen Compounds"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of VOCs is:",
+      "options": ["Vehicle exhaust", "Agriculture", "Deforestation", "Mining"],
+      "answer": 0
+    },
+    {
+      "question": "The process of photochemical smog formation involves:",
+      "options": ["NOx and VOCs", "SO2 and NOx", "CO2 and CH4", "O3 and CO"],
+      "answer": 0
+    },
+    {
+      "question": "The major component of indoor air pollution is:",
+      "options": ["Formaldehyde", "CO2", "O3", "SO2"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of indoor air pollution is:",
+      "options": ["Building materials", "Vehicle exhaust", "Industry", "Agriculture"],
+      "answer": 0
+    },
+    {
+      "question": "The term SPM stands for:",
+      "options": ["Suspended Particulate Matter", "Suspended Particulate Material", "Suspended Pollution Matter", "Suspended Pollutant Material"],
+      "answer": 0
+    },
+    {
+      "question": "The term TSP stands for:",
+      "options": ["Total Suspended Particulates", "Total Suspended Pollutants", "Total Solid Particulates", "Total Soluble Particulates"],
+      "answer": 0
+    },
+    {
+      "question": "The major effect of particulate matter on health is:",
+      "options": ["Respiratory problems", "Cardiovascular problems", "Cancer", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The term AQI stands for:",
+      "options": ["Air Quality Index", "Air Quantity Index", "Air Quality Indicator", "Air Quantity Indicator"],
+      "answer": 0
+    },
+    {
+      "question": "The AQI is based on:",
+      "options": ["Multiple pollutants", "Single pollutant", "Temperature", "Humidity"],
+      "answer": 0
+    },
+    {
+      "question": "The term NAAQS stands for:",
+      "options": ["National Ambient Air Quality Standards", "National Ambient Air Quantity Standards", "National Ambient Air Quality System", "National Ambient Air Quantity System"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of CO in air is:",
+      "options": ["Vehicle exhaust", "Industry", "Agriculture", "Deforestation"],
+      "answer": 0
+    },
+    {
+      "question": "The major effect of CO on health is:",
+      "options": ["Reduced oxygen carrying capacity", "Cancer", "Respiratory problems", "Cardiovascular problems"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of SO2 in air is:",
+      "options": ["Coal combustion", "Vehicle exhaust", "Agriculture", "Deforestation"],
+      "answer": 0
+    },
+    {
+      "question": "The major effect of SO2 on health is:",
+      "options": ["Respiratory problems", "Cancer", "Cardiovascular problems", "Neurological problems"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of NOx in air is:",
+      "options": ["Vehicle exhaust", "Coal combustion", "Agriculture", "Deforestation"],
+      "answer": 0
+    },
+    {
+      "question": "The major effect of NOx on health is:",
+      "options": ["Respiratory problems", "Cancer", "Cardiovascular problems", "Neurological problems"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of O3 in air is:",
+      "options": ["Photochemical reactions", "Vehicle exhaust", "Industry", "Agriculture"],
+      "answer": 0
+    },
+    {
+      "question": "The major effect of O3 on health is:",
+      "options": ["Respiratory problems", "Cancer", "Cardiovascular problems", "Neurological problems"],
+      "answer": 0
+    },
+    {
+      "question": "The term PPM stands for:",
+      "options": ["Parts Per Million", "Parts Per Mole", "Parts Per Measure", "Parts Per Mass"],
+      "answer": 0
+    },
+    {
+      "question": "The term PPB stands for:",
+      "options": ["Parts Per Billion", "Parts Per Mole", "Parts Per Measure", "Parts Per Mass"],
+      "answer": 0
+    },
+    {
+      "question": "The term PPT stands for:",
+      "options": ["Parts Per Trillion", "Parts Per Mole", "Parts Per Measure", "Parts Per Mass"],
+      "answer": 0
+    },
+    {
+      "question": "The EPA was established in:",
+      "options": ["1970", "1960", "1980", "1990"],
+      "answer": 0
+    },
+    {
+      "question": "The term EIA stands for:",
+      "options": ["Environmental Impact Assessment", "Environmental Impact Analysis", "Environmental Impact Audit", "Environmental Impact Authority"],
+      "answer": 0
+    },
+    {
+      "question": "The term EMS stands for:",
+      "options": ["Environmental Management System", "Environmental Monitoring System", "Environmental Measurement System", "Environmental Management Strategy"],
+      "answer": 0
+    },
+    {
+      "question": "The term ISO 14001 is related to:",
+      "options": ["Environmental management", "Quality management", "Safety management", "Energy management"],
+      "answer": 0
+    },
+    {
+      "question": "The term CSR stands for:",
+      "options": ["Corporate Social Responsibility", "Corporate Sustainability Responsibility", "Corporate Social Response", "Corporate Sustainability Response"],
+      "answer": 0
+    },
+    {
+      "question": "The term GHG stands for:",
+      "options": ["Greenhouse Gas", "Global Greenhouse Gas", "Greenhouse Gases", "Global Greenhouse Gases"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of greenhouse gases is:",
+      "options": ["Fossil fuel combustion", "Agriculture", "Industry", "Deforestation"],
+      "answer": 0
+    },
+    {
+      "question": "The term COP stands for:",
+      "options": ["Conference of Parties", "Conference of People", "Conference of Policies", "Conference of Plans"],
+      "answer": 0
+    },
+    {
+      "question": "The term NDC stands for:",
+      "options": ["Nationally Determined Contributions", "Nationally Defined Contributions", "Nationally Decided Contributions", "National Determined Contributions"],
+      "answer": 0
+    },
+    {
+      "question": "The term BRS stands for:",
+      "options": ["Basel, Rotterdam and Stockholm Conventions", "Basel, Rio and Stockholm Conventions", "Basel, Rotterdam and Sydney Conventions", "Basel, Rio and Sydney Conventions"],
+      "answer": 0
+    },
+    {
+      "question": "The term POPs stands for:",
+      "options": ["Persistent Organic Pollutants", "Persistent Organic Pesticides", "Persistent Organic Products", "Persistent Organic Pollutants"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of POPs is:",
+      "options": ["Pesticides and industrial chemicals", "Agriculture", "Deforestation", "Mining"],
+      "answer": 0
+    },
+    {
+      "question": "The term WEEE stands for:",
+      "options": ["Waste Electrical and Electronic Equipment", "Waste Electrical and Electronic Equipment", "Waste Electronic and Electrical Equipment", "Waste Electronic and Electrical Equipment"],
+      "answer": 0
+    },
+    {
+      "question": "The term E-waste refers to:",
+      "options": ["Electronic waste", "Electric waste", "Environmental waste", "Energy waste"],
+      "answer": 0
+    },
+    {
+      "question": "The major source of E-waste is:",
+      "options": ["Discarded electronics", "Industrial waste", "Agricultural waste", "Sewage"],
+      "answer": 0
+    },
+    {
+      "question": "The term RRR in waste management stands for:",
+      "options": ["Reduce, Reuse, Recycle", "Reduce, Recycle, Reuse", "Reuse, Reduce, Recycle", "Recycle, Reduce, Reuse"],
+      "answer": 0
+    },
+    {
+      "question": "The term CRM stands for:",
+      "options": ["Critical Raw Materials", "Critical Recycled Materials", "Critical Resource Materials", "Critical Raw Minerals"],
+      "answer": 0
+    },
+    {
+      "question": "The term LCA stands for:",
+      "options": ["Life Cycle Assessment", "Life Cycle Analysis", "Life Cycle Audit", "Life Cycle Approach"],
+      "answer": 0
+    },
+    {
+      "question": "The term LCIA stands for:",
+      "options": ["Life Cycle Impact Assessment", "Life Cycle Impact Analysis", "Life Cycle Inventory Assessment", "Life Cycle Inventory Analysis"],
+      "answer": 0
+    },
+    {
+      "question": "The term EPD stands for:",
+      "options": ["Environmental Product Declaration", "Environmental Product Data", "Environmental Product Design", "Environmental Product Document"],
+      "answer": 0
+    },
+    {
+      "question": "The term GPP stands for:",
+      "options": ["Green Public Procurement", "Green Private Procurement", "Green Product Procurement", "Green Process Procurement"],
+      "answer": 0
+    },
+    {
+      "question": "The term PEF stands for:",
+      "options": ["Product Environmental Footprint", "Product Environmental Factor", "Product Environmental Framework", "Product Environmental Formula"],
+      "answer": 0
+    },
+    {
+      "question": "The term OEF stands for:",
+      "options": ["Organizational Environmental Footprint", "Organizational Environmental Factor", "Organizational Environmental Framework", "Organizational Environmental Formula"],
+      "answer": 0
+    },
+    {
+      "question": "The term carbon footprint measures:",
+      "options": ["Greenhouse gas emissions", "Carbon emissions", "CO2 emissions", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The term water footprint measures:",
+      "options": ["Water consumption", "Water pollution", "Water scarcity", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The term ecological footprint measures:",
+      "options": ["Resource consumption", "Waste generation", "Environmental impact", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The term biodiversity refers to:",
+      "options": ["Variety of life on Earth", "Variety of species", "Genetic diversity", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The major threat to biodiversity is:",
+      "options": ["Habitat destruction", "Climate change", "Pollution", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The term REDD+ stands for:",
+      "options": ["Reducing Emissions from Deforestation and Forest Degradation", "Reducing Emissions from Deforestation and Degradation", "Reducing Emissions from Deforestation and Forest Depletion", "Reducing Emissions from Deforestation and Forest Destruction"],
+      "answer": 0
+    },
+    {
+      "question": "The term NBS stands for:",
+      "options": ["Nature-Based Solutions", "Natural Based Solutions", "Nature Based Systems", "Natural Based Systems"],
+      "answer": 0
+    },
+    {
+      "question": "The term NbS is related to:",
+      "options": ["Climate change adaptation", "Biodiversity conservation", "Sustainable development", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The term SDGs stands for:",
+      "options": ["Sustainable Development Goals", "Sustainable Development Guidelines", "Sustainable Development Growth", "Sustainable Development Governance"],
+      "answer": 0
+    },
+    {
+      "question": "The number of SDGs is:",
+      "options": ["17", "15", "20", "10"],
+      "answer": 0
+    },
+    {
+      "question": "The term SDG 6 is related to:",
+      "options": ["Clean water and sanitation", "Climate action", "Life below water", "Life on land"],
+      "answer": 0
+    },
+    {
+      "question": "The term SDG 7 is related to:",
+      "options": ["Affordable and clean energy", "Clean water and sanitation", "Climate action", "Life on land"],
+      "answer": 0
+    },
+    {
+      "question": "The term SDG 13 is related to:",
+      "options": ["Climate action", "Clean water and sanitation", "Affordable and clean energy", "Life on land"],
+      "answer": 0
+    },
+    {
+      "question": "The term SDG 14 is related to:",
+      "options": ["Life below water", "Climate action", "Life on land", "Clean water and sanitation"],
+      "answer": 0
+    },
+    {
+      "question": "The term SDG 15 is related to:",
+      "options": ["Life on land", "Life below water", "Climate action", "Clean water and sanitation"],
+      "answer": 0
+    },
+    {
+      "question": "The term CCS stands for:",
+      "options": ["Carbon Capture and Storage", "Carbon Capture and Sequestration", "Carbon Capture and Storage", "Carbon Capture and Sequestration"],
+      "answer": 0
+    },
+    {
+      "question": "The term CCUS stands for:",
+      "options": ["Carbon Capture, Utilization and Storage", "Carbon Capture, Utilization and Sequestration", "Carbon Capture, Usage and Storage", "Carbon Capture, Usage and Sequestration"],
+      "answer": 0
+    },
+    {
+      "question": "The term BECCS stands for:",
+      "options": ["Bioenergy with Carbon Capture and Storage", "Bioenergy with Carbon Capture and Sequestration", "Bioenergy with Carbon Capture and Storage", "Bioenergy with Carbon Capture and Sequestration"],
+      "answer": 0
+    },
+    {
+      "question": "The term DAC stands for:",
+      "options": ["Direct Air Capture", "Direct Air Capture", "Direct Air Collection", "Direct Air Collection"],
+      "answer": 0
+    },
+    {
+      "question": "The term NETs stands for:",
+      "options": ["Negative Emission Technologies", "Negative Emission Techniques", "Negative Emission Tools", "Negative Emission Treatments"],
+      "answer": 0
+    },
+    {
+      "question": "The term MRV stands for:",
+      "options": ["Monitoring, Reporting and Verification", "Monitoring, Review and Verification", "Measurement, Reporting and Verification", "Measurement, Review and Verification"],
+      "answer": 0
+    },
+    {
+      "question": "The term IPCC stands for:",
+      "options": ["Intergovernmental Panel on Climate Change", "International Panel on Climate Change", "Intergovernmental Panel on Climate Control", "International Panel on Climate Control"],
+      "answer": 0
+    },
+    {
+      "question": "The IPCC was established in:",
+      "options": ["1988", "1978", "1998", "1968"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNFCCC stands for:",
+      "options": ["United Nations Framework Convention on Climate Change", "United Nations Framework Convention on Climate Control", "United Nations Framework Conference on Climate Change", "United Nations Framework Conference on Climate Control"],
+      "answer": 0
+    },
+    {
+      "question": "The UNFCCC was adopted in:",
+      "options": ["1992", "1982", "2002", "1972"],
+      "answer": 0
+    },
+    {
+      "question": "The term COP26 was held in:",
+      "options": ["Glasgow", "Paris", "Kyoto", "Montreal"],
+      "answer": 0
+    },
+    {
+      "question": "The term COP26 was held in the year:",
+      "options": ["2021", "2020", "2022", "2019"],
+      "answer": 0
+    },
+    {
+      "question": "The term COP27 was held in:",
+      "options": ["Sharm El-Sheikh", "Glasgow", "Paris", "Kyoto"],
+      "answer": 0
+    },
+    {
+      "question": "The term COP27 was held in the year:",
+      "options": ["2022", "2021", "2023", "2020"],
+      "answer": 0
+    },
+    {
+      "question": "The term COP28 was held in:",
+      "options": ["Dubai", "Sharm El-Sheikh", "Glasgow", "Paris"],
+      "answer": 0
+    },
+    {
+      "question": "The term COP28 was held in the year:",
+      "options": ["2023", "2022", "2024", "2021"],
+      "answer": 0
+    },
+    {
+      "question": "The term GCA stands for:",
+      "options": ["Global Climate Action", "Global Climate Agreement", "Global Climate Alliance", "Global Climate Assessment"],
+      "answer": 0
+    },
+    {
+      "question": "The term LDC stands for:",
+      "options": ["Least Developed Countries", "Low Developed Countries", "Less Developed Countries", "Lower Developed Countries"],
+      "answer": 0
+    },
+    {
+      "question": "The term SIDS stands for:",
+      "options": ["Small Island Developing States", "Small Island Developing Systems", "Small Island Developing Societies", "Small Island Developing Structures"],
+      "answer": 0
+    },
+    {
+      "question": "The term GCF stands for:",
+      "options": ["Green Climate Fund", "Global Climate Fund", "Green Carbon Fund", "Global Carbon Fund"],
+      "answer": 0
+    },
+    {
+      "question": "The term GEF stands for:",
+      "options": ["Global Environment Facility", "Global Environmental Fund", "Global Environment Fund", "Global Environmental Facility"],
+      "answer": 0
+    },
+    {
+      "question": "The term CIF stands for:",
+      "options": ["Climate Investment Funds", "Climate Investment Facility", "Climate Infrastructure Funds", "Climate Infrastructure Facility"],
+      "answer": 0
+    },
+    {
+      "question": "The term AFD stands for:",
+      "options": ["Agence Française de Développement", "African Development Bank", "Asian Development Bank", "American Development Bank"],
+      "answer": 0
+    },
+    {
+      "question": "The term JICA stands for:",
+      "options": ["Japan International Cooperation Agency", "Japan International Cooperation Association", "Japan International Cooperation Authority", "Japan International Cooperation Action"],
+      "answer": 0
+    },
+    {
+      "question": "The term USAID stands for:",
+      "options": ["United States Agency for International Development", "United States Agency for International Development", "United States Association for International Development", "United States Authority for International Development"],
+      "answer": 0
+    },
+    {
+      "question": "The term EBRD stands for:",
+      "options": ["European Bank for Reconstruction and Development", "European Bank for Regional Development", "European Bank for Reconstruction and Development", "European Bank for Regional Development"],
+      "answer": 0
+    },
+    {
+      "question": "The term AIIB stands for:",
+      "options": ["Asian Infrastructure Investment Bank", "Asian Infrastructure Investment Bank", "Asian Infrastructure Investment Bank", "Asian Infrastructure Investment Bank"],
+      "answer": 0
+    },
+    {
+      "question": "The term NDB stands for:",
+      "options": ["New Development Bank", "New Development Bank", "National Development Bank", "National Development Bank"],
+      "answer": 0
+    },
+    {
+      "question": "The term ISA stands for:",
+      "options": ["International Solar Alliance", "International Solar Alliance", "International Solar Association", "International Solar Association"],
+      "answer": 0
+    },
+    {
+      "question": "The term IRENA stands for:",
+      "options": ["International Renewable Energy Agency", "International Renewable Energy Agency", "International Renewable Energy Association", "International Renewable Energy Association"],
+      "answer": 0
+    },
+    {
+      "question": "The term IEA stands for:",
+      "options": ["International Energy Agency", "International Energy Agency", "International Energy Association", "International Energy Association"],
+      "answer": 0
+    },
+    {
+      "question": "The term WMO stands for:",
+      "options": ["World Meteorological Organization", "World Meteorological Organization", "World Meteorological Organization", "World Meteorological Organization"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNEP stands for:",
+      "options": ["United Nations Environment Programme", "United Nations Environment Programme", "United Nations Environmental Programme", "United Nations Environmental Programme"],
+      "answer": 0
+    },
+    {
+      "question": "The term WHO stands for:",
+      "options": ["World Health Organization", "World Health Organization", "World Health Organization", "World Health Organization"],
+      "answer": 0
+    },
+    {
+      "question": "The term FAO stands for:",
+      "options": ["Food and Agriculture Organization", "Food and Agriculture Organization", "Food and Agriculture Organization", "Food and Agriculture Organization"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNIDO stands for:",
+      "options": ["United Nations Industrial Development Organization", "United Nations Industrial Development Organization", "United Nations Industrial Development Organization", "United Nations Industrial Development Organization"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNDP stands for:",
+      "options": ["United Nations Development Programme", "United Nations Development Programme", "United Nations Development Programme", "United Nations Development Programme"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNHCR stands for:",
+      "options": ["United Nations High Commissioner for Refugees", "United Nations High Commissioner for Refugees", "United Nations High Commission for Refugees", "United Nations High Commission for Refugees"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNOCHA stands for:",
+      "options": ["United Nations Office for the Coordination of Humanitarian Affairs", "United Nations Office for the Coordination of Humanitarian Affairs", "United Nations Office for the Coordination of Humanitarian Affairs", "United Nations Office for the Coordination of Humanitarian Affairs"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNHABITAT stands for:",
+      "options": ["United Nations Human Settlements Programme", "United Nations Human Settlements Programme", "United Nations Human Settlements Programme", "United Nations Human Settlements Programme"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNOPS stands for:",
+      "options": ["United Nations Office for Project Services", "United Nations Office for Project Services", "United Nations Office for Project Services", "United Nations Office for Project Services"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNFPA stands for:",
+      "options": ["United Nations Population Fund", "United Nations Population Fund", "United Nations Population Fund", "United Nations Population Fund"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNCTAD stands for:",
+      "options": ["United Nations Conference on Trade and Development", "United Nations Conference on Trade and Development", "United Nations Conference on Trade and Development", "United Nations Conference on Trade and Development"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNRWA stands for:",
+      "options": ["United Nations Relief and Works Agency", "United Nations Relief and Works Agency", "United Nations Relief and Works Agency", "United Nations Relief and Works Agency"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNWTO stands for:",
+      "options": ["United Nations World Tourism Organization", "United Nations World Tourism Organization", "United Nations World Tourism Organization", "United Nations World Tourism Organization"],
+      "answer": 0
+    },
+    {
+      "question": "The term UPU stands for:",
+      "options": ["Universal Postal Union", "Universal Postal Union", "Universal Postal Union", "Universal Postal Union"],
+      "answer": 0
+    },
+    {
+      "question": "The term ITU stands for:",
+      "options": ["International Telecommunication Union", "International Telecommunication Union", "International Telecommunication Union", "International Telecommunication Union"],
+      "answer": 0
+    },
+    {
+      "question": "The term WIPO stands for:",
+      "options": ["World Intellectual Property Organization", "World Intellectual Property Organization", "World Intellectual Property Organization", "World Intellectual Property Organization"],
+      "answer": 0
+    },
+    {
+      "question": "The term WTO stands for:",
+      "options": ["World Trade Organization", "World Trade Organization", "World Trade Organization", "World Trade Organization"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNODC stands for:",
+      "options": ["United Nations Office on Drugs and Crime", "United Nations Office on Drugs and Crime", "United Nations Office on Drugs and Crime", "United Nations Office on Drugs and Crime"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNODA stands for:",
+      "options": ["United Nations Office for Disarmament Affairs", "United Nations Office for Disarmament Affairs", "United Nations Office for Disarmament Affairs", "United Nations Office for Disarmament Affairs"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNOOSA stands for:",
+      "options": ["United Nations Office for Outer Space Affairs", "United Nations Office for Outer Space Affairs", "United Nations Office for Outer Space Affairs", "United Nations Office for Outer Space Affairs"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNOGBIS stands for:",
+      "options": ["United Nations Office in Guinea-Bissau", "United Nations Office in Guinea-Bissau", "United Nations Office in Guinea-Bissau", "United Nations Office in Guinea-Bissau"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNOWAS stands for:",
+      "options": ["United Nations Office for West Africa and the Sahel", "United Nations Office for West Africa and the Sahel", "United Nations Office for West Africa and the Sahel", "United Nations Office for West Africa and the Sahel"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNOCA stands for:",
+      "options": ["United Nations Office for Central Africa", "United Nations Office for Central Africa", "United Nations Office for Central Africa", "United Nations Office for Central Africa"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNMEER stands for:",
+      "options": ["United Nations Mission for Ebola Emergency Response", "United Nations Mission for Ebola Emergency Response", "United Nations Mission for Ebola Emergency Response", "United Nations Mission for Ebola Emergency Response"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNFICYP stands for:",
+      "options": ["United Nations Peacekeeping Force in Cyprus", "United Nations Peacekeeping Force in Cyprus", "United Nations Peacekeeping Force in Cyprus", "United Nations Peacekeeping Force in Cyprus"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNMISS stands for:",
+      "options": ["United Nations Mission in South Sudan", "United Nations Mission in South Sudan", "United Nations Mission in South Sudan", "United Nations Mission in South Sudan"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNMIL stands for:",
+      "options": ["United Nations Mission in Liberia", "United Nations Mission in Liberia", "United Nations Mission in Liberia", "United Nations Mission in Liberia"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNOCI stands for:",
+      "options": ["United Nations Operation in Côte d'Ivoire", "United Nations Operation in Côte d'Ivoire", "United Nations Operation in Côte d'Ivoire", "United Nations Operation in Côte d'Ivoire"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNAMA stands for:",
+      "options": ["United Nations Assistance Mission in Afghanistan", "United Nations Assistance Mission in Afghanistan", "United Nations Assistance Mission in Afghanistan", "United Nations Assistance Mission in Afghanistan"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNAMI stands for:",
+      "options": ["United Nations Assistance Mission for Iraq", "United Nations Assistance Mission for Iraq", "United Nations Assistance Mission for Iraq", "United Nations Assistance Mission for Iraq"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNAMSIL stands for:",
+      "options": ["United Nations Mission in Sierra Leone", "United Nations Mission in Sierra Leone", "United Nations Mission in Sierra Leone", "United Nations Mission in Sierra Leone"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNAVEM stands for:",
+      "options": ["United Nations Angola Verification Mission", "United Nations Angola Verification Mission", "United Nations Angola Verification Mission", "United Nations Angola Verification Mission"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNEF stands for:",
+      "options": ["United Nations Emergency Force", "United Nations Emergency Force", "United Nations Emergency Force", "United Nations Emergency Force"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNIIMOG stands for:",
+      "options": ["United Nations Iran-Iraq Military Observer Group", "United Nations Iran-Iraq Military Observer Group", "United Nations Iran-Iraq Military Observer Group", "United Nations Iran-Iraq Military Observer Group"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNIKOM stands for:",
+      "options": ["United Nations Iraq-Kuwait Observation Mission", "United Nations Iraq-Kuwait Observation Mission", "United Nations Iraq-Kuwait Observation Mission", "United Nations Iraq-Kuwait Observation Mission"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNMOGIP stands for:",
+      "options": ["United Nations Military Observer Group in India and Pakistan", "United Nations Military Observer Group in India and Pakistan", "United Nations Military Observer Group in India and Pakistan", "United Nations Military Observer Group in India and Pakistan"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNTSO stands for:",
+      "options": ["United Nations Truce Supervision Organization", "United Nations Truce Supervision Organization", "United Nations Truce Supervision Organization", "United Nations Truce Supervision Organization"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNYOM stands for:",
+      "options": ["United Nations Yemen Observation Mission", "United Nations Yemen Observation Mission", "United Nations Yemen Observation Mission", "United Nations Yemen Observation Mission"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNSMIL stands for:",
+      "options": ["United Nations Support Mission in Libya", "United Nations Support Mission in Libya", "United Nations Support Mission in Libya", "United Nations Support Mission in Libya"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNSOM stands for:",
+      "options": ["United Nations Assistance Mission in Somalia", "United Nations Assistance Mission in Somalia", "United Nations Assistance Mission in Somalia", "United Nations Assistance Mission in Somalia"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNSOS stands for:",
+      "options": ["United Nations Support Office in Somalia", "United Nations Support Office in Somalia", "United Nations Support Office in Somalia", "United Nations Support Office in Somalia"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNRCCA stands for:",
+      "options": ["United Nations Regional Centre for Preventive Diplomacy for Central Asia", "United Nations Regional Centre for Preventive Diplomacy for Central Asia", "United Nations Regional Centre for Preventive Diplomacy for Central Asia", "United Nations Regional Centre for Preventive Diplomacy for Central Asia"],
+      "answer": 0
+    },
+    {
+      "question": "The term UNV stands for:",
+      "options": ["United Nations Volunteers", "United Nations Volunteers", "United Nations Volunteers", "United Nations Volunteers"],
+      "answer": 0
+    }
+  ]
+}

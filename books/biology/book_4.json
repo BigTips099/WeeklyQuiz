@@ -1,0 +1,1754 @@
+{
+  "questions": [
+    {
+      "question": "The study of microorganisms is called:",
+      "options": [
+        "Microbiology",
+        "Bacteriology",
+        "Mycology",
+        "Virology"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which scientist is known as the father of microbiology?",
+      "options": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Antonie van Leeuwenhoek",
+        "Joseph Lister"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Bacteria are classified as which type of cells?",
+      "options": [
+        "Eukaryotes",
+        "Prokaryotes",
+        "Fungi",
+        "Viruses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of converting atmospheric nitrogen to ammonia is called:",
+      "options": [
+        "Nitrification",
+        "Denitrification",
+        "Nitrogen fixation",
+        "Ammonification"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Viruses contain which type of genetic material?",
+      "options": [
+        "DNA only",
+        "RNA only",
+        "Both DNA and RNA",
+        "Either DNA or RNA"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The causative agent of tuberculosis is:",
+      "options": [
+        "Mycobacterium tuberculosis",
+        "Escherichia coli",
+        "Streptococcus pneumoniae",
+        "Staphylococcus aureus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bacteria typically reproduce by:",
+      "options": [
+        "Binary fission",
+        "Budding",
+        "Spore formation",
+        "Fragmentation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which organism is used in bread making?",
+      "options": [
+        "Bacteria",
+        "Yeast",
+        "Mold",
+        "Algae"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Antibiotics are produced by:",
+      "options": [
+        "Viruses",
+        "Bacteria and fungi",
+        "Plants",
+        "Animals"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The shape of E. coli is:",
+      "options": [
+        "Spherical (cocci)",
+        "Rod-shaped (bacilli)",
+        "Spiral (spirilla)",
+        "Comma-shaped (vibrio)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which disease is caused by a virus?",
+      "options": [
+        "Cholera",
+        "Tuberculosis",
+        "AIDS",
+        "Typhoid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pasteurization is a process of:",
+      "options": [
+        "Complete sterilization",
+        "Partial sterilization",
+        "Disinfection",
+        "Sanitization"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The smallest known infectious agents are:",
+      "options": [
+        "Bacteria",
+        "Viruses",
+        "Fungi",
+        "Protozoa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fermentation is carried out by:",
+      "options": [
+        "Aerobic bacteria",
+        "Anaerobic bacteria",
+        "Viruses",
+        "Protozoa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Penicillin was discovered by:",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Robert Koch",
+        "Edward Jenner"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which organism is prokaryotic?",
+      "options": [
+        "Human cell",
+        "Bacteria",
+        "Fungi",
+        "Plant cell"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "HIV primarily affects which system of the body?",
+      "options": [
+        "Respiratory system",
+        "Immune system",
+        "Digestive system",
+        "Nervous system"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Gram staining is used to classify:",
+      "options": [
+        "Viruses",
+        "Bacteria",
+        "Fungi",
+        "Protozoa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Typhoid fever is caused by:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungus",
+        "Parasite"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of destroying all microorganisms is called:",
+      "options": [
+        "Sterilization",
+        "Disinfection",
+        "Antisepsis",
+        "Sanitization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which bacterial structure is most resistant to sterilization?",
+      "options": [
+        "Vegetative cells",
+        "Endospores",
+        "Capsules",
+        "Pili"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Malaria is transmitted by which type of organism?",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Parasite",
+        "Fungus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The organism that causes COVID-19 is a:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungus",
+        "Protozoa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cell wall of bacteria is composed of:",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Lipids"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Dengue fever is caused by a:",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Fungus",
+        "Parasite"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bacteria that grow best at moderate temperatures are called:",
+      "options": [
+        "Psychrophiles",
+        "Mesophiles",
+        "Thermophiles",
+        "Hyperthermophiles"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who first observed microorganisms under a microscope?",
+      "options": [
+        "Louis Pasteur",
+        "Antonie van Leeuwenhoek",
+        "Robert Koch",
+        "Alexander Fleming"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bacteria that require oxygen for growth are called:",
+      "options": [
+        "Obligate aerobes",
+        "Obligate anaerobes",
+        "Facultative anaerobes",
+        "Microaerophiles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The causative agent of malaria is:",
+      "options": [
+        "Plasmodium",
+        "Virus",
+        "Bacteria",
+        "Fungus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The use of microorganisms to clean pollution is called:",
+      "options": [
+        "Bioremediation",
+        "Bioaugmentation",
+        "Phytoremediation",
+        "Biodegradation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of fungi is called:",
+      "options": [
+        "Bacteriology",
+        "Mycology",
+        "Virology",
+        "Parasitology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which disease is caused by a fungus?",
+      "options": [
+        "Ringworm",
+        "Cholera",
+        "Tuberculosis",
+        "Polio"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of viruses is called:",
+      "options": [
+        "Bacteriology",
+        "Mycology",
+        "Virology",
+        "Parasitology"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the size range of most bacteria?",
+      "options": [
+        "0.1-0.5 micrometers",
+        "0.5-5 micrometers",
+        "10-50 micrometers",
+        "50-100 micrometers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bacteria that grow in the presence or absence of oxygen are called:",
+      "options": [
+        "Obligate aerobes",
+        "Obligate anaerobes",
+        "Facultative anaerobes",
+        "Microaerophiles"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which structure is NOT found in all bacteria?",
+      "options": [
+        "Cell membrane",
+        "Ribosomes",
+        "Nucleus",
+        "Cytoplasm"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The bacterial DNA is located in:",
+      "options": [
+        "Nucleus",
+        "Nucleoid region",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which antibiotic was the first to be discovered?",
+      "options": [
+        "Penicillin",
+        "Streptomycin",
+        "Tetracycline",
+        "Erythromycin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who developed the first vaccine?",
+      "options": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Edward Jenner",
+        "Alexander Fleming"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The process of bacterial conjugation involves:",
+      "options": [
+        "DNA transfer between bacteria",
+        "Binary fission",
+        "Spore formation",
+        "Budding"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bacterial endospores are resistant to:",
+      "options": [
+        "Heat",
+        "Radiation",
+        "Chemicals",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The causative agent of cholera is:",
+      "options": [
+        "Vibrio cholerae",
+        "E. coli",
+        "Salmonella typhi",
+        "Shigella dysenteriae"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which organism causes food poisoning?",
+      "options": [
+        "Salmonella",
+        "E. coli",
+        "Staphylococcus",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The primary function of a bacterial capsule is:",
+      "options": [
+        "Protection",
+        "Reproduction",
+        "Movement",
+        "Photosynthesis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bacterial flagella are used for:",
+      "options": [
+        "Reproduction",
+        "Movement",
+        "Protection",
+        "Photosynthesis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of transformation in bacteria involves:",
+      "options": [
+        "DNA uptake from environment",
+        "DNA transfer by virus",
+        "Binary fission",
+        "Conjugation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The process of transduction in bacteria involves:",
+      "options": [
+        "DNA uptake from environment",
+        "DNA transfer by virus",
+        "Binary fission",
+        "Conjugation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of bacteria have a thick peptidoglycan layer?",
+      "options": [
+        "Gram-positive",
+        "Gram-negative",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of bacteria have an outer membrane?",
+      "options": [
+        "Gram-positive",
+        "Gram-negative",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The causative agent of tetanus is:",
+      "options": [
+        "Clostridium tetani",
+        "E. coli",
+        "Staphylococcus",
+        "Streptococcus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which disease is caused by Clostridium botulinum?",
+      "options": [
+        "Botulism",
+        "Tetanus",
+        "Gas gangrene",
+        "Diphtheria"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The causative agent of diphtheria is:",
+      "options": [
+        "Corynebacterium diphtheriae",
+        "Mycobacterium tuberculosis",
+        "Streptococcus pneumoniae",
+        "Neisseria meningitidis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bacterial growth curve has how many phases?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The lag phase in bacterial growth is characterized by:",
+      "options": [
+        "Rapid division",
+        "No division",
+        "Slow division",
+        "Death"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The log phase in bacterial growth is characterized by:",
+      "options": [
+        "Rapid exponential division",
+        "No division",
+        "Slow division",
+        "Death"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The stationary phase in bacterial growth is characterized by:",
+      "options": [
+        "Balanced growth and death",
+        "Rapid division",
+        "No division",
+        "Complete death"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which enzyme breaks down bacterial cell walls?",
+      "options": [
+        "Lysozyme",
+        "Lipase",
+        "Amylase",
+        "Protease"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the optimal pH for most pathogenic bacteria?",
+      "options": [
+        "pH 4",
+        "pH 7",
+        "pH 9",
+        "pH 11"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Obligate intracellular bacteria include:",
+      "options": [
+        "Rickettsia",
+        "E. coli",
+        "Staphylococcus",
+        "Streptococcus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chlamydia is an example of:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungus",
+        "Parasite"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rickettsia is transmitted by:",
+      "options": [
+        "Mosquitoes",
+        "Ticks",
+        "Fleas",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The causative agent of typhus is:",
+      "options": [
+        "Rickettsia",
+        "Virus",
+        "Fungus",
+        "Protozoa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mycoplasma is unique among bacteria because it lacks:",
+      "options": [
+        "Cell wall",
+        "Cell membrane",
+        "Ribosomes",
+        "DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mycoplasma is the smallest known:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungus",
+        "Protozoa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The causative agent of walking pneumonia is:",
+      "options": [
+        "Mycoplasma pneumoniae",
+        "E. coli",
+        "Staphylococcus",
+        "Streptococcus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the incubation period of COVID-19?",
+      "options": [
+        "1-3 days",
+        "5-14 days",
+        "20-30 days",
+        "1-3 months"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Common symptoms of COVID-19 include:",
+      "options": [
+        "Fever",
+        "Cough",
+        "Shortness of breath",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "COVID-19 is transmitted mainly through:",
+      "options": [
+        "Airborne droplets",
+        "Food",
+        "Water",
+        "Blood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The structure of a virus consists of:",
+      "options": [
+        "Nucleic acid and protein coat",
+        "Cell wall and membrane",
+        "Nucleus and cytoplasm",
+        "Ribosomes and DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Viral replication occurs inside:",
+      "options": [
+        "Host cells",
+        "Bacteria",
+        "Fungi",
+        "Protozoa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which virus causes influenza?",
+      "options": [
+        "HIV",
+        "Influenza virus",
+        "HPV",
+        "Herpes virus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "HPV is associated with which cancer?",
+      "options": [
+        "Lung cancer",
+        "Cervical cancer",
+        "Breast cancer",
+        "Prostate cancer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Ebola virus causes:",
+      "options": [
+        "Hemorrhagic fever",
+        "Respiratory infection",
+        "Skin infection",
+        "Food poisoning"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a prion?",
+      "options": [
+        "Infectious protein",
+        "Infectious nucleic acid",
+        "Infectious lipid",
+        "Infectious carbohydrate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mad cow disease is caused by:",
+      "options": [
+        "Prions",
+        "Viruses",
+        "Bacteria",
+        "Fungi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of protozoa is called:",
+      "options": [
+        "Bacteriology",
+        "Virology",
+        "Protozoology",
+        "Mycology"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Amoebiasis is caused by:",
+      "options": [
+        "Entamoeba histolytica",
+        "Plasmodium",
+        "Trypanosoma",
+        "Leishmania"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "African sleeping sickness is caused by:",
+      "options": [
+        "Trypanosoma brucei",
+        "Plasmodium falciparum",
+        "Leishmania donovani",
+        "Toxoplasma gondii"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Leishmaniasis is transmitted by:",
+      "options": [
+        "Mosquitoes",
+        "Sandflies",
+        "Ticks",
+        "Fleas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Toxoplasmosis is caused by which parasite?",
+      "options": [
+        "Toxoplasma gondii",
+        "Plasmodium",
+        "Trypanosoma",
+        "Leishmania"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which parasite causes sleeping sickness?",
+      "options": [
+        "Trypanosoma",
+        "Plasmodium",
+        "Toxoplasma",
+        "Leishmania"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of parasites is called:",
+      "options": [
+        "Bacteriology",
+        "Virology",
+        "Parasitology",
+        "Mycology"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Bacteria that cause disease are called:",
+      "options": [
+        "Pathogenic",
+        "Non-pathogenic",
+        "Opportunistic",
+        "Commensal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Normal flora bacteria are:",
+      "options": [
+        "Harmful",
+        "Beneficial",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Antibiotics target which bacterial structures?",
+      "options": [
+        "Cell wall",
+        "Ribosomes",
+        "DNA",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Antibiotic resistance can occur through:",
+      "options": [
+        "Mutation",
+        "Gene transfer",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "MRSA stands for:",
+      "options": [
+        "Methicillin-resistant Staphylococcus aureus",
+        "Multiple-resistant Staphylococcus aureus",
+        "Methicillin-resistant Streptococcus aureus",
+        "Multiple-resistant Streptococcus aureus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vancomycin is used to treat:",
+      "options": [
+        "MRSA",
+        "VRSA",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first line of defense in the immune system is:",
+      "options": [
+        "Skin and mucous membranes",
+        "Antibodies",
+        "T-cells",
+        "B-cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Phagocytosis is performed by:",
+      "options": [
+        "Macrophages",
+        "Neutrophils",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Antibodies are produced by:",
+      "options": [
+        "T-cells",
+        "B-cells",
+        "Macrophages",
+        "Neutrophils"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Vaccination works by stimulating the production of:",
+      "options": [
+        "Antibodies",
+        "Antigens",
+        "Toxins",
+        "Enzymes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which disease has been eradicated?",
+      "options": [
+        "Polio",
+        "Smallpox",
+        "Measles",
+        "Cholera"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The smallpox vaccine was developed by:",
+      "options": [
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Alexander Fleming"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a bacteriophage?",
+      "options": [
+        "A virus that infects bacteria",
+        "A bacteria that infects viruses",
+        "A fungus that infects bacteria",
+        "A parasite that infects bacteria"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Phage therapy is used to treat:",
+      "options": [
+        "Bacterial infections",
+        "Viral infections",
+        "Fungal infections",
+        "Parasitic infections"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Spore formation in bacteria is a mechanism for:",
+      "options": [
+        "Survival",
+        "Reproduction",
+        "Growth",
+        "Nutrition"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Binary fission results in:",
+      "options": [
+        "Two identical daughter cells",
+        "Two different daughter cells",
+        "Four identical daughter cells",
+        "Four different daughter cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Nitrogen-fixing bacteria are found in:",
+      "options": [
+        "Root nodules of legumes",
+        "Soil only",
+        "Water only",
+        "Air"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rhizobium is a:",
+      "options": [
+        "Nitrogen-fixing bacteria",
+        "Pathogenic bacteria",
+        "Virus",
+        "Fungus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which bacteria is used in yogurt production?",
+      "options": [
+        "Lactobacillus",
+        "E. coli",
+        "Salmonella",
+        "Streptococcus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The process of pasteurization was developed by:",
+      "options": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Alexander Fleming",
+        "Edward Jenner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bacterial endotoxins are found in:",
+      "options": [
+        "Gram-negative bacteria",
+        "Gram-positive bacteria",
+        "Viruses",
+        "Fungi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bacterial exotoxins are produced by:",
+      "options": [
+        "Gram-positive bacteria",
+        "Gram-negative bacteria",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tetanus toxin is an example of:",
+      "options": [
+        "Exotoxin",
+        "Endotoxin",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lipopolysaccharide (LPS) is found in:",
+      "options": [
+        "Gram-negative bacteria",
+        "Gram-positive bacteria",
+        "Viruses",
+        "Fungi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Teichoic acid is found in:",
+      "options": [
+        "Gram-positive bacteria",
+        "Gram-negative bacteria",
+        "Viruses",
+        "Fungi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bacterial ribosomes are composed of:",
+      "options": [
+        "50S and 30S subunits",
+        "60S and 40S subunits",
+        "70S only",
+        "80S only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Eukaryotic ribosomes are composed of:",
+      "options": [
+        "50S and 30S subunits",
+        "60S and 40S subunits",
+        "70S only",
+        "80S only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Antibiotics targeting bacterial ribosomes are effective because:",
+      "options": [
+        "Bacterial ribosomes are different from eukaryotic ribosomes",
+        "Bacterial ribosomes are the same as eukaryotic ribosomes",
+        "Bacteria don't have ribosomes",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is NOT a bacterial structure?",
+      "options": [
+        "Nucleus",
+        "Nucleoid",
+        "Plasmid",
+        "Ribosome"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Plasmids are:",
+      "options": [
+        "Small circular DNA molecules",
+        "Linear DNA molecules",
+        "RNA molecules",
+        "Protein molecules"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Plasmids often carry genes for:",
+      "options": [
+        "Antibiotic resistance",
+        "Toxin production",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The causative agent of whooping cough is:",
+      "options": [
+        "Bordetella pertussis",
+        "E. coli",
+        "Streptococcus",
+        "Staphylococcus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Strep throat is caused by:",
+      "options": [
+        "Streptococcus pyogenes",
+        "Staphylococcus aureus",
+        "E. coli",
+        "Salmonella"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The causative agent of leprosy is:",
+      "options": [
+        "Mycobacterium leprae",
+        "Mycobacterium tuberculosis",
+        "E. coli",
+        "Salmonella"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which disease is caused by Salmonella typhi?",
+      "options": [
+        "Typhoid fever",
+        "Cholera",
+        "Tuberculosis",
+        "Dysentery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The causative agent of dysentery is:",
+      "options": [
+        "Shigella",
+        "E. coli",
+        "Salmonella",
+        "Vibrio"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bubonic plague is caused by:",
+      "options": [
+        "Yersinia pestis",
+        "E. coli",
+        "Salmonella",
+        "Vibrio"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The plague is transmitted by:",
+      "options": [
+        "Fleas",
+        "Mosquitoes",
+        "Ticks",
+        "Lice"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lyme disease is transmitted by:",
+      "options": [
+        "Ticks",
+        "Mosquitoes",
+        "Fleas",
+        "Lice"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The causative agent of Lyme disease is:",
+      "options": [
+        "Borrelia burgdorferi",
+        "E. coli",
+        "Salmonella",
+        "Vibrio"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tuberculosis primarily affects the:",
+      "options": [
+        "Lungs",
+        "Kidneys",
+        "Liver",
+        "Heart"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Polio is caused by a:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungus",
+        "Parasite"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The polio vaccine was developed by:",
+      "options": [
+        "Jonas Salk",
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Robert Koch"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Measles is caused by a:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungus",
+        "Parasite"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mumps is caused by a:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungus",
+        "Parasite"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rubella is caused by a:",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungus",
+        "Parasite"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chickenpox is caused by:",
+      "options": [
+        "Varicella-zoster virus",
+        "Bacteria",
+        "Fungus",
+        "Parasite"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Shingles is caused by the same virus as:",
+      "options": [
+        "Chickenpox",
+        "Measles",
+        "Mumps",
+        "Rubella"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Herpes simplex virus causes:",
+      "options": [
+        "Cold sores",
+        "Genital herpes",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The causative agent of HPV is:",
+      "options": [
+        "Human papillomavirus",
+        "Herpes virus",
+        "HIV",
+        "Influenza virus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hepatitis A is transmitted through:",
+      "options": [
+        "Fecal-oral route",
+        "Blood",
+        "Sexual contact",
+        "Air"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hepatitis B is transmitted through:",
+      "options": [
+        "Blood",
+        "Sexual contact",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hepatitis C is primarily transmitted through:",
+      "options": [
+        "Blood",
+        "Food",
+        "Water",
+        "Air"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "HIV is transmitted through:",
+      "options": [
+        "Blood",
+        "Sexual contact",
+        "Mother to child",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The antigen test for HIV detects:",
+      "options": [
+        "HIV antigens",
+        "HIV antibodies",
+        "HIV RNA",
+        "HIV DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Antiretroviral therapy is used to treat:",
+      "options": [
+        "HIV",
+        "Hepatitis B",
+        "Hepatitis C",
+        "Influenza"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ebola virus disease has a mortality rate of approximately:",
+      "options": [
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Marburg virus is similar to:",
+      "options": [
+        "Ebola virus",
+        "HIV",
+        "Influenza",
+        "Hepatitis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Yellow fever is transmitted by:",
+      "options": [
+        "Mosquitoes",
+        "Ticks",
+        "Fleas",
+        "Lice"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The yellow fever vaccine is:",
+      "options": [
+        "Highly effective",
+        "Moderately effective",
+        "Ineffective",
+        "Not available"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Zika virus is transmitted by:",
+      "options": [
+        "Mosquitoes",
+        "Ticks",
+        "Fleas",
+        "Lice"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Zika virus can cause:",
+      "options": [
+        "Microcephaly",
+        "Encephalitis",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The malaria parasite is transmitted by:",
+      "options": [
+        "Anopheles mosquitoes",
+        "Aedes mosquitoes",
+        "Culex mosquitoes",
+        "Ticks"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The malaria parasite infects:",
+      "options": [
+        "Liver cells and red blood cells",
+        "Only liver cells",
+        "Only red blood cells",
+        "White blood cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Artemisinin is used to treat:",
+      "options": [
+        "Malaria",
+        "Tuberculosis",
+        "HIV",
+        "Hepatitis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dengue fever is transmitted by:",
+      "options": [
+        "Aedes mosquitoes",
+        "Anopheles mosquitoes",
+        "Culex mosquitoes",
+        "Ticks"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dengue hemorrhagic fever is characterized by:",
+      "options": [
+        "Bleeding",
+        "Fever",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Chikungunya virus is transmitted by:",
+      "options": [
+        "Aedes mosquitoes",
+        "Anopheles mosquitoes",
+        "Culex mosquitoes",
+        "Ticks"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chikungunya causes severe:",
+      "options": [
+        "Joint pain",
+        "Headache",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "West Nile virus is transmitted by:",
+      "options": [
+        "Culex mosquitoes",
+        "Aedes mosquitoes",
+        "Anopheles mosquitoes",
+        "Ticks"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "West Nile virus can cause:",
+      "options": [
+        "Encephalitis",
+        "Fever",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first antibiotic was discovered in:",
+      "options": [
+        "1928",
+        "1938",
+        "1948",
+        "1958"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Antibiotics are used to treat:",
+      "options": [
+        "Bacterial infections",
+        "Viral infections",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Antiviral drugs are used to treat:",
+      "options": [
+        "Viral infections",
+        "Bacterial infections",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Antifungal drugs are used to treat:",
+      "options": [
+        "Fungal infections",
+        "Bacterial infections",
+        "Viral infections",
+        "Parasitic infections"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Antiparasitic drugs are used to treat:",
+      "options": [
+        "Parasitic infections",
+        "Bacterial infections",
+        "Viral infections",
+        "Fungal infections"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The minimum inhibitory concentration (MIC) is:",
+      "options": [
+        "Lowest antibiotic concentration that inhibits growth",
+        "Highest antibiotic concentration that inhibits growth",
+        "Concentration that kills all bacteria",
+        "Concentration that has no effect"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The minimum bactericidal concentration (MBC) is:",
+      "options": [
+        "Concentration that kills 99.9% of bacteria",
+        "Concentration that inhibits growth",
+        "Lowest concentration that inhibits growth",
+        "Concentration with no effect"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Selective media allows growth of:",
+      "options": [
+        "Specific types of bacteria",
+        "All types of bacteria",
+        "No bacteria",
+        "Only fungi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Differential media differentiates bacteria based on:",
+      "options": [
+        "Biochemical characteristics",
+        "Color",
+        "Size",
+        "Shape"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "MacConkey agar is both:",
+      "options": [
+        "Selective and differential",
+        "Only selective",
+        "Only differential",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Blood agar is an example of:",
+      "options": [
+        "Differential media",
+        "Selective media",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The most common cause of pneumonia is:",
+      "options": [
+        "Streptococcus pneumoniae",
+        "Mycobacterium tuberculosis",
+        "E. coli",
+        "Staphylococcus aureus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Meningitis is caused by:",
+      "options": [
+        "Neisseria meningitidis",
+        "Streptococcus pneumoniae",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Urinary tract infections are commonly caused by:",
+      "options": [
+        "E. coli",
+        "Staphylococcus",
+        "Streptococcus",
+        "Salmonella"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sepsis is a life-threatening condition caused by:",
+      "options": [
+        "Systemic infection",
+        "Local infection",
+        "Viral infection",
+        "Fungal infection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The immune system's response to infection includes:",
+      "options": [
+        "Inflammation",
+        "Fever",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Personal protective equipment (PPE) includes:",
+      "options": [
+        "Masks",
+        "Gloves",
+        "Gowns",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hand hygiene is the most important measure for:",
+      "options": [
+        "Preventing infection spread",
+        "Treating infections",
+        "Curing diseases",
+        "Increasing immunity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The chain of infection includes:",
+      "options": [
+        "Agent, host, environment",
+        "Agent only",
+        "Host only",
+        "Environment only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Breaking the chain of infection prevents:",
+      "options": [
+        "Disease transmission",
+        "Infection",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quarantine is used for:",
+      "options": [
+        "Isolating exposed individuals",
+        "Isolating infected individuals",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Isolation is used for:",
+      "options": [
+        "Isolating infected individuals",
+        "Isolating exposed individuals",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    }
+  ]
+}

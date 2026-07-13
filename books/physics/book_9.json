@@ -1,0 +1,961 @@
+{
+  "category": "Relativity",
+  "total_questions": 191,
+  "questions": [
+    {
+      "question": "The theory of special relativity was proposed by:",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Max Planck"],
+      "answer": 0
+    },
+    {
+      "question": "The year special relativity was published is:",
+      "options": ["1905", "1915", "1900", "1910"],
+      "answer": 0
+    },
+    {
+      "question": "The theory of general relativity was published in:",
+      "options": ["1915", "1905", "1920", "1910"],
+      "answer": 0
+    },
+    {
+      "question": "The first postulate of special relativity states:",
+      "options": ["The laws of physics are the same in all inertial frames", "The speed of light is constant in all frames", "Energy and mass are equivalent", "Gravity bends spacetime"],
+      "answer": 0
+    },
+    {
+      "question": "The second postulate of special relativity states:",
+      "options": ["The speed of light is constant in all inertial frames", "The laws of physics are the same in all inertial frames", "Energy and mass are equivalent", "Gravity bends spacetime"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of light in vacuum is:",
+      "options": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10¹⁰ m/s", "3 × 10⁴ m/s"],
+      "answer": 0
+    },
+    {
+      "question": "The Lorentz factor γ is given by:",
+      "options": ["γ = 1/√(1 - v²/c²)", "γ = √(1 - v²/c²)", "γ = 1/(1 - v²/c²)", "γ = 1 - v²/c²"],
+      "answer": 0
+    },
+    {
+      "question": "The Lorentz factor for v = 0 is:",
+      "options": ["1", "0", "∞", "2"],
+      "answer": 0
+    },
+    {
+      "question": "As velocity approaches the speed of light, the Lorentz factor:",
+      "options": ["Approaches infinity", "Approaches zero", "Approaches one", "Remains constant"],
+      "answer": 0
+    },
+    {
+      "question": "Time dilation is given by:",
+      "options": ["Δt = γΔt₀", "Δt = Δt₀/γ", "Δt = γ²Δt₀", "Δt = Δt₀/γ²"],
+      "answer": 0
+    },
+    {
+      "question": "Length contraction is given by:",
+      "options": ["L = L₀/γ", "L = γL₀", "L = L₀γ²", "L = L₀/γ²"],
+      "answer": 0
+    },
+    {
+      "question": "The relativistic mass is given by:",
+      "options": ["m = γm₀", "m = m₀/γ", "m = γ²m₀", "m = m₀/γ²"],
+      "answer": 0
+    },
+    {
+      "question": "The relativistic momentum is:",
+      "options": ["p = γmv", "p = mv", "p = γ²mv", "p = mv/γ"],
+      "answer": 0
+    },
+    {
+      "question": "The relativistic kinetic energy is:",
+      "options": ["K = (γ - 1)mc²", "K = γmc²", "K = (γ + 1)mc²", "K = mc²/γ"],
+      "answer": 0
+    },
+    {
+      "question": "The famous mass-energy equivalence is:",
+      "options": ["E = mc²", "E = mc", "E = mc²/2", "E = 2mc²"],
+      "answer": 0
+    },
+    {
+      "question": "The rest energy of a particle is:",
+      "options": ["E₀ = m₀c²", "E₀ = m₀c", "E₀ = m₀c²/2", "E₀ = 2m₀c²"],
+      "answer": 0
+    },
+    {
+      "question": "The total energy of a particle is:",
+      "options": ["E = γmc²", "E = mc²", "E = γ²mc²", "E = mc²/γ"],
+      "answer": 0
+    },
+    {
+      "question": "The relativistic energy-momentum relation is:",
+      "options": ["E² = (pc)² + (mc²)²", "E² = (pc)² - (mc²)²", "E = pc + mc²", "E = pc - mc²"],
+      "answer": 0
+    },
+    {
+      "question": "For a massless particle like a photon:",
+      "options": ["E = pc", "E = mc²", "E = 0", "E = pc/2"],
+      "answer": 0
+    },
+    {
+      "question": "The velocity addition formula in relativity is:",
+      "options": ["v = (u + v')/(1 + uv'/c²)", "v = u + v'", "v = (u + v')/(1 - uv'/c²)", "v = (u - v')/(1 + uv'/c²)"],
+      "answer": 0
+    },
+    {
+      "question": "The Lorentz transformations are:",
+      "options": ["x' = γ(x - vt), t' = γ(t - vx/c²)", "x' = γ(x + vt), t' = γ(t + vx/c²)", "x' = γ(x - vt), t' = γ(t + vx/c²)", "x' = γ(x + vt), t' = γ(t - vx/c²)"],
+      "answer": 0
+    },
+    {
+      "question": "The inverse Lorentz transformations are:",
+      "options": ["x = γ(x' + vt'), t = γ(t' + vx'/c²)", "x = γ(x' - vt'), t = γ(t' - vx'/c²)", "x = γ(x' + vt'), t = γ(t' - vx'/c²)", "x = γ(x' - vt'), t = γ(t' + vx'/c²)"],
+      "answer": 0
+    },
+    {
+      "question": "The spacetime interval is invariant and is given by:",
+      "options": ["ds² = c²dt² - dx² - dy² - dz²", "ds² = c²dt² + dx² + dy² + dz²", "ds² = -c²dt² + dx² + dy² + dz²", "ds² = c²dt² - dx² - dy² - dz²"],
+      "answer": 0
+    },
+    {
+      "question": "The proper time is:",
+      "options": ["The time measured in the rest frame of the clock", "The time measured in a moving frame", "The time measured by an observer", "The coordinate time"],
+      "answer": 0
+    },
+    {
+      "question": "The proper length is:",
+      "options": ["The length measured in the rest frame of the object", "The length measured in a moving frame", "The length measured by an observer", "The coordinate length"],
+      "answer": 0
+    },
+    {
+      "question": "The twin paradox involves:",
+      "options": ["Time dilation for twins on different trajectories", "Length contraction", "Mass increase", "Energy conservation"],
+      "answer": 0
+    },
+    {
+      "question": "The twin paradox is resolved by:",
+      "options": ["The traveling twin accelerating", "The traveling twin moving at constant velocity", "The Earth twin accelerating", "The Earth twin moving at constant velocity"],
+      "answer": 0
+    },
+    {
+      "question": "The Doppler effect for light is given by:",
+      "options": ["f' = f√((1+β)/(1-β))", "f' = f√((1-β)/(1+β))", "f' = f(1+β)", "f' = f(1-β)"],
+      "answer": 0
+    },
+    {
+      "question": "The transverse Doppler effect occurs when:",
+      "options": ["Motion is perpendicular to the line of sight", "Motion is parallel to the line of sight", "Motion is at 45° to the line of sight", "Motion is zero"],
+      "answer": 0
+    },
+    {
+      "question": "The relativistic aberration of light is:",
+      "options": ["The change in direction of light due to relative motion", "The change in frequency of light due to relative motion", "The change in wavelength of light due to relative motion", "The change in speed of light due to relative motion"],
+      "answer": 0
+    },
+    {
+      "question": "The Minkowski spacetime has:",
+      "options": ["One time dimension and three space dimensions", "Three time dimensions and one space dimension", "Four space dimensions", "Four time dimensions"],
+      "answer": 0
+    },
+    {
+      "question": "A light cone in spacetime:",
+      "options": ["Represents the paths of light rays", "Represents the paths of massive particles", "Represents the paths of tachyons", "Represents the paths of gravitons"],
+      "answer": 0
+    },
+    {
+      "question": "Events inside the light cone are:",
+      "options": ["Timelike separated", "Spacelike separated", "Lightlike separated", "Unrelated"],
+      "answer": 0
+    },
+    {
+      "question": "Events outside the light cone are:",
+      "options": ["Spacelike separated", "Timelike separated", "Lightlike separated", "Unrelated"],
+      "answer": 0
+    },
+    {
+      "question": "Events on the light cone are:",
+      "options": ["Lightlike separated", "Timelike separated", "Spacelike separated", "Unrelated"],
+      "answer": 0
+    },
+    {
+      "question": "Causality in special relativity:",
+      "options": ["Requires timelike separation for cause and effect", "Requires spacelike separation for cause and effect", "Requires lightlike separation for cause and effect", "Has no restrictions"],
+      "answer": 0
+    },
+    {
+      "question": "The principle of relativity states:",
+      "options": ["The laws of physics are the same in all inertial frames", "The speed of light is constant", "Energy and mass are equivalent", "Gravity bends spacetime"],
+      "answer": 0
+    },
+    {
+      "question": "An inertial frame is:",
+      "options": ["A frame moving at constant velocity", "A frame accelerating", "A frame rotating", "A frame at rest"],
+      "answer": 0
+    },
+    {
+      "question": "A non-inertial frame is:",
+      "options": ["A frame accelerating", "A frame moving at constant velocity", "A frame at rest", "A frame in free fall"],
+      "answer": 0
+    },
+    {
+      "question": "The equivalence principle states:",
+      "options": ["Gravitational and inertial mass are equivalent", "Energy and mass are equivalent", "Mass and momentum are equivalent", "Energy and momentum are equivalent"],
+      "answer": 0
+    },
+    {
+      "question": "The weak equivalence principle:",
+      "options": ["All objects fall with the same acceleration in a gravitational field", "Gravity and acceleration are equivalent", "Gravity bends light", "Gravity is a curvature of spacetime"],
+      "answer": 0
+    },
+    {
+      "question": "The Einstein equivalence principle:",
+      "options": ["Gravity and acceleration are locally equivalent", "All objects fall with the same acceleration", "Gravity bends light", "Energy and mass are equivalent"],
+      "answer": 0
+    },
+    {
+      "question": "The strong equivalence principle:",
+      "options": ["All laws of physics are the same in freely falling frames", "Gravity and acceleration are equivalent", "All objects fall with the same acceleration", "Energy and mass are equivalent"],
+      "answer": 0
+    },
+    {
+      "question": "General relativity describes gravity as:",
+      "options": ["A curvature of spacetime", "A force", "A field", "A particle exchange"],
+      "answer": 0
+    },
+    {
+      "question": "The Einstein field equations are:",
+      "options": ["G_μν = 8πG T_μν/c⁴", "G_μν = 0", "R_μν = 0", "T_μν = 0"],
+      "answer": 0
+    },
+    {
+      "question": "The Schwarzschild solution describes:",
+      "options": ["Spherically symmetric spacetime", "Flat spacetime", "Rotating spacetime", "Charged spacetime"],
+      "answer": 0
+    },
+    {
+      "question": "The Schwarzschild radius is:",
+      "options": ["r_s = 2GM/c²", "r_s = GM/c²", "r_s = GM/c", "r_s = 2GM/c"],
+      "answer": 0
+    },
+    {
+      "question": "The event horizon of a black hole:",
+      "options": ["Is at the Schwarzschild radius", "Is at the center of the black hole", "Is at infinity", "Does not exist"],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational time dilation is:",
+      "options": ["Time runs slower in stronger gravitational fields", "Time runs faster in stronger gravitational fields", "Time is not affected by gravity", "Time stops in gravitational fields"],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational redshift is:",
+      "options": ["Light shifts to longer wavelengths in gravitational fields", "Light shifts to shorter wavelengths in gravitational fields", "Light is not affected by gravity", "Light stops in gravitational fields"],
+      "answer": 0
+    },
+    {
+      "question": "The Pound-Rebka experiment confirmed:",
+      "options": ["Gravitational redshift", "Time dilation", "Length contraction", "Mass increase"],
+      "answer": 0
+    },
+    {
+      "question": "The deflection of light by gravity was confirmed by:",
+      "options": ["Eddington's 1919 eclipse expedition", "The Pound-Rebka experiment", "The Michelson-Morley experiment", "The Stern-Gerlach experiment"],
+      "answer": 0
+    },
+    {
+      "question": "The Shapiro time delay is:",
+      "options": ["Delay of light passing near a massive object", "Delay due to special relativity", "Delay due to length contraction", "Delay due to mass increase"],
+      "answer": 0
+    },
+    {
+      "question": "The precession of Mercury's orbit:",
+      "options": ["Is explained by general relativity", "Is explained by Newtonian gravity", "Is a mystery", "Is due to the Sun's rotation"],
+      "answer": 0
+    },
+    {
+      "question": "The advance of Mercury's perihelion is about:",
+      "options": ["43 arcsec per century", "43 arcsec per year", "43 degrees per century", "43 degrees per year"],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational waves are:",
+      "options": ["Ripples in spacetime", "Ripples in matter", "Ripples in light", "Ripples in sound"],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational waves travel at:",
+      "options": ["The speed of light", "The speed of sound", "Faster than light", "Slower than light"],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational waves were first directly detected in:",
+      "options": ["2015", "2000", "2010", "2020"],
+      "answer": 0
+    },
+    {
+      "question": "LIGO detected gravitational waves from:",
+      "options": ["Merging black holes", "Merging neutron stars", "Supernovae", "Pulsars"],
+      "answer": 0
+    },
+    {
+      "question": "The first gravitational wave detection was from:",
+      "options": ["Binary black hole merger", "Binary neutron star merger", "Supernova", "Pulsar"],
+      "answer": 0
+    },
+    {
+      "question": "The quadrupole formula for gravitational wave emission:",
+      "options": ["Gives the power emitted in gravitational waves", "Gives the frequency of gravitational waves", "Gives the amplitude of gravitational waves", "Gives the polarization of gravitational waves"],
+      "answer": 0
+    },
+    {
+      "question": "Gravitational waves have:",
+      "options": ["Two polarizations", "One polarization", "Three polarizations", "Zero polarizations"],
+      "answer": 0
+    },
+    {
+      "question": "The plus polarization of gravitational waves:",
+      "options": ["Stretches space in one direction and compresses it in the perpendicular direction", "Stretches space in all directions", "Compresses space in all directions", "Rotates space"],
+      "answer": 0
+    },
+    {
+      "question": "The cross polarization of gravitational waves:",
+      "options": ["Is at 45° to the plus polarization", "Is the same as the plus polarization", "Is perpendicular to the plus polarization", "Is at 90° to the plus polarization"],
+      "answer": 0
+    },
+    {
+      "question": "The binary pulsar PSR B1913+16:",
+      "options": ["Provided indirect evidence for gravitational waves", "Provided direct evidence for gravitational waves", "Provided evidence for the Big Bang", "Provided evidence for dark matter"],
+      "answer": 0
+    },
+    {
+      "question": "The Hulse-Taylor binary pulsar was discovered in:",
+      "options": ["1974", "1980", "1990", "2000"],
+      "answer": 0
+    },
+    {
+      "question": "The orbital decay of the Hulse-Taylor pulsar:",
+      "options": ["Matches the prediction of general relativity", "Does not match the prediction of general relativity", "Is due to the Big Bang", "Is due to dark matter"],
+      "answer": 0
+    },
+    {
+      "question": "The Kerr solution describes:",
+      "options": ["Rotating black holes", "Non-rotating black holes", "Charged black holes", "Both rotating and charged black holes"],
+      "answer": 0
+    },
+    {
+      "question": "The Kerr-Newman solution describes:",
+      "options": ["Rotating and charged black holes", "Rotating black holes", "Charged black holes", "Non-rotating black holes"],
+      "answer": 0
+    },
+    {
+      "question": "The no-hair theorem states:",
+      "options": ["Black holes are characterized by mass, charge, and angular momentum", "Black holes have hair", "Black holes are characterized by many properties", "Black holes have no properties"],
+      "answer": 0
+    },
+    {
+      "question": "The ergosphere of a Kerr black hole:",
+      "options": ["Is the region outside the event horizon where frame-dragging occurs", "Is the region inside the event horizon", "Is the region at the singularity", "Is the region at infinity"],
+      "answer": 0
+    },
+    {
+      "question": "The Penrose process extracts energy from:",
+      "options": ["A Kerr black hole", "A Schwarzschild black hole", "A charged black hole", "A neutron star"],
+      "answer": 0
+    },
+    {
+      "question": "Superradiance in black holes:",
+      "options": ["Amplifies waves scattered from a rotating black hole", "Amplifies waves scattered from a non-rotating black hole", "Amplifies waves scattered from a charged black hole", "Amplifies waves scattered from a neutron star"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic censorship hypothesis:",
+      "options": ["States that naked singularities cannot exist", "States that naked singularities can exist", "States that all singularities are naked", "States that singularities don't exist"],
+      "answer": 0
+    },
+    {
+      "question": "A naked singularity would be:",
+      "options": ["A singularity not hidden by an event horizon", "A singularity hidden by an event horizon", "A singularity with no mass", "A singularity with no charge"],
+      "answer": 0
+    },
+    {
+      "question": "The Friedmann-Robertson-Walker metric describes:",
+      "options": ["The expanding universe", "The static universe", "The contracting universe", "The rotating universe"],
+      "answer": 0
+    },
+    {
+      "question": "The Hubble parameter is:",
+      "options": ["H = ȧ/a", "H = a/ȧ", "H = ȧ", "H = a"],
+      "answer": 0
+    },
+    {
+      "question": "The Friedmann equations describe:",
+      "options": ["The expansion of the universe", "The contraction of the universe", "The rotation of the universe", "The curvature of the universe"],
+      "answer": 0
+    },
+    {
+      "question": "The critical density of the universe is:",
+      "options": ["ρ_c = 3H²/8πG", "ρ_c = 8πG/3H²", "ρ_c = 3H²/8π", "ρ_c = 8π/3H²"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmological constant Λ:",
+      "options": ["Causes accelerated expansion", "Causes decelerated expansion", "Causes no expansion", "Causes contraction"],
+      "answer": 0
+    },
+    {
+      "question": "Dark energy is responsible for:",
+      "options": ["Accelerated expansion of the universe", "Decelerated expansion of the universe", "Contraction of the universe", "Static universe"],
+      "answer": 0
+    },
+    {
+      "question": "The Big Bang theory:",
+      "options": ["Describes the origin of the universe", "Describes the origin of the solar system", "Describes the origin of life", "Describes the origin of matter"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic microwave background:",
+      "options": ["Is evidence for the Big Bang", "Is evidence for dark matter", "Is evidence for dark energy", "Is evidence for black holes"],
+      "answer": 0
+    },
+    {
+      "question": "The CMB temperature is about:",
+      "options": ["2.7 K", "2.7 °C", "2.7 F", "270 K"],
+      "answer": 0
+    },
+    {
+      "question": "The CMB was discovered in:",
+      "options": ["1965", "1970", "1980", "1990"],
+      "answer": 0
+    },
+    {
+      "question": "The CMB anisotropies:",
+      "options": ["Reveal the seeds of structure formation", "Reveal the expansion of the universe", "Reveal the acceleration of the universe", "Reveal the contraction of the universe"],
+      "answer": 0
+    },
+    {
+      "question": "Inflation in the early universe:",
+      "options": ["Explains the horizon problem", "Explains the flatness problem", "Explains the monopole problem", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The horizon problem is:",
+      "options": ["Why the CMB is so uniform", "Why the universe is so flat", "Why there is no antimatter", "Why there is dark matter"],
+      "answer": 0
+    },
+    {
+      "question": "The flatness problem is:",
+      "options": ["Why the universe is so close to flat", "Why the CMB is so uniform", "Why there is no antimatter", "Why there is dark matter"],
+      "answer": 0
+    },
+    {
+      "question": "The monopole problem is:",
+      "options": ["Why no magnetic monopoles are observed", "Why the CMB is so uniform", "Why the universe is so flat", "Why there is dark matter"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmological principle states:",
+      "options": ["The universe is homogeneous and isotropic on large scales", "The universe is inhomogeneous and anisotropic", "The universe is expanding", "The universe is contracting"],
+      "answer": 0
+    },
+    {
+      "question": "The anthropic principle:",
+      "options": ["The universe is fine-tuned for life", "The universe is not fine-tuned", "Life is inevitable", "Life is impossible"],
+      "answer": 0
+    },
+    {
+      "question": "The multiverse theory:",
+      "options": ["There are many universes", "There is only one universe", "The universe is infinite", "The universe is finite"],
+      "answer": 0
+    },
+    {
+      "question": "The holographic principle:",
+      "options": ["The information in a volume can be encoded on its boundary", "The universe is a hologram", "The universe is three-dimensional", "The universe is two-dimensional"],
+      "answer": 0
+    },
+    {
+      "question": "The AdS/CFT correspondence:",
+      "options": ["A duality between gravity in AdS and CFT on the boundary", "A duality between quantum mechanics and classical mechanics", "A duality between gravity and electromagnetism", "A duality between strong and weak forces"],
+      "answer": 0
+    },
+    {
+      "question": "The black hole information paradox:",
+      "options": ["Whether information is lost in black holes", "Whether information is created in black holes", "Whether information is stored in black holes", "Whether information is destroyed in black holes"],
+      "answer": 0
+    },
+    {
+      "question": "Hawking radiation:",
+      "options": ["Is radiation emitted by black holes", "Is radiation emitted by stars", "Is radiation emitted by galaxies", "Is radiation emitted by planets"],
+      "answer": 0
+    },
+    {
+      "question": "The Hawking temperature is:",
+      "options": ["T = ℏc³/8πGMk_B", "T = ℏc³/8πGM", "T = ℏc³/8πk_B", "T = ℏc³/8πG"],
+      "answer": 0
+    },
+    {
+      "question": "The black hole entropy is:",
+      "options": ["S = k_B A/4Gℏ", "S = A/4Gℏ", "S = k_B A/4G", "S = A/4G"],
+      "answer": 0
+    },
+    {
+      "question": "The Bekenstein-Hawking entropy:",
+      "options": ["Is proportional to the area of the event horizon", "Is proportional to the volume of the black hole", "Is proportional to the mass of the black hole", "Is proportional to the charge of the black hole"],
+      "answer": 0
+    },
+    {
+      "question": "The holographic bound:",
+      "options": ["Limits the maximum entropy in a region", "Limits the maximum mass in a region", "Limits the maximum volume in a region", "Limits the maximum charge in a region"],
+      "answer": 0
+    },
+    {
+      "question": "The equivalence of inertial and gravitational mass:",
+      "options": ["Is the basis of the equivalence principle", "Is the basis of special relativity", "Is the basis of quantum mechanics", "Is the basis of electromagnetism"],
+      "answer": 0
+    },
+    {
+      "question": "The Eötvös experiment:",
+      "options": ["Tested the equivalence principle", "Tested special relativity", "Tested general relativity", "Tested quantum mechanics"],
+      "answer": 0
+    },
+    {
+      "question": "The Pound-Rebka experiment:",
+      "options": ["Tested gravitational redshift", "Tested time dilation", "Tested length contraction", "Tested mass increase"],
+      "answer": 0
+    },
+    {
+      "question": "The Gravity Probe B experiment:",
+      "options": ["Tested frame-dragging", "Tested gravitational redshift", "Tested time dilation", "Tested length contraction"],
+      "answer": 0
+    },
+    {
+      "question": "Frame-dragging is:",
+      "options": ["The dragging of spacetime by a rotating mass", "The dragging of matter by spacetime", "The dragging of light by matter", "The dragging of matter by light"],
+      "answer": 0
+    },
+    {
+      "question": "The Lense-Thirring effect is:",
+      "options": ["Frame-dragging due to a rotating mass", "Gravitational redshift", "Time dilation", "Length contraction"],
+      "answer": 0
+    },
+    {
+      "question": "The geodetic effect is:",
+      "options": ["The precession of a gyroscope in orbit", "The precession of Mercury's orbit", "The bending of light", "The time dilation"],
+      "answer": 0
+    },
+    {
+      "question": "The Sagnac effect in relativity:",
+      "options": ["Is a rotational effect", "Is a translational effect", "Is a gravitational effect", "Is an electromagnetic effect"],
+      "answer": 0
+    },
+    {
+      "question": "The Thomas precession is:",
+      "options": ["A relativistic effect for spinning particles", "A gravitational effect", "An electromagnetic effect", "A quantum effect"],
+      "answer": 0
+    },
+    {
+      "question": "The Lorentz contraction is:",
+      "options": ["The contraction of lengths in the direction of motion", "The contraction of lengths perpendicular to motion", "The contraction of volumes", "The contraction of masses"],
+      "answer": 0
+    },
+    {
+      "question": "The relativistic addition of velocities:",
+      "options": ["Ensures that no velocity exceeds c", "Allows velocities to exceed c", "Is the same as classical addition", "Is independent of c"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of light is:",
+      "options": ["An invariant in all inertial frames", "Variant in different frames", "Zero in some frames", "Infinite in some frames"],
+      "answer": 0
+    },
+    {
+      "question": "The Michelson-Morley experiment:",
+      "options": ["Failed to detect the aether", "Detected the aether", "Proved special relativity", "Proved general relativity"],
+      "answer": 0
+    },
+    {
+      "question": "The aether was:",
+      "options": ["A hypothetical medium for light propagation", "A real medium for light propagation", "The quantum vacuum", "Dark matter"],
+      "answer": 0
+    },
+    {
+      "question": "The FitzGerald-Lorentz contraction:",
+      "options": ["Was proposed to explain the Michelson-Morley experiment", "Was proposed to explain the Pound-Rebka experiment", "Was proposed to explain the Eddington experiment", "Was proposed to explain the Gravity Probe B experiment"],
+      "answer": 0
+    },
+    {
+      "question": "The Lorentz transformations:",
+      "options": ["Preserve the speed of light", "Preserve the speed of sound", "Preserve Newton's laws", "Preserve Maxwell's equations"],
+      "answer": 0
+    },
+    {
+      "question": "The Poincaré group:",
+      "options": ["Is the symmetry group of special relativity", "Is the symmetry group of general relativity", "Is the symmetry group of quantum mechanics", "Is the symmetry group of electromagnetism"],
+      "answer": 0
+    },
+    {
+      "question": "The Lorentz group:",
+      "options": ["Includes rotations and boosts", "Includes only boosts", "Includes only rotations", "Includes translations"],
+      "answer": 0
+    },
+    {
+      "question": "The Poincaré group includes:",
+      "options": ["Translations and Lorentz transformations", "Only Lorentz transformations", "Only translations", "Rotations only"],
+      "answer": 0
+    },
+    {
+      "question": "The relativistic Lagrangian:",
+      "options": ["L = -mc²/γ", "L = mc²/γ", "L = -γmc²", "L = γmc²"],
+      "answer": 0
+    },
+    {
+      "question": "The relativistic Hamiltonian:",
+      "options": ["H = √(p²c² + m²c⁴)", "H = p²/2m", "H = pc", "H = mc²"],
+      "answer": 0
+    },
+    {
+      "question": "The Dirac equation:",
+      "options": ["Is a relativistic wave equation for spin-1/2 particles", "Is a non-relativistic wave equation", "Is a classical equation", "Is a thermodynamic equation"],
+      "answer": 0
+    },
+    {
+      "question": "The Klein-Gordon equation:",
+      "options": ["Is a relativistic wave equation for spin-0 particles", "Is a relativistic wave equation for spin-1/2 particles", "Is a non-relativistic wave equation", "Is a classical equation"],
+      "answer": 0
+    },
+    {
+      "question": "The spin-statistics theorem:",
+      "options": ["Relates spin to statistics", "Relates mass to statistics", "Relates charge to statistics", "Relates energy to statistics"],
+      "answer": 0
+    },
+    {
+      "question": "The CPT theorem:",
+      "options": ["States that physics is invariant under CPT", "States that physics is invariant under charge conjugation", "States that physics is invariant under parity", "States that physics is invariant under time reversal"],
+      "answer": 0
+    },
+    {
+      "question": "The antiparticle was predicted by:",
+      "options": ["Dirac", "Einstein", "Fermi", "Bohr"],
+      "answer": 0
+    },
+    {
+      "question": "The positron was discovered by:",
+      "options": ["Anderson", "Dirac", "Fermi", "Pauli"],
+      "answer": 0
+    },
+    {
+      "question": "The relativistic quantum mechanics:",
+      "options": ["Combines quantum mechanics with special relativity", "Combines quantum mechanics with general relativity", "Combines classical mechanics with special relativity", "Combines classical mechanics with general relativity"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum field theory:",
+      "options": ["Combines quantum mechanics with special relativity", "Combines quantum mechanics with general relativity", "Combines classical mechanics with special relativity", "Combines classical mechanics with general relativity"],
+      "answer": 0
+    },
+    {
+      "question": "The Feynman diagrams:",
+      "options": ["Represent particle interactions in QFT", "Represent classical interactions", "Represent gravitational interactions", "Represent thermodynamic interactions"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum electrodynamics (QED):",
+      "options": ["Describes electromagnetic interactions", "Describes strong interactions", "Describes weak interactions", "Describes gravitational interactions"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum chromodynamics (QCD):",
+      "options": ["Describes strong interactions", "Describes electromagnetic interactions", "Describes weak interactions", "Describes gravitational interactions"],
+      "answer": 0
+    },
+    {
+      "question": "The electroweak theory:",
+      "options": ["Unifies electromagnetism and weak interactions", "Unifies electromagnetism and strong interactions", "Unifies weak and strong interactions", "Unifies all four forces"],
+      "answer": 0
+    },
+    {
+      "question": "The Higgs mechanism:",
+      "options": ["Gives mass to particles", "Gives charge to particles", "Gives spin to particles", "Gives color to particles"],
+      "answer": 0
+    },
+    {
+      "question": "The Higgs boson was discovered in:",
+      "options": ["2012", "2000", "2010", "2015"],
+      "answer": 0
+    },
+    {
+      "question": "The graviton is:",
+      "options": ["The hypothetical particle for gravity", "The particle for electromagnetism", "The particle for strong force", "The particle for weak force"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum gravity:",
+      "options": ["Attempts to quantize gravity", "Has been successfully quantized", "Is the same as QED", "Is the same as QCD"],
+      "answer": 0
+    },
+    {
+      "question": "The string theory:",
+      "options": ["Is a candidate for quantum gravity", "Is a candidate for QED", "Is a candidate for QCD", "Is a candidate for electroweak theory"],
+      "answer": 0
+    },
+    {
+      "question": "The loop quantum gravity:",
+      "options": ["Is a candidate for quantum gravity", "Is a candidate for QED", "Is a candidate for QCD", "Is a candidate for electroweak theory"],
+      "answer": 0
+    },
+    {
+      "question": "The holographic principle:",
+      "options": ["Is important in quantum gravity", "Is important in QED", "Is important in QCD", "Is important in electroweak theory"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy of black holes:",
+      "options": ["Is proportional to the area of the event horizon", "Is proportional to the volume of the black hole", "Is proportional to the mass of the black hole", "Is proportional to the charge of the black hole"],
+      "answer": 0
+    },
+    {
+      "question": "The Bekenstein bound:",
+      "options": ["Limits the entropy in a given region", "Limits the mass in a given region", "Limits the charge in a given region", "Limits the energy in a given region"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic censorship:",
+      "options": ["Protects the outside world from singularities", "Exposes singularities to the outside world", "Allows naked singularities", "Prohibits black holes"],
+      "answer": 0
+    },
+    {
+      "question": "The Penrose process:",
+      "options": ["Extracts energy from a rotating black hole", "Extracts energy from a non-rotating black hole", "Extracts energy from a charged black hole", "Extracts energy from a neutron star"],
+      "answer": 0
+    },
+    {
+      "question": "The Blandford-Znajek process:",
+      "options": ["Extracts energy from black holes via magnetic fields", "Extracts energy from black holes via electric fields", "Extracts energy from black holes via gravitational waves", "Extracts energy from black holes via Hawking radiation"],
+      "answer": 0
+    },
+    {
+      "question": "The accretion disk around a black hole:",
+      "options": ["Emits radiation", "Absorbs radiation", "Is dark", "Is transparent"],
+      "answer": 0
+    },
+    {
+      "question": "The quasar is:",
+      "options": ["An active galactic nucleus powered by a black hole", "A star", "A planet", "A galaxy"],
+      "answer": 0
+    },
+    {
+      "question": "The blazar is:",
+      "options": ["An active galactic nucleus with a jet pointing towards Earth", "A star", "A planet", "A galaxy"],
+      "answer": 0
+    },
+    {
+      "question": "The gravitational lensing:",
+      "options": ["Bends light around massive objects", "Bends light around small objects", "Bends light around charged objects", "Bends light around magnetic objects"],
+      "answer": 0
+    },
+    {
+      "question": "The Einstein ring:",
+      "options": ["Is a ring of light from gravitational lensing", "Is a ring of matter", "Is a ring of energy", "Is a ring of particles"],
+      "answer": 0
+    },
+    {
+      "question": "The weak gravitational lensing:",
+      "options": ["Is used to map dark matter", "Is used to map dark energy", "Is used to map stars", "Is used to map planets"],
+      "answer": 0
+    },
+    {
+      "question": "The strong gravitational lensing:",
+      "options": ["Produces multiple images", "Produces single images", "Produces no images", "Produces blurred images"],
+      "answer": 0
+    },
+    {
+      "question": "The gravitational waves from merging black holes:",
+      "options": ["Were first detected by LIGO", "Were first detected by VIRGO", "Were first detected by LISA", "Were first detected by KAGRA"],
+      "answer": 0
+    },
+    {
+      "question": "The gravitational waves from merging neutron stars:",
+      "options": ["Were detected in 2017", "Were detected in 2015", "Were detected in 2010", "Were detected in 2020"],
+      "answer": 0
+    },
+    {
+      "question": "The multi-messenger astronomy:",
+      "options": ["Combines gravitational waves and electromagnetic observations", "Combines only gravitational wave observations", "Combines only electromagnetic observations", "Combines only neutrino observations"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic microwave background:",
+      "options": ["Is the oldest light in the universe", "Is the newest light in the universe", "Is the brightest light in the universe", "Is the dimmest light in the universe"],
+      "answer": 0
+    },
+    {
+      "question": "The CMB was emitted when the universe was:",
+      "options": ["380,000 years old", "10,000 years old", "1 million years old", "100 million years old"],
+      "answer": 0
+    },
+    {
+      "question": "The recombination epoch is:",
+      "options": ["When atoms formed", "When stars formed", "When galaxies formed", "When black holes formed"],
+      "answer": 0
+    },
+    {
+      "question": "The decoupling epoch is:",
+      "options": ["When photons stopped interacting with matter", "When photons started interacting with matter", "When atoms formed", "When stars formed"],
+      "answer": 0
+    },
+    {
+      "question": "The CMB power spectrum:",
+      "options": ["Reveals the composition of the universe", "Reveals the expansion of the universe", "Reveals the contraction of the universe", "Reveals the rotation of the universe"],
+      "answer": 0
+    },
+    {
+      "question": "The first acoustic peak in the CMB:",
+      "options": ["Reveals the curvature of the universe", "Reveals the expansion of the universe", "Reveals the contraction of the universe", "Reveals the rotation of the universe"],
+      "answer": 0
+    },
+    {
+      "question": "The baryon acoustic oscillations:",
+      "options": ["Are a standard ruler for cosmology", "Are a standard candle", "Are a standard clock", "Are a standard meter"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic distance ladder:",
+      "options": ["Uses different methods for different distances", "Uses one method for all distances", "Uses no method", "Uses the same method for all distances"],
+      "answer": 0
+    },
+    {
+      "question": "The standard candles in cosmology:",
+      "options": ["Include Cepheid variables and Type Ia supernovae", "Include only Cepheid variables", "Include only Type Ia supernovae", "Include no objects"],
+      "answer": 0
+    },
+    {
+      "question": "The Hubble tension:",
+      "options": ["Is the disagreement between different measurements of the Hubble constant", "Is the disagreement between measurements of the CMB", "Is the disagreement between measurements of dark matter", "Is the disagreement between measurements of dark energy"],
+      "answer": 0
+    },
+    {
+      "question": "The ΛCDM model:",
+      "options": ["Is the standard model of cosmology", "Is an alternative model of cosmology", "Is a quantum model of cosmology", "Is a string model of cosmology"],
+      "answer": 0
+    },
+    {
+      "question": "The dark matter:",
+      "options": ["Is inferred from gravitational effects", "Is directly observed", "Is emitted light", "Is absorbed light"],
+      "answer": 0
+    },
+    {
+      "question": "The dark energy:",
+      "options": ["Causes accelerated expansion", "Causes decelerated expansion", "Causes no expansion", "Causes contraction"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmological constant problem:",
+      "options": ["Is the discrepancy between predicted and observed vacuum energy", "Is the discrepancy between predicted and observed dark matter", "Is the discrepancy between predicted and observed expansion", "Is the discrepancy between predicted and observed entropy"],
+      "answer": 0
+    },
+    {
+      "question": "The vacuum energy:",
+      "options": ["Contributes to the cosmological constant", "Contributes to dark matter", "Contributes to the CMB", "Contributes to the Big Bang"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum vacuum:",
+      "options": ["Has fluctuations", "Is empty", "Is static", "Is zero"],
+      "answer": 0
+    },
+    {
+      "question": "The Casimir effect:",
+      "options": ["Is evidence for vacuum fluctuations", "Is evidence for dark matter", "Is evidence for dark energy", "Is evidence for the Big Bang"],
+      "answer": 0
+    },
+    {
+      "question": "The De Sitter space:",
+      "options": ["Is a solution of Einstein's equations with a cosmological constant", "Is a solution of Einstein's equations without a cosmological constant", "Is a flat solution", "Is a rotating solution"],
+      "answer": 0
+    },
+    {
+      "question": "The anti-De Sitter space:",
+      "options": ["Has negative curvature", "Has positive curvature", "Has zero curvature", "Has no curvature"],
+      "answer": 0
+    },
+    {
+      "question": "The AdS/CFT correspondence:",
+      "options": ["Relates gravity in AdS to a CFT on the boundary", "Relates gravity in de Sitter to a CFT", "Relates gravity to electromagnetism", "Relates gravity to strong interactions"],
+      "answer": 0
+    },
+    {
+      "question": "The conformal field theory:",
+      "options": ["Is scale invariant", "Is not scale invariant", "Is time invariant", "Is space invariant"],
+      "answer": 0
+    },
+    {
+      "question": "The gauge/gravity duality:",
+      "options": ["Relates gauge theories to gravity", "Relates gauge theories to electromagnetism", "Relates gauge theories to strong interactions", "Relates gauge theories to weak interactions"],
+      "answer": 0
+    },
+    {
+      "question": "The holographic QCD:",
+      "options": ["Uses AdS/CFT to model QCD", "Uses string theory to model QCD", "Uses loop quantum gravity to model QCD", "Uses classical physics to model QCD"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy of the universe:",
+      "options": ["Is dominated by the entropy of black holes", "Is dominated by the entropy of stars", "Is dominated by the entropy of galaxies", "Is dominated by the entropy of planets"],
+      "answer": 0
+    },
+    {
+      "question": "The black hole thermodynamics:",
+      "options": ["Is the study of the thermodynamic properties of black holes", "Is the study of the thermodynamic properties of stars", "Is the study of the thermodynamic properties of galaxies", "Is the study of the thermodynamic properties of planets"],
+      "answer": 0
+    },
+    {
+      "question": "The laws of black hole mechanics:",
+      "options": ["Are analogous to the laws of thermodynamics", "Are the same as the laws of thermodynamics", "Are different from the laws of thermodynamics", "Are unrelated to the laws of thermodynamics"],
+      "answer": 0
+    },
+    {
+      "question": "The first law of black hole mechanics:",
+      "options": ["dM = κ dA/8πG + Ω dJ + Φ dQ", "dM = T dS", "dM = 0", "dM = dQ"],
+      "answer": 0
+    },
+    {
+      "question": "The second law of black hole mechanics:",
+      "options": ["The area of a black hole never decreases", "The area of a black hole never increases", "The area of a black hole is constant", "The area of a black hole is zero"],
+      "answer": 0
+    },
+    {
+      "question": "The third law of black hole mechanics:",
+      "options": ["The surface gravity cannot be reduced to zero", "The surface gravity is always zero", "The surface gravity is always infinite", "The surface gravity is constant"],
+      "answer": 0
+    },
+    {
+      "question": "The zeroth law of black hole mechanics:",
+      "options": ["The surface gravity is constant on the event horizon", "The surface gravity is zero on the event horizon", "The surface gravity is infinite on the event horizon", "The surface gravity varies on the event horizon"],
+      "answer": 0
+    },
+    {
+      "question": "The black hole has:",
+      "options": ["Temperature and entropy", "Temperature only", "Entropy only", "Neither temperature nor entropy"],
+      "answer": 0
+    },
+    {
+      "question": "The Hawking effect:",
+      "options": ["Shows that black holes radiate", "Shows that black holes absorb radiation", "Shows that black holes are cold", "Shows that black holes are hot"],
+      "answer": 0
+    },
+    {
+      "question": "The Hawking radiation:",
+      "options": ["Has a black body spectrum", "Has a white body spectrum", "Has a flat spectrum", "Has no spectrum"],
+      "answer": 0
+    },
+    {
+      "question": "The black hole evaporation:",
+      "options": ["Occurs through Hawking radiation", "Occurs through accretion", "Occurs through merging", "Occurs through rotation"],
+      "answer": 0
+    },
+    {
+      "question": "The black hole lifetime:",
+      "options": ["Is proportional to M³", "Is proportional to M²", "Is proportional to M", "Is proportional to M⁴"],
+      "answer": 0
+    }
+  ]
+}

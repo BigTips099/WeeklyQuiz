@@ -1,0 +1,1564 @@
+{
+  "questions": [
+    {
+      "question": "The study of plants is called:",
+      "options": [
+        "Biology",
+        "Zoology",
+        "Botany",
+        "Microbiology"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which organelle is responsible for photosynthesis?",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The primary function of roots is:",
+      "options": [
+        "Photosynthesis",
+        "Absorbing water and minerals",
+        "Transpiration",
+        "Storage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of water loss from plant surfaces is called:",
+      "options": [
+        "Evaporation",
+        "Transpiration",
+        "Condensation",
+        "Precipitation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Stomata are controlled by:",
+      "options": [
+        "Roots",
+        "Guard cells",
+        "Mesophyll cells",
+        "Xylem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which tissue transports water in plants?",
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Epidermis",
+        "Cortex"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The male reproductive organ of a flower is the:",
+      "options": [
+        "Stamen",
+        "Carpel",
+        "Pistil",
+        "Ovary"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Angiosperms are plants that produce:",
+      "options": [
+        "Seeds without flowers",
+        "Flowers and fruits",
+        "Spores only",
+        "No seeds"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The main site of photosynthesis is the:",
+      "options": [
+        "Root",
+        "Leaf",
+        "Stem",
+        "Flower"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The pigment responsible for photosynthesis is:",
+      "options": [
+        "Carotene",
+        "Chlorophyll",
+        "Xanthophyll",
+        "Anthocyanin"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The two main types of root systems are:",
+      "options": [
+        "Tap and fibrous",
+        "Aerial and aquatic",
+        "Adventitious and primary",
+        "Lateral and basal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Photosynthesis converts light energy to:",
+      "options": [
+        "Heat energy",
+        "Mechanical energy",
+        "Chemical energy",
+        "Electrical energy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A plant's vascular system consists of:",
+      "options": [
+        "Xylem and phloem",
+        "Roots and stems",
+        "Stems and leaves",
+        "Flowers and fruits"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The fruit is formed from the:",
+      "options": [
+        "Flower",
+        "Ovary",
+        "Stamen",
+        "Petal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is NOT part of the shoot system?",
+      "options": [
+        "Stem",
+        "Leaf",
+        "Root",
+        "Flower"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The tissue that transports food in plants is:",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Cortex",
+        "Pith"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of plant reproduces through spores?",
+      "options": [
+        "Gymnosperms",
+        "Angiosperms",
+        "Pteridophytes",
+        "All plants"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The gas released during photosynthesis is:",
+      "options": [
+        "CO2",
+        "O2",
+        "N2",
+        "H2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The plant hormone responsible for growth is:",
+      "options": [
+        "Auxin",
+        "Ethylene",
+        "Abscisic acid",
+        "Gibberellin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Guard cells control the opening and closing of:",
+      "options": [
+        "Roots",
+        "Stomata",
+        "Leaves",
+        "Stems"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Seed germination begins with:",
+      "options": [
+        "Water absorption",
+        "Light exposure",
+        "Soil minerals",
+        "Warmth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which plant is a gymnosperm?",
+      "options": [
+        "Rose",
+        "Pine",
+        "Mango",
+        "Apple"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The calyx and corolla together form the:",
+      "options": [
+        "Perianth",
+        "Thalamus",
+        "Receptacle",
+        "Pedicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cytokinesis in plant cells occurs through:",
+      "options": [
+        "Cleavage furrow",
+        "Cell plate formation",
+        "Cell division",
+        "Fission"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Plants are classified as:",
+      "options": [
+        "Producers",
+        "Consumers",
+        "Decomposers",
+        "Parasites"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The family to which wheat belongs is:",
+      "options": [
+        "Rosaceae",
+        "Poaceae",
+        "Fabaceae",
+        "Solanaceae"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The green color of plants is due to:",
+      "options": [
+        "Carotene",
+        "Chlorophyll",
+        "Anthocyanin",
+        "Xanthophyll"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Algae are:",
+      "options": [
+        "Heterotrophic",
+        "Autotrophic",
+        "Saprophytic",
+        "Parasitic"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The arrangement of leaves on a stem is called:",
+      "options": [
+        "Phyllotaxy",
+        "Venation",
+        "Placentation",
+        "Aestivation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of classification of plants is called:",
+      "options": [
+        "Plant anatomy",
+        "Plant taxonomy",
+        "Plant physiology",
+        "Plant ecology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The plant cell wall is composed primarily of:",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Lipids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chloroplasts contain which pigment?",
+      "options": [
+        "Chlorophyll",
+        "Carotenoids",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The process of food transport in plants is called:",
+      "options": [
+        "Translocation",
+        "Transpiration",
+        "Photosynthesis",
+        "Respiration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The movement of water up the xylem is driven by:",
+      "options": [
+        "Transpiration pull",
+        "Root pressure",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which plant hormone promotes fruit ripening?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Ethylene",
+        "Cytokinin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Abscisic acid promotes:",
+      "options": [
+        "Growth",
+        "Dormancy",
+        "Fruiting",
+        "Germination"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The female reproductive organ of a flower is the:",
+      "options": [
+        "Stamen",
+        "Carpel",
+        "Petal",
+        "Sepal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pollination is the transfer of pollen from:",
+      "options": [
+        "Anther to stigma",
+        "Stigma to anther",
+        "Anther to ovary",
+        "Stigma to ovary"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Double fertilization is characteristic of:",
+      "options": [
+        "Angiosperms",
+        "Gymnosperms",
+        "Pteridophytes",
+        "Bryophytes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The endosperm in angiosperms is:",
+      "options": [
+        "Diploid",
+        "Triploid",
+        "Haploid",
+        "Tetraploid"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The primary plant body consists of:",
+      "options": [
+        "Dermal, vascular, ground tissues",
+        "Only dermal tissue",
+        "Only vascular tissue",
+        "Only ground tissue"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Xylem consists of:",
+      "options": [
+        "Tracheids and vessels",
+        "Sieve tubes and companion cells",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Phloem consists of:",
+      "options": [
+        "Tracheids and vessels",
+        "Sieve tubes and companion cells",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The root cap protects the:",
+      "options": [
+        "Root tip",
+        "Root hair",
+        "Stem tip",
+        "Leaf tip"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Root hairs are involved in:",
+      "options": [
+        "Water absorption",
+        "Mineral absorption",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Leaf venation can be:",
+      "options": [
+        "Reticulate or parallel",
+        "Simple or compound",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A compound leaf has:",
+      "options": [
+        "Multiple leaflets",
+        "Single leaf blade",
+        "No leaf blade",
+        "No leaflets"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Flowers with both androecium and gynoecium are:",
+      "options": [
+        "Bisexual",
+        "Unisexual",
+        "Asexual",
+        "No flowers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Flowers with only stamens are:",
+      "options": [
+        "Staminate",
+        "Pistillate",
+        "Bisexual",
+        "Asexual"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Flowers with only carpels are:",
+      "options": [
+        "Staminate",
+        "Pistillate",
+        "Bisexual",
+        "Asexual"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Monoecious plants have:",
+      "options": [
+        "Both male and female flowers on same plant",
+        "Male and female flowers on different plants",
+        "Only male flowers",
+        "Only female flowers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dioecious plants have:",
+      "options": [
+        "Both male and female flowers on same plant",
+        "Male and female flowers on different plants",
+        "Only male flowers",
+        "Only female flowers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Apomixis is:",
+      "options": [
+        "Reproduction without fertilization",
+        "Reproduction with fertilization",
+        "Asexual reproduction",
+        "Sexual reproduction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Parthenocarpy is the development of fruit without:",
+      "options": [
+        "Fertilization",
+        "Pollination",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The coleoptile is found in:",
+      "options": [
+        "Monocot seeds",
+        "Dicot seeds",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cotyledons are:",
+      "options": [
+        "Seed leaves",
+        "True leaves",
+        "Roots",
+        "Stems"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Monocots have:",
+      "options": [
+        "One cotyledon",
+        "Two cotyledons",
+        "Three cotyledons",
+        "No cotyledons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dicots have:",
+      "options": [
+        "One cotyledon",
+        "Two cotyledons",
+        "Three cotyledons",
+        "No cotyledons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The seed coat is derived from:",
+      "options": [
+        "Ovule integuments",
+        "Ovary wall",
+        "Flower petals",
+        "Stamens"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The fruit wall is called:",
+      "options": [
+        "Pericarp",
+        "Epicarp",
+        "Mesocarp",
+        "Endocarp"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Simple fruits develop from:",
+      "options": [
+        "One flower with one ovary",
+        "One flower with multiple ovaries",
+        "Multiple flowers",
+        "No flowers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Aggregate fruits develop from:",
+      "options": [
+        "One flower with one ovary",
+        "One flower with multiple ovaries",
+        "Multiple flowers",
+        "No flowers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Multiple fruits develop from:",
+      "options": [
+        "One flower with one ovary",
+        "One flower with multiple ovaries",
+        "Multiple flowers",
+        "No flowers"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The strawberry is an example of:",
+      "options": [
+        "Aggregate fruit",
+        "Multiple fruit",
+        "Simple fruit",
+        "Berry"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The pineapple is an example of:",
+      "options": [
+        "Aggregate fruit",
+        "Multiple fruit",
+        "Simple fruit",
+        "Berry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The tomato is a:",
+      "options": [
+        "Berry",
+        "Drupe",
+        "Pome",
+        "Nut"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The peach is a:",
+      "options": [
+        "Berry",
+        "Drupe",
+        "Pome",
+        "Nut"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The apple is a:",
+      "options": [
+        "Berry",
+        "Drupe",
+        "Pome",
+        "Nut"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The walnut is a:",
+      "options": [
+        "Berry",
+        "Drupe",
+        "Pome",
+        "Nut"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The process of photosynthesis occurs in the:",
+      "options": [
+        "Mesophyll cells",
+        "Epidermal cells",
+        "Xylem cells",
+        "Phloem cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The light reactions of photosynthesis occur in the:",
+      "options": [
+        "Thylakoid membrane",
+        "Stroma",
+        "Outer membrane",
+        "Cytoplasm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Calvin cycle occurs in the:",
+      "options": [
+        "Thylakoid membrane",
+        "Stroma",
+        "Outer membrane",
+        "Cytoplasm"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rubisco is the enzyme that:",
+      "options": [
+        "Fixes CO2",
+        "Synthesizes ATP",
+        "Synthesizes NADPH",
+        "Splits water"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "C4 plants have:",
+      "options": [
+        "Kranz anatomy",
+        "No Kranz anatomy",
+        "No photosynthesis",
+        "No leaves"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CAM plants open their stomata at:",
+      "options": [
+        "Night",
+        "Day",
+        "Both",
+        "Never"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The function of the stem is:",
+      "options": [
+        "Support",
+        "Transport",
+        "Storage",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Secondary growth occurs in:",
+      "options": [
+        "Dicots",
+        "Monocots",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vascular cambium is responsible for:",
+      "options": [
+        "Secondary growth",
+        "Primary growth",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cork cambium produces:",
+      "options": [
+        "Periderm",
+        "Xylem",
+        "Phloem",
+        "Leaves"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The annual rings in trees indicate:",
+      "options": [
+        "Age",
+        "Height",
+        "Width",
+        "Weight"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Wood is composed primarily of:",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Cork",
+        "Pith"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bark is composed of:",
+      "options": [
+        "Cork and phloem",
+        "Xylem and phloem",
+        "Only xylem",
+        "Only phloem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The movement of water in xylem is explained by:",
+      "options": [
+        "Cohesion-tension theory",
+        "Pressure-flow theory",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The movement of sugar in phloem is explained by:",
+      "options": [
+        "Cohesion-tension theory",
+        "Pressure-flow theory",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Companion cells are associated with:",
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sieve tubes are associated with:",
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tracheids are found in:",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vessel elements are found in:",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mycorrhizae are:",
+      "options": [
+        "Fungal associations with roots",
+        "Bacterial associations with roots",
+        "Fungal associations with leaves",
+        "Bacterial associations with leaves"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Nodules on legume roots contain:",
+      "options": [
+        "Nitrogen-fixing bacteria",
+        "Fungi",
+        "Viruses",
+        "Algae"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The plant response to light is called:",
+      "options": [
+        "Phototropism",
+        "Geotropism",
+        "Thigmotropism",
+        "Hydrotropism"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The plant response to gravity is called:",
+      "options": [
+        "Phototropism",
+        "Geotropism",
+        "Thigmotropism",
+        "Hydrotropism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The plant response to touch is called:",
+      "options": [
+        "Phototropism",
+        "Geotropism",
+        "Thigmotropism",
+        "Hydrotropism"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The plant response to water is called:",
+      "options": [
+        "Phototropism",
+        "Geotropism",
+        "Thigmotropism",
+        "Hydrotropism"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Photoperiodism is the response to:",
+      "options": [
+        "Day length",
+        "Temperature",
+        "Water",
+        "Gravity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Short-day plants flower when:",
+      "options": [
+        "Days are short",
+        "Days are long",
+        "Days are equal",
+        "No day length"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Long-day plants flower when:",
+      "options": [
+        "Days are short",
+        "Days are long",
+        "Days are equal",
+        "No day length"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Day-neutral plants flower regardless of:",
+      "options": [
+        "Day length",
+        "Temperature",
+        "Water",
+        "Gravity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vernalization is the response to:",
+      "options": [
+        "Cold temperature",
+        "Light",
+        "Water",
+        "Gravity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The plant cell wall is a:",
+      "options": [
+        "Rigid structure",
+        "Flexible structure",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Plasmodesmata connect:",
+      "options": [
+        "Plant cells",
+        "Animal cells",
+        "Bacterial cells",
+        "Fungal cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The vacuole in plant cells is:",
+      "options": [
+        "Large",
+        "Small",
+        "Absent",
+        "Multiple small"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chloroplasts are found in:",
+      "options": [
+        "Green parts of plants",
+        "Roots only",
+        "Stems only",
+        "Flowers only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cuticle on leaves reduces:",
+      "options": [
+        "Water loss",
+        "Photosynthesis",
+        "Transpiration",
+        "Both A and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Epidermal cells in leaves are:",
+      "options": [
+        "Transparent",
+        "Opaque",
+        "Colored",
+        "Thick"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The palisade layer in leaves contains:",
+      "options": [
+        "Chloroplasts",
+        "Vascular tissue",
+        "Storage cells",
+        "Guard cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The spongy layer in leaves allows:",
+      "options": [
+        "Gas exchange",
+        "Water storage",
+        "Food storage",
+        "Light absorption"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Stomata are found on:",
+      "options": [
+        "Leaf surface",
+        "Root surface",
+        "Stem surface",
+        "Flower surface"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest organ of the plant is the:",
+      "options": [
+        "Leaf",
+        "Root",
+        "Stem",
+        "Flower"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bryophytes are:",
+      "options": [
+        "Non-vascular plants",
+        "Vascular plants",
+        "Seed plants",
+        "Flowering plants"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pteridophytes are:",
+      "options": [
+        "Vascular plants with spores",
+        "Non-vascular plants",
+        "Seed plants",
+        "Flowering plants"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gymnosperms are:",
+      "options": [
+        "Vascular plants with seeds",
+        "Non-vascular plants",
+        "Spore-bearing plants",
+        "Flowering plants"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Angiosperms are:",
+      "options": [
+        "Flowering plants",
+        "Non-flowering plants",
+        "Spore-bearing plants",
+        "Non-vascular plants"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The main body of bryophytes is the:",
+      "options": [
+        "Gametophyte",
+        "Sporophyte",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The main body of pteridophytes is the:",
+      "options": [
+        "Gametophyte",
+        "Sporophyte",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The main body of gymnosperms is the:",
+      "options": [
+        "Gametophyte",
+        "Sporophyte",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The main body of angiosperms is the:",
+      "options": [
+        "Gametophyte",
+        "Sporophyte",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Heterospory is found in:",
+      "options": [
+        "Some pteridophytes",
+        "All bryophytes",
+        "Some angiosperms",
+        "All gymnosperms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The ovule is located in the:",
+      "options": [
+        "Ovary",
+        "Stamen",
+        "Petal",
+        "Sepal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The pollen tube grows through the:",
+      "options": [
+        "Style",
+        "Stigma",
+        "Ovary",
+        "Anther"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Double fertilization involves:",
+      "options": [
+        "Two sperm cells",
+        "One sperm cell",
+        "Three sperm cells",
+        "Four sperm cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The primary endosperm nucleus is:",
+      "options": [
+        "Triploid",
+        "Diploid",
+        "Haploid",
+        "Tetraploid"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The zygote in angiosperms is:",
+      "options": [
+        "Diploid",
+        "Haploid",
+        "Triploid",
+        "Tetraploid"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The seed coat is formed from:",
+      "options": [
+        "Integuments",
+        "Ovary wall",
+        "Pollen tube",
+        "Embryo sac"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The fruit wall is formed from:",
+      "options": [
+        "Ovary wall",
+        "Integuments",
+        "Pollen tube",
+        "Embryo sac"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Endosperm provides nutrition to the:",
+      "options": [
+        "Embryo",
+        "Seed coat",
+        "Fruit wall",
+        "Ovary"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The embryo develops from the:",
+      "options": [
+        "Zygote",
+        "Endosperm",
+        "Integuments",
+        "Ovary wall"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The radicle develops into the:",
+      "options": [
+        "Root",
+        "Shoot",
+        "Leaf",
+        "Flower"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The plumule develops into the:",
+      "options": [
+        "Shoot",
+        "Root",
+        "Leaf",
+        "Flower"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The epicotyl is the part of the embryo:",
+      "options": [
+        "Above the cotyledons",
+        "Below the cotyledons",
+        "At the root tip",
+        "At the shoot tip"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The hypocotyl is the part of the embryo:",
+      "options": [
+        "Below the cotyledons",
+        "Above the cotyledons",
+        "At the root tip",
+        "At the shoot tip"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Biennial plants complete their life cycle in:",
+      "options": [
+        "2 years",
+        "1 year",
+        "3 years",
+        "4 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Annual plants complete their life cycle in:",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "4 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Perennial plants live for:",
+      "options": [
+        "Many years",
+        "1 year",
+        "2 years",
+        "3 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The plant tissue that is alive at maturity is:",
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The plant tissue that is dead at maturity is:",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sclerenchyma cells have:",
+      "options": [
+        "Thick cell walls",
+        "Thin cell walls",
+        "No cell walls",
+        "Flexible cell walls"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Collenchyma cells have:",
+      "options": [
+        "Unevenly thickened walls",
+        "Uniformly thick walls",
+        "Thin walls",
+        "No walls"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Parenchyma cells are involved in:",
+      "options": [
+        "Storage",
+        "Support",
+        "Transport",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The mesophyll in leaves is composed of:",
+      "options": [
+        "Parenchyma",
+        "Sclerenchyma",
+        "Collenchyma",
+        "Epidermis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which plant hormone inhibits growth?",
+      "options": [
+        "Ethylene",
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which plant hormone promotes cell division?",
+      "options": [
+        "Cytokinin",
+        "Auxin",
+        "Gibberellin",
+        "Ethylene"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which plant hormone promotes stem elongation?",
+      "options": [
+        "Gibberellin",
+        "Auxin",
+        "Ethylene",
+        "Cytokinin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which plant hormone promotes root growth?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Ethylene",
+        "Cytokinin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The waxy cuticle is produced by:",
+      "options": [
+        "Epidermal cells",
+        "Guard cells",
+        "Mesophyll cells",
+        "Xylem cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The primary function of lenticels is:",
+      "options": [
+        "Gas exchange",
+        "Water transport",
+        "Food storage",
+        "Support"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Suberin is found in:",
+      "options": [
+        "Cork cells",
+        "Epidermal cells",
+        "Xylem cells",
+        "Phloem cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Casparian strip is found in:",
+      "options": [
+        "Endodermis",
+        "Epidermis",
+        "Cortex",
+        "Pith"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Casparian strip controls:",
+      "options": [
+        "Water movement",
+        "Gas movement",
+        "Food movement",
+        "Light movement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The vascular bundle in monocots is:",
+      "options": [
+        "Scattered",
+        "Arranged in a ring",
+        "Absent",
+        "In rows"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The vascular bundle in dicots is:",
+      "options": [
+        "Arranged in a ring",
+        "Scattered",
+        "Absent",
+        "In rows"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The monocot stem lacks:",
+      "options": [
+        "Secondary growth",
+        "Primary growth",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The dicot stem has:",
+      "options": [
+        "Secondary growth",
+        "Primary growth only",
+        "Neither",
+        "Only primary growth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The root tip is protected by the:",
+      "options": [
+        "Root cap",
+        "Root hair",
+        "Epidermis",
+        "Cortex"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mycorrhizae enhance:",
+      "options": [
+        "Nutrient uptake",
+        "Water uptake",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Symbiotic nitrogen fixation occurs in:",
+      "options": [
+        "Legumes",
+        "Grasses",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    }
+  ]
+}

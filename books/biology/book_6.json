@@ -1,0 +1,1644 @@
+{
+  "questions": [
+    {
+      "question": "The study of animals is called:",
+      "options": [
+        "Biology",
+        "Zoology",
+        "Botany",
+        "Microbiology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal is a vertebrate?",
+      "options": [
+        "Earthworm",
+        "Snail",
+        "Fish",
+        "Cockroach"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The process of metamorphosis occurs in:",
+      "options": [
+        "Fish",
+        "Butterfly",
+        "Snake",
+        "Bird"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which organ is responsible for respiration in fish?",
+      "options": [
+        "Lungs",
+        "Gills",
+        "Skin",
+        "Trachea"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mammals are characterized by the presence of:",
+      "options": [
+        "Scales",
+        "Mammary glands",
+        "Feathers",
+        "Gills"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The heart of a frog has how many chambers?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal is cold-blooded?",
+      "options": [
+        "Human",
+        "Dog",
+        "Lizard",
+        "Cat"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The largest organ in the human body is the:",
+      "options": [
+        "Liver",
+        "Skin",
+        "Brain",
+        "Heart"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Birds are characterized by:",
+      "options": [
+        "Teeth",
+        "Feathers",
+        "Scales",
+        "Gills"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal is an invertebrate?",
+      "options": [
+        "Snake",
+        "Frog",
+        "Spider",
+        "Fish"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Digestion in humans begins in the:",
+      "options": [
+        "Stomach",
+        "Mouth",
+        "Intestine",
+        "Liver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The largest organ in a frog is the:",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Liver",
+        "Skin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The hearing organ in fish is the:",
+      "options": [
+        "Ears",
+        "Lateral line system",
+        "Bladder",
+        "Skin"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Reptiles have which type of skin?",
+      "options": [
+        "Dry and scaly",
+        "Moist and smooth",
+        "Feathery",
+        "Hairy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which animal has a four-chambered heart?",
+      "options": [
+        "Frog",
+        "Lizard",
+        "Bird",
+        "Fish"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Excretion in humans involves:",
+      "options": [
+        "Lungs",
+        "Kidneys",
+        "Skin",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which animal lays eggs and has feathers?",
+      "options": [
+        "Reptile",
+        "Bird",
+        "Fish",
+        "Mammal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Warm-blooded animals include:",
+      "options": [
+        "Fish",
+        "Reptiles",
+        "Birds and mammals",
+        "Amphibians"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Snakes sense vibrations through:",
+      "options": [
+        "Ears",
+        "Eyes",
+        "Skin and jaw bones",
+        "Tongue"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The body of an insect is divided into:",
+      "options": [
+        "2 parts",
+        "3 parts",
+        "4 parts",
+        "5 parts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The most abundant animals on Earth are:",
+      "options": [
+        "Vertebrates",
+        "Invertebrates",
+        "Mammals",
+        "Birds"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The study of fishes is called:",
+      "options": [
+        "Ornithology",
+        "Ichthyology",
+        "Herpetology",
+        "Mammalogy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bats are classified as:",
+      "options": [
+        "Birds",
+        "Mammals",
+        "Reptiles",
+        "Insects"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal has a backbone?",
+      "options": [
+        "Earthworm",
+        "Snail",
+        "Dog",
+        "Cockroach"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Amoeba reproduces by:",
+      "options": [
+        "Binary fission",
+        "Budding",
+        "Fragmentation",
+        "Spore formation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The longest cell in the human body is:",
+      "options": [
+        "Muscle cell",
+        "Nerve cell",
+        "Bone cell",
+        "Skin cell"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The dolphin is a:",
+      "options": [
+        "Fish",
+        "Mammal",
+        "Reptile",
+        "Amphibian"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The human skeleton consists of how many bones?",
+      "options": [
+        "205",
+        "206",
+        "207",
+        "208"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal has the longest lifespan?",
+      "options": [
+        "Elephant",
+        "Whale",
+        "Tortoise",
+        "Human"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The study of birds is called:",
+      "options": [
+        "Ornithology",
+        "Ichthyology",
+        "Herpetology",
+        "Mammalogy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of reptiles and amphibians is called:",
+      "options": [
+        "Ornithology",
+        "Ichthyology",
+        "Herpetology",
+        "Mammalogy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The study of mammals is called:",
+      "options": [
+        "Ornithology",
+        "Ichthyology",
+        "Herpetology",
+        "Mammalogy"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which animal is a marsupial?",
+      "options": [
+        "Kangaroo",
+        "Dog",
+        "Cat",
+        "Elephant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Platypus is a:",
+      "options": [
+        "Mammal that lays eggs",
+        "Bird that lays eggs",
+        "Reptile that lays eggs",
+        "Fish that lays eggs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest animal on Earth is the:",
+      "options": [
+        "Elephant",
+        "Blue whale",
+        "Giraffe",
+        "Hippopotamus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The fastest land animal is the:",
+      "options": [
+        "Lion",
+        "Cheetah",
+        "Leopard",
+        "Horse"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The tallest animal is the:",
+      "options": [
+        "Elephant",
+        "Giraffe",
+        "Camel",
+        "Horse"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The heart of a fish has how many chambers?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The heart of a bird has how many chambers?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The heart of a reptile has how many chambers?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal has a three-chambered heart?",
+      "options": [
+        "Fish",
+        "Frog",
+        "Bird",
+        "Human"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The skull protects which organ?",
+      "options": [
+        "Brain",
+        "Heart",
+        "Lungs",
+        "Liver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The rib cage protects which organs?",
+      "options": [
+        "Brain",
+        "Heart and lungs",
+        "Liver",
+        "Kidneys"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The smallest mammal is the:",
+      "options": [
+        "Bat",
+        "Shrew",
+        "Mouse",
+        "Hamster"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The largest mammal is the:",
+      "options": [
+        "Elephant",
+        "Blue whale",
+        "Giraffe",
+        "Hippopotamus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal is a herbivore?",
+      "options": [
+        "Lion",
+        "Cow",
+        "Wolf",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal is a carnivore?",
+      "options": [
+        "Cow",
+        "Lion",
+        "Rabbit",
+        "Deer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal is an omnivore?",
+      "options": [
+        "Human",
+        "Lion",
+        "Cow",
+        "Deer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ruminants have which type of stomach?",
+      "options": [
+        "Single chambered",
+        "Four-chambered",
+        "Two-chambered",
+        "Three-chambered"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cows and goats are examples of:",
+      "options": [
+        "Carnivores",
+        "Ruminants",
+        "Omnivores",
+        "Scavengers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of chewing the cud is called:",
+      "options": [
+        "Rumination",
+        "Regurgitation",
+        "Digestion",
+        "Fermentation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Birds have which type of skeleton?",
+      "options": [
+        "Solid bones",
+        "Hollow bones",
+        "Cartilaginous",
+        "No bones"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The wing of a bat is a:",
+      "options": [
+        "Feathery wing",
+        "Skin-covered wing",
+        "Scaly wing",
+        "Hairy wing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal has a tail?",
+      "options": [
+        "Human",
+        "Ape",
+        "Monkey",
+        "Gorilla"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The largest reptile is the:",
+      "options": [
+        "Snake",
+        "Saltwater crocodile",
+        "Lizard",
+        "Turtle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The longest snake is the:",
+      "options": [
+        "Anaconda",
+        "Python",
+        "King cobra",
+        "Rattlesnake"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The most venomous snake is the:",
+      "options": [
+        "Python",
+        "Inland taipan",
+        "Anaconda",
+        "Boa constrictor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal is a parasite?",
+      "options": [
+        "Earthworm",
+        "Tapeworm",
+        "Snail",
+        "Spider"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The largest spider is the:",
+      "options": [
+        "Black widow",
+        "Tarantula",
+        "Goliath birdeater",
+        "Wolf spider"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The most venomous spider is the:",
+      "options": [
+        "Tarantula",
+        "Brazilian wandering spider",
+        "Wolf spider",
+        "Garden spider"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal is a social insect?",
+      "options": [
+        "Ant",
+        "Beetle",
+        "Butterfly",
+        "Dragonfly"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The honeybee society has:",
+      "options": [
+        "Queen, workers, drones",
+        "Only workers",
+        "Only queen",
+        "Only drones"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The queen bee's main function is:",
+      "options": [
+        "Laying eggs",
+        "Collecting nectar",
+        "Defending the hive",
+        "Making honey"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Worker bees are:",
+      "options": [
+        "Female",
+        "Male",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Drones are:",
+      "options": [
+        "Male bees",
+        "Female bees",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The termite society has:",
+      "options": [
+        "King, queen, workers, soldiers",
+        "Only workers",
+        "Only queen",
+        "Only soldiers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Fish breathe through:",
+      "options": [
+        "Lungs",
+        "Gills",
+        "Skin",
+        "Trachea"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The swim bladder in fish helps with:",
+      "options": [
+        "Buoyancy",
+        "Breathing",
+        "Eating",
+        "Swimming"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cartilaginous fish include:",
+      "options": [
+        "Tuna",
+        "Sharks and rays",
+        "Salmon",
+        "Goldfish"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bony fish include:",
+      "options": [
+        "Sharks",
+        "Tuna",
+        "Rays",
+        "Skates"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The largest fish is the:",
+      "options": [
+        "Great white shark",
+        "Whale shark",
+        "Blue whale",
+        "Tuna"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Amphibians include:",
+      "options": [
+        "Frogs, toads, salamanders",
+        "Snakes and lizards",
+        "Birds",
+        "Mammals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Amphibians undergo:",
+      "options": [
+        "Metamorphosis",
+        "Direct development",
+        "No change",
+        "Fragmentation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest amphibian is the:",
+      "options": [
+        "Frog",
+        "Chinese giant salamander",
+        "Toad",
+        "Newt"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The smallest frog is:",
+      "options": [
+        "Poison dart frog",
+        "Paedophryne amauensis",
+        "Tree frog",
+        "Bullfrog"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Reptiles include:",
+      "options": [
+        "Snakes, lizards, turtles",
+        "Frogs and toads",
+        "Birds",
+        "Mammals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Reptiles lay eggs that have:",
+      "options": [
+        "Leathery shells",
+        "Hard shells",
+        "No shells",
+        "Soft shells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Birds lay eggs with:",
+      "options": [
+        "Hard shells",
+        "Leathery shells",
+        "No shells",
+        "Soft shells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest bird is the:",
+      "options": [
+        "Eagle",
+        "Ostrich",
+        "Penguin",
+        "Albatross"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The smallest bird is the:",
+      "options": [
+        "Sparrow",
+        "Hummingbird",
+        "Bee hummingbird",
+        "Robin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fastest bird is the:",
+      "options": [
+        "Eagle",
+        "Peregrine falcon",
+        "Swift",
+        "Hawk"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The flightless bird is the:",
+      "options": [
+        "Penguin",
+        "Ostrich",
+        "Kiwi",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Penguins are found in:",
+      "options": [
+        "Arctic",
+        "Antarctic",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The polar bear is found in:",
+      "options": [
+        "Arctic",
+        "Antarctic",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest mammal is the:",
+      "options": [
+        "Elephant",
+        "Blue whale",
+        "Giraffe",
+        "Hippopotamus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The smallest mammal is the:",
+      "options": [
+        "Bat",
+        "Shrew",
+        "Etruscan shrew",
+        "Mouse"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Placental mammals include:",
+      "options": [
+        "Kangaroo",
+        "Human",
+        "Koala",
+        "Opossum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Marsupial mammals include:",
+      "options": [
+        "Kangaroo",
+        "Human",
+        "Dog",
+        "Cat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Monotreme mammals include:",
+      "options": [
+        "Kangaroo",
+        "Platypus",
+        "Dog",
+        "Human"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The gestation period in humans is:",
+      "options": [
+        "7 months",
+        "8 months",
+        "9 months",
+        "10 months"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The elephant's gestation period is about:",
+      "options": [
+        "12 months",
+        "18 months",
+        "22 months",
+        "24 months"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The shortest gestation period is in:",
+      "options": [
+        "Elephant",
+        "Human",
+        "Opossum",
+        "Whale"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The largest egg is laid by:",
+      "options": [
+        "Chicken",
+        "Ostrich",
+        "Duck",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The smallest egg is laid by:",
+      "options": [
+        "Sparrow",
+        "Hummingbird",
+        "Robin",
+        "Finch"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The kangaroo is native to:",
+      "options": [
+        "Africa",
+        "Australia",
+        "Asia",
+        "South America"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The giraffe is native to:",
+      "options": [
+        "Asia",
+        "Africa",
+        "Australia",
+        "South America"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The tiger is native to:",
+      "options": [
+        "Africa",
+        "Asia",
+        "Australia",
+        "South America"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The lion is native to:",
+      "options": [
+        "Asia",
+        "Africa",
+        "Australia",
+        "South America"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The polar bear is native to:",
+      "options": [
+        "Antarctic",
+        "Arctic",
+        "Africa",
+        "Asia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The panda is native to:",
+      "options": [
+        "India",
+        "China",
+        "Japan",
+        "Russia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The koala is native to:",
+      "options": [
+        "Africa",
+        "Australia",
+        "Asia",
+        "South America"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The tapir is found in:",
+      "options": [
+        "Africa",
+        "Asia",
+        "South America",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The camel is found in:",
+      "options": [
+        "Deserts",
+        "Forests",
+        "Mountains",
+        "Oceans"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The adaptation of desert animals includes:",
+      "options": [
+        "Thick fur",
+        "Water conservation",
+        "Hibernation",
+        "Migration"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The adaptation of Arctic animals includes:",
+      "options": [
+        "Thick fur and fat",
+        "Thin fur",
+        "No fur",
+        "Scaly skin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Camouflage is used by animals to:",
+      "options": [
+        "Hide from predators",
+        "Attract mates",
+        "Hunt prey",
+        "Both A and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Migration in birds is an example of:",
+      "options": [
+        "Behavioral adaptation",
+        "Physical adaptation",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hibernation is a type of:",
+      "options": [
+        "Migration",
+        "Dormancy",
+        "Reproduction",
+        "Feeding"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Estivation is:",
+      "options": [
+        "Summer dormancy",
+        "Winter dormancy",
+        "Migration",
+        "Reproduction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The human body has how many muscles?",
+      "options": [
+        "Over 400",
+        "Over 600",
+        "Over 800",
+        "Over 1000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The human heart is about the size of:",
+      "options": [
+        "A fist",
+        "A head",
+        "A foot",
+        "A hand"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The human brain weighs approximately:",
+      "options": [
+        "1 kg",
+        "1.4 kg",
+        "2 kg",
+        "0.5 kg"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The longest bone in the human body is:",
+      "options": [
+        "Femur",
+        "Tibia",
+        "Humerus",
+        "Radius"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The smallest bone in the human body is:",
+      "options": [
+        "Stapes",
+        "Malleus",
+        "Incus",
+        "Tarsal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The human eye has how many types of photoreceptors?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The human ear has how many parts?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Blood type A can receive blood from:",
+      "options": [
+        "Type A and O",
+        "Type A only",
+        "Type O only",
+        "All types"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Blood type O is considered the:",
+      "options": [
+        "Universal donor",
+        "Universal recipient",
+        "Neither",
+        "Both"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Blood type AB is considered the:",
+      "options": [
+        "Universal donor",
+        "Universal recipient",
+        "Neither",
+        "Both"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The heart rate of a human is approximately:",
+      "options": [
+        "60-100 beats per minute",
+        "100-140 beats per minute",
+        "20-60 beats per minute",
+        "140-180 beats per minute"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The average body temperature of humans is:",
+      "options": [
+        "35°C",
+        "37°C",
+        "39°C",
+        "41°C"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The average human lifespan is approximately:",
+      "options": [
+        "60 years",
+        "72 years",
+        "80 years",
+        "90 years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which gender has a longer average lifespan?",
+      "options": [
+        "Male",
+        "Female",
+        "Both equal",
+        "Depends on country"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The leading cause of death worldwide is:",
+      "options": [
+        "Cancer",
+        "Heart disease",
+        "Infectious diseases",
+        "Accidents"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The human teeth number is:",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Wisdom teeth are the:",
+      "options": [
+        "First molars",
+        "Second molars",
+        "Third molars",
+        "Premolars"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The largest part of the human brain is the:",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Brainstem",
+        "Medulla"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cerebellum is responsible for:",
+      "options": [
+        "Balance and coordination",
+        "Thinking",
+        "Breathing",
+        "Digestion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The brainstem controls:",
+      "options": [
+        "Breathing",
+        "Heart rate",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The peripheral nervous system includes:",
+      "options": [
+        "Brain",
+        "Spinal cord",
+        "Nerves outside CNS",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The central nervous system includes:",
+      "options": [
+        "Brain only",
+        "Spinal cord only",
+        "Brain and spinal cord",
+        "All nerves"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The human endocrine system includes:",
+      "options": [
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal glands",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The hormone insulin is produced by the:",
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Kidney",
+        "Stomach"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The hormone thyroxine is produced by the:",
+      "options": [
+        "Thyroid gland",
+        "Pituitary gland",
+        "Adrenal gland",
+        "Pancreas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Adrenaline is produced by the:",
+      "options": [
+        "Adrenal glands",
+        "Pituitary gland",
+        "Thyroid gland",
+        "Pancreas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Growth hormone is produced by the:",
+      "options": [
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pancreas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest organ in the body is the:",
+      "options": [
+        "Liver",
+        "Skin",
+        "Brain",
+        "Heart"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The largest internal organ is the:",
+      "options": [
+        "Liver",
+        "Brain",
+        "Heart",
+        "Lungs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The human liver has how many lobes?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The lungs are located in the:",
+      "options": [
+        "Abdominal cavity",
+        "Thoracic cavity",
+        "Pelvic cavity",
+        "Cranial cavity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The heart is located in the:",
+      "options": [
+        "Thoracic cavity",
+        "Abdominal cavity",
+        "Pelvic cavity",
+        "Cranial cavity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The kidneys are located in the:",
+      "options": [
+        "Abdominal cavity",
+        "Thoracic cavity",
+        "Pelvic cavity",
+        "Cranial cavity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The stomach is located in the:",
+      "options": [
+        "Thoracic cavity",
+        "Abdominal cavity",
+        "Pelvic cavity",
+        "Cranial cavity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The small intestine is about:",
+      "options": [
+        "3 meters",
+        "6 meters",
+        "9 meters",
+        "12 meters"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The large intestine is about:",
+      "options": [
+        "0.5 meters",
+        "1.5 meters",
+        "2.5 meters",
+        "3.5 meters"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The gallbladder stores:",
+      "options": [
+        "Bile",
+        "Enzymes",
+        "Blood",
+        "Water"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bile is produced by the:",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Stomach",
+        "Gallbladder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The pancreas produces:",
+      "options": [
+        "Insulin and digestive enzymes",
+        "Bile",
+        "Growth hormone",
+        "Thyroxine"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The human blood volume is approximately:",
+      "options": [
+        "2-3 liters",
+        "4-5 liters",
+        "6-7 liters",
+        "8-9 liters"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Red blood cells have a lifespan of about:",
+      "options": [
+        "30 days",
+        "60 days",
+        "120 days",
+        "180 days"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "White blood cells are responsible for:",
+      "options": [
+        "Oxygen transport",
+        "Immunity",
+        "Blood clotting",
+        "Nutrient transport"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Platelets are involved in:",
+      "options": [
+        "Blood clotting",
+        "Oxygen transport",
+        "Immunity",
+        "Nutrient transport"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The pH of human blood is:",
+      "options": [
+        "6.4",
+        "7.4",
+        "8.4",
+        "5.4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The human body has about:",
+      "options": [
+        "25 trillion cells",
+        "37 trillion cells",
+        "50 trillion cells",
+        "75 trillion cells"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The human body has about:",
+      "options": [
+        "60% water",
+        "70% water",
+        "80% water",
+        "90% water"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The largest joint in the human body is the:",
+      "options": [
+        "Shoulder",
+        "Hip",
+        "Knee",
+        "Elbow"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The smallest joint in the human body is the:",
+      "options": [
+        "Finger joint",
+        "Toe joint",
+        "Ear joint",
+        "Wrist joint"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The most common type of cancer in humans is:",
+      "options": [
+        "Lung cancer",
+        "Breast cancer",
+        "Skin cancer",
+        "Prostate cancer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The deadliest cancer in humans is:",
+      "options": [
+        "Breast cancer",
+        "Lung cancer",
+        "Prostate cancer",
+        "Colon cancer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The vaccine for polio was developed by:",
+      "options": [
+        "Edward Jenner",
+        "Jonas Salk",
+        "Louis Pasteur",
+        "Robert Koch"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The vaccine for smallpox was developed by:",
+      "options": [
+        "Edward Jenner",
+        "Jonas Salk",
+        "Louis Pasteur",
+        "Robert Koch"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The vaccine for rabies was developed by:",
+      "options": [
+        "Edward Jenner",
+        "Jonas Salk",
+        "Louis Pasteur",
+        "Robert Koch"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The most common infectious disease is:",
+      "options": [
+        "Malaria",
+        "Influenza",
+        "Tuberculosis",
+        "HIV"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The most common parasitic disease is:",
+      "options": [
+        "Malaria",
+        "Amoebiasis",
+        "Leishmaniasis",
+        "Toxoplasmosis"
+      ],
+      "answer": 0
+    }
+  ]
+}

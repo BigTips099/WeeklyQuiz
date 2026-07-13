@@ -1,0 +1,811 @@
+{
+  "category": "Probability & Distributions",
+  "total_questions": 164,
+  "questions": [
+    {
+      "question": "A random variable that can take only a finite number of values is called:",
+      "options": ["Continuous random variable", "Discrete random variable", "Mixed random variable", "Qualitative variable"],
+      "answer": 3
+    },
+    {
+      "question": "The probability density function of a continuous random variable must satisfy:",
+      "options": ["∫f(x)dx = 1", "∫f(x)dx = 0", "∫f(x)dx = ∞", "∫f(x)dx = -1"],
+      "answer": 0
+    },
+    {
+      "question": "The cumulative distribution function F(x) gives:",
+      "options": ["P(X = x)", "P(X ≤ x)", "P(X > x)", "P(X ≥ x)"],
+      "answer": 1
+    },
+    {
+      "question": "For a continuous random variable, P(X = a) is always:",
+      "options": ["1", "0.5", "0", "Cannot be determined"],
+      "answer": 2
+    },
+    {
+      "question": "The expected value of a constant c is:",
+      "options": ["0", "c", "c²", "1/c"],
+      "answer": 1
+    },
+    {
+      "question": "Var(aX + b) is equal to:",
+      "options": ["a²Var(X)", "aVar(X)", "Var(X) + b", "Var(X)"],
+      "answer": 0
+    },
+    {
+      "question": "If X and Y are independent, then Var(X - Y) is:",
+      "options": ["Var(X) - Var(Y)", "Var(X) + Var(Y)", "Var(X) × Var(Y)", "Var(X)/Var(Y)"],
+      "answer": 1
+    },
+    {
+      "question": "The moment generating function of a random variable is:",
+      "options": ["E(e^tX)", "E(X^t)", "E(t^X)", "E(e^X)"],
+      "answer": 0
+    },
+    {
+      "question": "The rth moment about origin is defined as:",
+      "options": ["E(X^r)", "E[(X-μ)^r]", "E(X)^r", "E(X^r - μ)"],
+      "answer": 0
+    },
+    {
+      "question": "The first moment about mean is always:",
+      "options": ["0", "1", "Variance", "Standard Deviation"],
+      "answer": 0
+    },
+    {
+      "question": "The second moment about mean is equal to:",
+      "options": ["Mean", "Variance", "Standard Deviation", "Skewness"],
+      "answer": 1
+    },
+    {
+      "question": "The third moment about mean measures:",
+      "options": ["Dispersion", "Skewness", "Kurtosis", "Central tendency"],
+      "answer": 1
+    },
+    {
+      "question": "The fourth moment about mean measures:",
+      "options": ["Dispersion", "Skewness", "Kurtosis", "Central tendency"],
+      "answer": 2
+    },
+    {
+      "question": "For a symmetric distribution, the third moment about mean is:",
+      "options": ["0", "1", "Positive", "Negative"],
+      "answer": 0
+    },
+    {
+      "question": "A distribution with β2 > 3 is called:",
+      "options": ["Mesokurtic", "Leptokurtic", "Platykurtic", "Normal"],
+      "answer": 1
+    },
+    {
+      "question": "A distribution with β2 < 3 is called:",
+      "options": ["Mesokurtic", "Leptokurtic", "Platykurtic", "Normal"],
+      "answer": 2
+    },
+    {
+      "question": "A distribution with β2 = 3 is called:",
+      "options": ["Mesokurtic", "Leptokurtic", "Platykurtic", "Skewed"],
+      "answer": 0
+    },
+    {
+      "question": "Chebyshev's inequality states that at least 1 - 1/k² of data lies within:",
+      "options": ["k standard deviations", "k mean deviations", "k variances", "k quartiles"],
+      "answer": 0
+    },
+    {
+      "question": "The law of large numbers states that sample mean converges to:",
+      "options": ["Population mean", "Sample median", "Population variance", "Sample variance"],
+      "answer": 0
+    },
+    {
+      "question": "The central limit theorem applies to:",
+      "options": ["Any distribution", "Only normal distribution", "Only binomial distribution", "Only Poisson distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The standard error of the mean decreases as:",
+      "options": ["Sample size increases", "Sample size decreases", "Population size increases", "Population size decreases"],
+      "answer": 0
+    },
+    {
+      "question": "The Bernoulli distribution has parameter:",
+      "options": ["n", "p", "λ", "μ"],
+      "answer": 1
+    },
+    {
+      "question": "The mean of Bernoulli distribution is:",
+      "options": ["p", "q", "pq", "1-p"],
+      "answer": 0
+    },
+    {
+      "question": "The variance of Bernoulli distribution is:",
+      "options": ["p", "q", "pq", "1-p"],
+      "answer": 2
+    },
+    {
+      "question": "The geometric distribution models:",
+      "options": ["Number of successes in n trials", "Number of trials until first success", "Number of events in interval", "Number of draws without replacement"],
+      "answer": 1
+    },
+    {
+      "question": "The mean of geometric distribution is:",
+      "options": ["1/p", "p/q", "q/p", "1/q"],
+      "answer": 0
+    },
+    {
+      "question": "The variance of geometric distribution is:",
+      "options": ["p/q²", "q/p²", "1/p²", "1/q²"],
+      "answer": 1
+    },
+    {
+      "question": "The negative binomial distribution models:",
+      "options": ["Number of trials until r successes", "Number of successes in n trials", "Number of events in interval", "Number of draws without replacement"],
+      "answer": 0
+    },
+    {
+      "question": "The exponential distribution models:",
+      "options": ["Time between events", "Number of events", "Number of successes", "Number of failures"],
+      "answer": 0
+    },
+    {
+      "question": "The exponential distribution has parameter:",
+      "options": ["λ", "μ", "σ", "p"],
+      "answer": 0
+    },
+    {
+      "question": "The mean of exponential distribution is:",
+      "options": ["1/λ", "λ", "1/λ²", "λ²"],
+      "answer": 0
+    },
+    {
+      "question": "The variance of exponential distribution is:",
+      "options": ["1/λ²", "1/λ", "λ²", "λ"],
+      "answer": 0
+    },
+    {
+      "question": "The gamma distribution generalizes:",
+      "options": ["Exponential distribution", "Normal distribution", "Binomial distribution", "Poisson distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The gamma distribution has parameters:",
+      "options": ["α and β", "μ and σ", "n and p", "λ"],
+      "answer": 0
+    },
+    {
+      "question": "The beta distribution is defined on interval:",
+      "options": ["[0,1]", "[0,∞]", "[-∞,∞]", "[1,∞]"],
+      "answer": 0
+    },
+    {
+      "question": "The beta distribution has parameters:",
+      "options": ["α and β", "μ and σ", "n and p", "λ"],
+      "answer": 0
+    },
+    {
+      "question": "The uniform distribution on [a,b] has mean:",
+      "options": ["(a+b)/2", "(b-a)/2", "(a+b)/4", "(b-a)/4"],
+      "answer": 0
+    },
+    {
+      "question": "The uniform distribution on [a,b] has variance:",
+      "options": ["(b-a)²/12", "(b-a)/12", "(b-a)²/6", "(b-a)/6"],
+      "answer": 0
+    },
+    {
+      "question": "The log-normal distribution is obtained by:",
+      "options": ["Taking log of normal", "Taking exponential of normal", "Taking square of normal", "Taking reciprocal of normal"],
+      "answer": 0
+    },
+    {
+      "question": "The Weibull distribution is used in:",
+      "options": ["Reliability analysis", "Quality control", "Testing hypotheses", "Estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The Weibull distribution has parameters:",
+      "options": ["Shape and scale", "Mean and variance", "Location and scale", "Shape and location"],
+      "answer": 0
+    },
+    {
+      "question": "The Pareto distribution is used in:",
+      "options": ["Income distribution", "Test scores", "Exam results", "Temperature data"],
+      "answer": 0
+    },
+    {
+      "question": "The Pareto distribution has parameters:",
+      "options": ["Shape and scale", "Mean and variance", "Location and scale", "Shape and location"],
+      "answer": 0
+    },
+    {
+      "question": "The Laplace distribution is also called:",
+      "options": ["Double exponential", "Double normal", "Double Poisson", "Double binomial"],
+      "answer": 0
+    },
+    {
+      "question": "The t-distribution is used for:",
+      "options": ["Small sample inference", "Large sample inference", "Variance testing", "Proportion testing"],
+      "answer": 0
+    },
+    {
+      "question": "The t-distribution has degrees of freedom:",
+      "options": ["n-1", "n", "n-2", "2n-1"],
+      "answer": 0
+    },
+    {
+      "question": "The t-distribution approaches normal when:",
+      "options": ["df → ∞", "df → 0", "df → 1", "df → -∞"],
+      "answer": 0
+    },
+    {
+      "question": "The F-distribution is used for:",
+      "options": ["Variance ratio test", "Mean test", "Proportion test", "Correlation test"],
+      "answer": 0
+    },
+    {
+      "question": "The F-distribution has degrees of freedom:",
+      "options": ["Two", "One", "Three", "Four"],
+      "answer": 0
+    },
+    {
+      "question": "The chi-square distribution is used for:",
+      "options": ["Goodness of fit test", "Mean test", "Variance test", "Correlation test"],
+      "answer": 0
+    },
+    {
+      "question": "The chi-square distribution has mean:",
+      "options": ["df", "2df", "df/2", "df²"],
+      "answer": 0
+    },
+    {
+      "question": "The chi-square distribution has variance:",
+      "options": ["2df", "df", "df/2", "df²"],
+      "answer": 0
+    },
+    {
+      "question": "The beta distribution is conjugate prior for:",
+      "options": ["Binomial distribution", "Normal distribution", "Poisson distribution", "Exponential distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The gamma distribution is conjugate prior for:",
+      "options": ["Poisson distribution", "Binomial distribution", "Normal distribution", "Exponential distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The normal distribution is conjugate prior for:",
+      "options": ["Normal mean", "Binomial p", "Poisson λ", "Exponential λ"],
+      "answer": 0
+    },
+    {
+      "question": "The Dirichlet distribution is conjugate prior for:",
+      "options": ["Multinomial distribution", "Binomial distribution", "Normal distribution", "Poisson distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The probability of a Type I error is denoted by:",
+      "options": ["α", "β", "γ", "δ"],
+      "answer": 0
+    },
+    {
+      "question": "The probability of a Type II error is denoted by:",
+      "options": ["β", "α", "γ", "δ"],
+      "answer": 0
+    },
+    {
+      "question": "The power of a test is:",
+      "options": ["1-β", "1-α", "α", "β"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence level is:",
+      "options": ["1-α", "1-β", "α", "β"],
+      "answer": 0
+    },
+    {
+      "question": "A random sample is one where:",
+      "options": ["Every unit has equal chance", "Only some units have chance", "Units are chosen arbitrarily", "Units are chosen systematically"],
+      "answer": 0
+    },
+    {
+      "question": "A simple random sample with replacement means:",
+      "options": ["Unit can be selected more than once", "Unit can be selected only once", "Unit cannot be selected", "Unit is selected randomly"],
+      "answer": 0
+    },
+    {
+      "question": "A simple random sample without replacement means:",
+      "options": ["Unit can be selected only once", "Unit can be selected more than once", "Unit cannot be selected", "Unit is selected randomly"],
+      "answer": 0
+    },
+    {
+      "question": "Stratified sampling involves:",
+      "options": ["Dividing population into groups", "Dividing population into clusters", "Dividing population into stages", "Dividing population into phases"],
+      "answer": 0
+    },
+    {
+      "question": "Cluster sampling involves:",
+      "options": ["Dividing population into groups", "Dividing population into strata", "Dividing population into stages", "Dividing population into phases"],
+      "answer": 0
+    },
+    {
+      "question": "Systematic sampling involves:",
+      "options": ["Selecting every kth unit", "Selecting random units", "Selecting units by judgment", "Selecting units by convenience"],
+      "answer": 0
+    },
+    {
+      "question": "The sampling frame is:",
+      "options": ["List of all units in population", "List of sample units", "List of selected units", "List of excluded units"],
+      "answer": 0
+    },
+    {
+      "question": "Sampling error is:",
+      "options": ["Difference between sample and population values", "Difference between two sample values", "Difference between two population values", "Error in data collection"],
+      "answer": 0
+    },
+    {
+      "question": "Non-sampling error includes:",
+      "options": ["Measurement error", "Sampling error", "Random error", "Systematic error"],
+      "answer": 0
+    },
+    {
+      "question": "The bootstrap method is used to:",
+      "options": ["Estimate standard errors", "Test hypotheses", "Estimate mean", "Estimate variance"],
+      "answer": 0
+    },
+    {
+      "question": "The jackknife method is used to:",
+      "options": ["Estimate bias", "Test hypotheses", "Estimate mean", "Estimate variance"],
+      "answer": 0
+    },
+    {
+      "question": "The permutation test is a:",
+      "options": ["Non-parametric test", "Parametric test", "Bayesian test", "Frequentist test"],
+      "answer": 0
+    },
+    {
+      "question": "The exact test is used when:",
+      "options": ["Sample size is small", "Sample size is large", "Population is normal", "Population is skewed"],
+      "answer": 0
+    },
+    {
+      "question": "The Monte Carlo method involves:",
+      "options": ["Simulation", "Analytical solution", "Approximation", "Exact computation"],
+      "answer": 0
+    },
+    {
+      "question": "The Markov Chain Monte Carlo method is used for:",
+      "options": ["Bayesian inference", "Frequentist inference", "Hypothesis testing", "Estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibbs sampler is a type of:",
+      "options": ["MCMC method", "Bootstrap method", "Jackknife method", "Permutation method"],
+      "answer": 0
+    },
+    {
+      "question": "The Metropolis-Hastings algorithm is a:",
+      "options": ["MCMC method", "Bootstrap method", "Jackknife method", "Permutation method"],
+      "answer": 0
+    },
+    {
+      "question": "The prior distribution in Bayesian statistics represents:",
+      "options": ["Belief before observing data", "Belief after observing data", "Belief about sample", "Belief about population"],
+      "answer": 0
+    },
+    {
+      "question": "The posterior distribution in Bayesian statistics represents:",
+      "options": ["Belief after observing data", "Belief before observing data", "Belief about sample", "Belief about population"],
+      "answer": 0
+    },
+    {
+      "question": "The likelihood function in Bayesian statistics is:",
+      "options": ["Probability of data given parameter", "Probability of parameter given data", "Prior distribution", "Posterior distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The Bayes factor is used for:",
+      "options": ["Model comparison", "Parameter estimation", "Hypothesis testing", "Confidence intervals"],
+      "answer": 0
+    },
+    {
+      "question": "The credible interval in Bayesian statistics is analogous to:",
+      "options": ["Confidence interval", "Prediction interval", "Tolerance interval", "Reference interval"],
+      "answer": 0
+    },
+    {
+      "question": "The empirical Bayes method uses:",
+      "options": ["Data to estimate prior", "Subjective prior", "Non-informative prior", "Informative prior"],
+      "answer": 0
+    },
+    {
+      "question": "The hierarchical Bayes model has:",
+      "options": ["Multiple levels of parameters", "Single level parameter", "No parameters", "Infinite parameters"],
+      "answer": 0
+    },
+    {
+      "question": "The Bayesian network represents:",
+      "options": ["Probabilistic relationships among variables", "Deterministic relationships", "Causal relationships", "Correlational relationships"],
+      "answer": 0
+    },
+    {
+      "question": "The directed acyclic graph in Bayesian networks shows:",
+      "options": ["Dependencies among variables", "Independencies among variables", "Correlations among variables", "Covariances among variables"],
+      "answer": 0
+    },
+    {
+      "question": "The expectation-maximization algorithm is used for:",
+      "options": ["Missing data", "Complete data", "Categorical data", "Continuous data"],
+      "answer": 0
+    },
+    {
+      "question": "The latent variable model includes:",
+      "options": ["Unobserved variables", "Observed variables", "Both observed and unobserved", "Neither observed nor unobserved"],
+      "answer": 0
+    },
+    {
+      "question": "The factor analysis model is an example of:",
+      "options": ["Latent variable model", "Observed variable model", "Mixed model", "Fixed model"],
+      "answer": 0
+    },
+    {
+      "question": "The principal component analysis is used for:",
+      "options": ["Dimensionality reduction", "Classification", "Clustering", "Regression"],
+      "answer": 0
+    },
+    {
+      "question": "The factor analysis is used for:",
+      "options": ["Identifying latent factors", "Reducing dimensions", "Classifying data", "Clustering data"],
+      "answer": 0
+    },
+    {
+      "question": "The cluster analysis is used for:",
+      "options": ["Grouping similar observations", "Reducing dimensions", "Classifying observations", "Predicting outcomes"],
+      "answer": 0
+    },
+    {
+      "question": "The discriminant analysis is used for:",
+      "options": ["Classification", "Clustering", "Dimensionality reduction", "Regression"],
+      "answer": 0
+    },
+    {
+      "question": "The logistic regression is used for:",
+      "options": ["Binary classification", "Multi-class classification", "Continuous outcomes", "Ordinal outcomes"],
+      "answer": 0
+    },
+    {
+      "question": "The multinomial logistic regression is used for:",
+      "options": ["Multi-class classification", "Binary classification", "Continuous outcomes", "Ordinal outcomes"],
+      "answer": 0
+    },
+    {
+      "question": "The Poisson regression is used for:",
+      "options": ["Count data", "Binary data", "Continuous data", "Ordinal data"],
+      "answer": 0
+    },
+    {
+      "question": "The negative binomial regression is used for:",
+      "options": ["Overdispersed count data", "Binary data", "Continuous data", "Ordinal data"],
+      "answer": 0
+    },
+    {
+      "question": "The zero-inflated Poisson model is used for:",
+      "options": ["Excess zeros in count data", "Binary data", "Continuous data", "Ordinal data"],
+      "answer": 0
+    },
+    {
+      "question": "The hurdle model is used for:",
+      "options": ["Two-part count data", "Binary data", "Continuous data", "Ordinal data"],
+      "answer": 0
+    },
+    {
+      "question": "The proportional hazards model is used for:",
+      "options": ["Survival analysis", "Regression analysis", "Classification", "Clustering"],
+      "answer": 0
+    },
+    {
+      "question": "The Kaplan-Meier estimator is used for:",
+      "options": ["Survival analysis", "Regression analysis", "Classification", "Clustering"],
+      "answer": 0
+    },
+    {
+      "question": "The log-rank test is used to compare:",
+      "options": ["Survival curves", "Regression coefficients", "Classification accuracy", "Cluster quality"],
+      "answer": 0
+    },
+    {
+      "question": "The Cox proportional hazards model assumes:",
+      "options": ["Proportional hazards", "Constant hazards", "Increasing hazards", "Decreasing hazards"],
+      "answer": 0
+    },
+    {
+      "question": "The accelerated failure time model assumes:",
+      "options": ["Accelerated failure time", "Proportional hazards", "Constant hazards", "Increasing hazards"],
+      "answer": 0
+    },
+    {
+      "question": "The frailty model accounts for:",
+      "options": ["Unobserved heterogeneity", "Observed heterogeneity", "Measurement error", "Sampling error"],
+      "answer": 0
+    },
+    {
+      "question": "The multilevel model accounts for:",
+      "options": ["Hierarchical data structure", "Cross-sectional data", "Time series data", "Spatial data"],
+      "answer": 0
+    },
+    {
+      "question": "The random effects model treats:",
+      "options": ["Effects as random variables", "Effects as fixed constants", "Effects as zero", "Effects as infinity"],
+      "answer": 0
+    },
+    {
+      "question": "The fixed effects model treats:",
+      "options": ["Effects as fixed constants", "Effects as random variables", "Effects as zero", "Effects as infinity"],
+      "answer": 0
+    },
+    {
+      "question": "The mixed effects model includes:",
+      "options": ["Both fixed and random effects", "Only fixed effects", "Only random effects", "Neither effects"],
+      "answer": 0
+    },
+    {
+      "question": "The generalized linear model extends:",
+      "options": ["Linear model to non-normal responses", "Linear model to normal responses", "Linear model to binary responses", "Linear model to count responses"],
+      "answer": 0
+    },
+    {
+      "question": "The link function in GLM connects:",
+      "options": ["Linear predictor to mean", "Response to predictor", "Error to predictor", "Mean to variance"],
+      "answer": 0
+    },
+    {
+      "question": "The canonical link function is:",
+      "options": ["Natural link for exponential family", "Arbitrary link", "Linear link", "Log link"],
+      "answer": 0
+    },
+    {
+      "question": "The overdispersion occurs when:",
+      "options": ["Variance exceeds mean", "Mean exceeds variance", "Variance equals mean", "Mean equals variance"],
+      "answer": 0
+    },
+    {
+      "question": "The quasi-likelihood method handles:",
+      "options": ["Overdispersion", "Underdispersion", "No dispersion", "Zero dispersion"],
+      "answer": 0
+    },
+    {
+      "question": "The generalized estimating equations are used for:",
+      "options": ["Correlated data", "Independent data", "Categorical data", "Continuous data"],
+      "answer": 0
+    },
+    {
+      "question": "The longitudinal data analysis deals with:",
+      "options": ["Repeated measurements over time", "Cross-sectional measurements", "Time series data", "Spatial data"],
+      "answer": 0
+    },
+    {
+      "question": "The time series analysis deals with:",
+      "options": ["Data collected over time", "Data collected over space", "Data collected over cross-section", "Data collected over panels"],
+      "answer": 0
+    },
+    {
+      "question": "The autoregressive model uses:",
+      "options": ["Past values of the series", "Past values of other series", "Future values of the series", "Past errors"],
+      "answer": 0
+    },
+    {
+      "question": "The moving average model uses:",
+      "options": ["Past errors", "Past values", "Future values", "Current values"],
+      "answer": 0
+    },
+    {
+      "question": "The ARIMA model combines:",
+      "options": ["Autoregressive and moving average", "Only autoregressive", "Only moving average", "Neither"],
+      "answer": 0
+    },
+    {
+      "question": "The stationarity in time series means:",
+      "options": ["Constant mean and variance", "Changing mean and variance", "No trend", "No seasonality"],
+      "answer": 0
+    },
+    {
+      "question": "The unit root test is used for:",
+      "options": ["Checking stationarity", "Checking normality", "Checking independence", "Checking linearity"],
+      "answer": 0
+    },
+    {
+      "question": "The cointegration in time series means:",
+      "options": ["Long-run relationship between series", "Short-run relationship", "No relationship", "Negative relationship"],
+      "answer": 0
+    },
+    {
+      "question": "The error correction model uses:",
+      "options": ["Short-run dynamics and long-run equilibrium", "Only short-run dynamics", "Only long-run equilibrium", "Neither"],
+      "answer": 0
+    },
+    {
+      "question": "The VAR model includes:",
+      "options": ["Multiple time series", "Single time series", "Cross-sectional data", "Panel data"],
+      "answer": 0
+    },
+    {
+      "question": "The impulse response function shows:",
+      "options": ["Response of variable to shock", "Response of variable to trend", "Response of variable to season", "Response of variable to cycle"],
+      "answer": 0
+    },
+    {
+      "question": "The forecast error variance decomposition shows:",
+      "options": ["Proportion of variance explained by each shock", "Proportion of variance explained by trend", "Proportion of variance explained by season", "Proportion of variance explained by cycle"],
+      "answer": 0
+    },
+    {
+      "question": "The Granger causality test checks:",
+      "options": ["Predictive causality", "True causality", "No causality", "Negative causality"],
+      "answer": 0
+    },
+    {
+      "question": "The structural break test checks:",
+      "options": ["Change in parameters over time", "Change in variables over time", "Change in error over time", "Change in trend over time"],
+      "answer": 0
+    },
+    {
+      "question": "The Chow test is used for:",
+      "options": ["Structural break detection", "Parameter estimation", "Hypothesis testing", "Model selection"],
+      "answer": 0
+    },
+    {
+      "question": "The CUSUM test is used for:",
+      "options": ["Parameter stability", "Parameter estimation", "Hypothesis testing", "Model selection"],
+      "answer": 0
+    },
+    {
+      "question": "The ARCH model is used for:",
+      "options": ["Volatility modeling", "Mean modeling", "Trend modeling", "Seasonality modeling"],
+      "answer": 0
+    },
+    {
+      "question": "The GARCH model is used for:",
+      "options": ["Volatility modeling", "Mean modeling", "Trend modeling", "Seasonality modeling"],
+      "answer": 0
+    },
+    {
+      "question": "The stochastic volatility model is used for:",
+      "options": ["Volatility modeling", "Mean modeling", "Trend modeling", "Seasonality modeling"],
+      "answer": 0
+    },
+    {
+      "question": "The risk metrics model is used for:",
+      "options": ["Value at Risk", "Expected return", "Portfolio optimization", "Asset allocation"],
+      "answer": 0
+    },
+    {
+      "question": "The copula model is used for:",
+      "options": ["Dependence modeling", "Mean modeling", "Variance modeling", "Skewness modeling"],
+      "answer": 0
+    },
+    {
+      "question": "The quantile regression is used for:",
+      "options": ["Modeling quantiles of response", "Modeling mean of response", "Modeling variance of response", "Modeling median of response"],
+      "answer": 0
+    },
+    {
+      "question": "The robust regression is used for:",
+      "options": ["Outlier-resistant estimation", "Efficient estimation", "Unbiased estimation", "Consistent estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The ridge regression is used for:",
+      "options": ["Handling multicollinearity", "Handling heteroscedasticity", "Handling autocorrelation", "Handling non-linearity"],
+      "answer": 0
+    },
+    {
+      "question": "The LASSO regression is used for:",
+      "options": ["Variable selection", "Parameter estimation", "Hypothesis testing", "Model validation"],
+      "answer": 0
+    },
+    {
+      "question": "The elastic net regression combines:",
+      "options": ["Ridge and LASSO", "Ridge and OLS", "LASSO and OLS", "Ridge and GLM"],
+      "answer": 0
+    },
+    {
+      "question": "The principal component regression uses:",
+      "options": ["Principal components as predictors", "Original predictors", "Latent factors", "Random components"],
+      "answer": 0
+    },
+    {
+      "question": "The partial least squares regression uses:",
+      "options": ["Latent components", "Principal components", "Original predictors", "Random components"],
+      "answer": 0
+    },
+    {
+      "question": "The polynomial regression uses:",
+      "options": ["Polynomial terms of predictors", "Linear terms of predictors", "Interaction terms", "Random terms"],
+      "answer": 0
+    },
+    {
+      "question": "The spline regression uses:",
+      "options": ["Piecewise polynomials", "Global polynomials", "Linear functions", "Non-linear functions"],
+      "answer": 0
+    },
+    {
+      "question": "The kernel regression uses:",
+      "options": ["Kernel functions", "Linear functions", "Polynomial functions", "Spline functions"],
+      "answer": 0
+    },
+    {
+      "question": "The local polynomial regression uses:",
+      "options": ["Local polynomial fits", "Global polynomial fits", "Linear fits", "Non-linear fits"],
+      "answer": 0
+    },
+    {
+      "question": "The gam uses:",
+      "options": ["Generalized additive models", "Generalized linear models", "Generalized mixed models", "Generalized additive mixed models"],
+      "answer": 0
+    },
+    {
+      "question": "The gamm uses:",
+      "options": ["Generalized additive mixed models", "Generalized additive models", "Generalized linear models", "Generalized mixed models"],
+      "answer": 0
+    },
+    {
+      "question": "The nonlinear regression uses:",
+      "options": ["Non-linear functions", "Linear functions", "Polynomial functions", "Spline functions"],
+      "answer": 0
+    },
+    {
+      "question": "The segmented regression uses:",
+      "options": ["Multiple regression lines", "Single regression line", "Non-linear regression", "Polynomial regression"],
+      "answer": 0
+    },
+    {
+      "question": "The mixture model uses:",
+      "options": ["Multiple distributions", "Single distribution", "Normal distribution", "Binomial distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The finite mixture model uses:",
+      "options": ["Finite number of components", "Infinite number of components", "Single component", "Multiple components"],
+      "answer": 0
+    },
+    {
+      "question": "The hidden Markov model uses:",
+      "options": ["Hidden states", "Observed states", "Hidden parameters", "Observed parameters"],
+      "answer": 0
+    },
+    {
+      "question": "The Markov switching model uses:",
+      "options": ["Regime switching", "Constant regime", "Linear regime", "Non-linear regime"],
+      "answer": 0
+    },
+    {
+      "question": "The state space model uses:",
+      "options": ["State variables", "Observed variables", "Hidden variables", "Random variables"],
+      "answer": 0
+    },
+    {
+      "question": "The Kalman filter is used for:",
+      "options": ["State estimation", "Parameter estimation", "Model selection", "Forecasting"],
+      "answer": 0
+    },
+    {
+      "question": "The particle filter is used for:",
+      "options": ["Non-linear state estimation", "Linear state estimation", "Parameter estimation", "Model selection"],
+      "answer": 0
+    },
+    {
+      "question": "The bootstrap filter is used for:",
+      "options": ["Sequential Monte Carlo", "Markov Chain Monte Carlo", "Approximate Bayesian Computation", "Variational Bayes"],
+      "answer": 0
+    },
+    {
+      "question": "The approximate Bayesian computation is used for:",
+      "options": ["Complex likelihoods", "Simple likelihoods", "Known likelihoods", "Unknown likelihoods"],
+      "answer": 0
+    },
+    {
+      "question": "The variational Bayes is used for:",
+      "options": ["Approximate posterior", "Exact posterior", "Prior distribution", "Likelihood function"],
+      "answer": 0
+    }
+  ]
+}

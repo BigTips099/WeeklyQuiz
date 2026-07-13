@@ -1,0 +1,2866 @@
+{
+  "category": "Classical Mechanics",
+  "total_questions": 378,
+  "questions": [
+    {
+      "question": "Newton's first law of motion is also known as:",
+      "options": [
+        "Law of Gravitation",
+        "Law of Inertia",
+        "Law of Action-Reaction",
+        "Law of Acceleration"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The SI unit of force is:",
+      "options": [
+        "Joule",
+        "Pascal",
+        "Newton",
+        "Watt"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A body at rest will remain at rest unless acted upon by an external force. This is Newton's:",
+      "options": [
+        "Law of gravitation",
+        "Third law",
+        "First law",
+        "Second law"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The acceleration produced by a force is directly proportional to the force and inversely proportional to the mass. This is Newton's:",
+      "options": [
+        "Third law",
+        "Second law",
+        "Law of gravitation",
+        "First law"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The formula for Newton's second law is:",
+      "options": [
+        "F = a/m",
+        "F = mv",
+        "F = m/a",
+        "F = ma"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "For every action, there is an equal and opposite reaction. This is Newton's:",
+      "options": [
+        "First law",
+        "Third law",
+        "Law of gravitation",
+        "Second law"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The SI unit of momentum is:",
+      "options": [
+        "kg·m/s",
+        "N·s",
+        "Both A and C",
+        "kg·m/s²"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The rate of change of momentum is equal to:",
+      "options": [
+        "Velocity",
+        "Force",
+        "Energy",
+        "Acceleration"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The work done by a force is defined as:",
+      "options": [
+        "F × a",
+        "F × d × cosθ",
+        "F × t",
+        "F × v"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The SI unit of work is:",
+      "options": [
+        "Joule",
+        "Pascal",
+        "Newton",
+        "Watt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Power is defined as:",
+      "options": [
+        "Energy per unit mass",
+        "Force per unit time",
+        "Work done per unit time",
+        "Force per unit area"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The SI unit of power is:",
+      "options": [
+        "Joule",
+        "Newton",
+        "Pascal",
+        "Watt"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "1 horsepower is equal to:",
+      "options": [
+        "550 W",
+        "500 W",
+        "746 W",
+        "1000 W"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Energy possessed by a body due to its motion is called:",
+      "options": [
+        "Potential energy",
+        "Mechanical energy",
+        "Kinetic energy",
+        "Chemical energy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The formula for kinetic energy is:",
+      "options": [
+        "½kx²",
+        "mgh",
+        "½mv²",
+        "mv"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Energy possessed by a body due to its position is called:",
+      "options": [
+        "Potential energy",
+        "Mechanical energy",
+        "Chemical energy",
+        "Kinetic energy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The formula for gravitational potential energy is:",
+      "options": [
+        "mgh",
+        "½kx²",
+        "Fd",
+        "½mv²"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The formula for elastic potential energy is:",
+      "options": [
+        "½mv²",
+        "mgh",
+        "½kx²",
+        "Fd"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The law of conservation of energy states that energy:",
+      "options": [
+        "Can be destroyed",
+        "Can be created",
+        "Can be created but not destroyed",
+        "Cannot be created or destroyed"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The center of mass of a system of particles moves as if all the mass is concentrated at that point. This is the:",
+      "options": [
+        "Work-energy theorem",
+        "Torque theorem",
+        "Angular momentum theorem",
+        "Center of mass theorem"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The product of force and time is called:",
+      "options": [
+        "Energy",
+        "Impulse",
+        "Momentum",
+        "Work"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The impulse-momentum theorem states that impulse equals:",
+      "options": [
+        "Change in energy",
+        "Change in velocity",
+        "Change in force",
+        "Change in momentum"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The force of gravity between two objects is given by:",
+      "options": [
+        "Gm₁m₂·r",
+        "Gm₁m₂/r²",
+        "Gm₁m₂/r",
+        "Gm₁m₂·r²"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The gravitational constant G has the value approximately:",
+      "options": [
+        "6.67 × 10⁶ N·m²/kg²",
+        "6.67 × 10⁻¹³ N·m²/kg²",
+        "6.67 × 10⁻¹¹ N·m²/kg²",
+        "6.67 × 10⁻⁹ N·m²/kg²"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The acceleration due to gravity on Earth's surface is approximately:",
+      "options": [
+        "7.8 m/s²",
+        "8.9 m/s²",
+        "10.8 m/s²",
+        "9.8 m/s²"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The force that causes circular motion is called:",
+      "options": [
+        "Centripetal force",
+        "Centrifugal force",
+        "Gravitational force",
+        "Frictional force"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The formula for centripetal force is:",
+      "options": [
+        "mω²r",
+        "mrω²",
+        "mv²/r",
+        "Both A and B"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The tendency of a rotating body to continue rotating is called:",
+      "options": [
+        "Moment of inertia",
+        "Centripetal force",
+        "Angular momentum",
+        "Torque"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Moment of inertia is also called:",
+      "options": [
+        "Linear inertia",
+        "Rotational inertia",
+        "Angular velocity",
+        "Torque"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The angular momentum of a body is given by:",
+      "options": [
+        "mv",
+        "Iω",
+        "mω",
+        "Iα"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The rate of change of angular momentum is equal to:",
+      "options": [
+        "Momentum",
+        "Energy",
+        "Torque",
+        "Force"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The SI unit of torque is:",
+      "options": [
+        "Pascal",
+        "N·m",
+        "Joule",
+        "Watt"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The relationship between linear velocity and angular velocity is:",
+      "options": [
+        "v = r/ω",
+        "v = r²ω",
+        "v = rω",
+        "v = ω/r"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The relationship between linear acceleration and angular acceleration is:",
+      "options": [
+        "a = rα",
+        "a = α/r",
+        "a = r/α",
+        "a = r²α"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The work-energy theorem states that work done equals:",
+      "options": [
+        "Change in momentum",
+        "Change in total energy",
+        "Change in kinetic energy",
+        "Change in potential energy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A simple pendulum consists of a mass attached to a string. The restoring force is provided by:",
+      "options": [
+        "Friction",
+        "Air resistance",
+        "Gravity",
+        "Tension"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The period of a simple pendulum is given by:",
+      "options": [
+        "T = 2π√(g/L)",
+        "T = 2π√(L/g)",
+        "T = (1/2π)√(L/g)",
+        "T = 2π(L/g)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The time period of a pendulum does NOT depend on:",
+      "options": [
+        "None of the above",
+        "Acceleration due to gravity",
+        "Mass of the bob",
+        "Length of the pendulum"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The total mechanical energy of a system is the sum of:",
+      "options": [
+        "Kinetic and potential energy",
+        "Kinetic and thermal energy",
+        "Potential and thermal energy",
+        "Chemical and thermal energy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Elastic collision is one in which:",
+      "options": [
+        "Momentum is not conserved",
+        "Kinetic energy is not conserved",
+        "Kinetic energy is conserved",
+        "Energy is destroyed"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In inelastic collision:",
+      "options": [
+        "Kinetic energy is not conserved",
+        "Momentum is conserved",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The coefficient of restitution for a perfectly elastic collision is:",
+      "options": [
+        "1",
+        "Between 0 and 1",
+        "0",
+        "Greater than 1"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The coefficient of restitution for a perfectly inelastic collision is:",
+      "options": [
+        "Greater than 1",
+        "Between 0 and 1",
+        "0",
+        "1"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The center of gravity of a body is the point where:",
+      "options": [
+        "The entire mass of the body is concentrated",
+        "The body is balanced",
+        "All of the above",
+        "The entire weight of the body acts"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The moment of inertia of a solid sphere about its diameter is:",
+      "options": [
+        "(3/5)MR²",
+        "(2/5)MR²",
+        "(1/2)MR²",
+        "(2/3)MR²"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The moment of inertia of a solid cylinder about its axis is:",
+      "options": [
+        "(1/2)MR²",
+        "(1/3)MR²",
+        "MR²",
+        "(2/5)MR²"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The moment of inertia of a ring about its axis is:",
+      "options": [
+        "(2/5)MR²",
+        "(1/2)MR²",
+        "MR²",
+        "(1/3)MR²"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The moment of inertia of a thin rod about its center is:",
+      "options": [
+        "(1/12)ML²",
+        "(1/3)ML²",
+        "(1/2)ML²",
+        "ML²"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The moment of inertia of a thin rod about its end is:",
+      "options": [
+        "ML²",
+        "(1/2)ML²",
+        "(1/3)ML²",
+        "(1/12)ML²"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The force required to keep a body in uniform circular motion is directed:",
+      "options": [
+        "Away from the center",
+        "Tangential to the circle",
+        "Towards the center",
+        "Perpendicular to the circle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "If no external torque acts on a system, its angular momentum is:",
+      "options": [
+        "Halved",
+        "Not conserved",
+        "Doubled",
+        "Conserved"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The center of mass of a uniform rod lies:",
+      "options": [
+        "At the three-quarter point",
+        "At the quarter point",
+        "At one end",
+        "At the center"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The center of mass of a triangular lamina lies:",
+      "options": [
+        "At the centroid",
+        "At the mid-point of the base",
+        "At the vertex",
+        "At the base"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The center of mass of a circular ring lies:",
+      "options": [
+        "None of the above",
+        "At the center",
+        "Anywhere",
+        "On the circumference"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The force of friction always acts:",
+      "options": [
+        "At an angle to the motion",
+        "Opposite to the direction of motion",
+        "Perpendicular to the motion",
+        "In the direction of motion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The coefficient of kinetic friction is generally:",
+      "options": [
+        "Zero",
+        "Equal to coefficient of static friction",
+        "Greater than coefficient of static friction",
+        "Less than coefficient of static friction"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The coefficient of static friction is generally:",
+      "options": [
+        "Less than coefficient of kinetic friction",
+        "Greater than coefficient of kinetic friction",
+        "Equal to coefficient of kinetic friction",
+        "Zero"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The limiting friction is:",
+      "options": [
+        "Kinetic friction",
+        "Minimum static friction",
+        "Maximum static friction",
+        "Rolling friction"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Rolling friction is generally:",
+      "options": [
+        "Equal to sliding friction",
+        "Zero",
+        "Greater than sliding friction",
+        "Less than sliding friction"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The study of motion without considering its cause is called:",
+      "options": [
+        "Kinematics",
+        "Statics",
+        "Dynamics",
+        "Mechanics"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of motion considering its cause is called:",
+      "options": [
+        "Dynamics",
+        "Statics",
+        "Kinematics",
+        "Mechanics"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The rate of change of displacement is called:",
+      "options": [
+        "Momentum",
+        "Velocity",
+        "Acceleration",
+        "Speed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The rate of change of velocity is called:",
+      "options": [
+        "Acceleration",
+        "Momentum",
+        "Speed",
+        "Displacement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The area under a velocity-time graph represents:",
+      "options": [
+        "Displacement",
+        "Momentum",
+        "Force",
+        "Acceleration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The slope of a displacement-time graph represents:",
+      "options": [
+        "Momentum",
+        "Acceleration",
+        "Force",
+        "Velocity"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The slope of a velocity-time graph represents:",
+      "options": [
+        "Momentum",
+        "Displacement",
+        "Force",
+        "Acceleration"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "For uniform acceleration, the equations of motion are:",
+      "options": [
+        "All of the above",
+        "s = ut + ½at²",
+        "v = u + at",
+        "v² = u² + 2as"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the equation v = u + at, 'u' represents:",
+      "options": [
+        "Acceleration",
+        "Final velocity",
+        "Time",
+        "Initial velocity"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In the equation v = u + at, 'v' represents:",
+      "options": [
+        "Initial velocity",
+        "Time",
+        "Final velocity",
+        "Acceleration"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the equation s = ut + ½at², 's' represents:",
+      "options": [
+        "Acceleration",
+        "Velocity",
+        "Time",
+        "Displacement"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A body moving with constant velocity has zero:",
+      "options": [
+        "Speed",
+        "Momentum",
+        "Acceleration",
+        "Displacement"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The acceleration of a freely falling body is:",
+      "options": [
+        "Zero",
+        "g/2",
+        "2g",
+        "g"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A projectile motion is an example of:",
+      "options": [
+        "Three-dimensional motion",
+        "Two-dimensional motion",
+        "Circular motion",
+        "One-dimensional motion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The horizontal component of projectile velocity remains constant because:",
+      "options": [
+        "No horizontal force acts",
+        "Gravity acts vertically",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The vertical component of projectile velocity changes because of:",
+      "options": [
+        "None of the above",
+        "Gravity",
+        "Air resistance",
+        "Horizontal force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The range of a projectile is maximum when the angle of projection is:",
+      "options": [
+        "90°",
+        "45°",
+        "30°",
+        "60°"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The time of flight of a projectile is given by:",
+      "options": [
+        "2u cosθ/g",
+        "u sinθ/g",
+        "u cosθ/g",
+        "2u sinθ/g"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The maximum height of a projectile is given by:",
+      "options": [
+        "u² sin²θ/4g",
+        "u² sin²θ/2g",
+        "u² sin²θ/g",
+        "2u² sin²θ/g"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The range of a projectile is given by:",
+      "options": [
+        "2u² sinθ/g",
+        "u² sinθ/g",
+        "u² sin2θ/g",
+        "u² sin²θ/g"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "For two complementary angles of projection, the ranges are:",
+      "options": [
+        "One is half the other",
+        "One is double the other",
+        "Different",
+        "Equal"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "At the highest point of projectile motion, the velocity is:",
+      "options": [
+        "Maximum",
+        "Constant",
+        "Zero",
+        "Minimum"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "At the highest point of projectile motion, the acceleration is:",
+      "options": [
+        "Maximum",
+        "Minimum",
+        "Zero",
+        "g"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The trajectory of a projectile is:",
+      "options": [
+        "Hyperbolic",
+        "Circular",
+        "Parabolic",
+        "Elliptical"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Uniform circular motion is motion with constant:",
+      "options": [
+        "Velocity",
+        "Speed",
+        "Displacement",
+        "Acceleration"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In uniform circular motion, the velocity is:",
+      "options": [
+        "Changing in both magnitude and direction",
+        "Constant in magnitude but changing direction",
+        "Constant in both magnitude and direction",
+        "Changing in magnitude but constant direction"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The centripetal acceleration in uniform circular motion is given by:",
+      "options": [
+        "v/r",
+        "v²/r",
+        "r/v²",
+        "v/r²"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The angular velocity in uniform circular motion is given by:",
+      "options": [
+        "T/2π",
+        "2πr/T",
+        "2π/T",
+        "v/r"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The relationship between angular velocity and frequency is:",
+      "options": [
+        "ω = 2πf",
+        "f = 2πω",
+        "ω = f/2π",
+        "ω = 2π/f"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The centripetal force is provided by friction in the case of:",
+      "options": [
+        "A car turning on a flat road",
+        "A pendulum swinging",
+        "A stone tied to a string",
+        "A satellite orbiting Earth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Banking of roads is done to provide:",
+      "options": [
+        "Frictional force",
+        "Centripetal force",
+        "Centrifugal force",
+        "Gravitational force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The angle of banking for a vehicle is given by:",
+      "options": [
+        "tanθ = rg/v²",
+        "tanθ = v/rg",
+        "tanθ = v²/rg",
+        "tanθ = v²g/r"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A body moving in a circular path with constant speed has:",
+      "options": [
+        "Constant acceleration",
+        "Zero acceleration",
+        "Changing velocity",
+        "Constant velocity"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The angular acceleration is defined as:",
+      "options": [
+        "Rate of change of linear velocity",
+        "Rate of change of angular displacement",
+        "Rate of change of linear displacement",
+        "Rate of change of angular velocity"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The torque is defined as:",
+      "options": [
+        "r · F",
+        "r × F",
+        "F · r",
+        "F × r"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The work done by a torque is given by:",
+      "options": [
+        "τ×θ",
+        "τθ",
+        "τ/θ",
+        "τ·θ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The power delivered by a torque is given by:",
+      "options": [
+        "τω",
+        "τ×ω",
+        "τ/ω",
+        "τ·ω"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A couple consists of:",
+      "options": [
+        "Two perpendicular forces",
+        "Two unequal forces",
+        "Two equal and opposite forces",
+        "Two parallel forces"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The moment of a couple is independent of:",
+      "options": [
+        "The point of reference",
+        "The magnitude of forces",
+        "The distance between forces",
+        "The direction of forces"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The center of percussion is the point where:",
+      "options": [
+        "No shock is felt on impact",
+        "Torque is zero",
+        "Angular momentum is zero",
+        "Maximum shock is felt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The radius of gyration is defined as:",
+      "options": [
+        "I/M",
+        "√(M/I)",
+        "M/I",
+        "√(I/M)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The radius of gyration has the unit of:",
+      "options": [
+        "Force",
+        "Time",
+        "Length",
+        "Mass"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The rotational kinetic energy is given by:",
+      "options": [
+        "½Iω",
+        "Iω²",
+        "½Iω²",
+        "Iω"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The total kinetic energy of a rolling body is:",
+      "options": [
+        "½Iω²",
+        "½mv²",
+        "½mv² + ½Iω²",
+        "mv²"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "For a rolling body without slipping, the relationship between v and ω is:",
+      "options": [
+        "v = ω/r",
+        "v = rω",
+        "v = r/ω",
+        "v = r²ω"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The acceleration of a rolling body on an inclined plane depends on:",
+      "options": [
+        "Its mass",
+        "Its radius",
+        "All of the above",
+        "Its moment of inertia"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A solid sphere rolls faster down an inclined plane than a hollow sphere because:",
+      "options": [
+        "It has smaller moment of inertia",
+        "It has larger moment of inertia",
+        "It has greater mass",
+        "It has smaller radius"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The principle of conservation of angular momentum is applied in:",
+      "options": [
+        "Projectile motion",
+        "Elastic collision",
+        "Simple pendulum",
+        "Ice skaters spinning"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When an ice skater pulls in her arms, her angular velocity:",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "Becomes zero"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The angular momentum of a particle is given by:",
+      "options": [
+        "p × r",
+        "r × p",
+        "r · p",
+        "p · r"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The SI unit of angular momentum is:",
+      "options": [
+        "N·m·s",
+        "Both A and C",
+        "kg·m/s",
+        "kg·m²/s"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The direction of angular momentum is given by:",
+      "options": [
+        "Left-hand rule",
+        "Fleming's rule",
+        "Cork-screw rule",
+        "Right-hand rule"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A gyroscope works on the principle of:",
+      "options": [
+        "Conservation of angular momentum",
+        "Conservation of linear momentum",
+        "Conservation of energy",
+        "Conservation of charge"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The precession of a spinning top is due to:",
+      "options": [
+        "Force acting on it",
+        "Torque acting on it",
+        "Energy acting on it",
+        "Momentum acting on it"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The gravitational force is:",
+      "options": [
+        "Neither attractive nor repulsive",
+        "Always attractive",
+        "Always repulsive",
+        "Sometimes attractive sometimes repulsive"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The gravitational force is:",
+      "options": [
+        "Non-central force",
+        "Pseudo force",
+        "Fictional force",
+        "Central force"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The gravitational force is proportional to:",
+      "options": [
+        "r²",
+        "r",
+        "1/r",
+        "1/r²"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The gravitational potential energy at infinity is:",
+      "options": [
+        "Zero",
+        "Maximum",
+        "Minimum",
+        "Negative"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The gravitational potential energy near Earth's surface is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Infinite",
+        "Zero"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The escape velocity from Earth's surface is approximately:",
+      "options": [
+        "5 km/s",
+        "11.2 km/s",
+        "8 km/s",
+        "16 km/s"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The escape velocity is independent of:",
+      "options": [
+        "Mass of the planet",
+        "Radius of the planet",
+        "Gravitational constant",
+        "Mass of the escaping body"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The orbital velocity of a satellite near Earth's surface is approximately:",
+      "options": [
+        "16 km/s",
+        "11.2 km/s",
+        "5 km/s",
+        "8 km/s"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A geostationary satellite has a time period of:",
+      "options": [
+        "48 hours",
+        "12 hours",
+        "24 hours",
+        "6 hours"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A geostationary satellite is placed at a height of approximately:",
+      "options": [
+        "42,000 km",
+        "50,000 km",
+        "36,000 km",
+        "30,000 km"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The weight of a body at the center of Earth is:",
+      "options": [
+        "Minimum",
+        "Zero",
+        "Infinite",
+        "Maximum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The acceleration due to gravity decreases with:",
+      "options": [
+        "Altitude",
+        "Depth",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The value of g at the equator is:",
+      "options": [
+        "Equal to at poles",
+        "Zero",
+        "Greater than at poles",
+        "Less than at poles"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The value of g at the poles is:",
+      "options": [
+        "Equal to at equator",
+        "Greater than at equator",
+        "Zero",
+        "Less than at equator"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The variation of g with altitude is given by:",
+      "options": [
+        "g' = g(1 - h/R)",
+        "g' = g(1 - 2h/R)",
+        "g' = g(1 + h/R)",
+        "g' = g(1 + 2h/R)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The variation of g with depth is given by:",
+      "options": [
+        "g' = g(1 - d/R)",
+        "g' = g(1 + 2d/R)",
+        "g' = g(1 + d/R)",
+        "g' = g(1 - 2d/R)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The gravitational field intensity is defined as:",
+      "options": [
+        "Force per unit charge",
+        "Energy per unit charge",
+        "Energy per unit mass",
+        "Force per unit mass"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The gravitational potential is defined as:",
+      "options": [
+        "Potential energy per unit mass",
+        "Force per unit mass",
+        "Potential energy per unit charge",
+        "Force per unit charge"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The gravitational potential is:",
+      "options": [
+        "Always positive",
+        "Sometimes positive sometimes negative",
+        "Zero",
+        "Always negative"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The gravitational field intensity at a point is given by:",
+      "options": [
+        "dV/dr",
+        "dU/dr",
+        "-dU/dr",
+        "-dV/dr"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Kepler's first law states that planets move in:",
+      "options": [
+        "Parabolic orbits",
+        "Elliptical orbits",
+        "Hyperbolic orbits",
+        "Circular orbits"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Kepler's second law is also known as:",
+      "options": [
+        "Law of orbits",
+        "Law of equal areas",
+        "Law of periods",
+        "Law of gravitation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Kepler's third law states that T² is proportional to:",
+      "options": [
+        "r⁴",
+        "r",
+        "r²",
+        "r³"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The law of equal areas is a consequence of:",
+      "options": [
+        "Conservation of linear momentum",
+        "Kepler's first law",
+        "Conservation of energy",
+        "Conservation of angular momentum"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The period of a satellite depends on:",
+      "options": [
+        "Both A and C",
+        "Radius of orbit",
+        "Mass of satellite",
+        "Mass of central body"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The binding energy of a satellite is:",
+      "options": [
+        "2GMm/r",
+        "GMm/4r",
+        "GMm/r",
+        "GMm/2r"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The total energy of a satellite in orbit is:",
+      "options": [
+        "Infinite",
+        "Negative",
+        "Zero",
+        "Positive"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The kinetic energy of a satellite in orbit is:",
+      "options": [
+        "GMm/4r",
+        "2GMm/r",
+        "GMm/2r",
+        "GMm/r"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The potential energy of a satellite in orbit is:",
+      "options": [
+        "-GMm/2r",
+        "GMm/r",
+        "-GMm/r",
+        "GMm/2r"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A body is said to be in equilibrium if:",
+      "options": [
+        "Both A and B",
+        "Net force is zero",
+        "Neither A nor B",
+        "Net torque is zero"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Static equilibrium requires:",
+      "options": [
+        "Zero velocity",
+        "Zero acceleration",
+        "Neither A nor B",
+        "Both A and B"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The condition for stable equilibrium is:",
+      "options": [
+        "Potential energy is minimum",
+        "Potential energy is zero",
+        "Potential energy is constant",
+        "Potential energy is maximum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The condition for unstable equilibrium is:",
+      "options": [
+        "Potential energy is minimum",
+        "Potential energy is maximum",
+        "Potential energy is zero",
+        "Potential energy is constant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The condition for neutral equilibrium is:",
+      "options": [
+        "Potential energy is zero",
+        "Potential energy is maximum",
+        "Potential energy is constant",
+        "Potential energy is minimum"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A body is in stable equilibrium when displaced slightly, it:",
+      "options": [
+        "Moves further away",
+        "Returns to original position",
+        "Remains in new position",
+        "Oscillates"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A body is in unstable equilibrium when displaced slightly, it:",
+      "options": [
+        "Moves further away",
+        "Remains in new position",
+        "Returns to original position",
+        "Oscillates"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A body is in neutral equilibrium when displaced slightly, it:",
+      "options": [
+        "Remains in new position",
+        "Returns to original position",
+        "Oscillates",
+        "Moves further away"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The center of buoyancy is the point where:",
+      "options": [
+        "Centripetal force acts",
+        "Weight acts",
+        "Gravity acts",
+        "Buoyant force acts"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "For a floating body to be stable, the metacentre must be:",
+      "options": [
+        "Above the center of gravity",
+        "Anywhere",
+        "At the center of gravity",
+        "Below the center of gravity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Archimedes' principle states that the buoyant force is equal to:",
+      "options": [
+        "Weight of displaced fluid",
+        "Weight of the body",
+        "Mass of the body",
+        "Mass of displaced fluid"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A body floats in a fluid if:",
+      "options": [
+        "Its density is equal to the fluid",
+        "Its density is greater than the fluid",
+        "Its mass is zero",
+        "Its density is less than the fluid"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A body sinks in a fluid if:",
+      "options": [
+        "Its density is equal to the fluid",
+        "Its mass is zero",
+        "Its density is greater than the fluid",
+        "Its density is less than the fluid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The pressure at a point in a fluid at rest is:",
+      "options": [
+        "Maximum in upward direction",
+        "Maximum in downward direction",
+        "Same in all directions",
+        "Different in different directions"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The pressure increases with depth in a fluid because of:",
+      "options": [
+        "Weight of fluid above",
+        "Surface tension",
+        "Weight of fluid below",
+        "Viscosity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The pressure at a depth h in a fluid is given by:",
+      "options": [
+        "ρgh",
+        "ρh/g",
+        "ρg/h",
+        "ρg"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pascal's law states that pressure applied to a confined fluid is transmitted:",
+      "options": [
+        "Only upward",
+        "Only in one direction",
+        "Unequally in all directions",
+        "Equally in all directions"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hydraulic lifts work on the principle of:",
+      "options": [
+        "Archimedes' principle",
+        "Pascal's law",
+        "Newton's law",
+        "Bernoulli's principle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The velocity of efflux from a hole in a container is given by:",
+      "options": [
+        "√(2gh)",
+        "2gh",
+        "√(gh)",
+        "gh"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Torricelli's theorem gives the velocity of:",
+      "options": [
+        "Falling body",
+        "Efflux from a hole",
+        "Sound in air",
+        "Light in vacuum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bernoulli's theorem is based on the principle of:",
+      "options": [
+        "Conservation of charge",
+        "Conservation of energy",
+        "Conservation of mass",
+        "Conservation of momentum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bernoulli's equation is:",
+      "options": [
+        "P + ½ρv² + ρgh = constant",
+        "P - ½ρv² - ρgh = constant",
+        "P - ½ρv² + ρgh = constant",
+        "P + ½ρv² - ρgh = constant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In a moving fluid, where the velocity is high, the pressure is:",
+      "options": [
+        "High",
+        "Constant",
+        "Zero",
+        "Low"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The working of an atomizer is based on:",
+      "options": [
+        "Newton's law",
+        "Pascal's law",
+        "Archimedes' principle",
+        "Bernoulli's principle"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The lift on an airplane wing is due to:",
+      "options": [
+        "Pascal's law",
+        "Newton's law",
+        "Archimedes' principle",
+        "Bernoulli's principle"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Viscosity is the property of a fluid that resists:",
+      "options": [
+        "Compression",
+        "Heating",
+        "Expansion",
+        "Flow"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The SI unit of viscosity is:",
+      "options": [
+        "All of the above",
+        "N·s/m²",
+        "Pa·s",
+        "kg·m⁻¹·s⁻¹"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The coefficient of viscosity is defined as:",
+      "options": [
+        "F/A × dx/dv",
+        "F × A × dv/dx",
+        "F/A × dv/dx",
+        "F × A × dx/dv"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Stokes' law gives the viscous force on a sphere moving in a fluid as:",
+      "options": [
+        "6πηrv",
+        "4πηrv",
+        "2πηrv",
+        "3πηrv"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The terminal velocity of a sphere falling in a fluid is given by:",
+      "options": [
+        "2r²(ρ-σ)g/9η",
+        "2r²(ρ+σ)g/3η",
+        "2r²(ρ+σ)g/9η",
+        "2r²(ρ-σ)g/3η"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Reynolds number is defined as:",
+      "options": [
+        "ρv/η",
+        "ρvd/η",
+        "ρv²d/η",
+        "ρvd/η²"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Flow is turbulent when Reynolds number is:",
+      "options": [
+        "Less than 2000",
+        "Equal to 2000",
+        "Zero",
+        "Greater than 2000"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Flow is laminar when Reynolds number is:",
+      "options": [
+        "Equal to 2000",
+        "Greater than 2000",
+        "Zero",
+        "Less than 2000"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Surface tension is defined as:",
+      "options": [
+        "Energy per unit area",
+        "Force per unit area",
+        "Force per unit length",
+        "Energy per unit length"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The SI unit of surface tension is:",
+      "options": [
+        "J/m",
+        "N/m²",
+        "N/m",
+        "J/m²"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The surface tension of a liquid:",
+      "options": [
+        "Becomes zero at all temperatures",
+        "Decreases with increase in temperature",
+        "Increases with increase in temperature",
+        "Is independent of temperature"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The capillary rise is given by:",
+      "options": [
+        "T/rρg",
+        "2T/rρg",
+        "2T cosθ/rρg",
+        "T cosθ/rρg"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The angle of contact for a liquid that wets the surface is:",
+      "options": [
+        "Less than 90°",
+        "180°",
+        "Equal to 90°",
+        "Greater than 90°"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The angle of contact for a liquid that does not wet the surface is:",
+      "options": [
+        "Equal to 90°",
+        "0°",
+        "Less than 90°",
+        "Greater than 90°"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The excess pressure inside a soap bubble is:",
+      "options": [
+        "2T/r",
+        "3T/r",
+        "4T/r",
+        "T/r"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The excess pressure inside a liquid drop is:",
+      "options": [
+        "2T/r",
+        "3T/r",
+        "4T/r",
+        "T/r"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A simple harmonic motion is one where the restoring force is proportional to:",
+      "options": [
+        "Displacement",
+        "Velocity",
+        "Time",
+        "Acceleration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The equation of SHM is:",
+      "options": [
+        "d²x/dt² + ω²x = 0",
+        "d²x/dt² - ω²x = 0",
+        "d²x/dt² - ωx = 0",
+        "d²x/dt² + ωx = 0"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The displacement in SHM is given by:",
+      "options": [
+        "x = A sin(ωt + φ)",
+        "Neither A nor B",
+        "Both A and B",
+        "x = A cos(ωt + φ)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The time period of SHM is given by:",
+      "options": [
+        "π/ω",
+        "ω/2π",
+        "2πω",
+        "2π/ω"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The frequency of SHM is given by:",
+      "options": [
+        "π/ω",
+        "2π/ω",
+        "2πω",
+        "ω/2π"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The velocity in SHM is maximum at:",
+      "options": [
+        "Mean position",
+        "At A/2",
+        "Extreme position",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The velocity in SHM is zero at:",
+      "options": [
+        "Extreme position",
+        "None of the above",
+        "Mean position",
+        "At A/2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The acceleration in SHM is maximum at:",
+      "options": [
+        "Extreme position",
+        "At A/2",
+        "Mean position",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The acceleration in SHM is zero at:",
+      "options": [
+        "At A/2",
+        "Extreme position",
+        "None of the above",
+        "Mean position"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The total energy in SHM is:",
+      "options": [
+        "Zero",
+        "Constant",
+        "Infinite",
+        "Variable"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The kinetic energy in SHM is maximum at:",
+      "options": [
+        "At A/2",
+        "Mean position",
+        "None of the above",
+        "Extreme position"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The potential energy in SHM is maximum at:",
+      "options": [
+        "At A/2",
+        "Mean position",
+        "Extreme position",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The phase difference between displacement and velocity in SHM is:",
+      "options": [
+        "π",
+        "π/4",
+        "0",
+        "π/2"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The phase difference between displacement and acceleration in SHM is:",
+      "options": [
+        "π/4",
+        "π/2",
+        "π",
+        "0"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A spring-mass system executes SHM with period:",
+      "options": [
+        "2π(m/k)",
+        "2π√(m/k)",
+        "2π√(k/m)",
+        "2π(k/m)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The effective spring constant for springs in series is:",
+      "options": [
+        "Both A and C",
+        "1/k = 1/k₁ + 1/k₂",
+        "k = k₁k₂/(k₁+k₂)",
+        "k = k₁ + k₂"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The effective spring constant for springs in parallel is:",
+      "options": [
+        "Both B and C",
+        "1/k = 1/k₁ + 1/k₂",
+        "k = k₁k₂/(k₁+k₂)",
+        "k = k₁ + k₂"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The time period of a physical pendulum is given by:",
+      "options": [
+        "T = 2π√(I/mgd)",
+        "T = 2π√(I/md)",
+        "T = 2π√(mgd/I)",
+        "T = 2π√(md/I)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The time period of a torsional pendulum is given by:",
+      "options": [
+        "T = 2π(C/I)",
+        "T = 2π(I/C)",
+        "T = 2π√(C/I)",
+        "T = 2π√(I/C)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Damped oscillations occur when:",
+      "options": [
+        "The amplitude increases",
+        "The frequency changes",
+        "There is a resistive force",
+        "There is no resistive force"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In damped oscillations, the amplitude:",
+      "options": [
+        "Increases exponentially",
+        "Decreases exponentially",
+        "Oscillates",
+        "Remains constant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Critical damping occurs when:",
+      "options": [
+        "There is no damping",
+        "The damping is just sufficient to prevent oscillation",
+        "The damping is very small",
+        "The damping is very large"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Forced oscillations occur when:",
+      "options": [
+        "The system is damped",
+        "The system is undamped",
+        "No external force acts",
+        "An external periodic force acts"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Resonance occurs when:",
+      "options": [
+        "Driving frequency equals natural frequency",
+        "Driving frequency is zero",
+        "Driving frequency is greater than natural frequency",
+        "Driving frequency is less than natural frequency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "At resonance, the amplitude is:",
+      "options": [
+        "Zero",
+        "Minimum",
+        "Constant",
+        "Maximum"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The quality factor Q of an oscillator is defined as:",
+      "options": [
+        "(energy stored)/(energy dissipated)",
+        "2π × (energy stored)/(energy dissipated per cycle)",
+        "2π × (energy dissipated)/(energy stored)",
+        "(energy dissipated)/(energy stored)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A high Q factor means:",
+      "options": [
+        "High damping",
+        "No damping",
+        "Low damping",
+        "Medium damping"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The law of conservation of linear momentum states that:",
+      "options": [
+        "Total momentum changes with time",
+        "Total momentum is zero",
+        "Total momentum of an isolated system remains constant",
+        "Total momentum is maximum"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The center of mass of a system of particles:",
+      "options": [
+        "Is always at the center of the body",
+        "Is a point where total mass is assumed to be concentrated",
+        "Is always outside the body",
+        "Is always at the geometric center"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The motion of the center of mass of a system is determined by:",
+      "options": [
+        "Neither external nor internal forces",
+        "External forces only",
+        "Both external and internal forces",
+        "Internal forces only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The reduced mass of a two-body system is given by:",
+      "options": [
+        "m₁-m₂",
+        "m₁m₂/(m₁+m₂)",
+        "m₁+m₂",
+        "m₁m₂/(m₁-m₂)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The angular momentum of a system is conserved if:",
+      "options": [
+        "No external force acts",
+        "No internal force acts",
+        "No external torque acts",
+        "No internal torque acts"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The moment of inertia depends on:",
+      "options": [
+        "All of the above",
+        "Mass distribution",
+        "Axis of rotation",
+        "Shape of the body"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The perpendicular axis theorem is applicable to:",
+      "options": [
+        "Laminar bodies",
+        "Spherical bodies",
+        "Three-dimensional bodies",
+        "Cylindrical bodies"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The parallel axis theorem is applicable to:",
+      "options": [
+        "Only cylindrical bodies",
+        "Only laminar bodies",
+        "Any rigid body",
+        "Only spherical bodies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The moment of inertia about an axis passing through the center of mass is:",
+      "options": [
+        "Maximum",
+        "Minimum",
+        "Zero",
+        "Infinite"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The work done by a conservative force:",
+      "options": [
+        "Depends on path",
+        "Is always zero",
+        "Is always maximum",
+        "Is path independent"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The work done by a non-conservative force:",
+      "options": [
+        "Is path independent",
+        "Is always maximum",
+        "Depends on path",
+        "Is always zero"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Examples of conservative forces are:",
+      "options": [
+        "Gravitational force",
+        "Electrostatic force",
+        "Neither A nor B",
+        "Both A and B"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Examples of non-conservative forces are:",
+      "options": [
+        "Neither A nor B",
+        "Friction",
+        "Both A and B",
+        "Air resistance"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The potential energy of a conservative force is:",
+      "options": [
+        "Defined as F = dU/dx",
+        "Defined as F = -∇U",
+        "Defined as F = -dU/dx",
+        "Defined as F = ∇U"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The force from a potential energy function is given by:",
+      "options": [
+        "F = dU/dt",
+        "F = dU/dx",
+        "F = -dU/dx",
+        "F = -dU/dt"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The potential energy curve for a stable equilibrium has:",
+      "options": [
+        "A maximum",
+        "A minimum",
+        "A straight line",
+        "A point of inflection"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The potential energy curve for an unstable equilibrium has:",
+      "options": [
+        "A straight line",
+        "A minimum",
+        "A maximum",
+        "A point of inflection"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The virial theorem relates:",
+      "options": [
+        "Average velocity and acceleration",
+        "Average kinetic and potential energies",
+        "Average energy and power",
+        "Average force and torque"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "For a system in equilibrium, the virial theorem gives:",
+      "options": [
+        "2⟨T⟩ = ⟨V⟩",
+        "⟨T⟩ = -⟨V⟩",
+        "⟨T⟩ = ⟨V⟩",
+        "⟨T⟩ = 2⟨V⟩"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Lagrangian is defined as:",
+      "options": [
+        "L = V/T",
+        "L = T - V",
+        "L = T/V",
+        "L = T + V"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Hamiltonian is defined as:",
+      "options": [
+        "H = T - V",
+        "H = V/T",
+        "H = T/V",
+        "H = T + V"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hamilton's principle states that the action is:",
+      "options": [
+        "Stationary",
+        "Maximum",
+        "Zero",
+        "Minimum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The action is defined as:",
+      "options": [
+        "∫L dt",
+        "∫T dt",
+        "∫H dt",
+        "∫V dt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Canonical transformations preserve:",
+      "options": [
+        "Newton's equations",
+        "Lagrange's equations",
+        "Hamilton's equations",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Poisson brackets are:",
+      "options": [
+        "Only valid in one dimension",
+        "Only valid for conservative systems",
+        "Invariant under canonical transformations",
+        "Variant under canonical transformations"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Noether's theorem relates symmetries to:",
+      "options": [
+        "Conservation laws",
+        "Equations of motion",
+        "Energy levels",
+        "Force fields"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Translational symmetry leads to conservation of:",
+      "options": [
+        "Linear momentum",
+        "Charge",
+        "Angular momentum",
+        "Energy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rotational symmetry leads to conservation of:",
+      "options": [
+        "Linear momentum",
+        "Energy",
+        "Charge",
+        "Angular momentum"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Time symmetry leads to conservation of:",
+      "options": [
+        "Linear momentum",
+        "Energy",
+        "Angular momentum",
+        "Charge"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The cycloid is the path of a particle moving under gravity with:",
+      "options": [
+        "Minimum time",
+        "Maximum distance",
+        "Maximum time",
+        "Minimum distance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The brachistochrone problem asks for the path of:",
+      "options": [
+        "Minimum time",
+        "Maximum distance",
+        "Minimum distance",
+        "Maximum time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The tautochrone problem asks for the path where:",
+      "options": [
+        "Time of descent is independent of starting point",
+        "Distance is minimum",
+        "Time of descent is minimum",
+        "Time of descent is maximum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The center of oscillation of a compound pendulum is:",
+      "options": [
+        "The center of mass",
+        "The point of suspension",
+        "The point of maximum velocity",
+        "The point where the pendulum behaves as a simple pendulum"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The center of percussion of a rigid body is:",
+      "options": [
+        "The point of maximum shock",
+        "The point where impact produces no shock",
+        "The point of minimum shock",
+        "The center of mass"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The radius of gyration of a body depends on:",
+      "options": [
+        "Mass distribution",
+        "All of the above",
+        "Axis of rotation",
+        "Total mass"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The angular acceleration of a body is proportional to:",
+      "options": [
+        "Applied force",
+        "Angular velocity",
+        "Applied torque",
+        "Moment of inertia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The rotational analog of mass is:",
+      "options": [
+        "Torque",
+        "Angular velocity",
+        "Angular momentum",
+        "Moment of inertia"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The rotational analog of force is:",
+      "options": [
+        "Moment of inertia",
+        "Angular velocity",
+        "Torque",
+        "Angular momentum"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The rotational analog of linear momentum is:",
+      "options": [
+        "Angular velocity",
+        "Torque",
+        "Moment of inertia",
+        "Angular momentum"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The rotational kinetic energy is:",
+      "options": [
+        "Iω²",
+        "Iω",
+        "½Iω²",
+        "½Iω"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The work done by a torque is:",
+      "options": [
+        "τθ",
+        "τ×θ",
+        "τ/θ",
+        "τ·θ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The angular momentum of a particle is:",
+      "options": [
+        "p × r",
+        "r · p",
+        "r × p",
+        "p · r"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The torque on a particle is:",
+      "options": [
+        "F × r",
+        "F · r",
+        "r · F",
+        "r × F"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The rate of change of angular momentum is equal to:",
+      "options": [
+        "Torque",
+        "Force",
+        "Momentum",
+        "Energy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The angular momentum is conserved when:",
+      "options": [
+        "No external force acts",
+        "No external torque acts",
+        "No internal force acts",
+        "No internal torque acts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The linear momentum is conserved when:",
+      "options": [
+        "No internal force acts",
+        "No internal torque acts",
+        "No external force acts",
+        "No external torque acts"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The center of mass of a system of particles:",
+      "options": [
+        "Always moves in a circle",
+        "Is always at rest",
+        "Always moves with acceleration",
+        "Moves with constant velocity if no external force acts"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The reduced mass is used in:",
+      "options": [
+        "Two-body problems",
+        "Multi-body problems",
+        "One-body problems",
+        "Three-body problems"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The scattering of particles is described by:",
+      "options": [
+        "Energy levels",
+        "Potential energy",
+        "Cross section",
+        "Force field"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The differential cross section is given by:",
+      "options": [
+        "σ/Ω",
+        "dΩ/dσ",
+        "Ω/σ",
+        "dσ/dΩ"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The total cross section is:",
+      "options": [
+        "∫dσ",
+        "∫(dσ/dΩ)dΩ",
+        "∫σ dΩ",
+        "∫dΩ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rutherford scattering is the scattering of:",
+      "options": [
+        "Neutrons by nuclei",
+        "Protons by nuclei",
+        "Alpha particles by nuclei",
+        "Electrons by nuclei"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Rutherford scattering formula is:",
+      "options": [
+        "dσ/dΩ ∝ 1/sin²(θ/2)",
+        "dσ/dΩ ∝ 1/sin⁴(θ/2)",
+        "dσ/dΩ ∝ sin⁴(θ/2)",
+        "dσ/dΩ ∝ sin²(θ/2)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The impact parameter in scattering is:",
+      "options": [
+        "The distance of closest approach",
+        "The perpendicular distance between the path and the center of force",
+        "The scattering angle",
+        "The kinetic energy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The distance of closest approach in Rutherford scattering is:",
+      "options": [
+        "Given by kZe²/mv",
+        "Given by kZe²/m²v²",
+        "Given by kZe²/mv²",
+        "Given by 2kZe²/mv²"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Hamiltonian equations are:",
+      "options": [
+        "q̇ = -∂H/∂p, ṗ = ∂H/∂q",
+        "q̇ = ∂H/∂q, ṗ = ∂H/∂p",
+        "q̇ = ∂H/∂p, ṗ = -∂H/∂q",
+        "q̇ = -∂H/∂q, ṗ = -∂H/∂p"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Lagrange equations are:",
+      "options": [
+        "d/dt(∂L/∂q) = ∂L/∂q̇",
+        "d/dt(∂L/∂q̇) = ∂L/∂q",
+        "∂L/∂q̇ = d/dt(∂L/∂q)",
+        "∂L/∂q = d/dt(∂L/∂q̇)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The generalized coordinates are:",
+      "options": [
+        "Coordinates that describe the configuration of a system",
+        "Coordinates in Cartesian system",
+        "Coordinates in cylindrical system",
+        "Coordinates in spherical system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The number of degrees of freedom of a system is:",
+      "options": [
+        "The number of forces acting on the system",
+        "The number of constraints in the system",
+        "The number of independent coordinates needed to describe the system",
+        "The number of particles in the system"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Holonomic constraints are:",
+      "options": [
+        "Constraints that cannot be expressed as equations",
+        "Constraints that can be expressed as equations",
+        "Constraints involving accelerations",
+        "Constraints involving velocities"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Non-holonomic constraints are:",
+      "options": [
+        "Constraints involving positions only",
+        "Constraints that cannot be expressed as equations",
+        "Constraints involving velocities only",
+        "Constraints that can be expressed as equations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The principle of virtual work states that:",
+      "options": [
+        "The work done by forces is maximum",
+        "The work done by forces is constant",
+        "The work done by forces in a virtual displacement is zero",
+        "The work done by forces is minimum"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "D'Alembert's principle states:",
+      "options": [
+        "Σ(F·δr) = 0",
+        "Σ(ma·δr) = 0",
+        "Σ(F + ma)·δr = 0",
+        "Σ(F - ma)·δr = 0"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Lagrange multiplier method is used to:",
+      "options": [
+        "Find energy levels",
+        "Find scattering cross sections",
+        "Solve differential equations",
+        "Incorporate constraints into equations of motion"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Hamilton-Jacobi equation is:",
+      "options": [
+        "∂S/∂t - H(q, ∂S/∂q, t) = 0",
+        "∂S/∂q + H(q, ∂S/∂t, t) = 0",
+        "∂S/∂t + H(q, ∂S/∂t, t) = 0",
+        "∂S/∂t + H(q, ∂S/∂q, t) = 0"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The action-angle variables are used in:",
+      "options": [
+        "Chaotic systems",
+        "Random systems",
+        "Non-integrable systems",
+        "Integrable systems"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A system is integrable if it has:",
+      "options": [
+        "As many conserved quantities as degrees of freedom",
+        "Infinite conserved quantities",
+        "One conserved quantity",
+        "No conserved quantities"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The KAM theorem deals with:",
+      "options": [
+        "Stability of integrable systems under perturbation",
+        "Chaos in systems",
+        "Stability of non-integrable systems",
+        "Quantum systems"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Lyapunov exponent measures:",
+      "options": [
+        "Sensitivity to initial conditions",
+        "Stability of systems",
+        "Energy of systems",
+        "Momentum of systems"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A system is chaotic if it has:",
+      "options": [
+        "Positive Lyapunov exponent",
+        "Negative Lyapunov exponent",
+        "Complex Lyapunov exponent",
+        "Zero Lyapunov exponent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The logistic map is an example of:",
+      "options": [
+        "Integrable system",
+        "Quantum system",
+        "Linear system",
+        "Chaotic system"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The period doubling route to chaos is characterized by:",
+      "options": [
+        "Constant periods",
+        "Successive period halvings",
+        "Successive period doublings",
+        "Random periods"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Feigenbaum constant is associated with:",
+      "options": [
+        "Simple harmonic motion",
+        "Period doubling bifurcations",
+        "Harmonic oscillations",
+        "Planetary motion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The strange attractor is a feature of:",
+      "options": [
+        "Chaotic systems",
+        "Linear systems",
+        "Quantum systems",
+        "Integrable systems"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Lorenz system is an example of:",
+      "options": [
+        "Chaotic system",
+        "Conservative system",
+        "Integrable system",
+        "Linear system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Poincaré section is used to:",
+      "options": [
+        "Find energy levels",
+        "Study chaotic systems",
+        "Find scattering cross sections",
+        "Solve differential equations"
+      ],
+      "answer": 1
+    }
+  ]
+}

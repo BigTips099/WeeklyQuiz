@@ -1,0 +1,801 @@
+{
+  "category": "Polymer Chemistry",
+  "total_questions": 150,
+  "questions": [
+    {
+      "question": "The word 'polymer' is derived from Greek words meaning:",
+      "options": ["Many parts", "One part", "Small parts", "Large parts"],
+      "answer": 0
+    },
+    {
+      "question": "The process of forming polymers from monomers is called:",
+      "options": ["Polymerization", "Condensation", "Addition", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "The simplest polymer is:",
+      "options": ["Polyethylene", "Polystyrene", "PVC", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of polyethylene is:",
+      "options": ["Ethylene", "Propylene", "Styrene", "Vinyl chloride"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of polypropylene is:",
+      "options": ["Propylene", "Ethylene", "Styrene", "Vinyl chloride"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of PVC is:",
+      "options": ["Vinyl chloride", "Propylene", "Styrene", "Ethylene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of polystyrene is:",
+      "options": ["Styrene", "Ethylene", "Propylene", "Vinyl chloride"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of Teflon is:",
+      "options": ["Tetrafluoroethylene", "Vinyl chloride", "Styrene", "Ethylene"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical name of Teflon is:",
+      "options": ["Polytetrafluoroethylene", "Polyvinyl chloride", "Polystyrene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of nylon 6,6 is:",
+      "options": ["Adipic acid and Hexamethylenediamine", "Caprolactam", "Ethylene glycol", "Terephthalic acid"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of nylon 6 is:",
+      "options": ["Caprolactam", "Adipic acid", "Hexamethylenediamine", "Ethylene glycol"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of polyester is:",
+      "options": ["Ethylene glycol and Terephthalic acid", "Adipic acid", "Caprolactam", "Styrene"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical name of Dacron is:",
+      "options": ["Polyethylene terephthalate", "Polyvinyl chloride", "Polystyrene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of polyurethane is:",
+      "options": ["Isocyanate and Polyol", "Ethylene glycol", "Terephthalic acid", "Caprolactam"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of polycarbonate is:",
+      "options": ["Bisphenol A and Phosgene", "Ethylene glycol", "Terephthalic acid", "Caprolactam"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of polyacrylonitrile is:",
+      "options": ["Acrylonitrile", "Vinyl chloride", "Styrene", "Ethylene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of polyvinyl acetate is:",
+      "options": ["Vinyl acetate", "Vinyl chloride", "Styrene", "Ethylene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of polyvinyl alcohol is:",
+      "options": ["Vinyl acetate", "Vinyl alcohol", "Styrene", "Ethylene"],
+      "answer": 1
+    },
+    {
+      "question": "The monomer of polymethyl methacrylate is:",
+      "options": ["Methyl methacrylate", "Ethyl methacrylate", "Propyl methacrylate", "Butyl methacrylate"],
+      "answer": 0
+    },
+    {
+      "question": "PMMA is also known as:",
+      "options": ["Plexiglass", "Teflon", "Nylon", "Dacron"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of polybutadiene is:",
+      "options": ["Butadiene", "Isoprene", "Chloroprene", "Styrene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of natural rubber is:",
+      "options": ["Isoprene", "Butadiene", "Chloroprene", "Styrene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of neoprene is:",
+      "options": ["Chloroprene", "Isoprene", "Butadiene", "Styrene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of styrene-butadiene rubber is:",
+      "options": ["Styrene and Butadiene", "Isoprene", "Chloroprene", "Acrylonitrile"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of nitrile rubber is:",
+      "options": ["Acrylonitrile and Butadiene", "Styrene and Butadiene", "Isoprene", "Chloroprene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of silicone polymer is:",
+      "options": ["Siloxane", "Isoprene", "Butadiene", "Styrene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of epoxy resin is:",
+      "options": ["Epichlorohydrin and Bisphenol A", "Isocyanate", "Polyol", "Ethylene glycol"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of phenolic resin is:",
+      "options": ["Phenol and Formaldehyde", "Urea and Formaldehyde", "Melamine and Formaldehyde", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The monomer of urea-formaldehyde resin is:",
+      "options": ["Urea and Formaldehyde", "Phenol and Formaldehyde", "Melamine and Formaldehyde", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of melamine-formaldehyde resin is:",
+      "options": ["Melamine and Formaldehyde", "Urea and Formaldehyde", "Phenol and Formaldehyde", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Bakelite is a:",
+      "options": ["Thermosetting polymer", "Thermoplastic polymer", "Elastomer", "Fiber"],
+      "answer": 0
+    },
+    {
+      "question": "Polythene is a:",
+      "options": ["Thermoplastic polymer", "Thermosetting polymer", "Elastomer", "Fiber"],
+      "answer": 0
+    },
+    {
+      "question": "Natural rubber is a:",
+      "options": ["Elastomer", "Thermoplastic", "Thermosetting", "Fiber"],
+      "answer": 0
+    },
+    {
+      "question": "Nylon is a:",
+      "options": ["Fiber", "Elastomer", "Thermoplastic", "Thermosetting"],
+      "answer": 0
+    },
+    {
+      "question": "The process of addition polymerization involves:",
+      "options": ["No byproduct formation", "Byproduct formation", "Condensation", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "The process of condensation polymerization involves:",
+      "options": ["Byproduct formation", "No byproduct formation", "Addition", "Hydrolysis"],
+      "answer": 0
+    },
+    {
+      "question": "The byproduct in condensation polymerization is usually:",
+      "options": ["Water", "CO2", "HCl", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The degree of polymerization is:",
+      "options": ["Number of monomer units", "Number of polymer chains", "Molecular weight", "Density"],
+      "answer": 0
+    },
+    {
+      "question": "The molecular weight of polymer is:",
+      "options": ["Degree of polymerization × Monomer molecular weight", "Degree of polymerization / Monomer molecular weight", "Monomer molecular weight / Degree of polymerization", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The polydispersity index is:",
+      "options": ["Weight average molecular weight / Number average molecular weight", "Number average molecular weight / Weight average molecular weight", "Molecular weight / Degree of polymerization", "Degree of polymerization / Molecular weight"],
+      "answer": 0
+    },
+    {
+      "question": "The polydispersity index of a monodisperse polymer is:",
+      "options": ["1", "0", "2", "3"],
+      "answer": 0
+    },
+    {
+      "question": "The glass transition temperature is denoted by:",
+      "options": ["Tg", "Tm", "Tc", "Tb"],
+      "answer": 0
+    },
+    {
+      "question": "The melting temperature is denoted by:",
+      "options": ["Tm", "Tg", "Tc", "Tb"],
+      "answer": 0
+    },
+    {
+      "question": "The temperature at which polymer becomes brittle is:",
+      "options": ["Tg", "Tm", "Tc", "Tb"],
+      "answer": 0
+    },
+    {
+      "question": "The temperature at which polymer becomes liquid is:",
+      "options": ["Tm", "Tg", "Tc", "Tb"],
+      "answer": 0
+    },
+    {
+      "question": "The tacticity of polymer refers to:",
+      "options": ["Stereochemistry", "Molecular weight", "Degree of polymerization", "Density"],
+      "answer": 0
+    },
+    {
+      "question": "Isotactic polymer has:",
+      "options": ["All substituents on same side", "Alternating substituents", "Random substituents", "No substituents"],
+      "answer": 0
+    },
+    {
+      "question": "Syndiotactic polymer has:",
+      "options": ["Alternating substituents", "All substituents on same side", "Random substituents", "No substituents"],
+      "answer": 0
+    },
+    {
+      "question": "Atactic polymer has:",
+      "options": ["Random substituents", "All substituents on same side", "Alternating substituents", "No substituents"],
+      "answer": 0
+    },
+    {
+      "question": "The crystallinity of polymer is affected by:",
+      "options": ["Tacticity", "Molecular weight", "Degree of polymerization", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The density of crystalline polymer is:",
+      "options": ["Higher than amorphous", "Lower than amorphous", "Same as amorphous", "Depends on temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The tensile strength of polymer increases with:",
+      "options": ["Crystallinity", "Molecular weight", "Crosslinking", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The elasticity of polymer decreases with:",
+      "options": ["Crosslinking", "Crystallinity", "Molecular weight", "Temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The process of polymer degradation is accelerated by:",
+      "options": ["UV light", "Heat", "Oxygen", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The process of polymer biodegradation involves:",
+      "options": ["Microorganisms", "Heat", "Light", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The most common biodegradable polymer is:",
+      "options": ["PLA", "PE", "PP", "PVC"],
+      "answer": 0
+    },
+    {
+      "question": "PLA stands for:",
+      "options": ["Polylactic acid", "Polyethylene", "Polypropylene", "Polyvinyl chloride"],
+      "answer": 0
+    },
+    {
+      "question": "PHB stands for:",
+      "options": ["Polyhydroxybutyrate", "Polyethylene", "Polypropylene", "Polystyrene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of PHB is:",
+      "options": ["Hydroxybutyrate", "Lactic acid", "Ethylene", "Propylene"],
+      "answer": 0
+    },
+    {
+      "question": "PCL stands for:",
+      "options": ["Polycaprolactone", "Polylactic acid", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of PCL is:",
+      "options": ["Caprolactone", "Lactic acid", "Ethylene", "Propylene"],
+      "answer": 0
+    },
+    {
+      "question": "PGA stands for:",
+      "options": ["Polyglycolic acid", "Polylactic acid", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The monomer of PGA is:",
+      "options": ["Glycolic acid", "Lactic acid", "Ethylene", "Propylene"],
+      "answer": 0
+    },
+    {
+      "question": "The copolymer of PLA and PGA is:",
+      "options": ["PLGA", "PCL", "PHB", "PET"],
+      "answer": 0
+    },
+    {
+      "question": "PLGA is used in:",
+      "options": ["Drug delivery", "Packaging", "Textiles", "Construction"],
+      "answer": 0
+    },
+    {
+      "question": "The process of emulsion polymerization involves:",
+      "options": ["Surfactants", "Heat", "Pressure", "Catalysts"],
+      "answer": 0
+    },
+    {
+      "question": "The process of suspension polymerization involves:",
+      "options": ["Droplet formation", "Micelle formation", "Gel formation", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of bulk polymerization is also called:",
+      "options": ["Mass polymerization", "Solution polymerization", "Emulsion polymerization", "Suspension polymerization"],
+      "answer": 0
+    },
+    {
+      "question": "The process of solution polymerization uses:",
+      "options": ["Solvent", "Surfactant", "Suspending agent", "Initiator"],
+      "answer": 0
+    },
+    {
+      "question": "The Ziegler-Natta catalyst is used for:",
+      "options": ["Stereospecific polymerization", "Addition polymerization", "Condensation polymerization", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The Ziegler-Natta catalyst consists of:",
+      "options": ["TiCl4 and AlEt3", "FeCl3 and AlEt3", "TiCl4 and AlCl3", "FeCl3 and AlCl3"],
+      "answer": 0
+    },
+    {
+      "question": "The metallocene catalyst is used for:",
+      "options": ["Stereospecific polymerization", "Addition polymerization", "Condensation polymerization", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of ring-opening polymerization involves:",
+      "options": ["Cyclic monomers", "Linear monomers", "Branched monomers", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of step-growth polymerization is also called:",
+      "options": ["Condensation polymerization", "Addition polymerization", "Chain-growth polymerization", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of chain-growth polymerization is also called:",
+      "options": ["Addition polymerization", "Condensation polymerization", "Step-growth polymerization", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The initiator in free radical polymerization produces:",
+      "options": ["Free radicals", "Cations", "Anions", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The initiator in cationic polymerization produces:",
+      "options": ["Cations", "Free radicals", "Anions", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The initiator in anionic polymerization produces:",
+      "options": ["Anions", "Free radicals", "Cations", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of termination in polymerization involves:",
+      "options": ["Chain end", "Initiator", "Monomer", "Solvent"],
+      "answer": 0
+    },
+    {
+      "question": "The process of chain transfer in polymerization involves:",
+      "options": ["Transfer of active center", "Termination", "Initiation", "Propagation"],
+      "answer": 0
+    },
+    {
+      "question": "The inhibitor in polymerization prevents:",
+      "options": ["Polymerization", "Degradation", "Crosslinking", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The plasticizer in polymer increases:",
+      "options": ["Flexibility", "Strength", "Density", "Melting point"],
+      "answer": 0
+    },
+    {
+      "question": "The filler in polymer increases:",
+      "options": ["Strength", "Flexibility", "Plasticity", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The stabilizer in polymer prevents:",
+      "options": ["Degradation", "Polymerization", "Crosslinking", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The antioxidant in polymer prevents:",
+      "options": ["Oxidation", "Hydrolysis", "Degradation", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The UV stabilizer in polymer prevents:",
+      "options": ["UV degradation", "Thermal degradation", "Oxidation", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The flame retardant in polymer prevents:",
+      "options": ["Fire", "Oxidation", "Degradation", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The colorant in polymer provides:",
+      "options": ["Color", "Strength", "Flexibility", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of injection molding is used for:",
+      "options": ["Thermoplastics", "Thermosetting", "Elastomers", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of compression molding is used for:",
+      "options": ["Thermosetting", "Thermoplastics", "Elastomers", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of blow molding is used for:",
+      "options": ["Hollow articles", "Solid articles", "Film", "Fibers"],
+      "answer": 0
+    },
+    {
+      "question": "The process of extrusion is used for:",
+      "options": ["Continuous shapes", "Hollow articles", "Solid articles", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of calendering is used for:",
+      "options": ["Film and sheet", "Fibers", "Hollow articles", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of spinning is used for:",
+      "options": ["Fibers", "Film", "Hollow articles", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of casting is used for:",
+      "options": ["Film and sheet", "Fibers", "Hollow articles", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of foaming is used for:",
+      "options": ["Foam products", "Film", "Fibers", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of coating is used for:",
+      "options": ["Surface coating", "Film", "Fibers", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of adhesive bonding is used for:",
+      "options": ["Joining materials", "Coating", "Film", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of welding is used for:",
+      "options": ["Thermoplastics", "Thermosetting", "Elastomers", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of recycling of polymers is important for:",
+      "options": ["Environmental protection", "Cost reduction", "Resource conservation", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The process of mechanical recycling involves:",
+      "options": ["Melting and reforming", "Chemical breakdown", "Energy recovery", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of chemical recycling involves:",
+      "options": ["Chemical breakdown", "Melting and reforming", "Energy recovery", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The process of energy recovery involves:",
+      "options": ["Incineration", "Chemical breakdown", "Melting and reforming", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The most common recycling symbol for plastics is:",
+      "options": ["Resin identification code", "Recycling logo", "Green dot", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The resin identification code for PET is:",
+      "options": ["1", "2", "3", "4"],
+      "answer": 0
+    },
+    {
+      "question": "The resin identification code for HDPE is:",
+      "options": ["2", "1", "3", "4"],
+      "answer": 0
+    },
+    {
+      "question": "The resin identification code for PVC is:",
+      "options": ["3", "1", "2", "4"],
+      "answer": 0
+    },
+    {
+      "question": "The resin identification code for LDPE is:",
+      "options": ["4", "1", "2", "3"],
+      "answer": 0
+    },
+    {
+      "question": "The resin identification code for PP is:",
+      "options": ["5", "1", "2", "3"],
+      "answer": 0
+    },
+    {
+      "question": "The resin identification code for PS is:",
+      "options": ["6", "1", "2", "3"],
+      "answer": 0
+    },
+    {
+      "question": "The resin identification code for Other is:",
+      "options": ["7", "1", "2", "3"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in bulletproof vests is:",
+      "options": ["Kevlar", "Nylon", "Polyester", "Polyethylene"],
+      "answer": 0
+    },
+    {
+      "question": "Kevlar is a type of:",
+      "options": ["Aramid fiber", "Polyester fiber", "Nylon fiber", "Acrylic fiber"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in Kevlar is:",
+      "options": ["Poly(p-phenylene terephthalamide)", "Polyethylene terephthalate", "Polyamide", "Polyacrylonitrile"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in bulletproof glass is:",
+      "options": ["Polycarbonate", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in contact lenses is:",
+      "options": ["PMMA", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in DVDs is:",
+      "options": ["Polycarbonate", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in CDs is:",
+      "options": ["Polycarbonate", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in LCD screens is:",
+      "options": ["Polyimide", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in OLED displays is:",
+      "options": ["Conductive polymer", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in solar panels is:",
+      "options": ["PVDF", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in artificial heart valves is:",
+      "options": ["Silicone", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in surgical sutures is:",
+      "options": ["PLA", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in drug delivery systems is:",
+      "options": ["PLGA", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in tissue engineering is:",
+      "options": ["PLA", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in controlled release systems is:",
+      "options": ["Hydrogels", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in superabsorbent products is:",
+      "options": ["Sodium polyacrylate", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in diapers is:",
+      "options": ["Sodium polyacrylate", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in feminine hygiene products is:",
+      "options": ["Sodium polyacrylate", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in water treatment is:",
+      "options": ["Polyacrylamide", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in paints is:",
+      "options": ["Acrylic polymer", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in adhesives is:",
+      "options": ["Polyurethane", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in sealants is:",
+      "options": ["Silicone", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in protective coatings is:",
+      "options": ["Epoxy", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in automotive parts is:",
+      "options": ["Polyurethane", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in tires is:",
+      "options": ["SBR", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in conveyor belts is:",
+      "options": ["Rubber", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in gaskets is:",
+      "options": ["Rubber", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in O-rings is:",
+      "options": ["Rubber", "Polystyrene", "Polyethylene", "Polypropylene"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in insulation is:",
+      "options": ["Polystyrene foam", "Polyethylene", "Polypropylene", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in packaging is:",
+      "options": ["Polyethylene", "Polypropylene", "Polystyrene", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in bottles is:",
+      "options": ["PET", "HDPE", "PP", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in plastic bags is:",
+      "options": ["LDPE", "HDPE", "PP", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in pipes is:",
+      "options": ["PVC", "PP", "PE", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in siding is:",
+      "options": ["PVC", "PP", "PE", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in flooring is:",
+      "options": ["PVC", "PP", "PE", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in wallpaper is:",
+      "options": ["PVC", "PP", "PE", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in upholstery is:",
+      "options": ["Polyurethane foam", "PP", "PE", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in mattresses is:",
+      "options": ["Polyurethane foam", "PP", "PE", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The polymer used in carpets is:",
+      "options": ["Nylon", "Polyester", "PP", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in clothing is:",
+      "options": ["Polyester", "Nylon", "Acrylic", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in ropes is:",
+      "options": ["Nylon", "Polyester", "PP", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in nets is:",
+      "options": ["Nylon", "Polyester", "PP", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in filters is:",
+      "options": ["Nylon", "Polyester", "PP", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in electrical components is:",
+      "options": ["Epoxy", "Silicone", "Polyimide", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in electronics is:",
+      "options": ["Polyimide", "PMMA", "Polycarbonate", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in medical devices is:",
+      "options": ["Silicone", "PLA", "PMMA", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in dental applications is:",
+      "options": ["PMMA", "Polyurethane", "Epoxy", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The polymer used in cosmetics is:",
+      "options": ["Carbopol", "Silicone", "PVP", "All of the above"],
+      "answer": 3
+    }
+  ]
+}

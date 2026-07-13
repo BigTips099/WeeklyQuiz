@@ -1,0 +1,1031 @@
+{
+  "category": "Quantum Physics",
+  "total_questions": 205,
+  "questions": [
+    {
+      "question": "The quantum of electromagnetic radiation is called:",
+      "options": ["Photon", "Electron", "Proton", "Neutron"],
+      "answer": 0
+    },
+    {
+      "question": "The energy of a photon is given by:",
+      "options": ["E = hν", "E = h/ν", "E = hcλ", "E = λ/hc"],
+      "answer": 0
+    },
+    {
+      "question": "The Planck constant h has the value approximately:",
+      "options": ["6.63 × 10⁻³⁴ J·s", "6.63 × 10⁻³⁴ J/s", "6.63 × 10⁻³⁴ N·m", "6.63 × 10⁻³⁴ kg·m/s"],
+      "answer": 0
+    },
+    {
+      "question": "The reduced Planck constant ħ is:",
+      "options": ["h/2π", "2π/h", "h/π", "π/h"],
+      "answer": 0
+    },
+    {
+      "question": "The photoelectric effect was explained by:",
+      "options": ["Einstein", "Planck", "Bohr", "Heisenberg"],
+      "answer": 0
+    },
+    {
+      "question": "In the photoelectric effect, the kinetic energy of emitted electrons depends on:",
+      "options": ["Frequency of light", "Intensity of light", "Wavelength of light", "Both A and C"],
+      "answer": 0
+    },
+    {
+      "question": "The work function of a metal is:",
+      "options": ["The minimum energy required to remove an electron", "The maximum energy required to remove an electron", "The average energy required to remove an electron", "The energy of a photon"],
+      "answer": 0
+    },
+    {
+      "question": "The photoelectric equation is:",
+      "options": ["K_max = hν - φ", "K_max = hν + φ", "K_max = φ - hν", "K_max = hν/φ"],
+      "answer": 0
+    },
+    {
+      "question": "The threshold frequency in photoelectric effect is:",
+      "options": ["ν₀ = φ/h", "ν₀ = h/φ", "ν₀ = φh", "ν₀ = hφ"],
+      "answer": 0
+    },
+    {
+      "question": "The Compton effect is:",
+      "options": ["Scattering of photons by electrons", "Scattering of electrons by photons", "Scattering of photons by protons", "Scattering of electrons by protons"],
+      "answer": 0
+    },
+    {
+      "question": "The Compton shift is given by:",
+      "options": ["Δλ = h/mc(1 - cosθ)", "Δλ = h/mc(1 + cosθ)", "Δλ = mc/h(1 - cosθ)", "Δλ = mc/h(1 + cosθ)"],
+      "answer": 0
+    },
+    {
+      "question": "The Compton wavelength of an electron is:",
+      "options": ["h/mc", "mc/h", "h/mc²", "mc²/h"],
+      "answer": 0
+    },
+    {
+      "question": "The value of Compton wavelength of electron is approximately:",
+      "options": ["2.43 × 10⁻¹² m", "2.43 × 10⁻¹⁰ m", "2.43 × 10⁻¹⁵ m", "2.43 × 10⁻⁹ m"],
+      "answer": 0
+    },
+    {
+      "question": "The de Broglie wavelength is given by:",
+      "options": ["λ = h/p", "λ = p/h", "λ = h/m", "λ = m/h"],
+      "answer": 0
+    },
+    {
+      "question": "The wave-particle duality was proposed by:",
+      "options": ["de Broglie", "Einstein", "Bohr", "Heisenberg"],
+      "answer": 0
+    },
+    {
+      "question": "The Davisson-Germer experiment demonstrated:",
+      "options": ["Wave nature of electrons", "Particle nature of electrons", "Wave nature of light", "Particle nature of light"],
+      "answer": 0
+    },
+    {
+      "question": "The Heisenberg uncertainty principle states:",
+      "options": ["ΔxΔp ≥ ℏ/2", "ΔxΔp ≤ ℏ/2", "ΔxΔp = ℏ/2", "ΔxΔp ≥ ℏ"],
+      "answer": 0
+    },
+    {
+      "question": "The Heisenberg uncertainty principle can also be written as:",
+      "options": ["ΔEΔt ≥ ℏ/2", "ΔEΔt ≤ ℏ/2", "ΔEΔt = ℏ/2", "ΔEΔt ≥ ℏ"],
+      "answer": 0
+    },
+    {
+      "question": "The Bohr model of the atom postulates:",
+      "options": ["Quantized angular momentum", "Quantized energy", "Quantized charge", "Both A and B"],
+      "answer": 3
+    },
+    {
+      "question": "The Bohr radius is:",
+      "options": ["a₀ = 4πε₀ℏ²/me²", "a₀ = 4πε₀ℏ²/m", "a₀ = ℏ²/me²", "a₀ = 4πε₀/me²"],
+      "answer": 0
+    },
+    {
+      "question": "The energy levels of hydrogen in Bohr model are:",
+      "options": ["E_n = -13.6/n² eV", "E_n = -13.6 n² eV", "E_n = 13.6/n² eV", "E_n = 13.6 n² eV"],
+      "answer": 0
+    },
+    {
+      "question": "The angular momentum in Bohr model is quantized as:",
+      "options": ["L = nℏ", "L = nℏ/2", "L = nℏ/π", "L = 2nℏ"],
+      "answer": 0
+    },
+    {
+      "question": "The radius of nth orbit in Bohr model is:",
+      "options": ["r_n = n²a₀", "r_n = n a₀", "r_n = a₀/n²", "r_n = a₀/n"],
+      "answer": 0
+    },
+    {
+      "question": "The velocity of electron in nth orbit of Bohr model is:",
+      "options": ["v_n = v₁/n", "v_n = n v₁", "v_n = v₁/n²", "v_n = n² v₁"],
+      "answer": 0
+    },
+    {
+      "question": "The Rydberg formula is:",
+      "options": ["1/λ = R(1/n₁² - 1/n₂²)", "1/λ = R(n₁² - n₂²)", "λ = R(1/n₁² - 1/n₂²)", "λ = R(n₁² - n₂²)"],
+      "answer": 0
+    },
+    {
+      "question": "The Schrodinger equation is:",
+      "options": ["-ℏ²/2m ∇²ψ + Vψ = Eψ", "ℏ²/2m ∇²ψ + Vψ = Eψ", "-ℏ²/2m ∇²ψ - Vψ = Eψ", "ℏ²/2m ∇²ψ - Vψ = Eψ"],
+      "answer": 0
+    },
+    {
+      "question": "The time-independent Schrodinger equation is:",
+      "options": ["Ĥψ = Eψ", "Ĥψ = iℏ∂ψ/∂t", "Ĥψ = -iℏ∂ψ/∂t", "Ĥψ = ℏ∂ψ/∂t"],
+      "answer": 0
+    },
+    {
+      "question": "The time-dependent Schrodinger equation is:",
+      "options": ["Ĥψ = iℏ∂ψ/∂t", "Ĥψ = Eψ", "Ĥψ = -iℏ∂ψ/∂t", "Ĥψ = ℏ∂ψ/∂t"],
+      "answer": 0
+    },
+    {
+      "question": "The Hamiltonian operator in quantum mechanics is:",
+      "options": ["Ĥ = -ℏ²/2m ∇² + V", "Ĥ = ℏ²/2m ∇² + V", "Ĥ = -ℏ²/2m ∇² - V", "Ĥ = ℏ²/2m ∇² - V"],
+      "answer": 0
+    },
+    {
+      "question": "The wave function ψ in quantum mechanics is interpreted as:",
+      "options": ["Probability amplitude", "Probability density", "Probability", "Wave amplitude"],
+      "answer": 0
+    },
+    {
+      "question": "The probability density is given by:",
+      "options": ["|ψ|²", "|ψ|", "ψ²", "ψ"],
+      "answer": 0
+    },
+    {
+      "question": "The normalization condition for wave function is:",
+      "options": ["∫|ψ|² dτ = 1", "∫|ψ| dτ = 1", "∫ψ² dτ = 1", "∫ψ dτ = 1"],
+      "answer": 0
+    },
+    {
+      "question": "The expectation value of an operator is:",
+      "options": ["⟨A⟩ = ∫ψ* Â ψ dτ", "⟨A⟩ = ∫ψ Â ψ* dτ", "⟨A⟩ = ∫Â ψ dτ", "⟨A⟩ = ∫ψ* ψ dτ"],
+      "answer": 0
+    },
+    {
+      "question": "The momentum operator in quantum mechanics is:",
+      "options": ["p̂ = -iℏ∇", "p̂ = iℏ∇", "p̂ = -ℏ∇", "p̂ = ℏ∇"],
+      "answer": 0
+    },
+    {
+      "question": "The position operator in quantum mechanics is:",
+      "options": ["x̂ = x", "x̂ = -iℏ∂/∂x", "x̂ = iℏ∂/∂x", "x̂ = ℏ∂/∂x"],
+      "answer": 0
+    },
+    {
+      "question": "The energy operator is:",
+      "options": ["Ê = iℏ∂/∂t", "Ê = -iℏ∂/∂t", "Ê = ℏ∂/∂t", "Ê = -ℏ∂/∂t"],
+      "answer": 0
+    },
+    {
+      "question": "The commutator of position and momentum operators is:",
+      "options": ["[x, p] = iℏ", "[x, p] = -iℏ", "[x, p] = ℏ", "[x, p] = -ℏ"],
+      "answer": 0
+    },
+    {
+      "question": "The particle in a box energy levels are:",
+      "options": ["E_n = n²h²/8mL²", "E_n = n²h²/4mL²", "E_n = n²h²/2mL²", "E_n = nh²/8mL²"],
+      "answer": 0
+    },
+    {
+      "question": "The particle in a box wave function is:",
+      "options": ["ψ_n = √(2/L) sin(nπx/L)", "ψ_n = √(1/L) sin(nπx/L)", "ψ_n = √(2/L) cos(nπx/L)", "ψ_n = √(1/L) cos(nπx/L)"],
+      "answer": 0
+    },
+    {
+      "question": "The zero-point energy of a harmonic oscillator is:",
+      "options": ["E₀ = ½ℏω", "E₀ = ℏω", "E₀ = 0", "E₀ = ½hω"],
+      "answer": 0
+    },
+    {
+      "question": "The energy levels of harmonic oscillator are:",
+      "options": ["E_n = (n + ½)ℏω", "E_n = nℏω", "E_n = (n + 1)ℏω", "E_n = (n - ½)ℏω"],
+      "answer": 0
+    },
+    {
+      "question": "The wave function of harmonic oscillator is:",
+      "options": ["ψ_n(x) = N_n H_n(αx)e^{-α²x²/2}", "ψ_n(x) = N_n H_n(αx)e^{-αx²}", "ψ_n(x) = N_n H_n(αx)e^{-α²x²}", "ψ_n(x) = N_n H_n(αx)e^{-αx²/2}"],
+      "answer": 0
+    },
+    {
+      "question": "The Hermite polynomials appear in:",
+      "options": ["Harmonic oscillator wave functions", "Hydrogen atom wave functions", "Particle in a box wave functions", "Free particle wave functions"],
+      "answer": 0
+    },
+    {
+      "question": "The Laguerre polynomials appear in:",
+      "options": ["Hydrogen atom wave functions", "Harmonic oscillator wave functions", "Particle in a box wave functions", "Free particle wave functions"],
+      "answer": 0
+    },
+    {
+      "question": "The spherical harmonics appear in:",
+      "options": ["Hydrogen atom wave functions", "Harmonic oscillator wave functions", "Particle in a box wave functions", "Free particle wave functions"],
+      "answer": 0
+    },
+    {
+      "question": "The hydrogen atom wave function depends on:",
+      "options": ["r, θ, φ", "x, y, z", "r only", "θ, φ only"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum numbers for hydrogen atom are:",
+      "options": ["n, l, m, s", "n, l, m", "n, l", "n only"],
+      "answer": 0
+    },
+    {
+      "question": "The principal quantum number n can take values:",
+      "options": ["1, 2, 3, ...", "0, 1, 2, ...", "1/2, 3/2, ...", "Any positive integer"],
+      "answer": 0
+    },
+    {
+      "question": "The orbital quantum number l can take values:",
+      "options": ["0, 1, 2, ..., n-1", "1, 2, 3, ..., n", "0, 1, 2, ..., n", "1, 2, 3, ..., n-1"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic quantum number m can take values:",
+      "options": ["-l, ..., 0, ..., +l", "0, 1, ..., l", "-l, ..., +l", "All integers"],
+      "answer": 0
+    },
+    {
+      "question": "The spin quantum number s for electron is:",
+      "options": ["1/2", "1", "0", "3/2"],
+      "answer": 0
+    },
+    {
+      "question": "The spin magnetic quantum number m_s can take values:",
+      "options": ["+1/2, -1/2", "+1, -1", "0, 1", "+1/2, +3/2"],
+      "answer": 0
+    },
+    {
+      "question": "The electron spin was discovered by:",
+      "options": ["Uhlenbeck and Goudsmit", "Pauli", "Dirac", "Fermi"],
+      "answer": 0
+    },
+    {
+      "question": "The Pauli exclusion principle applies to:",
+      "options": ["Fermions", "Bosons", "All particles", "Only electrons"],
+      "answer": 0
+    },
+    {
+      "question": "The Stern-Gerlach experiment demonstrated:",
+      "options": ["Quantization of spin", "Quantization of energy", "Quantization of charge", "Quantization of momentum"],
+      "answer": 0
+    },
+    {
+      "question": "The Einstein-de Broglie relation is:",
+      "options": ["E = ℏω, p = ℏk", "E = ℏk, p = ℏω", "E = ℏ/ω, p = ℏ/k", "E = ℏω, p = ℏ/k"],
+      "answer": 0
+    },
+    {
+      "question": "The group velocity of a wave packet is:",
+      "options": ["v_g = dω/dk", "v_g = ω/k", "v_g = dk/dω", "v_g = k/ω"],
+      "answer": 0
+    },
+    {
+      "question": "The phase velocity of a wave is:",
+      "options": ["v_p = ω/k", "v_p = dω/dk", "v_p = dk/dω", "v_p = k/ω"],
+      "answer": 0
+    },
+    {
+      "question": "The wave number k is related to wavelength by:",
+      "options": ["k = 2π/λ", "k = λ/2π", "k = 2πλ", "k = 1/λ"],
+      "answer": 0
+    },
+    {
+      "question": "The angular frequency ω is related to frequency by:",
+      "options": ["ω = 2πν", "ω = ν/2π", "ω = 2π/ν", "ω = 1/ν"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum tunneling phenomenon:",
+      "options": ["Allows particles to pass through potential barriers", "Prevents particles from passing through barriers", "Only occurs for electrons", "Only occurs for photons"],
+      "answer": 0
+    },
+    {
+      "question": "The tunneling probability depends on:",
+      "options": ["Barrier width and height", "Particle mass", "Particle energy", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The scanning tunneling microscope works on:",
+      "options": ["Quantum tunneling", "Photoelectric effect", "Compton effect", "Diffraction"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum harmonic oscillator has:",
+      "options": ["Equally spaced energy levels", "Unequally spaced energy levels", "Only one energy level", "No energy levels"],
+      "answer": 0
+    },
+    {
+      "question": "The zero-point energy in quantum mechanics is:",
+      "options": ["The minimum energy a system can have", "The maximum energy a system can have", "Zero energy", "Infinite energy"],
+      "answer": 0
+    },
+    {
+      "question": "The correspondence principle states:",
+      "options": ["Quantum mechanics reduces to classical mechanics for large quantum numbers", "Classical mechanics reduces to quantum mechanics for large quantum numbers", "Quantum mechanics and classical mechanics are unrelated", "Quantum mechanics is always valid"],
+      "answer": 0
+    },
+    {
+      "question": "The Bohr correspondence principle applies to:",
+      "options": ["Large n transitions", "Small n transitions", "All transitions", "No transitions"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum numbers for an electron in an atom are:",
+      "options": ["n, l, m, s", "n, l, m", "n, l", "n only"],
+      "answer": 0
+    },
+    {
+      "question": "The electron configuration of an atom is determined by:",
+      "options": ["Pauli exclusion principle", "Aufbau principle", "Hund's rule", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The Aufbau principle states:",
+      "options": ["Electrons fill orbitals in order of increasing energy", "Electrons fill orbitals in order of decreasing energy", "Electrons fill orbitals randomly", "Electrons don't fill orbitals"],
+      "answer": 0
+    },
+    {
+      "question": "Hund's rule states:",
+      "options": ["Electrons occupy orbitals singly before pairing", "Electrons pair up before occupying new orbitals", "Electrons don't occupy orbitals", "Electrons occupy orbitals randomly"],
+      "answer": 0
+    },
+    {
+      "question": "The Heisenberg uncertainty principle limits:",
+      "options": ["The precision of simultaneous measurements", "The precision of individual measurements", "The speed of measurements", "The number of measurements"],
+      "answer": 0
+    },
+    {
+      "question": "The Dirac equation is:",
+      "options": ["A relativistic wave equation", "A non-relativistic wave equation", "A classical equation", "A thermodynamic equation"],
+      "answer": 0
+    },
+    {
+      "question": "The Dirac equation predicted:",
+      "options": ["Antiparticles", "Spin", "Fine structure", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The positron was discovered by:",
+      "options": ["Anderson", "Dirac", "Fermi", "Pauli"],
+      "answer": 0
+    },
+    {
+      "question": "The Klein-Gordon equation is:",
+      "options": ["A relativistic wave equation for spin-0 particles", "A relativistic wave equation for spin-1/2 particles", "A non-relativistic wave equation", "A classical equation"],
+      "answer": 0
+    },
+    {
+      "question": "The Feynman diagrams are used to describe:",
+      "options": ["Quantum electrodynamics", "Quantum chromodynamics", "Electroweak theory", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The quantum electrodynamics (QED) describes:",
+      "options": ["Interaction between charged particles and photons", "Interaction between quarks and gluons", "Weak interaction", "Strong interaction"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum chromodynamics (QCD) describes:",
+      "options": ["Strong interaction", "Electromagnetic interaction", "Weak interaction", "Gravitational interaction"],
+      "answer": 0
+    },
+    {
+      "question": "The electroweak theory unifies:",
+      "options": ["Electromagnetism and weak interaction", "Electromagnetism and strong interaction", "Weak and strong interaction", "All four forces"],
+      "answer": 0
+    },
+    {
+      "question": "The grand unified theory (GUT) attempts to unify:",
+      "options": ["Electroweak and strong interactions", "Electroweak and gravitational", "Strong and gravitational", "All four forces"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum Hall effect is:",
+      "options": ["Quantization of Hall conductance", "Quantization of resistance", "Quantization of voltage", "Quantization of current"],
+      "answer": 0
+    },
+    {
+      "question": "The fractional quantum Hall effect involves:",
+      "options": ["Fractional charges", "Integer charges", "Zero charges", "All charges"],
+      "answer": 0
+    },
+    {
+      "question": "The Josephson effect occurs in:",
+      "options": ["Superconductors", "Semiconductors", "Insulators", "Metals"],
+      "answer": 0
+    },
+    {
+      "question": "The Josephson effect is used in:",
+      "options": ["SQUIDs", "Transistors", "Lasers", "LEDs"],
+      "answer": 0
+    },
+    {
+      "question": "The SQUID is used to measure:",
+      "options": ["Magnetic fields", "Electric fields", "Temperature", "Pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The laser is based on:",
+      "options": ["Stimulated emission", "Spontaneous emission", "Absorption", "Scattering"],
+      "answer": 0
+    },
+    {
+      "question": "The population inversion is required for:",
+      "options": ["Lasing action", "Absorption", "Spontaneous emission", "Scattering"],
+      "answer": 0
+    },
+    {
+      "question": "The photons in a laser are:",
+      "options": ["Coherent", "Incoherent", "Random", "Unpolarized"],
+      "answer": 0
+    },
+    {
+      "question": "The Einstein A and B coefficients describe:",
+      "options": ["Spontaneous and stimulated emission and absorption", "Absorption and transmission", "Reflection and transmission", "Diffraction and interference"],
+      "answer": 0
+    },
+    {
+      "question": "The Einstein coefficients are related by:",
+      "options": ["A/B = 8πhν³/c³", "A/B = c³/8πhν³", "A/B = 8πc³/hν³", "A/B = hν³/8πc³"],
+      "answer": 0
+    },
+    {
+      "question": "The Rabi oscillations occur in:",
+      "options": ["Two-level quantum systems", "Multi-level quantum systems", "Classical systems", "Thermodynamic systems"],
+      "answer": 0
+    },
+    {
+      "question": "The Rabi frequency is:",
+      "options": ["The frequency of oscillations between two states", "The frequency of photons", "The frequency of electrons", "The frequency of protons"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum entanglement is:",
+      "options": ["A correlation between quantum systems", "A separation between quantum systems", "A destruction of quantum systems", "A creation of quantum systems"],
+      "answer": 0
+    },
+    {
+      "question": "The Bell inequalities are related to:",
+      "options": ["Quantum entanglement", "Quantum tunneling", "Photoelectric effect", "Compton effect"],
+      "answer": 0
+    },
+    {
+      "question": "The violation of Bell inequalities indicates:",
+      "options": ["Non-locality of quantum mechanics", "Locality of quantum mechanics", "Classical behavior", "Thermodynamic behavior"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum teleportation is:",
+      "options": ["Transfer of quantum states", "Transfer of classical information", "Transfer of energy", "Transfer of mass"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum computing uses:",
+      "options": ["Qubits", "Bits", "Qubytes", "Bytes"],
+      "answer": 0
+    },
+    {
+      "question": "A qubit can be in:",
+      "options": ["Superposition of 0 and 1", "Only 0 or 1", "Only 0", "Only 1"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum gates are:",
+      "options": ["Unitary operations on qubits", "Non-unitary operations on qubits", "Classical operations", "Thermodynamic operations"],
+      "answer": 0
+    },
+    {
+      "question": "The Deutsch-Jozsa algorithm is:",
+      "options": ["A quantum algorithm", "A classical algorithm", "A thermodynamic algorithm", "A statistical algorithm"],
+      "answer": 0
+    },
+    {
+      "question": "The Shor's algorithm is for:",
+      "options": ["Factoring integers", "Searching databases", "Sorting data", "Encryption"],
+      "answer": 0
+    },
+    {
+      "question": "The Grover's algorithm is for:",
+      "options": ["Searching unsorted databases", "Factoring integers", "Sorting data", "Encryption"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum cryptography uses:",
+      "options": ["Quantum key distribution", "Classical key distribution", "Public key encryption", "Private key encryption"],
+      "answer": 0
+    },
+    {
+      "question": "The BB84 protocol is for:",
+      "options": ["Quantum key distribution", "Classical key distribution", "Quantum teleportation", "Quantum computing"],
+      "answer": 0
+    },
+    {
+      "question": "The E91 protocol is for:",
+      "options": ["Quantum key distribution using entanglement", "Classical key distribution", "Quantum teleportation", "Quantum computing"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum no-cloning theorem states:",
+      "options": ["It is impossible to clone an arbitrary unknown quantum state", "It is possible to clone any quantum state", "It is impossible to measure quantum states", "It is possible to measure any quantum state"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum no-teleportation theorem states:",
+      "options": ["It is impossible to teleport faster than light", "It is possible to teleport faster than light", "It is impossible to teleport at all", "It is possible to teleport any state"],
+      "answer": 0
+    },
+    {
+      "question": "The wave function collapse is:",
+      "options": ["The reduction of wave function upon measurement", "The expansion of wave function", "The creation of wave function", "The destruction of wave function"],
+      "answer": 0
+    },
+    {
+      "question": "The Copenhagen interpretation is:",
+      "options": ["An interpretation of quantum mechanics", "A classical interpretation", "A thermodynamic interpretation", "A statistical interpretation"],
+      "answer": 0
+    },
+    {
+      "question": "The Many-Worlds interpretation is:",
+      "options": ["An interpretation of quantum mechanics", "A classical interpretation", "A thermodynamic interpretation", "A statistical interpretation"],
+      "answer": 0
+    },
+    {
+      "question": "The pilot-wave interpretation is:",
+      "options": ["An interpretation of quantum mechanics", "A classical interpretation", "A thermodynamic interpretation", "A statistical interpretation"],
+      "answer": 0
+    },
+    {
+      "question": "The Schrödinger's cat paradox illustrates:",
+      "options": ["Quantum superposition", "Quantum entanglement", "Quantum tunneling", "Photoelectric effect"],
+      "answer": 0
+    },
+    {
+      "question": "The Wigner's friend paradox illustrates:",
+      "options": ["Quantum measurement problem", "Quantum entanglement", "Quantum tunneling", "Photoelectric effect"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum Zeno effect is:",
+      "options": ["The inhibition of decay by frequent measurements", "The enhancement of decay by frequent measurements", "The inhibition of decay without measurements", "The enhancement of decay without measurements"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum anti-Zeno effect is:",
+      "options": ["The enhancement of decay by frequent measurements", "The inhibition of decay by frequent measurements", "The enhancement of decay without measurements", "The inhibition of decay without measurements"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum Berry phase is:",
+      "options": ["A geometric phase acquired by quantum systems", "A dynamic phase", "A statistical phase", "A thermal phase"],
+      "answer": 0
+    },
+    {
+      "question": "The Aharonov-Bohm effect is:",
+      "options": ["The effect of electromagnetic potentials on quantum phases", "The effect of electric fields on quantum phases", "The effect of magnetic fields on quantum phases", "The effect of gravitational fields on quantum phases"],
+      "answer": 0
+    },
+    {
+      "question": "The Casimir effect is:",
+      "options": ["A force between conducting plates due to vacuum fluctuations", "A force between charges", "A force between magnets", "A force between masses"],
+      "answer": 0
+    },
+    {
+      "question": "The Casimir effect is evidence for:",
+      "options": ["Vacuum energy", "Dark energy", "Dark matter", "Zero-point energy"],
+      "answer": 0
+    },
+    {
+      "question": "The Unruh effect is:",
+      "options": ["An observer accelerating through vacuum sees thermal radiation", "An observer at rest sees thermal radiation", "An observer accelerating sees no radiation", "An observer at rest sees no radiation"],
+      "answer": 0
+    },
+    {
+      "question": "The Unruh temperature is:",
+      "options": ["T = ℏa/2πck_B", "T = ℏa/2πc", "T = ℏa/2πk_B", "T = ℏa/2πck_B"],
+      "answer": 0
+    },
+    {
+      "question": "The Hawking radiation is:",
+      "options": ["Radiation from black holes due to quantum effects", "Radiation from stars", "Radiation from planets", "Radiation from galaxies"],
+      "answer": 0
+    },
+    {
+      "question": "The Hawking temperature is:",
+      "options": ["T = ℏc³/8πGMk_B", "T = ℏc³/8πGM", "T = ℏc³/8πk_B", "T = ℏc³/8πG"],
+      "answer": 0
+    },
+    {
+      "question": "The black hole entropy is given by:",
+      "options": ["S = kB A/4Gℏ", "S = A/4Gℏ", "S = kB A/4G", "S = A/4G"],
+      "answer": 0
+    },
+    {
+      "question": "The Bekenstein-Hawking entropy is:",
+      "options": ["Proportional to the area of the event horizon", "Proportional to the volume of the black hole", "Proportional to the mass of the black hole", "Proportional to the charge of the black hole"],
+      "answer": 0
+    },
+    {
+      "question": "The holographic principle states:",
+      "options": ["The information in a volume can be encoded on its boundary", "The information in a volume cannot be encoded on its boundary", "The information is lost in black holes", "The information is created in black holes"],
+      "answer": 0
+    },
+    {
+      "question": "The AdS/CFT correspondence is:",
+      "options": ["A duality between gravity in AdS and CFT on the boundary", "A duality between quantum mechanics and classical mechanics", "A duality between gravity and electromagnetism", "A duality between strong and weak forces"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum field theory is:",
+      "options": ["The combination of quantum mechanics and special relativity", "The combination of quantum mechanics and general relativity", "The combination of classical mechanics and special relativity", "The combination of classical mechanics and general relativity"],
+      "answer": 0
+    },
+    {
+      "question": "The creation and annihilation operators are used in:",
+      "options": ["Quantum field theory", "Classical mechanics", "Statistical mechanics", "Thermodynamics"],
+      "answer": 0
+    },
+    {
+      "question": "The Fock space is:",
+      "options": ["The state space for many-particle quantum systems", "The state space for single-particle quantum systems", "The state space for classical systems", "The state space for thermodynamic systems"],
+      "answer": 0
+    },
+    {
+      "question": "The coherent states are:",
+      "options": ["States that minimize the uncertainty product", "States that maximize the uncertainty product", "States with zero uncertainty", "States with infinite uncertainty"],
+      "answer": 0
+    },
+    {
+      "question": "The squeezed states are:",
+      "options": ["States with reduced uncertainty in one quadrature", "States with increased uncertainty in all quadratures", "States with zero uncertainty", "States with infinite uncertainty"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum non-demolition measurements are:",
+      "options": ["Measurements that do not change the measured observable", "Measurements that change the measured observable", "Measurements that destroy the measured observable", "Measurements that create the measured observable"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum trajectory theory describes:",
+      "options": ["The evolution of open quantum systems", "The evolution of closed quantum systems", "The evolution of classical systems", "The evolution of thermodynamic systems"],
+      "answer": 0
+    },
+    {
+      "question": "The master equation describes:",
+      "options": ["The evolution of open quantum systems", "The evolution of closed quantum systems", "The evolution of classical systems", "The evolution of thermodynamic systems"],
+      "answer": 0
+    },
+    {
+      "question": "The Lindblad equation is:",
+      "options": ["A master equation for open quantum systems", "A master equation for closed quantum systems", "A classical equation", "A thermodynamic equation"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum decoherence is:",
+      "options": ["The loss of quantum coherence due to interaction with environment", "The gain of quantum coherence", "The loss of classical coherence", "The gain of classical coherence"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum-to-classical transition is explained by:",
+      "options": ["Decoherence", "Coherence", "Entanglement", "Superposition"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum system can exist in a superposition of states until:",
+      "options": ["Measurement is made", "Time passes", "Energy is added", "Temperature changes"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum measurement problem is:",
+      "options": ["The question of how measurements cause wave function collapse", "The question of how measurements cause decoherence", "The question of how measurements cause coherence", "The question of how measurements cause entanglement"],
+      "answer": 0
+    },
+    {
+      "question": "The electron in a hydrogen atom has:",
+      "options": ["Quantized energy levels", "Continuous energy levels", "No energy levels", "Infinite energy levels"],
+      "answer": 0
+    },
+    {
+      "question": "The spectral lines of hydrogen are:",
+      "options": ["Discrete", "Continuous", "Random", "Gaussian"],
+      "answer": 0
+    },
+    {
+      "question": "The fine structure of hydrogen is due to:",
+      "options": ["Spin-orbit interaction", "Lamb shift", "Hyperfine structure", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The Lamb shift is:",
+      "options": ["A small difference between energy levels in hydrogen", "A large difference between energy levels", "No difference between energy levels", "A shift due to magnetic field"],
+      "answer": 0
+    },
+    {
+      "question": "The Lamb shift is due to:",
+      "options": ["Vacuum fluctuations", "Spin-orbit interaction", "Hyperfine interaction", "Magnetic field"],
+      "answer": 0
+    },
+    {
+      "question": "The hyperfine structure is due to:",
+      "options": ["Interaction with nuclear spin", "Interaction with electron spin", "Interaction with orbital motion", "Interaction with magnetic field"],
+      "answer": 0
+    },
+    {
+      "question": "The 21-cm line is from:",
+      "options": ["Hyperfine transition of hydrogen", "Fine transition of hydrogen", "Lamb shift", "Zeeman effect"],
+      "answer": 0
+    },
+    {
+      "question": "The 21-cm line is used in:",
+      "options": ["Radio astronomy", "Optical astronomy", "X-ray astronomy", "Gamma-ray astronomy"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum states of atoms are labeled by:",
+      "options": ["Term symbols", "Quantum numbers", "Energy levels", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The term symbol notation is:",
+      "options": ["^{2S+1}L_J", "^{2S+1}L", "^{2S+1}J", "^{2S+1}L_J"],
+      "answer": 0
+    },
+    {
+      "question": "The spectroscopic notation for orbital l = 0 is:",
+      "options": ["s", "p", "d", "f"],
+      "answer": 0
+    },
+    {
+      "question": "The spectroscopic notation for orbital l = 1 is:",
+      "options": ["p", "s", "d", "f"],
+      "answer": 0
+    },
+    {
+      "question": "The spectroscopic notation for orbital l = 2 is:",
+      "options": ["d", "s", "p", "f"],
+      "answer": 0
+    },
+    {
+      "question": "The spectroscopic notation for orbital l = 3 is:",
+      "options": ["f", "s", "p", "d"],
+      "answer": 0
+    },
+    {
+      "question": "The Russell-Saunders coupling is:",
+      "options": ["L-S coupling", "j-j coupling", "Intermediate coupling", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The j-j coupling is:",
+      "options": ["Coupling of individual electron angular momenta", "Coupling of total orbital and spin angular momenta", "Coupling of nuclear and electron angular momenta", "Coupling of magnetic and electric fields"],
+      "answer": 0
+    },
+    {
+      "question": "The Landé g-factor is:",
+      "options": ["g = 1 + [J(J+1) + S(S+1) - L(L+1)]/[2J(J+1)]", "g = 1 + [L(L+1) + S(S+1) - J(J+1)]/[2J(J+1)]", "g = 1 + [J(J+1) + L(L+1) - S(S+1)]/[2J(J+1)]", "g = 1 + [J(J+1) + S(S+1) + L(L+1)]/[2J(J+1)]"],
+      "answer": 0
+    },
+    {
+      "question": "The Landé g-factor is used in:",
+      "options": ["Zeeman effect", "Stark effect", "Compton effect", "Photoelectric effect"],
+      "answer": 0
+    },
+    {
+      "question": "The electron paramagnetic resonance (EPR) is:",
+      "options": ["Resonance of unpaired electrons in a magnetic field", "Resonance of paired electrons in a magnetic field", "Resonance of nuclei in a magnetic field", "Resonance of atoms in a magnetic field"],
+      "answer": 0
+    },
+    {
+      "question": "The nuclear magnetic resonance (NMR) is:",
+      "options": ["Resonance of nuclei in a magnetic field", "Resonance of electrons in a magnetic field", "Resonance of atoms in a magnetic field", "Resonance of molecules in a magnetic field"],
+      "answer": 0
+    },
+    {
+      "question": "The NMR is used in:",
+      "options": ["Medical imaging", "Chemical analysis", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "The quantum dot is:",
+      "options": ["A semiconductor nanostructure with quantized energy levels", "A classical dot", "A magnetic dot", "An optical dot"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum well is:",
+      "options": ["A thin layer with quantized energy levels", "A thick layer with quantized energy levels", "A thin layer with classical energy levels", "A thick layer with classical energy levels"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum wire is:",
+      "options": ["A one-dimensional quantum structure", "A two-dimensional quantum structure", "A three-dimensional quantum structure", "A zero-dimensional quantum structure"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum dot is:",
+      "options": ["A zero-dimensional quantum structure", "A one-dimensional quantum structure", "A two-dimensional quantum structure", "A three-dimensional quantum structure"],
+      "answer": 0
+    },
+    {
+      "question": "The electron confinement in quantum dots leads to:",
+      "options": ["Discrete energy levels", "Continuous energy levels", "No energy levels", "Infinite energy levels"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum well laser uses:",
+      "options": ["Quantum confinement", "Classical confinement", "Thermal confinement", "Magnetic confinement"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum cascade laser is based on:",
+      "options": ["Intersubband transitions", "Interband transitions", "Intraband transitions", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum information science studies:",
+      "options": ["Quantum information processing", "Classical information processing", "Thermodynamic information processing", "Statistical information processing"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum entanglement is a resource for:",
+      "options": ["Quantum computing", "Quantum cryptography", "Quantum teleportation", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The Bell states are:",
+      "options": ["Maximally entangled states", "Non-entangled states", "Partially entangled states", "Classical states"],
+      "answer": 0
+    },
+    {
+      "question": "The GHZ states are:",
+      "options": ["Multipartite entangled states", "Bipartite entangled states", "Non-entangled states", "Classical states"],
+      "answer": 0
+    },
+    {
+      "question": "The W states are:",
+      "options": ["Multipartite entangled states", "Bipartite entangled states", "Non-entangled states", "Classical states"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum error correction is:",
+      "options": ["Protection of quantum information from errors", "Protection of classical information from errors", "Correction of classical errors", "Correction of thermodynamic errors"],
+      "answer": 0
+    },
+    {
+      "question": "The Shor code is:",
+      "options": ["A quantum error correcting code", "A classical error correcting code", "A quantum algorithm", "A classical algorithm"],
+      "answer": 0
+    },
+    {
+      "question": "The Steane code is:",
+      "options": ["A quantum error correcting code", "A classical error correcting code", "A quantum algorithm", "A classical algorithm"],
+      "answer": 0
+    },
+    {
+      "question": "The surface code is:",
+      "options": ["A quantum error correcting code", "A classical error correcting code", "A quantum algorithm", "A classical algorithm"],
+      "answer": 0
+    },
+    {
+      "question": "The topological quantum computing uses:",
+      "options": ["Anyons", "Fermions", "Bosons", "Quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The anyons are:",
+      "options": ["Particles with fractional statistics", "Particles with integer statistics", "Particles with half-integer statistics", "Particles with no statistics"],
+      "answer": 0
+    },
+    {
+      "question": "The Majorana fermions are:",
+      "options": ["Particles that are their own antiparticles", "Particles that are antiparticles of others", "Particles with no antiparticles", "Particles with multiple antiparticles"],
+      "answer": 0
+    },
+    {
+      "question": "The Majorana fermions are candidates for:",
+      "options": ["Topological quantum computing", "Classical computing", "Quantum cryptography", "Quantum teleportation"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum spin Hall effect is:",
+      "options": ["A topological effect in quantum systems", "A classical effect", "A thermodynamic effect", "A statistical effect"],
+      "answer": 0
+    },
+    {
+      "question": "The topological insulators are:",
+      "options": ["Materials with insulating bulk and conducting surface", "Materials with conducting bulk and insulating surface", "Materials with insulating bulk and surface", "Materials with conducting bulk and surface"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum anomalous Hall effect is:",
+      "options": ["Quantized Hall effect without external magnetic field", "Quantized Hall effect with external magnetic field", "Classical Hall effect", "Thermodynamic Hall effect"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum spin liquid is:",
+      "options": ["A state of matter with quantum entanglement", "A state of matter without quantum entanglement", "A classical state of matter", "A thermodynamic state of matter"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum critical point is:",
+      "options": ["A phase transition at zero temperature", "A phase transition at finite temperature", "A classical phase transition", "A thermodynamic phase transition"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum phase transition is:",
+      "options": ["A phase transition driven by quantum fluctuations", "A phase transition driven by thermal fluctuations", "A classical phase transition", "A thermodynamic phase transition"],
+      "answer": 0
+    },
+    {
+      "question": "The Kondo effect is:",
+      "options": ["Scattering of electrons by magnetic impurities", "Scattering of electrons by non-magnetic impurities", "Scattering of photons by electrons", "Scattering of electrons by phonons"],
+      "answer": 0
+    },
+    {
+      "question": "The Kondo temperature is:",
+      "options": ["The temperature below which the Kondo effect appears", "The temperature above which the Kondo effect appears", "The temperature at which the Kondo effect disappears", "The temperature at which the Kondo effect is maximum"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum phase estimation algorithm is:",
+      "options": ["A quantum algorithm for estimating phases", "A classical algorithm for estimating phases", "A quantum algorithm for factoring", "A quantum algorithm for searching"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum Fourier transform is:",
+      "options": ["A quantum version of Fourier transform", "A classical version of Fourier transform", "A quantum algorithm", "A classical algorithm"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum Fourier transform is used in:",
+      "options": ["Shor's algorithm", "Grover's algorithm", "Deutsch-Jozsa algorithm", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum walk is:",
+      "options": ["A quantum analog of classical random walk", "A classical random walk", "A quantum algorithm", "A classical algorithm"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum walk is used in:",
+      "options": ["Quantum algorithms", "Classical algorithms", "Quantum cryptography", "Quantum teleportation"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum approximate optimization algorithm (QAOA) is:",
+      "options": ["A quantum algorithm for optimization", "A classical algorithm for optimization", "A quantum algorithm for factoring", "A quantum algorithm for searching"],
+      "answer": 0
+    },
+    {
+      "question": "The variational quantum eigensolver (VQE) is:",
+      "options": ["A quantum algorithm for finding eigenvalues", "A classical algorithm for finding eigenvalues", "A quantum algorithm for optimization", "A quantum algorithm for searching"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum machine learning is:",
+      "options": ["The application of quantum computing to machine learning", "The application of classical computing to machine learning", "The application of quantum computing to classical problems", "The application of classical computing to quantum problems"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum Boltzmann machine is:",
+      "options": ["A quantum version of Boltzmann machine", "A classical version of Boltzmann machine", "A quantum algorithm", "A classical algorithm"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum perceptron is:",
+      "options": ["A quantum version of perceptron", "A classical version of perceptron", "A quantum algorithm", "A classical algorithm"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum neural network is:",
+      "options": ["A neural network using quantum computing", "A neural network using classical computing", "A quantum algorithm", "A classical algorithm"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum state tomography is:",
+      "options": ["The reconstruction of a quantum state from measurements", "The reconstruction of a classical state from measurements", "The reconstruction of a quantum state from theory", "The reconstruction of a classical state from theory"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum process tomography is:",
+      "options": ["The reconstruction of a quantum process from measurements", "The reconstruction of a classical process from measurements", "The reconstruction of a quantum process from theory", "The reconstruction of a classical process from theory"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum control is:",
+      "options": ["The control of quantum systems", "The control of classical systems", "The control of thermodynamic systems", "The control of statistical systems"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum optimal control is:",
+      "options": ["The optimal control of quantum systems", "The optimal control of classical systems", "The optimal control of thermodynamic systems", "The optimal control of statistical systems"],
+      "answer": 0
+    }
+  ]
+}

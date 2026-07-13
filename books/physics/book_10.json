@@ -1,0 +1,1246 @@
+{
+  "category": "Particle Physics",
+  "total_questions": 266,
+  "questions": [
+    {
+      "question": "The smallest known particles that make up matter are called:",
+      "options": ["Fundamental particles", "Molecules", "Atoms", "Nuclei"],
+      "answer": 0
+    },
+    {
+      "question": "The Standard Model of particle physics describes:",
+      "options": ["Fundamental particles and their interactions", "Only the strong interaction", "Only the weak interaction", "Only the electromagnetic interaction"],
+      "answer": 0
+    },
+    {
+      "question": "Quarks are:",
+      "options": ["Fundamental particles", "Composite particles", "Atomic nuclei", "Molecules"],
+      "answer": 0
+    },
+    {
+      "question": "Leptons are:",
+      "options": ["Fundamental particles", "Composite particles", "Hadrons", "Baryons"],
+      "answer": 0
+    },
+    {
+      "question": "The six types of quarks are called:",
+      "options": ["Up, down, charm, strange, top, bottom", "Up, down, left, right, top, bottom", "Up, down, charm, strange, truth, beauty", "Up, down, top, bottom, front, back"],
+      "answer": 0
+    },
+    {
+      "question": "The six types of leptons are called:",
+      "options": ["Electron, muon, tau, and three neutrinos", "Electron, proton, neutron, and three neutrinos", "Electron, muon, tau, and quarks", "Electron, proton, neutron, and quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The electron belongs to which family?",
+      "options": ["Leptons", "Quarks", "Hadrons", "Bosons"],
+      "answer": 0
+    },
+    {
+      "question": "The proton is made of:",
+      "options": ["Up and down quarks", "Only up quarks", "Only down quarks", "Charm and strange quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The neutron is made of:",
+      "options": ["Up and down quarks", "Only up quarks", "Only down quarks", "Charm and strange quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The up quark has charge:",
+      "options": ["+2/3e", "-1/3e", "-2/3e", "+1/3e"],
+      "answer": 0
+    },
+    {
+      "question": "The down quark has charge:",
+      "options": ["-1/3e", "+2/3e", "-2/3e", "+1/3e"],
+      "answer": 0
+    },
+    {
+      "question": "The electron has charge:",
+      "options": ["-e", "+e", "0", "-2e"],
+      "answer": 0
+    },
+    {
+      "question": "The positron is the antiparticle of:",
+      "options": ["Electron", "Proton", "Neutron", "Neutrino"],
+      "answer": 0
+    },
+    {
+      "question": "The antiparticle of the proton is:",
+      "options": ["Antiproton", "Positron", "Antineutron", "Electron"],
+      "answer": 0
+    },
+    {
+      "question": "The antiparticle of the neutron is:",
+      "options": ["Antineutron", "Antiproton", "Positron", "Electron"],
+      "answer": 0
+    },
+    {
+      "question": "The antiparticle of the electron is:",
+      "options": ["Positron", "Antiproton", "Antineutron", "Neutrino"],
+      "answer": 0
+    },
+    {
+      "question": "The four fundamental forces are:",
+      "options": ["Gravity, electromagnetism, strong, weak", "Gravity, electricity, magnetism, strong", "Strong, weak, electromagnetic, nuclear", "Gravity, nuclear, electromagnetic, strong"],
+      "answer": 0
+    },
+    {
+      "question": "The strongest of the four fundamental forces is:",
+      "options": ["Strong nuclear force", "Weak nuclear force", "Electromagnetic force", "Gravity"],
+      "answer": 0
+    },
+    {
+      "question": "The weakest of the four fundamental forces is:",
+      "options": ["Gravity", "Weak nuclear force", "Electromagnetic force", "Strong nuclear force"],
+      "answer": 0
+    },
+    {
+      "question": "The force that binds quarks together is:",
+      "options": ["Strong force", "Weak force", "Electromagnetic force", "Gravitational force"],
+      "answer": 0
+    },
+    {
+      "question": "The force responsible for beta decay is:",
+      "options": ["Weak force", "Strong force", "Electromagnetic force", "Gravitational force"],
+      "answer": 0
+    },
+    {
+      "question": "The force responsible for binding nuclei is:",
+      "options": ["Strong force", "Weak force", "Electromagnetic force", "Gravitational force"],
+      "answer": 0
+    },
+    {
+      "question": "The force responsible for electromagnetic interactions is:",
+      "options": ["Electromagnetic force", "Strong force", "Weak force", "Gravitational force"],
+      "answer": 0
+    },
+    {
+      "question": "The gauge bosons of the strong force are:",
+      "options": ["Gluons", "Photons", "W and Z bosons", "Gravitons"],
+      "answer": 0
+    },
+    {
+      "question": "The gauge bosons of the electromagnetic force are:",
+      "options": ["Photons", "Gluons", "W and Z bosons", "Gravitons"],
+      "answer": 0
+    },
+    {
+      "question": "The gauge bosons of the weak force are:",
+      "options": ["W and Z bosons", "Gluons", "Photons", "Gravitons"],
+      "answer": 0
+    },
+    {
+      "question": "The hypothetical gauge boson of gravity is:",
+      "options": ["Graviton", "Photon", "Gluon", "Higgs boson"],
+      "answer": 0
+    },
+    {
+      "question": "The Higgs boson is responsible for:",
+      "options": ["Giving mass to particles", "Giving charge to particles", "Giving spin to particles", "Giving color to particles"],
+      "answer": 0
+    },
+    {
+      "question": "The Higgs boson was discovered at:",
+      "options": ["CERN", "Fermilab", "SLAC", "Brookhaven"],
+      "answer": 0
+    },
+    {
+      "question": "The Higgs boson was discovered in:",
+      "options": ["2012", "2000", "2010", "2015"],
+      "answer": 0
+    },
+    {
+      "question": "The Large Hadron Collider is located at:",
+      "options": ["CERN", "Fermilab", "SLAC", "Brookhaven"],
+      "answer": 0
+    },
+    {
+      "question": "The Tevatron was located at:",
+      "options": ["Fermilab", "CERN", "SLAC", "Brookhaven"],
+      "answer": 0
+    },
+    {
+      "question": "The mass of the Higgs boson is about:",
+      "options": ["125 GeV", "100 GeV", "150 GeV", "200 GeV"],
+      "answer": 0
+    },
+    {
+      "question": "The electron neutrino was discovered in:",
+      "options": ["1956", "1960", "1970", "1980"],
+      "answer": 0
+    },
+    {
+      "question": "The muon neutrino was discovered in:",
+      "options": ["1962", "1956", "1970", "1980"],
+      "answer": 0
+    },
+    {
+      "question": "The tau neutrino was discovered in:",
+      "options": ["2000", "1990", "1980", "2010"],
+      "answer": 0
+    },
+    {
+      "question": "Neutrino oscillations imply that:",
+      "options": ["Neutrinos have mass", "Neutrinos are massless", "Neutrinos are charged", "Neutrinos are stable"],
+      "answer": 0
+    },
+    {
+      "question": "The three generations of quarks are:",
+      "options": ["(u,d), (c,s), (t,b)", "(u,d), (s,c), (t,b)", "(d,u), (s,c), (b,t)", "(u,d), (c,s), (b,t)"],
+      "answer": 0
+    },
+    {
+      "question": "The three generations of leptons are:",
+      "options": ["(e,νₑ), (μ,ν_μ), (τ,ν_τ)", "(e,ν_μ), (μ,ν_τ), (τ,νₑ)", "(e,ν_τ), (μ,νₑ), (τ,ν_μ)", "(e,νₑ), (μ,ν_μ), (τ,ν_τ)"],
+      "answer": 0
+    },
+    {
+      "question": "The up and down quarks are in which generation?",
+      "options": ["First generation", "Second generation", "Third generation", "Fourth generation"],
+      "answer": 0
+    },
+    {
+      "question": "The charm and strange quarks are in which generation?",
+      "options": ["Second generation", "First generation", "Third generation", "Fourth generation"],
+      "answer": 0
+    },
+    {
+      "question": "The top and bottom quarks are in which generation?",
+      "options": ["Third generation", "First generation", "Second generation", "Fourth generation"],
+      "answer": 0
+    },
+    {
+      "question": "The electron and electron neutrino are in which generation?",
+      "options": ["First generation", "Second generation", "Third generation", "Fourth generation"],
+      "answer": 0
+    },
+    {
+      "question": "The muon and muon neutrino are in which generation?",
+      "options": ["Second generation", "First generation", "Third generation", "Fourth generation"],
+      "answer": 0
+    },
+    {
+      "question": "The tau and tau neutrino are in which generation?",
+      "options": ["Third generation", "First generation", "Second generation", "Fourth generation"],
+      "answer": 0
+    },
+    {
+      "question": "The charge of the muon is:",
+      "options": ["-e", "+e", "0", "-2e"],
+      "answer": 0
+    },
+    {
+      "question": "The charge of the tau is:",
+      "options": ["-e", "+e", "0", "-2e"],
+      "answer": 0
+    },
+    {
+      "question": "The charge of the neutrino is:",
+      "options": ["0", "-e", "+e", "-2e"],
+      "answer": 0
+    },
+    {
+      "question": "Hadrons are particles made of:",
+      "options": ["Quarks", "Leptons", "Bosons", "Molecules"],
+      "answer": 0
+    },
+    {
+      "question": "Baryons are made of:",
+      "options": ["Three quarks", "Two quarks", "One quark", "Four quarks"],
+      "answer": 0
+    },
+    {
+      "question": "Mesons are made of:",
+      "options": ["Two quarks (quark-antiquark pair)", "Three quarks", "One quark", "Four quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The proton is a:",
+      "options": ["Baryon", "Meson", "Lepton", "Boson"],
+      "answer": 0
+    },
+    {
+      "question": "The neutron is a:",
+      "options": ["Baryon", "Meson", "Lepton", "Boson"],
+      "answer": 0
+    },
+    {
+      "question": "The pion is a:",
+      "options": ["Meson", "Baryon", "Lepton", "Boson"],
+      "answer": 0
+    },
+    {
+      "question": "The kaon is a:",
+      "options": ["Meson", "Baryon", "Lepton", "Boson"],
+      "answer": 0
+    },
+    {
+      "question": "The J/ψ particle is a:",
+      "options": ["Meson", "Baryon", "Lepton", "Boson"],
+      "answer": 0
+    },
+    {
+      "question": "The bottomonium is a:",
+      "options": ["Meson", "Baryon", "Lepton", "Boson"],
+      "answer": 0
+    },
+    {
+      "question": "The charmonium is a:",
+      "options": ["Meson", "Baryon", "Lepton", "Boson"],
+      "answer": 0
+    },
+    {
+      "question": "The quark confinement means:",
+      "options": ["Quarks are always bound in hadrons", "Quarks can be isolated", "Quarks are free at high energy", "Quarks are free at low energy"],
+      "answer": 0
+    },
+    {
+      "question": "Asymptotic freedom means:",
+      "options": ["Quarks become free at high energy", "Quarks become bound at high energy", "Quarks become free at low energy", "Quarks are always free"],
+      "answer": 0
+    },
+    {
+      "question": "Quantum chromodynamics (QCD) describes:",
+      "options": ["Strong interactions", "Weak interactions", "Electromagnetic interactions", "Gravitational interactions"],
+      "answer": 0
+    },
+    {
+      "question": "The color charge in QCD has:",
+      "options": ["Three colors: red, green, blue", "Two colors", "One color", "Four colors"],
+      "answer": 0
+    },
+    {
+      "question": "The anticolors in QCD are:",
+      "options": ["Antired, antigreen, antiblue", "Anti-yellow, anti-magenta, anti-cyan", "Anti-black, anti-white", "None"],
+      "answer": 0
+    },
+    {
+      "question": "The gluons in QCD carry:",
+      "options": ["Color charge", "Electric charge", "Weak charge", "No charge"],
+      "answer": 0
+    },
+    {
+      "question": "The number of gluons in QCD is:",
+      "options": ["8", "1", "2", "3"],
+      "answer": 0
+    },
+    {
+      "question": "The color singlet is:",
+      "options": ["A state with no net color", "A state with net color", "A state with color charge", "A state with color"],
+      "answer": 0
+    },
+    {
+      "question": "The confinement in QCD is due to:",
+      "options": ["The strong force between quarks", "The weak force between quarks", "The electromagnetic force between quarks", "The gravitational force between quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The QCD vacuum is:",
+      "options": ["A complex structure with condensates", "Empty", "Filled with particles", "Filled with antiparticles"],
+      "answer": 0
+    },
+    {
+      "question": "The chiral symmetry breaking in QCD:",
+      "options": ["Gives mass to hadrons", "Gives mass to quarks", "Gives mass to leptons", "Gives mass to bosons"],
+      "answer": 0
+    },
+    {
+      "question": "The electroweak theory unifies:",
+      "options": ["Electromagnetism and weak interaction", "Electromagnetism and strong interaction", "Weak and strong interaction", "All four forces"],
+      "answer": 0
+    },
+    {
+      "question": "The electroweak theory was proposed by:",
+      "options": ["Glashow, Weinberg, Salam", "Einstein, Newton, Maxwell", "Fermi, Dirac, Heisenberg", "Bohr, Rutherford, Chadwick"],
+      "answer": 0
+    },
+    {
+      "question": "The W boson has charge:",
+      "options": ["±e", "0", "±2e", "±e/2"],
+      "answer": 0
+    },
+    {
+      "question": "The Z boson has charge:",
+      "options": ["0", "±e", "±2e", "±e/2"],
+      "answer": 0
+    },
+    {
+      "question": "The masses of W and Z bosons are about:",
+      "options": ["80 GeV and 91 GeV", "100 GeV and 120 GeV", "50 GeV and 60 GeV", "100 GeV and 200 GeV"],
+      "answer": 0
+    },
+    {
+      "question": "The electromagnetic and weak interactions are unified:",
+      "options": ["At high energy (above 100 GeV)", "At low energy (below 1 GeV)", "At all energies", "At no energy"],
+      "answer": 0
+    },
+    {
+      "question": "The grand unification (GUT) aims to unify:",
+      "options": ["Electroweak and strong interactions", "Electroweak and gravitational", "Strong and gravitational", "All four forces"],
+      "answer": 0
+    },
+    {
+      "question": "The proton decay is predicted by:",
+      "options": ["Grand unification theories", "Standard Model", "String theory", "Loop quantum gravity"],
+      "answer": 0
+    },
+    {
+      "question": "The proton lifetime is expected to be:",
+      "options": ["> 10³² years", "> 10¹⁰ years", "> 10²⁰ years", "> 10⁴⁰ years"],
+      "answer": 0
+    },
+    {
+      "question": "The supersymmetry (SUSY) predicts:",
+      "options": ["Superpartners for known particles", "Extra dimensions", "New forces", "New quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The lightest supersymmetric particle (LSP) is a candidate for:",
+      "options": ["Dark matter", "Dark energy", "Cosmic inflation", "Matter-antimatter asymmetry"],
+      "answer": 0
+    },
+    {
+      "question": "The string theory describes particles as:",
+      "options": ["Vibrating strings", "Point particles", "Branes", "Fields"],
+      "answer": 0
+    },
+    {
+      "question": "The superstring theory has:",
+      "options": ["10 dimensions", "4 dimensions", "11 dimensions", "26 dimensions"],
+      "answer": 0
+    },
+    {
+      "question": "The M-theory has:",
+      "options": ["11 dimensions", "10 dimensions", "4 dimensions", "26 dimensions"],
+      "answer": 0
+    },
+    {
+      "question": "The branes in string theory are:",
+      "options": ["Extended objects", "Point objects", "String objects", "Field objects"],
+      "answer": 0
+    },
+    {
+      "question": "The quark-gluon plasma is:",
+      "options": ["A state where quarks and gluons are free", "A state where quarks are bound", "A state without gluons", "A state without quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The quark-gluon plasma existed in:",
+      "options": ["The early universe", "The present universe", "Stars", "Black holes"],
+      "answer": 0
+    },
+    {
+      "question": "The quark-gluon plasma is studied at:",
+      "options": ["RHIC and LHC", "CERN only", "Fermilab only", "SLAC only"],
+      "answer": 0
+    },
+    {
+      "question": "The nuclear force is:",
+      "options": ["A residual strong force", "The weak force", "The electromagnetic force", "The gravitational force"],
+      "answer": 0
+    },
+    {
+      "question": "The nuclear force is:",
+      "options": ["Short range (1 fm)", "Long range", "Infinite range", "Zero range"],
+      "answer": 0
+    },
+    {
+      "question": "The binding energy per nucleon is maximum for:",
+      "options": ["Iron-56", "Hydrogen-1", "Uranium-235", "Helium-4"],
+      "answer": 0
+    },
+    {
+      "question": "Nuclear fission releases energy when:",
+      "options": ["Heavy nuclei split", "Light nuclei fuse", "Nuclei form", "Nuclei decay"],
+      "answer": 0
+    },
+    {
+      "question": "Nuclear fusion releases energy when:",
+      "options": ["Light nuclei fuse", "Heavy nuclei split", "Nuclei form", "Nuclei decay"],
+      "answer": 0
+    },
+    {
+      "question": "The alpha particle is:",
+      "options": ["A helium nucleus", "A proton", "A neutron", "An electron"],
+      "answer": 0
+    },
+    {
+      "question": "Beta decay involves:",
+      "options": ["Neutron turning into proton and electron", "Proton turning into neutron and positron", "Alpha emission", "Gamma emission"],
+      "answer": 0
+    },
+    {
+      "question": "Beta plus decay involves:",
+      "options": ["Proton turning into neutron and positron", "Neutron turning into proton and electron", "Alpha emission", "Gamma emission"],
+      "answer": 0
+    },
+    {
+      "question": "Gamma decay involves:",
+      "options": ["Emission of photons", "Emission of electrons", "Emission of protons", "Emission of neutrons"],
+      "answer": 0
+    },
+    {
+      "question": "The half-life is:",
+      "options": ["The time for half of a sample to decay", "The time for the entire sample to decay", "The time for a quarter of the sample to decay", "The time for the sample to double"],
+      "answer": 0
+    },
+    {
+      "question": "The radioactive decay law is:",
+      "options": ["N = N₀e^(-λt)", "N = N₀(1-e^(-λt))", "N = N₀(1-e^(λt))", "N = N₀e^(λt)"],
+      "answer": 0
+    },
+    {
+      "question": "The decay constant λ is related to half-life by:",
+      "options": ["λ = ln 2 / t₁/₂", "λ = t₁/₂ / ln 2", "λ = ln 2 × t₁/₂", "λ = t₁/₂ / 2"],
+      "answer": 0
+    },
+    {
+      "question": "Carbon-14 dating is used for:",
+      "options": ["Archaeological dating", "Geological dating", "Medical imaging", "Power generation"],
+      "answer": 0
+    },
+    {
+      "question": "The age of the Earth is determined using:",
+      "options": ["Uranium-lead dating", "Carbon-14 dating", "Potassium-argon dating", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The cosmic rays are:",
+      "options": ["High energy particles from space", "Low energy particles from space", "Radiation from the Sun", "Radiation from Earth"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic rays mainly consist of:",
+      "options": ["Protons", "Electrons", "Neutrons", "Photons"],
+      "answer": 0
+    },
+    {
+      "question": "The primary cosmic rays:",
+      "options": ["Come from outside the solar system", "Come from the Sun", "Come from the Earth", "Come from the Moon"],
+      "answer": 0
+    },
+    {
+      "question": "The secondary cosmic rays:",
+      "options": ["Are produced in the atmosphere", "Come from outside the solar system", "Come from the Sun", "Come from the Earth"],
+      "answer": 0
+    },
+    {
+      "question": "The muon was discovered in cosmic rays in:",
+      "options": ["1936", "1940", "1950", "1960"],
+      "answer": 0
+    },
+    {
+      "question": "The pion was discovered in cosmic rays in:",
+      "options": ["1947", "1936", "1950", "1960"],
+      "answer": 0
+    },
+    {
+      "question": "The kaon was discovered in cosmic rays in:",
+      "options": ["1947", "1936", "1950", "1960"],
+      "answer": 0
+    },
+    {
+      "question": "The antimuon is the antiparticle of:",
+      "options": ["Muon", "Electron", "Tau", "Neutrino"],
+      "answer": 0
+    },
+    {
+      "question": "The antineutrino is the antiparticle of:",
+      "options": ["Neutrino", "Electron", "Muon", "Tau"],
+      "answer": 0
+    },
+    {
+      "question": "The CP violation was discovered in:",
+      "options": ["1964", "1970", "1980", "1990"],
+      "answer": 0
+    },
+    {
+      "question": "The CP violation explains:",
+      "options": ["Matter-antimatter asymmetry", "Energy conservation", "Momentum conservation", "Charge conservation"],
+      "answer": 0
+    },
+    {
+      "question": "The Sakharov conditions for baryogenesis are:",
+      "options": ["Baryon number violation, CP violation, and out-of-equilibrium conditions", "Baryon number conservation, CP violation, and out-of-equilibrium conditions", "Baryon number violation, CP conservation, and equilibrium conditions", "Baryon number conservation, CP conservation, and equilibrium conditions"],
+      "answer": 0
+    },
+    {
+      "question": "The baryon number is conserved in the Standard Model:",
+      "options": ["Exactly", "Approximately", "Not at all", "Sometimes"],
+      "answer": 1
+    },
+    {
+      "question": "The lepton number is conserved in the Standard Model:",
+      "options": ["Exactly", "Approximately", "Not at all", "Sometimes"],
+      "answer": 1
+    },
+    {
+      "question": "The anomaly cancellation in the Standard Model requires:",
+      "options": ["The number of quark generations equals the number of lepton generations", "The number of quark generations is less than the number of lepton generations", "The number of quark generations is greater than the number of lepton generations", "No condition"],
+      "answer": 0
+    },
+    {
+      "question": "The renormalization in QFT:",
+      "options": ["Removes infinities", "Creates infinities", "Changes infinities", "Ignored infinities"],
+      "answer": 0
+    },
+    {
+      "question": "The running coupling constant:",
+      "options": ["Depends on energy", "Is independent of energy", "Is constant at all energies", "Is zero at all energies"],
+      "answer": 0
+    },
+    {
+      "question": "The QCD running coupling decreases with:",
+      "options": ["Increasing energy", "Decreasing energy", "Increasing temperature", "Decreasing temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The electromagnetic coupling increases with:",
+      "options": ["Increasing energy", "Decreasing energy", "Increasing temperature", "Decreasing temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The weak coupling increases with:",
+      "options": ["Increasing energy", "Decreasing energy", "Increasing temperature", "Decreasing temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The grand unification scale is about:",
+      "options": ["10¹⁶ GeV", "10¹² GeV", "10⁹ GeV", "10¹⁹ GeV"],
+      "answer": 0
+    },
+    {
+      "question": "The Planck scale is about:",
+      "options": ["10¹⁹ GeV", "10¹⁶ GeV", "10¹² GeV", "10⁹ GeV"],
+      "answer": 0
+    },
+    {
+      "question": "The hierarchy problem is:",
+      "options": ["The large difference between the weak scale and the Planck scale", "The difference between the weak scale and the QCD scale", "The difference between the QCD scale and the Planck scale", "The difference between the electromagnetic scale and the weak scale"],
+      "answer": 0
+    },
+    {
+      "question": "The dark matter candidates include:",
+      "options": ["WIMPs, axions, neutrinos", "Photons, electrons, protons", "Quarks, gluons, leptons", "Higgs bosons, W bosons, Z bosons"],
+      "answer": 0
+    },
+    {
+      "question": "The WIMPs are:",
+      "options": ["Weakly Interacting Massive Particles", "Strongly Interacting Massive Particles", "Weakly Interacting Massless Particles", "Strongly Interacting Massless Particles"],
+      "answer": 0
+    },
+    {
+      "question": "The axion is a:",
+      "options": ["Hypothetical particle", "Discovered particle", "Standard Model particle", "Quark"],
+      "answer": 0
+    },
+    {
+      "question": "The sterile neutrino is:",
+      "options": ["A hypothetical neutrino", "A Standard Model neutrino", "A quark", "A boson"],
+      "answer": 0
+    },
+    {
+      "question": "The matter-antimatter asymmetry:",
+      "options": ["Is one of the unsolved problems in physics", "Has been solved", "Is not a problem", "Is irrelevant"],
+      "answer": 0
+    },
+    {
+      "question": "The baryogenesis is:",
+      "options": ["The production of baryon asymmetry", "The production of lepton asymmetry", "The production of dark matter", "The production of energy"],
+      "answer": 0
+    },
+    {
+      "question": "The leptogenesis is:",
+      "options": ["The production of lepton asymmetry", "The production of baryon asymmetry", "The production of dark matter", "The production of energy"],
+      "answer": 0
+    },
+    {
+      "question": "The seesaw mechanism explains:",
+      "options": ["The smallness of neutrino masses", "The large mass of quarks", "The charge of particles", "The spin of particles"],
+      "answer": 0
+    },
+    {
+      "question": "The neutrino mass is:",
+      "options": ["Very small", "Very large", "Zero", "Infinite"],
+      "answer": 0
+    },
+    {
+      "question": "The neutrino mass hierarchy:",
+      "options": ["Is still unknown", "Is known exactly", "Is not relevant", "Is not a problem"],
+      "answer": 0
+    },
+    {
+      "question": "The neutrino mixing matrix is:",
+      "options": ["The PMNS matrix", "The CKM matrix", "The identity matrix", "The unit matrix"],
+      "answer": 0
+    },
+    {
+      "question": "The CKM matrix describes:",
+      "options": ["Quark mixing", "Neutrino mixing", "Lepton mixing", "Boson mixing"],
+      "answer": 0
+    },
+    {
+      "question": "The PMNS matrix describes:",
+      "options": ["Neutrino mixing", "Quark mixing", "Lepton mixing", "Boson mixing"],
+      "answer": 0
+    },
+    {
+      "question": "The neutrino oscillations depend on:",
+      "options": ["Mass squared differences", "Mass differences", "Energy differences", "Momentum differences"],
+      "answer": 0
+    },
+    {
+      "question": "The neutrino oscillation probability is:",
+      "options": ["P = sin²(2θ) sin²(1.27 Δm² L/E)", "P = sin²(2θ) cos²(1.27 Δm² L/E)", "P = cos²(2θ) sin²(1.27 Δm² L/E)", "P = cos²(2θ) cos²(1.27 Δm² L/E)"],
+      "answer": 0
+    },
+    {
+      "question": "The CP violation in neutrino oscillations:",
+      "options": ["Is being studied in experiments", "Has been completely studied", "Is not relevant", "Is not possible"],
+      "answer": 0
+    },
+    {
+      "question": "The neutrino telescopes include:",
+      "options": ["IceCube, Super-Kamiokande", "LIGO, VIRGO", "ATLAS, CMS", "Hubble, JWST"],
+      "answer": 0
+    },
+    {
+      "question": "The IceCube detector is located at:",
+      "options": ["Antarctica", "United States", "Europe", "Japan"],
+      "answer": 0
+    },
+    {
+      "question": "The Super-Kamiokande detector is located in:",
+      "options": ["Japan", "United States", "Europe", "Antarctica"],
+      "answer": 0
+    },
+    {
+      "question": "The Sudbury Neutrino Observatory (SNO) is located in:",
+      "options": ["Canada", "United States", "Europe", "Japan"],
+      "answer": 0
+    },
+    {
+      "question": "The neutrino detectors use:",
+      "options": ["Large volumes of material", "Small volumes of material", "Magnetic fields", "Electric fields"],
+      "answer": 0
+    },
+    {
+      "question": "The neutrino detection is based on:",
+      "options": ["Inverse beta decay and elastic scattering", "Photoelectric effect", "Compton scattering", "Pair production"],
+      "answer": 0
+    },
+    {
+      "question": "The neutrino astronomy:",
+      "options": ["Observes the universe through neutrinos", "Observes the universe through light", "Observes the universe through gravitational waves", "Observes the universe through cosmic rays"],
+      "answer": 0
+    },
+    {
+      "question": "The high-energy neutrinos come from:",
+      "options": ["Astrophysical sources", "The Sun", "The Earth", "The atmosphere"],
+      "answer": 0
+    },
+    {
+      "question": "The solar neutrinos come from:",
+      "options": ["Nuclear reactions in the Sun", "Nuclear reactions on Earth", "Nuclear reactions in stars", "Nuclear reactions in galaxies"],
+      "answer": 0
+    },
+    {
+      "question": "The atmospheric neutrinos come from:",
+      "options": ["Cosmic ray interactions in the atmosphere", "The Sun", "The Earth", "Astrophysical sources"],
+      "answer": 0
+    },
+    {
+      "question": "The supernova neutrinos:",
+      "options": ["Come from supernova explosions", "Come from the Sun", "Come from the Earth", "Come from the atmosphere"],
+      "answer": 0
+    },
+    {
+      "question": "The solar neutrino problem was:",
+      "options": ["The discrepancy between predicted and observed solar neutrino flux", "The discrepancy between predicted and observed atmospheric neutrino flux", "The discrepancy between predicted and observed supernova neutrino flux", "The discrepancy between predicted and observed cosmic neutrino flux"],
+      "answer": 0
+    },
+    {
+      "question": "The solar neutrino problem was solved by:",
+      "options": ["Neutrino oscillations", "New detector technologies", "Better calculations", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The cosmic neutrino background:",
+      "options": ["Is predicted by the Big Bang", "Has been detected", "Is not predicted", "Is not detectable"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic neutrino background temperature is about:",
+      "options": ["1.9 K", "2.7 K", "1 K", "3 K"],
+      "answer": 0
+    },
+    {
+      "question": "The dark photon is:",
+      "options": ["A hypothetical particle", "A Standard Model particle", "A quark", "A gluon"],
+      "answer": 0
+    },
+    {
+      "question": "The dark photon would mediate:",
+      "options": ["A new force", "The electromagnetic force", "The strong force", "The weak force"],
+      "answer": 0
+    },
+    {
+      "question": "The hidden sector in particle physics:",
+      "options": ["Contains particles that only interact weakly", "Contains Standard Model particles", "Contains only photons", "Contains only gluons"],
+      "answer": 0
+    },
+    {
+      "question": "The topological defects in particle physics include:",
+      "options": ["Monopoles, cosmic strings, domain walls", "Quarks, leptons, bosons", "Hadrons, mesons, baryons", "Photons, gluons, W bosons"],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic monopoles are:",
+      "options": ["Predicted by some theories", "Observed in experiments", "Standard Model particles", "Not possible"],
+      "answer": 0
+    },
+    {
+      "question": "The cosmic strings are:",
+      "options": ["Topological defects", "String theory strings", "Cosmic rays", "Stellar objects"],
+      "answer": 0
+    },
+    {
+      "question": "The domain walls are:",
+      "options": ["Topological defects", "String theory objects", "Cosmic rays", "Stellar objects"],
+      "answer": 0
+    },
+    {
+      "question": "The instanton is:",
+      "options": ["A solution of the QCD equations", "A particle", "A topological defect", "A string theory object"],
+      "answer": 0
+    },
+    {
+      "question": "The instantons are responsible for:",
+      "options": ["Baryon number violation in QCD", "Lepton number violation", "Charge conservation", "Energy conservation"],
+      "answer": 0
+    },
+    {
+      "question": "The sphaleron is:",
+      "options": ["A solution of the electroweak equations", "A particle", "A topological defect", "A string theory object"],
+      "answer": 0
+    },
+    {
+      "question": "The sphalerons can violate:",
+      "options": ["Baryon and lepton number", "Charge", "Energy", "Momentum"],
+      "answer": 0
+    },
+    {
+      "question": "The anomaly in gauge theories:",
+      "options": ["Can be canceled by extra particles", "Cannot be canceled", "Is always present", "Is never present"],
+      "answer": 0
+    },
+    {
+      "question": "The chiral anomaly is:",
+      "options": ["The violation of chiral symmetry", "The violation of energy conservation", "The violation of momentum conservation", "The violation of charge conservation"],
+      "answer": 0
+    },
+    {
+      "question": "The axial anomaly in QCD:",
+      "options": ["Is related to the U(1) problem", "Is related to the strong CP problem", "Is related to the weak CP problem", "Is related to the strong interaction"],
+      "answer": 0
+    },
+    {
+      "question": "The strong CP problem is:",
+      "options": ["The absence of CP violation in strong interactions", "The presence of CP violation in strong interactions", "The absence of strong interactions", "The presence of strong interactions"],
+      "answer": 0
+    },
+    {
+      "question": "The axion was proposed to solve:",
+      "options": ["The strong CP problem", "The weak CP problem", "The dark matter problem", "The neutrino mass problem"],
+      "answer": 0
+    },
+    {
+      "question": "The Peccei-Quinn mechanism solves:",
+      "options": ["The strong CP problem", "The weak CP problem", "The dark matter problem", "The neutrino mass problem"],
+      "answer": 0
+    },
+    {
+      "question": "The hadron spectroscopy is:",
+      "options": ["The study of hadron masses and properties", "The study of lepton masses", "The study of boson masses", "The study of quark masses"],
+      "answer": 0
+    },
+    {
+      "question": "The baryon spectroscopy:",
+      "options": ["Studies the properties of baryons", "Studies the properties of mesons", "Studies the properties of leptons", "Studies the properties of bosons"],
+      "answer": 0
+    },
+    {
+      "question": "The meson spectroscopy:",
+      "options": ["Studies the properties of mesons", "Studies the properties of baryons", "Studies the properties of leptons", "Studies the properties of bosons"],
+      "answer": 0
+    },
+    {
+      "question": "The exotic hadrons include:",
+      "options": ["Tetraquarks and pentaquarks", "Baryons and mesons", "Leptons and quarks", "Bosons and fermions"],
+      "answer": 0
+    },
+    {
+      "question": "The tetraquark is made of:",
+      "options": ["Four quarks", "Three quarks", "Two quarks", "Five quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The pentaquark is made of:",
+      "options": ["Five quarks", "Four quarks", "Three quarks", "Two quarks"],
+      "answer": 0
+    },
+    {
+      "question": "The hadronic molecules:",
+      "options": ["Are bound states of hadrons", "Are elementary particles", "Are quarks", "Are leptons"],
+      "answer": 0
+    },
+    {
+      "question": "The glueball is made of:",
+      "options": ["Gluons", "Quarks", "Leptons", "Bosons"],
+      "answer": 0
+    },
+    {
+      "question": "The hybrid mesons contain:",
+      "options": ["Quarks and gluons", "Quarks only", "Gluons only", "Leptons"],
+      "answer": 0
+    },
+    {
+      "question": "The Lattice QCD is:",
+      "options": ["A numerical method for QCD", "An analytical method for QCD", "An experimental method", "A theoretical method"],
+      "answer": 0
+    },
+    {
+      "question": "The chiral perturbation theory:",
+      "options": ["Is an effective theory for low-energy QCD", "Is a high-energy theory", "Is a string theory", "Is a gravity theory"],
+      "answer": 0
+    },
+    {
+      "question": "The heavy quark effective theory:",
+      "options": ["Describes heavy quarks", "Describes light quarks", "Describes leptons", "Describes bosons"],
+      "answer": 0
+    },
+    {
+      "question": "The non-relativistic QCD:",
+      "options": ["Describes non-relativistic quarks", "Describes relativistic quarks", "Describes leptons", "Describes bosons"],
+      "answer": 0
+    },
+    {
+      "question": "The quark model was proposed by:",
+      "options": ["Gell-Mann and Zweig", "Einstein and Newton", "Fermi and Dirac", "Bohr and Rutherford"],
+      "answer": 0
+    },
+    {
+      "question": "The color charge was proposed by:",
+      "options": ["Greenberg and Han", "Gell-Mann and Zweig", "Fermi and Dirac", "Bohr and Rutherford"],
+      "answer": 0
+    },
+    {
+      "question": "The QCD was formulated in:",
+      "options": ["1970s", "1960s", "1980s", "1990s"],
+      "answer": 0
+    },
+    {
+      "question": "The asymptotic freedom in QCD was discovered by:",
+      "options": ["Gross, Politzer, Wilczek", "Feynman, Schwinger, Tomonaga", "Glashow, Weinberg, Salam", "Kibble, Higgs, Englert"],
+      "answer": 0
+    },
+    {
+      "question": "The Nobel Prize for asymptotic freedom was awarded in:",
+      "options": ["2004", "2012", "2013", "2015"],
+      "answer": 0
+    },
+    {
+      "question": "The Nobel Prize for the Higgs boson discovery was awarded in:",
+      "options": ["2013", "2012", "2011", "2014"],
+      "answer": 0
+    },
+    {
+      "question": "The Nobel Prize for neutrino oscillations was awarded in:",
+      "options": ["2015", "2014", "2013", "2012"],
+      "answer": 0
+    },
+    {
+      "question": "The Nobel Prize for the discovery of CP violation was awarded in:",
+      "options": ["1980", "1990", "2000", "2010"],
+      "answer": 0
+    },
+    {
+      "question": "The future colliders include:",
+      "options": ["FCC, ILC, CLIC", "LHC, Tevatron, SLC", "Fermilab, CERN, SLAC", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The Future Circular Collider (FCC) is proposed at:",
+      "options": ["CERN", "Fermilab", "SLAC", "KEK"],
+      "answer": 0
+    },
+    {
+      "question": "The International Linear Collider (ILC) is proposed:",
+      "options": ["In Japan", "In Europe", "In the United States", "In China"],
+      "answer": 0
+    },
+    {
+      "question": "The Compact Linear Collider (CLIC) is proposed at:",
+      "options": ["CERN", "Fermilab", "SLAC", "KEK"],
+      "answer": 0
+    },
+    {
+      "question": "The muon collider is:",
+      "options": ["A proposed future collider", "An existing collider", "A proposed past collider", "Not proposed"],
+      "answer": 0
+    },
+    {
+      "question": "The neutrino factory is:",
+      "options": ["A proposed source of neutrinos", "An existing source of neutrinos", "A proposed source of electrons", "An existing source of electrons"],
+      "answer": 0
+    },
+    {
+      "question": "The beam dump experiments:",
+      "options": ["Search for new particles", "Search for new forces", "Search for dark matter", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The fixed target experiments:",
+      "options": ["Use a stationary target", "Use a moving target", "Use no target", "Use a beam"],
+      "answer": 0
+    },
+    {
+      "question": "The particle detectors include:",
+      "options": ["Tracking detectors, calorimeters, muon detectors", "Tracking detectors only", "Calorimeters only", "Muon detectors only"],
+      "answer": 0
+    },
+    {
+      "question": "The silicon detectors are used for:",
+      "options": ["Tracking", "Energy measurement", "Particle identification", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The calorimeters measure:",
+      "options": ["Particle energy", "Particle momentum", "Particle charge", "Particle spin"],
+      "answer": 0
+    },
+    {
+      "question": "The electromagnetic calorimeter measures:",
+      "options": ["Electron and photon energies", "Hadron energies", "Muon energies", "Neutrino energies"],
+      "answer": 0
+    },
+    {
+      "question": "The hadronic calorimeter measures:",
+      "options": ["Hadron energies", "Electron and photon energies", "Muon energies", "Neutrino energies"],
+      "answer": 0
+    },
+    {
+      "question": "The muon detector detects:",
+      "options": ["Muons", "Electrons", "Photons", "Neutrinos"],
+      "answer": 0
+    },
+    {
+      "question": "The Cherenkov detectors are used for:",
+      "options": ["Particle identification", "Energy measurement", "Momentum measurement", "Charge measurement"],
+      "answer": 0
+    },
+    {
+      "question": "The transition radiation detectors are used for:",
+      "options": ["Particle identification", "Energy measurement", "Momentum measurement", "Charge measurement"],
+      "answer": 0
+    },
+    {
+      "question": "The time-of-flight detectors are used for:",
+      "options": ["Particle identification", "Energy measurement", "Momentum measurement", "Charge measurement"],
+      "answer": 0
+    },
+    {
+      "question": "The trigger systems:",
+      "options": ["Select interesting events", "Select all events", "Select no events", "Select only background events"],
+      "answer": 0
+    },
+    {
+      "question": "The data acquisition systems:",
+      "options": ["Record and store event data", "Process and analyze event data", "Generate event data", "Destroy event data"],
+      "answer": 0
+    },
+    {
+      "question": "The particle physics data analysis:",
+      "options": ["Uses statistical methods", "Uses only deterministic methods", "Uses no methods", "Uses only qualitative methods"],
+      "answer": 0
+    },
+    {
+      "question": "The discovery significance:",
+      "options": ["Is measured in sigma", "Is measured in percent", "Is measured in degrees", "Is measured in radians"],
+      "answer": 0
+    },
+    {
+      "question": "The 5 sigma discovery:",
+      "options": ["Indicates a discovery", "Indicates no discovery", "Indicates background", "Indicates a fluctuation"],
+      "answer": 0
+    },
+    {
+      "question": "The p-value in particle physics:",
+      "options": ["Is the probability of background fluctuations", "Is the probability of signal", "Is the probability of no background", "Is the probability of no signal"],
+      "answer": 0
+    },
+    {
+      "question": "The Monte Carlo simulation is used for:",
+      "options": ["Modeling particle physics processes", "Analyzing particle physics data", "Generating particle physics events", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The particle physics software includes:",
+      "options": ["Geant4, ROOT, Pythia", "Geant4 only", "ROOT only", "Pythia only"],
+      "answer": 0
+    },
+    {
+      "question": "The Geant4 is used for:",
+      "options": ["Detector simulation", "Event generation", "Data analysis", "Data acquisition"],
+      "answer": 0
+    },
+    {
+      "question": "The Pythia is used for:",
+      "options": ["Event generation", "Detector simulation", "Data analysis", "Data acquisition"],
+      "answer": 0
+    },
+    {
+      "question": "The ROOT is used for:",
+      "options": ["Data analysis", "Detector simulation", "Event generation", "Data acquisition"],
+      "answer": 0
+    },
+    {
+      "question": "The particle physics has contributed to:",
+      "options": ["Medical imaging, cancer therapy, and technology", "Medical imaging only", "Cancer therapy only", "Technology only"],
+      "answer": 0
+    },
+    {
+      "question": "The PET scans use:",
+      "options": ["Positron emission", "Electron emission", "Proton emission", "Neutron emission"],
+      "answer": 0
+    },
+    {
+      "question": "The hadron therapy uses:",
+      "options": ["Protons and ions for cancer treatment", "Electrons for cancer treatment", "Photons for cancer treatment", "Neutrons for cancer treatment"],
+      "answer": 0
+    },
+    {
+      "question": "The particle accelerators are used for:",
+      "options": ["Medical applications, research, and industry", "Medical applications only", "Research only", "Industry only"],
+      "answer": 0
+    },
+    {
+      "question": "The synchrotron radiation is used in:",
+      "options": ["Materials science and biology", "Particle physics only", "Medical applications only", "Industrial applications only"],
+      "answer": 0
+    },
+    {
+      "question": "The free-electron lasers use:",
+      "options": ["Relativistic electrons", "Relativistic protons", "Relativistic photons", "Relativistic neutrinos"],
+      "answer": 0
+    },
+    {
+      "question": "The particle physics has connections to:",
+      "options": ["Cosmology, astrophysics, and nuclear physics", "Cosmology only", "Astrophysics only", "Nuclear physics only"],
+      "answer": 0
+    },
+    {
+      "question": "The dark matter searches:",
+      "options": ["Use underground detectors", "Use above-ground detectors", "Use space-based detectors", "Use all of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The underground detectors are used for:",
+      "options": ["Dark matter and neutrino experiments", "Astronomy experiments", "Medical experiments", "Industrial experiments"],
+      "answer": 0
+    },
+    {
+      "question": "The dark matter experiments include:",
+      "options": ["LUX, XENON, DAMA", "LUX only", "XENON only", "DAMA only"],
+      "answer": 0
+    },
+    {
+      "question": "The axion experiments include:",
+      "options": ["ADMX, CAST, IAXO", "ADMX only", "CAST only", "IAXO only"],
+      "answer": 0
+    },
+    {
+      "question": "The future of particle physics:",
+      "options": ["Includes higher energy and more sensitive experiments", "Includes lower energy experiments", "Has no future", "Is complete"],
+      "answer": 0
+    },
+    {
+      "question": "The mysteries in particle physics include:",
+      "options": ["Dark matter, dark energy, matter-antimatter asymmetry", "Dark matter only", "Dark energy only", "Matter-antimatter asymmetry only"],
+      "answer": 0
+    },
+    {
+      "question": "The new physics beyond the Standard Model:",
+      "options": ["Is being searched for", "Has been found", "Does not exist", "Is not needed"],
+      "answer": 0
+    },
+    {
+      "question": "The supersymmetry searches:",
+      "options": ["Are ongoing at the LHC", "Are completed", "Are no longer needed", "Are not possible"],
+      "answer": 0
+    },
+    {
+      "question": "The extra dimensions searches:",
+      "options": ["Are ongoing at the LHC", "Are completed", "Are no longer needed", "Are not possible"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum gravity experiments:",
+      "options": ["Are being planned", "Are being conducted", "Have been completed", "Are not possible"],
+      "answer": 0
+    },
+    {
+      "question": "The particle physics is a:",
+      "options": ["Fundamental science", "Applied science", "Both fundamental and applied", "Neither fundamental nor applied"],
+      "answer": 2
+    },
+    {
+      "question": "The Standard Model has been tested:",
+      "options": ["To high precision", "To low precision", "Not tested", "Tested only partially"],
+      "answer": 0
+    },
+    {
+      "question": "The limitations of the Standard Model include:",
+      "options": ["Dark matter, dark energy, neutrino masses", "Dark matter only", "Dark energy only", "Neutrino masses only"],
+      "answer": 0
+    },
+    {
+      "question": "The particle physics experiments are:",
+      "options": ["Large and collaborative", "Small and individual", "Medium and national", "No collaboration"],
+      "answer": 0
+    },
+    {
+      "question": "The ATLAS and CMS experiments are at:",
+      "options": ["The LHC", "The Tevatron", "The SLC", "The KEK"],
+      "answer": 0
+    },
+    {
+      "question": "The LHCb experiment is at:",
+      "options": ["The LHC", "The Tevatron", "The SLC", "The KEK"],
+      "answer": 0
+    },
+    {
+      "question": "The ALICE experiment is at:",
+      "options": ["The LHC", "The Tevatron", "The SLC", "The KEK"],
+      "answer": 0
+    },
+    {
+      "question": "The BELLE experiment is at:",
+      "options": ["KEK, Japan", "CERN", "Fermilab", "SLAC"],
+      "answer": 0
+    },
+    {
+      "question": "The BaBar experiment was at:",
+      "options": ["SLAC", "CERN", "Fermilab", "KEK"],
+      "answer": 0
+    },
+    {
+      "question": "The particle physics has a bright future with:",
+      "options": ["New experiments and new technologies", "No new experiments", "No new technologies", "Stagnation"],
+      "answer": 0
+    }
+  ]
+}

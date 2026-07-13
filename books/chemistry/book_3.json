@@ -1,0 +1,1941 @@
+{
+  "category": "Biochemistry",
+  "total_questions": 420,
+  "questions": [
+    {
+      "question": "Which of the following is a non-reducing sugar?",
+      "options": ["Glucose", "Maltose", "Lactose", "Sucrose"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is not a polymer of glucose?",
+      "options": ["Glycogen", "Cellulose", "Starch", "Inulin"],
+      "answer": 3
+    },
+    {
+      "question": "The rate of absorption of sugars by the small intestine is highest for:",
+      "options": ["Pentoses", "Disaccharides", "Polysaccharides", "Hexoses"],
+      "answer": 3
+    },
+    {
+      "question": "The monosaccharide glucose is best described by which one of the following statements?",
+      "options": ["It usually exists in the furanose form", "It is a ketose", "It is an aldose", "It is a disaccharide"],
+      "answer": 2
+    },
+    {
+      "question": "1 molecule of glucose forms how many molecules of pyruvate?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1
+    },
+    {
+      "question": "The conversion of glucose 6-P to fructose 6-P is an example of which of the following reactions?",
+      "options": ["Phosphate transfer", "Isomerisation", "Dehydration", "Aldol cleavage"],
+      "answer": 1
+    },
+    {
+      "question": "Cane sugar is:",
+      "options": ["Glucose", "Sucrose", "Fructose", "Maltose"],
+      "answer": 1
+    },
+    {
+      "question": "Which is not an oligosaccharide sugar?",
+      "options": ["Galactose", "Lactose", "Maltose", "Sucrose"],
+      "answer": 0
+    },
+    {
+      "question": "The first product of glycogenolysis is:",
+      "options": ["Glucose 6 phosphatase", "Glucose 1,6 diphosphatase", "Glucose 1-phosphate", "Fructose 1-phosphate"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is not a product of HMP shunt?",
+      "options": ["NADPH", "D fructose 6 phosphate", "D sedoheptulose 5 phosphate", "D glyceraldehyde 3 phosphate"],
+      "answer": 1
+    },
+    {
+      "question": "The sugar component of cerebrosides is:",
+      "options": ["Fructose", "Sucrose", "Galactose", "Glucose"],
+      "answer": 2
+    },
+    {
+      "question": "Dietary fibre is rich in:",
+      "options": ["Starch", "Cellulose", "Collagen", "Inulin"],
+      "answer": 1
+    },
+    {
+      "question": "Fructose intolerance is to:",
+      "options": ["Fructose only", "Fructose and glucose", "Sucrose only", "Fructose and sucrose"],
+      "answer": 3
+    },
+    {
+      "question": "The main enzyme responsible for activation of xenobiotics in detoxification:",
+      "options": ["Cytochrome P-450", "Glutathione S-transferase", "NADPH cytochrome P-450 reductase", "Glucuronyl transferase"],
+      "answer": 0
+    },
+    {
+      "question": "Which of them is multienzyme complex?",
+      "options": ["Pyruvate dehydrogenase", "Alpha ketoglutarate dehydrogenase", "Succinate dehydrogenase", "Both A & B"],
+      "answer": 3
+    },
+    {
+      "question": "Insulin acts on which enzyme in glycolysis?",
+      "options": ["Glucokinase", "Hexokinase", "Glucose 6 phosphatase", "Adenylate kinase"],
+      "answer": 0
+    },
+    {
+      "question": "Adrenaline acts on which enzyme in glycogenolysis?",
+      "options": ["Glucokinase", "Hexokinase", "Phosphorylase", "Glucose diphosphatase"],
+      "answer": 2
+    },
+    {
+      "question": "Inactive precursors of enzymes are known as:",
+      "options": ["Apoenzymes", "Coenzymes", "Proenzymes", "Holoenzymes"],
+      "answer": 2
+    },
+    {
+      "question": "Iron is present in all of the following except:",
+      "options": ["Myoglobin", "Cytochrome", "Catalase", "Pyruvate kinase"],
+      "answer": 3
+    },
+    {
+      "question": "Lactate dehydrogenase is:",
+      "options": ["Isozyme", "Coenzyme", "Antienzyme", "Zymogen"],
+      "answer": 0
+    },
+    {
+      "question": "The combination of main supporting enzyme is called:",
+      "options": ["Apoenzyme", "Coenzyme", "Holoenzyme", "Constitutive enzyme"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a membrane bound enzyme that catalyzes the formation of cyclic AMP from ATP?",
+      "options": ["Tyrosine kinase", "Polymerase", "ATP synthase", "Adenylate cyclase"],
+      "answer": 3
+    },
+    {
+      "question": "An example of lyases is:",
+      "options": ["Glutamine synthetase", "Fumarase", "Cholinesterase", "Amylase"],
+      "answer": 1
+    },
+    {
+      "question": "An enzyme that makes a double stranded DNA copy from a single stranded RNA template molecule is known as:",
+      "options": ["DNA polymerase", "RNA polymerase", "Reverse transcriptase", "Phospho kinase"],
+      "answer": 2
+    },
+    {
+      "question": "The enzymes that catalyses the same reaction but differ in physical properties are called as:",
+      "options": ["Pro enzyme", "Iso enzyme", "Co-enzyme", "Holoenzyme"],
+      "answer": 1
+    },
+    {
+      "question": "In myocardial infarction the first enzyme to rise:",
+      "options": ["CPK", "LDH", "SGOT", "Amylase"],
+      "answer": 0
+    },
+    {
+      "question": "Enzymes involved in degradation of epinephrine:",
+      "options": ["Cholinesterase", "Anticholinesterases", "Catechol O-transferase", "Oxidases"],
+      "answer": 2
+    },
+    {
+      "question": "The main site of fluoride inhibition in the Embden Meyerhof pathway:",
+      "options": ["ATPase", "Enolase", "Pyruvate Kinase", "Fructose 6 phosphatase"],
+      "answer": 1
+    },
+    {
+      "question": "Enzymes help by:",
+      "options": ["Lowering the activation energy", "Increasing the substrate concentration", "Decreasing the surface tension", "Increasing the activation energy"],
+      "answer": 0
+    },
+    {
+      "question": "The activity of the following enzyme is affected by biotin deficiency:",
+      "options": ["Transketolase", "Dehydrogenase", "Oxidase", "Carboxylase"],
+      "answer": 3
+    },
+    {
+      "question": "The deficiency of thiamine can be identified by measuring the red cell:",
+      "options": ["Transketolase", "Transaldolase", "Alpha ketoglutarate dehydrogenase", "Pyruvate dehydrogenase"],
+      "answer": 0
+    },
+    {
+      "question": "Competitive enzyme inhibition will cause:",
+      "options": ["Decrease of km and increase of Vmax", "Increase of km and increase of Vmax", "Decrease of km and decrease of Vmax", "Increase of km and Unchanged of Vmax"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is correct of the pyruvate dehydrogenase enzyme complex?",
+      "options": ["It is present in cytoplasm", "Catalyzes the conversion of pyruvate to oxaloacetate", "Requires TPP as cofactor", "Catalyzes a reversible reaction"],
+      "answer": 2
+    },
+    {
+      "question": "Dehydrogenase used as coenzymes all of the following, except:",
+      "options": ["FMN", "FAD", "NADP+", "Ferro protoporphyrin"],
+      "answer": 3
+    },
+    {
+      "question": "Benzidine test is positive with the enzyme:",
+      "options": ["Cytochrome oxidase", "Dehydrogenase", "Hydrolase", "Peroxidase"],
+      "answer": 3
+    },
+    {
+      "question": "Key glycolytic enzymes:",
+      "options": ["Phosphofructokinase", "Hexokinase", "Pyruvate kinase", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Multienzyme complex in human:",
+      "options": ["Fatty acid synthetase", "Malonyl CoA carboxylase", "Carbamoyl Phosphate synthetase", "Adenosine phospho ribosyl transferase"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is NOT a characteristic feature of allosteric enzymes?",
+      "options": ["They are multienzyme complex", "Follow Michaelis-Menton Kinetics", "Presence of Modulator site", "Give sigmoid shaped curve"],
+      "answer": 1
+    },
+    {
+      "question": "The enzyme phosphofructo kinase-1 is strongly activated by:",
+      "options": ["Cyclic AMP", "Adenosine tri phosphate", "Citrate", "Fructose 2,6 bis phosphate"],
+      "answer": 3
+    },
+    {
+      "question": "Magnesium is needed for the activity of which enzymes?",
+      "options": ["Phosphatase", "Aldolase", "Dismutase", "ATPase"],
+      "answer": 3
+    },
+    {
+      "question": "When the prosthetic group of an enzyme is an inorganic ion, it is called a:",
+      "options": ["Cofactor", "Coenzyme", "Apoenzyme", "Holoenzyme"],
+      "answer": 0
+    },
+    {
+      "question": "Coenzyme, in an enzymatic reaction usually functions to:",
+      "options": ["Activate the substrate", "Increase the active sites of apoenzyme", "Enhance the specificity of apoenzyme", "Accept one of the cleavage products"],
+      "answer": 3
+    },
+    {
+      "question": "The most common enzyme deficiency in man is:",
+      "options": ["Glucose 6 phosphate dehydrogenase", "Glucose 6 phosphatase", "Hexokinase", "Glucose 1,6 diphosphatase"],
+      "answer": 0
+    },
+    {
+      "question": "Enzymes concerned with the citric acid cycle are found in:",
+      "options": ["Nucleus", "Mitochondria", "Ribosomes", "Non-particulate cytoplasm"],
+      "answer": 1
+    },
+    {
+      "question": "Serum alkaline phosphatase level increases in:",
+      "options": ["Liver disease", "Bone disease", "Obstructive jaundice", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The enzyme that splits hydrogen peroxide into water and oxygen is:",
+      "options": ["Cytochromes", "Cytochrome P 450", "Super oxide dismutase", "Catalase"],
+      "answer": 3
+    },
+    {
+      "question": "Enzyme that catalyses the transfer of a molecule group from one molecule to another is:",
+      "options": ["Oxidases", "Peptidases", "Transferases", "Lipases"],
+      "answer": 2
+    },
+    {
+      "question": "The activity of this plasma enzyme is responsible virtually for all plasma cholesterol esters in humans:",
+      "options": ["Lecithin cholesterol acyl transferase (LCAT)", "Pyrophospho mevalonate decarboxylase", "HMG CoA reductase", "Phospho mevalonate kinase"],
+      "answer": 0
+    },
+    {
+      "question": "Enzymes are classified according to:",
+      "options": ["Action on substrate", "Action of coenzymes", "Nature of the enzymes", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Fraction of CPK is an enzyme that is elevated in a myocardial infarct is:",
+      "options": ["MM fraction", "MB fraction", "BB fraction", "Both MM and BB fraction"],
+      "answer": 1
+    },
+    {
+      "question": "A material that speeds up a chemical reaction without chemically becoming involved is called:",
+      "options": ["A solvent", "A base", "A catalyst", "Thermoplastic"],
+      "answer": 2
+    },
+    {
+      "question": "Km of an enzyme is:",
+      "options": ["Dissociation constant", "The normal physiological substrate concentration", "Substrate concentration at half maximal velocity", "Numerically identical for all isozymes that catalyses a given reaction"],
+      "answer": 2
+    },
+    {
+      "question": "Acetyl Co-A acts as a substrate for all the enzymes except:",
+      "options": ["HMG-CoA synthase", "Malic enzyme", "Malonyl CoA synthetase", "Fatty acid synthetase"],
+      "answer": 1
+    },
+    {
+      "question": "The enzyme that is specifically increased in obstructive jaundice is:",
+      "options": ["SGOT", "SGPT", "Alkaline phosphatase", "LDH"],
+      "answer": 2
+    },
+    {
+      "question": "Elevated levels of serum glutamic oxaloacetic transaminase is indicative of:",
+      "options": ["Deficiency of glutamic acid", "Deficiency of oxaloacetic acid", "Liver disease", "All of the above"],
+      "answer": 2
+    },
+    {
+      "question": "Michaelis-Menten hypothesis states that:",
+      "options": ["Enzyme substrate complex formation", "Enzyme product complex formation", "Enzyme coenzyme complex formation", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Coenzyme responsible for single carbon transfer is:",
+      "options": ["Acetyl co enzyme A", "Biotin", "THF4", "Pyridoxine"],
+      "answer": 2
+    },
+    {
+      "question": "Hexokinase is a:",
+      "options": ["Transferase", "Reductase", "Oxidoreductase", "Oxidase"],
+      "answer": 0
+    },
+    {
+      "question": "Enzyme + coenzyme constitutes:",
+      "options": ["Apoenzyme", "Holoenzyme", "Proenzyme", "Isoenzyme"],
+      "answer": 1
+    },
+    {
+      "question": "Ubiquitin is involved in:",
+      "options": ["Intracellular proteolysis", "Electron transport chain", "Transport of ATP", "Protein folding"],
+      "answer": 0
+    },
+    {
+      "question": "Enzyme regulating the conversion of ethanol to acetaldehyde:",
+      "options": ["Alcohol dehydrogenase", "Acetaldehyde dehydrogenase", "Catalase", "Enolase"],
+      "answer": 0
+    },
+    {
+      "question": "Enzymes increase reaction rates by:",
+      "options": ["Altering the free energy of the action", "Inhibiting the backward reaction", "Enhancing the forward reaction", "Decreasing the energy of activation"],
+      "answer": 3
+    },
+    {
+      "question": "Kinase requires:",
+      "options": ["MN++", "Cu++", "Mg++", "Inorganic phosphate"],
+      "answer": 2
+    },
+    {
+      "question": "Which acid is formed in the citric acid cycle?",
+      "options": ["Oxaloacetic acid", "Glutamic acid", "Nitric acid", "Citric acid"],
+      "answer": 3
+    },
+    {
+      "question": "Kreb's cycle occurs in which conditions?",
+      "options": ["Aerobic", "Anaerobic", "Microaerophilic", "Aerobic and anaerobic"],
+      "answer": 0
+    },
+    {
+      "question": "What high energy phosphate compound is formed in the citric acid cycle through substrate level phosphorylation?",
+      "options": ["ATP", "TTP", "ITP", "GTP"],
+      "answer": 3
+    },
+    {
+      "question": "In TCA cycle or tricarboxylic acid cycle, which is first formed?",
+      "options": ["Isocitrate", "Citrate", "Oxaloacetate", "Succinate"],
+      "answer": 1
+    },
+    {
+      "question": "In TCA, substrate level phosphorylation takes place in:",
+      "options": ["Alpha ketoglutrate to succinyl CoA", "Succinyl CoA to Succinate", "Succinate to fumarate", "Oxaloacetate to citrate"],
+      "answer": 1
+    },
+    {
+      "question": "In TCA cycle, citrate is converted into after losing a molecule of H2O:",
+      "options": ["Isocitrate", "Cisaconitate", "Oxaloacetate", "Glutarate"],
+      "answer": 1
+    },
+    {
+      "question": "In TCA cycle substrate level phosphorylation occurs at:",
+      "options": ["Succinate dehydrogenase", "Malonate reduction", "Thiolinase", "Succinyl CoA to succinate"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is correctly matched?",
+      "options": ["Isocitrate to oxalo succinate - 1 ATP is formed", "Succinyl CoA to succinate - 1 ATP is formed", "Succinate to fumarate - 1 ATP is formed", "Malate to oxaloacetate - 1 ATP is formed"],
+      "answer": 1
+    },
+    {
+      "question": "Which metabolite of TCA cycle is used in detoxification of ammonia in brain?",
+      "options": ["Alpha ketoglutarate", "Ornithine", "Oxaloacetate", "Glycine"],
+      "answer": 0
+    },
+    {
+      "question": "Phosphofructokinase is the key enzyme of:",
+      "options": ["Glycolysis", "Gluconeogenesis", "Beta oxidation", "TCA cycle"],
+      "answer": 0
+    },
+    {
+      "question": "The enzyme involved in the first committed step of glycolysis is:",
+      "options": ["Phosphofructokinase", "Glucose-6-Phosphatase", "Hexokinase", "Enolase"],
+      "answer": 0
+    },
+    {
+      "question": "The end product of glycolysis under anaerobic conditions is:",
+      "options": ["Lactic acid", "Pyruvic acid", "Ethanol", "Acetyl CoA"],
+      "answer": 0
+    },
+    {
+      "question": "An enzyme not involved in glycolysis is:",
+      "options": ["Enolase", "Phosphoglycero mutase", "Aldolase", "Glycerophosphate dehydrogenase"],
+      "answer": 3
+    },
+    {
+      "question": "In glycolysis ATP is produced by the following enzyme:",
+      "options": ["Hexokinase", "Phosphoglycerate kinase", "Enolase", "Phosphohexose isomerase"],
+      "answer": 1
+    },
+    {
+      "question": "Inhibition of glycolysis by O2 is known as:",
+      "options": ["Pasteur effect", "Warburg effect", "Crabtree effect", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Which one of the following enzymes provides a link between glycolysis and the citric acid cycle?",
+      "options": ["Lactate dehydrogenase", "Pyruvate kinase", "Citrate synthase", "Pyruvate dehydrogenase"],
+      "answer": 3
+    },
+    {
+      "question": "An essential for the conversion of glucose to glycogen in liver is:",
+      "options": ["UTP", "GTP", "Pyruvate Kinase", "Guanosine"],
+      "answer": 0
+    },
+    {
+      "question": "Number of ATP molecules generated in the conversion of glycogen to lactate is:",
+      "options": ["2", "36", "38", "32"],
+      "answer": 0
+    },
+    {
+      "question": "One molecule of acetyl Co-A gives rise to how many ATP molecules?",
+      "options": ["2", "8", "12", "32"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following fatty acids are not synthesised in human body?",
+      "options": ["Oleic, linoleic and linolenic acid", "Arachidonic, linolenic and linoleic acid", "Palmitic, Oleic and arachidonic", "Linoleic, arachidonic and stearic acid"],
+      "answer": 1
+    },
+    {
+      "question": "The lipoprotein particles that have the highest percentage concentration of cholesterol is:",
+      "options": ["Chylomicron", "VLDL (Very low density lipoprotein)", "LDL (Low density lipoprotein)", "HDL (High density lipoprotein)"],
+      "answer": 2
+    },
+    {
+      "question": "Fat provides ______% of body's calories?",
+      "options": ["40%", "30%", "50%", "75%"],
+      "answer": 0
+    },
+    {
+      "question": "The normal level of serum cholesterol is:",
+      "options": ["100-140 mgs/100 ml", "260-360 mgs/100 ml", "150-250 mgs/100 ml", "80-250 mgs/100 ml"],
+      "answer": 2
+    },
+    {
+      "question": "The following is not a phospholipid:",
+      "options": ["Sphingomyelin", "Lecithin", "Cerebroside", "Cephalin"],
+      "answer": 2
+    },
+    {
+      "question": "Examples of monounsaturated fatty acids are:",
+      "options": ["Oleic acid", "Arachidonic acid", "Linolenic acid", "Palmitic acid"],
+      "answer": 0
+    },
+    {
+      "question": "The lipid, which accumulates in fatty liver, is:",
+      "options": ["Triglycerides", "FFA", "Lipoprotein", "Cholesterol"],
+      "answer": 0
+    },
+    {
+      "question": "The product of oxidation of odd chain fatty acids is:",
+      "options": ["Aceto acetyl CoA", "Malonyl CoA", "Propionyl CoA", "Fumaryl CoA"],
+      "answer": 2
+    },
+    {
+      "question": "The substance essential for transfer of fatty acids across mitochondrial membrane:",
+      "options": ["Creatine", "Creatinine", "Carnitine", "Coenzyme A"],
+      "answer": 2
+    },
+    {
+      "question": "Ketone bodies are normally synthesized from:",
+      "options": ["Acetyl-CoA", "Glucose", "Glycerol", "Acetone"],
+      "answer": 0
+    },
+    {
+      "question": "Ketone bodies are by products of metabolism of:",
+      "options": ["Carbohydrate", "Protein", "Fat", "All of the above"],
+      "answer": 2
+    },
+    {
+      "question": "The ketone bodies, which are excreted in diabetic ketoacidosis:",
+      "options": ["Acetoacetic acid and pyruvic acid", "Acetoacetic acid and oxaloacetic acid", "Acetoacetic acid and alpha ketoglutaric acid", "Acetoacetic acid and beta hydroxybutyric acid"],
+      "answer": 3
+    },
+    {
+      "question": "Rate limiting step in cholesterol synthesis is:",
+      "options": ["HMG CoA synthetase", "HMG CoA lyase", "HMG CoA reductase", "Mevalonate synthetase"],
+      "answer": 2
+    },
+    {
+      "question": "Which is not seen in HMG CoA pathway?",
+      "options": ["Pyruvate", "Cholesterol", "Mevalonate", "Acetyl CoA"],
+      "answer": 0
+    },
+    {
+      "question": "The precursor of steroid is:",
+      "options": ["Amino acids", "Fatty acids", "Cholesterol", "Glucose"],
+      "answer": 2
+    },
+    {
+      "question": "Lipid from tissue is carried to liver by:",
+      "options": ["LDL", "VLDL", "HDL", "Chylomicrons"],
+      "answer": 2
+    },
+    {
+      "question": "Triglycerides in serum are transported by:",
+      "options": ["HDL", "VLDL", "LDL", "Chylomicrons"],
+      "answer": 1
+    },
+    {
+      "question": "Prostaglandin synthesis is partially switched off by:",
+      "options": ["Lipo oxygenase inhibition", "Cyclo-oxygenase inhibition", "Reductase", "Peroxidase"],
+      "answer": 1
+    },
+    {
+      "question": "Triglyceride synthesis is increased by:",
+      "options": ["Growth hormone", "Insulin", "Cortisol", "Glucagon"],
+      "answer": 1
+    },
+    {
+      "question": "The total blood concentration of ketone bodies in well fed individual is:",
+      "options": ["1 mg%", "5 mg%", "12 mg%", "20 mg%"],
+      "answer": 0
+    },
+    {
+      "question": "High content of cholesterol is present in:",
+      "options": ["Coconut oil", "Egg yolk", "Hydrogenated fat", "Ghee (unsaturated)"],
+      "answer": 1
+    },
+    {
+      "question": "Insulin caused lipogenesis by all except:",
+      "options": ["Increasing acetyl-CoA carboxylase activity", "Increases the transport of glucose in to the cells", "Inhibits Pyruvate dehydrogenase", "Decreases intracellular cAMP level"],
+      "answer": 2
+    },
+    {
+      "question": "The main pathway for De-Novo synthesis of fatty acids occurs in:",
+      "options": ["Cytoplasm", "Mitochondria", "Nucleus", "Ribosomes"],
+      "answer": 0
+    },
+    {
+      "question": "Adipose tissue releases free fatty acids in the:",
+      "options": ["Fasting state", "Resting state", "Active state", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The main function of HDL is:",
+      "options": ["Transport cholesterol from liver to peripheral tissues", "Esterification with PUFA", "Reverse cholesterol transport", "Lipoprotein lipase activation"],
+      "answer": 2
+    },
+    {
+      "question": "Acetyl CoA is produced from which fuel sources?",
+      "options": ["Carbohydrate", "Lipid", "Amino acids", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The reducing equivalent for fatty acid synthesis is derived from:",
+      "options": ["Glycolysis", "Kreb's cycle", "Urea cycle", "Pentose phosphate pathway"],
+      "answer": 3
+    },
+    {
+      "question": "Lipid is required in the average diet because it:",
+      "options": ["Has a high caloric value", "Provides essential fatty acid", "Aids in absorption of carbohydrates", "Is necessary for storage of carbohydrates"],
+      "answer": 1
+    },
+    {
+      "question": "Fatty acids help in synthesis of all except:",
+      "options": ["Glucose", "Cholesterol", "Ketone bodies", "Fat"],
+      "answer": 0
+    },
+    {
+      "question": "The human plasma lipoprotein containing the highest percentage of triacylglycerol by weight is:",
+      "options": ["VLDL", "Chylomicrons", "HDL", "LDL"],
+      "answer": 1
+    },
+    {
+      "question": "Beta-oxidation of odd-chain fatty acids produce:",
+      "options": ["Succinyl CoA", "Propionyl CoA", "Acetyl CoA", "Malonyl CoA"],
+      "answer": 1
+    },
+    {
+      "question": "True about prostaglandins is:",
+      "options": ["Short acting", "Present in many tissues", "Some require C-AMP for their action", "All are true"],
+      "answer": 3
+    },
+    {
+      "question": "Endogenous triglycerides in plasma is maximally bound to:",
+      "options": ["Chylomicrons", "LDL", "VLDL", "HDL"],
+      "answer": 2
+    },
+    {
+      "question": "HMG CoA reductase is inhibited by:",
+      "options": ["Clofibrate", "Gemfibrosil", "Lovastatin", "Cholestyramine"],
+      "answer": 2
+    },
+    {
+      "question": "HMG-CoA is formed during metabolism of all except:",
+      "options": ["Cholesterol", "Leucine", "Acetone", "Valine"],
+      "answer": 2
+    },
+    {
+      "question": "The precursor of cholesterol synthesis is:",
+      "options": ["Acetic acid", "Acetyl CoA", "Oxalo acetic acid", "Pyruvate"],
+      "answer": 1
+    },
+    {
+      "question": "All are derived of cholesterol except:",
+      "options": ["Chenodeoxy cholic acid", "Glycocholic acid", "Testosterone", "Cholecystokinin"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following organs cannot use ketone bodies?",
+      "options": ["Brain", "Liver", "Kidney", "Spleen"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is not a ketone body?",
+      "options": ["Acetone", "Acetic acid", "Acetoacetate", "Beta hydroxybutyric acid"],
+      "answer": 1
+    },
+    {
+      "question": "Ketone body formation takes place in:",
+      "options": ["Liver", "Kidney", "Spleen", "Blood"],
+      "answer": 0
+    },
+    {
+      "question": "NADPH is required for:",
+      "options": ["Gluconeogenesis", "Glycolysis", "Fatty acid synthesis", "Glycogenolysis"],
+      "answer": 2
+    },
+    {
+      "question": "Limiting factor for fatty acid synthesis:",
+      "options": ["Aceto acetate synthetase", "Acyl transferase", "Acetyl CoA carboxylase", "Synthase"],
+      "answer": 2
+    },
+    {
+      "question": "In Niemann-Pick's disease the following substance accumulate in CNS in excess:",
+      "options": ["Glycerophosphatides", "Phosphoinositides", "Phosphosphingosides", "Glycerophosphosides"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a phospholipid?",
+      "options": ["Glycogen", "Sphingomyelin", "Prostaglandin", "Oleic acid"],
+      "answer": 1
+    },
+    {
+      "question": "Unsaturated fatty acids are converted to:",
+      "options": ["Prostaglandins", "Cholesterol", "Cell membrane lipid", "Saturated fatty acid"],
+      "answer": 0
+    },
+    {
+      "question": "Saponification means hydrolysis of fats by:",
+      "options": ["Acid", "Alkali", "Water", "Enzymes"],
+      "answer": 1
+    },
+    {
+      "question": "The major lipids that make up the cell membrane are:",
+      "options": ["Triglycerides", "Phospholipids", "Sphingomyelin", "Fatty acids"],
+      "answer": 1
+    },
+    {
+      "question": "The most important role of cholesterol is:",
+      "options": ["It is a component of cell membrane", "It is a precursor of polyunsaturated fatty acids", "It stores up energy", "It is a precursor of steroid hormones"],
+      "answer": 3
+    },
+    {
+      "question": "A fatty acid that is not synthesized in man is:",
+      "options": ["Linoleic acid", "Oleic acid", "Palmitic acid", "Stearic acid"],
+      "answer": 0
+    },
+    {
+      "question": "Fatty acid oxidation occurs in:",
+      "options": ["Cytoplasm", "Microsomes", "Mitochondria", "All of the above"],
+      "answer": 2
+    },
+    {
+      "question": "Non polar lipid act as:",
+      "options": ["Electrical insulators", "Irons", "Non electrical insulators", "Electrolytes"],
+      "answer": 0
+    },
+    {
+      "question": "The amino acid required for the synthesis of haem is:",
+      "options": ["Glutamine", "Glutamic acid", "Glycine", "Lysine"],
+      "answer": 2
+    },
+    {
+      "question": "The most abundant protein present in body is:",
+      "options": ["Globulin", "Albumin", "Collagen", "Hemoglobin"],
+      "answer": 2
+    },
+    {
+      "question": "The fastest moving fraction of protein in serum when subjected to paper electrophoresis is:",
+      "options": ["Albumin", "Alpha 1 globulin", "Beta Globulin", "Gamma Globulin"],
+      "answer": 0
+    },
+    {
+      "question": "Most common non protein nitrogenous fraction of blood:",
+      "options": ["Urea", "Uric acid", "Urobilinogen", "Creatinine"],
+      "answer": 0
+    },
+    {
+      "question": "Proteins are linear polymers of amino acids. They fold into compact structures. Sometimes these folded structures associate to form homo or hetero dimers. Which one of the following refers to this associated form?",
+      "options": ["Denatured state", "Molecular aggregation", "Precipitation", "Quaternary structure"],
+      "answer": 3
+    },
+    {
+      "question": "The protein rich in basic amino acids, which functions in the packaging of DNA in chromosomes is:",
+      "options": ["Histone", "Collagen", "Keratin", "Elastin"],
+      "answer": 0
+    },
+    {
+      "question": "Cytochromes are:",
+      "options": ["Pyridine nucleotides", "Riboflavin containing nucleotides", "Metal containing flavoproteins", "Iron-porphyrin proteins"],
+      "answer": 3
+    },
+    {
+      "question": "Heme in haemoglobin is:",
+      "options": ["Between Helix C and D", "Surrounded by non polar environment", "Bonded to E7 histidine", "Protoporphyrin IX"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is correct about breakdown of hemoglobin (Hb)?",
+      "options": ["Hb → Heme → bilirubin → Urobilinogen", "Heme → Hb → Biliverdin → Urobilinogen", "Hb → Heme → Biliverdin → Urobilinogen", "Hb → Heme → bilirubin → Urobilinogen → Biliverdin"],
+      "answer": 0
+    },
+    {
+      "question": "Creatine is formed metabolically from:",
+      "options": ["Tryptophan", "Arginine", "Phenylalanine", "Histidine"],
+      "answer": 1
+    },
+    {
+      "question": "A small Ca+2 binding protein that modifies the activity of many enzymes and other proteins in response to changes of Ca+2 concentration is known as:",
+      "options": ["Cycline", "Calmodulin", "Collagen", "Kinesin"],
+      "answer": 1
+    },
+    {
+      "question": "Decarboxylation of which of the following amino acids results in formation of a vasodilator?",
+      "options": ["Valine", "Arginine", "Histidine", "Glutamic acid"],
+      "answer": 2
+    },
+    {
+      "question": "Albumin is synthesized by:",
+      "options": ["Liver", "Kidney", "Muscle", "Spleen"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following amino acids is quickly converted to tyrosine?",
+      "options": ["Arginine", "Glycine", "Phenylalanine", "Leucine"],
+      "answer": 2
+    },
+    {
+      "question": "Synthesis of protein occurs on:",
+      "options": ["Mitochondria", "Polyribosomes", "Nucleus", "Golgi bodies"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is present in the plasma but absent in the serum?",
+      "options": ["Albumin", "Globulin", "Lecithin", "Fibrinogen"],
+      "answer": 3
+    },
+    {
+      "question": "The amino acid, which is used in the estimation of collagen is:",
+      "options": ["Hydroxyproline", "Proline", "Lysine", "Glycine"],
+      "answer": 0
+    },
+    {
+      "question": "The amino acid from which niacin is synthesized is:",
+      "options": ["Tyrosine", "Threonine", "Tryptophan", "Histidine"],
+      "answer": 2
+    },
+    {
+      "question": "Non essential amino acids are not:",
+      "options": ["Used by the body", "Forming part of the proteins", "Required in the diet", "Absorbed in the intestines"],
+      "answer": 2
+    },
+    {
+      "question": "The following is false about tryptophan:",
+      "options": ["Non-essential amino acid", "Involved in serotonin synthesis", "Involved in niacin synthesis", "Involved in melatonin synthesis"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following amino acid is involved in gluconeogenesis?",
+      "options": ["Glycine", "Valine", "Cystine", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Glycine is present in:",
+      "options": ["Hemoglobin", "Glutathione", "Purines", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Glutamine replaced by valine in sickle cell anaemia is characterized by:",
+      "options": ["Nonsense mutation of beta chain", "Missense mutation of beta chain", "Degradation of beta chain", "Deletion of beta chain"],
+      "answer": 1
+    },
+    {
+      "question": "All are true about glutathione except:",
+      "options": ["It is a tripeptide", "It converts hemoglobin to methemoglobin", "It protects against oxidative damage", "It contains glycine"],
+      "answer": 1
+    },
+    {
+      "question": "The class of amino acids that contains only non essential amino acids is:",
+      "options": ["Acidic", "Basic", "Aromatic", "Branched chain"],
+      "answer": 0
+    },
+    {
+      "question": "The nitrogen content in 50 gm of a typical dietary protein is most likely to be:",
+      "options": ["5 gm", "8 gm", "10 gm", "16 gm"],
+      "answer": 1
+    },
+    {
+      "question": "The number of essential amino acids are:",
+      "options": ["6", "8", "9", "10"],
+      "answer": 2
+    },
+    {
+      "question": "The amino acid residue having amino side chain is:",
+      "options": ["Lysine", "Histidine", "Tyrosine", "Proline"],
+      "answer": 0
+    },
+    {
+      "question": "The primary role of chaperones is to help in:",
+      "options": ["Protein synthesis", "Protein degradation", "Protein denaturation", "Protein folding"],
+      "answer": 3
+    },
+    {
+      "question": "Urea is formed in:",
+      "options": ["Brain", "Kidney", "Liver", "Intestine"],
+      "answer": 2
+    },
+    {
+      "question": "All are true of the genetic code except:",
+      "options": ["Degenerate", "Universal", "Punctuation", "Non overlapping"],
+      "answer": 2
+    },
+    {
+      "question": "Codons are present on:",
+      "options": ["m-RNA", "DNA", "t-RNA", "r-RNA"],
+      "answer": 0
+    },
+    {
+      "question": "The initiation codon for protein synthesis is:",
+      "options": ["AUG", "UAA", "UUU", "UAG"],
+      "answer": 0
+    },
+    {
+      "question": "Nonsense codons bring about:",
+      "options": ["Elongation of polypeptide chain", "Pre-translational modification of protein", "Initiation of protein synthesis", "Termination of protein synthesis"],
+      "answer": 3
+    },
+    {
+      "question": "The portion of DNA in which RNA polymerase binds and starts transcription is called:",
+      "options": ["Terminator", "Anti terminator", "Operator", "Promoter region"],
+      "answer": 3
+    },
+    {
+      "question": "End product of purine metabolism is:",
+      "options": ["Creatinine", "Uric acid", "Xanthine", "Phosphates"],
+      "answer": 1
+    },
+    {
+      "question": "r-RNA is mainly produced in:",
+      "options": ["Nucleus", "Nucleolus", "Ribosome", "Endoplasmic reticulum"],
+      "answer": 1
+    },
+    {
+      "question": "On complete hydrolysis of DNA we will get all the following except:",
+      "options": ["Deoxy pentose sugar", "Phosphoric acid", "Adenosine", "Purine bases"],
+      "answer": 2
+    },
+    {
+      "question": "Denaturation of double stranded DNA involves:",
+      "options": ["It gets broken down to nucleotides", "It becomes single stranded reversibly", "It becomes single stranded irreversibly", "It becomes double stranded irreversibly"],
+      "answer": 1
+    },
+    {
+      "question": "Transcription is the synthesis of:",
+      "options": ["Single stranded complementary copy of DNA", "Double stranded complementary copy of DNA", "Complementary copy of RNA", "Complementary copy of rRNA"],
+      "answer": 0
+    },
+    {
+      "question": "Ammonia produced by brain is trapped as:",
+      "options": ["Urea", "Uric Acid", "Creatinine", "Glutamine"],
+      "answer": 3
+    },
+    {
+      "question": "The sigma subunit of prokaryotic RNA polymerase:",
+      "options": ["Binds the antibiotic Rifampicin", "Is inhibited by a-amanitin", "Specifically recognizes the promoter site", "Is part of the core enzyme"],
+      "answer": 2
+    },
+    {
+      "question": "Mutations are due to changes in:",
+      "options": ["DNA sequence", "RNA sequence", "Protein sequence", "Lipid sequence"],
+      "answer": 0
+    },
+    {
+      "question": "Unwinding of DNA is done by:",
+      "options": ["DNAse", "Topoisomerase", "Ligase", "Reverse transcriptase"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following process is involved in conversion of DNA to RNA?",
+      "options": ["Conjugation", "Transduction", "Translocation", "Transcription"],
+      "answer": 3
+    },
+    {
+      "question": "Restriction endonuclease cleaves:",
+      "options": ["Double stranded DNA", "Single stranded DNA", "Single stranded RNA", "Polypeptide"],
+      "answer": 0
+    },
+    {
+      "question": "Genes are made up of:",
+      "options": ["Ribonucleic acid", "Deoxyribonucleic acid", "Lipoproteins", "Chromoproteins"],
+      "answer": 1
+    },
+    {
+      "question": "DNA double helix is bound by:",
+      "options": ["Hydrogen bonds", "Ionic bonds", "Covalent bonds", "Disulphide bonds"],
+      "answer": 0
+    },
+    {
+      "question": "Which base is not found in DNA?",
+      "options": ["Adenine", "Guanine", "Cytosine", "Uracil"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is used in recombinant DNA technology?",
+      "options": ["Restriction endonucleases", "PCR", "Reverse transcriptase", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Chargaff rule states that:",
+      "options": ["A + G = T + C", "A/T = G/C", "A = U = T = G = C", "A + T = G + C"],
+      "answer": 0
+    },
+    {
+      "question": "Translation occurs at:",
+      "options": ["Mitochondria", "Centrosome", "Nucleus", "Ribosome"],
+      "answer": 3
+    },
+    {
+      "question": "In all the following RNA participates directly except:",
+      "options": ["Post translation modification", "Post transcriptional modification", "DNA replication", "Splicing"],
+      "answer": 2
+    },
+    {
+      "question": "Biotin is required for the activity of:",
+      "options": ["Pyruvate carboxylase", "Lactate dehydrogenase", "Succinate thiolkinase", "Phosphohexose isomerase"],
+      "answer": 0
+    },
+    {
+      "question": "One of the earliest symptoms of Vit. A deficiency is:",
+      "options": ["Nyctalopia", "Xerophthalmia", "Bitot's spots", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Thiamine deficiency can be diagnosed by measuring:",
+      "options": ["Thiamine levels in blood", "Alkaline phosphatase levels in blood", "Transketolase activity in RBC", "Plasma pyruvate and lactic acid levels"],
+      "answer": 2
+    },
+    {
+      "question": "Vitamin B12 is:",
+      "options": ["Extrinsic factor of castle", "Intrinsic factor of castle", "Cyano cobalamine", "A fat soluble vitamin"],
+      "answer": 2
+    },
+    {
+      "question": "Sources of the nucleotide portion of NAD include:",
+      "options": ["N-methyl nicotinamide", "Riboflavin", "PRPP", "Tryptophan"],
+      "answer": 2
+    },
+    {
+      "question": "Consumption of raw egg white in the diet may result in the deficiency of:",
+      "options": ["Riboflavin", "Biotin", "Vitamin A", "Vitamin D"],
+      "answer": 1
+    },
+    {
+      "question": "Peripheral neuropathy due to deficiency of vitamin is seen with:",
+      "options": ["Pyridoxine", "Vit E", "Vit A", "Pantothenic acid"],
+      "answer": 0
+    },
+    {
+      "question": "Deficiency of vitamin C causes the following except:",
+      "options": ["Defective collagen synthesis", "Soft swollen gums", "Pigeon chest", "Subcutaneous & other hemorrhage"],
+      "answer": 2
+    },
+    {
+      "question": "FIGLU excretion test is to estimate deficiency of:",
+      "options": ["Vitamin K", "Vitamin B6", "Folic acid", "Niacin"],
+      "answer": 2
+    },
+    {
+      "question": "Avidin influences which of the following vitamins?",
+      "options": ["Biotin", "Niacin", "Thiamine", "Phylloquinone"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following are the sources of Vit C?",
+      "options": ["Apple", "Fresh green vegetables", "Citrus fruits", "Both B and C"],
+      "answer": 3
+    },
+    {
+      "question": "Niacin and riboflavin help in:",
+      "options": ["Redox reactions", "Transamination reaction", "Methyl group transfer", "Amine group transfer"],
+      "answer": 0
+    },
+    {
+      "question": "Collagen formation is affected in deficiency of:",
+      "options": ["Vit A", "Vit C", "Vit D", "Vit E"],
+      "answer": 1
+    },
+    {
+      "question": "Angular cheliosis is frequently associated with deficiency of:",
+      "options": ["Thiamine", "Riboflavin", "Niacin", "Folic acid"],
+      "answer": 1
+    },
+    {
+      "question": "Coenzyme A contains which of the following vitamins?",
+      "options": ["Biotin", "Pyridoxine", "Pantothenic acid", "Niacin"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is the poorest source of vitamin C?",
+      "options": ["Milk", "Cabbage", "Guava", "Radish"],
+      "answer": 0
+    },
+    {
+      "question": "Pernicious anaemia occurs in:",
+      "options": ["Vit B1 deficiency", "Vit B12 deficiency", "Vit C deficiency", "Vit D deficiency"],
+      "answer": 1
+    },
+    {
+      "question": "Vitamin associated with one carbon transfer is:",
+      "options": ["Niacin", "Thiamine", "Ascorbic acid", "Folic acid"],
+      "answer": 3
+    },
+    {
+      "question": "Average daily dose of vitamin C is:",
+      "options": ["30-40 mg", "50-60 mg", "75-90 mg", "100-120 mg"],
+      "answer": 2
+    },
+    {
+      "question": "Xerophthalmia is caused by:",
+      "options": ["Vitamin A deficiency", "Vitamin D deficiency", "Vitamin C deficiency", "Vitamin K deficiency"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following factors delay wound healing?",
+      "options": ["Vitamin B12 deficiency", "Ascorbic acid deficiency", "Infection", "B & C"],
+      "answer": 3
+    },
+    {
+      "question": "Ascorbic acid:",
+      "options": ["Is a reducing agent", "Decrease iron absorption", "Is harmless in high doses", "Is requirement for lysyl oxidase"],
+      "answer": 0
+    },
+    {
+      "question": "Tocopherol is associated with:",
+      "options": ["Vitamin A", "Vitamin E", "Vitamin K", "Vitamin D"],
+      "answer": 1
+    },
+    {
+      "question": "The action of vitamin K in formation of clotting factor is through:",
+      "options": ["Post transcription", "Post translation", "Golgi complex", "Endoplasmic reticulum"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is not true of Vit D?",
+      "options": ["Its active form is calcitriol", "Increase calcium absorption from the intestines", "Its deficiency results in rickets", "Its decrease cause phosphate reabsorption from the kidneys"],
+      "answer": 3
+    },
+    {
+      "question": "Most of vitamin B12 in the body is stored as:",
+      "options": ["Methyl B12", "Hydroxy B12", "Cyano cobalamine", "Adenosyl cobalamine"],
+      "answer": 3
+    },
+    {
+      "question": "The following vitamin is important in non-oxidative decarboxylation, transamination and transsulfuration reactions?",
+      "options": ["Riboflavin", "Thiamine", "Pyridoxine", "Pantothenic acid"],
+      "answer": 2
+    },
+    {
+      "question": "Vitamin C is present in largest amount in the body in:",
+      "options": ["Eye", "Kidneys", "Testes", "Adrenal cortex"],
+      "answer": 3
+    },
+    {
+      "question": "Tryptophan load test helps in the evaluation of deficiency of the vitamin:",
+      "options": ["Folic acid", "Niacinamide", "Pyridoxine", "Cyano cobalamine"],
+      "answer": 2
+    },
+    {
+      "question": "Which vitamin is related to a co-factor in glycine metabolism?",
+      "options": ["Vit E", "Folic acid", "Thiamine", "Cobalamine"],
+      "answer": 3
+    },
+    {
+      "question": "Two vitamins whose derivatives are involved in transformation of serine to glycine are:",
+      "options": ["B6 and B12", "B12 and nicotinamide", "Folic acid and B6", "Folic acid and B12"],
+      "answer": 2
+    },
+    {
+      "question": "First clinical sign of vitamin A deficiency is:",
+      "options": ["Night blindness", "Bitot's spots", "Xerostomia", "Conjunctival xeroses"],
+      "answer": 0
+    },
+    {
+      "question": "Vitamin D:",
+      "options": ["Absorption requires bile pigments", "Synthesis is regulated at the reaction catalyzed by 15-hydroxylase", "Deficiency in adults leads to rickets", "Along with PTH, increases calcium resorption from bone"],
+      "answer": 3
+    },
+    {
+      "question": "Thiamine deficiency causes decreased energy production because:",
+      "options": ["It is required for the process of transamination", "It is co-factor in oxidative reduction", "It is co-enzyme for transketolase in pentose phosphate pathway", "It is co-enzyme for pyruvate dehydrogenase"],
+      "answer": 3
+    },
+    {
+      "question": "One molecule of B-carotene gives rise to:",
+      "options": ["1 unit of Vitamin A", "2 units of Vitamin A", "3 units of Vitamin A", "4 units of Vitamin A"],
+      "answer": 1
+    },
+    {
+      "question": "The maximum content of vitamin E is found in:",
+      "options": ["Cold liver oil", "Fish liver oil", "Wheat germ oil", "Liver"],
+      "answer": 2
+    },
+    {
+      "question": "Vitamin A:",
+      "options": ["Is water soluble", "Deficiency causes impaired vision", "Maintains normal plasma calcium levels", "Is required for formation of clotting factors"],
+      "answer": 1
+    },
+    {
+      "question": "Vitamin B12 acts as a coenzyme to which one of the following enzyme?",
+      "options": ["Isocitrate dehydrogenase", "Homocysteine methyl transferase", "Glycogen synthase", "G-6-P dehydrogenase"],
+      "answer": 1
+    },
+    {
+      "question": "Deficiency of vitamin C causes the following except:",
+      "options": ["Painful swollen gums", "Abnormal Collagen", "Anaemia", "Diarrhoea"],
+      "answer": 3
+    },
+    {
+      "question": "Vitamin B12 is absorbed in the:",
+      "options": ["Stomach", "Terminal ileum", "Lower jejunum", "Proximal ileum"],
+      "answer": 1
+    },
+    {
+      "question": "Coenzyme forms are correctly matched except:",
+      "options": ["Biotin - carboxylated biotin", "Vitamin B6 - ATP", "Niacin - NAD", "Folic acid - THF"],
+      "answer": 1
+    },
+    {
+      "question": "Vitamin K dependent clotting factors are:",
+      "options": ["II", "VII", "IX", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Deficiency of which vitamin causes glossitis, dementia, roughened keratotic areas on skin and gastrointestinal symptoms?",
+      "options": ["Riboflavin", "Pyridoxine", "Niacin", "Pantothenic acid"],
+      "answer": 2
+    },
+    {
+      "question": "Rhodopsin deficiency is chiefly associated with:",
+      "options": ["Vitamin D deficiency", "Rickets", "Vitamin A deficiency", "Scurvy"],
+      "answer": 2
+    },
+    {
+      "question": "Vitamin K:",
+      "options": ["Helps in formation of prothrombin", "Inhibition of antithrombin", "Prevention of capillary fragility", "Stimulation of hematopoiesis in red bone marrow"],
+      "answer": 0
+    },
+    {
+      "question": "Vitamin K antagonizes:",
+      "options": ["Corticosteroids", "Thrombin formation", "Bishydroxy coumarin", "Production of clotting factors by liver"],
+      "answer": 2
+    },
+    {
+      "question": "In vitamin A deficiency, patient complains of all of the following except:",
+      "options": ["Night blindness", "Xerophthalmia", "Keratosis", "Phosphoric calciuria"],
+      "answer": 3
+    },
+    {
+      "question": "The vitamin that facilitates iron absorption:",
+      "options": ["Folic acid", "Ascorbic acid", "Biotin", "Para amino benzoic acid"],
+      "answer": 1
+    },
+    {
+      "question": "Active form of vitamin D in kidney is:",
+      "options": ["1 dihydroxy cholecalciferol", "25 hydroxy cholecalciferol", "1,25 dihydroxy cholecalciferol", "7 dihydroxy calciferol"],
+      "answer": 2
+    },
+    {
+      "question": "Deficiency of vitamin A causes the following except:",
+      "options": ["Night blindness", "Corneal dryness", "Bitot's spots", "Myopia"],
+      "answer": 3
+    },
+    {
+      "question": "Fat soluble vitamins are:",
+      "options": ["A, B, D, K", "A, D, E, K", "B, C, D, E", "A, C, E, K"],
+      "answer": 1
+    },
+    {
+      "question": "Specific disease caused by vitamin B1 deficiency:",
+      "options": ["Pellagra", "Angular cheilitis", "Megaloblastic anemia", "Peripheral polyneuritis"],
+      "answer": 3
+    },
+    {
+      "question": "Vitamin K dependent proteins C and S are characterized by their ability to inactivate factor:",
+      "options": ["VIII a and V a", "VIII a only", "V a only", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Who is known for his work on scurvy?",
+      "options": ["Fracastorius", "James Lind", "John Snow", "Edward Jenner"],
+      "answer": 1
+    },
+    {
+      "question": "Aniacinosis results in:",
+      "options": ["Perleche", "Beri beri", "Pellagra", "Nyctalopia"],
+      "answer": 2
+    },
+    {
+      "question": "All of the following are true about manifestations of vitamin E deficiency except:",
+      "options": ["Hemolytic anemia", "Posterior column abnormalities", "Cerebellar ataxia", "Autonomic dysfunctions"],
+      "answer": 3
+    },
+    {
+      "question": "Both Vitamin K and C are involved in:",
+      "options": ["The synthesis of clotting factors", "Post translational modifications", "Antioxidant mechanisms", "The microsomal hydroxylation reactions"],
+      "answer": 1
+    },
+    {
+      "question": "The compound that can give rise to glucose by gluconeogenesis is:",
+      "options": ["Acetyl CoA", "Lactate", "Palmitic acid", "Fructose"],
+      "answer": 1
+    },
+    {
+      "question": "Gluconeogenesis occurs in the liver and:",
+      "options": ["Kidney", "Muscle", "Heart", "Fat"],
+      "answer": 0
+    },
+    {
+      "question": "Glycogen synthesis is increased by:",
+      "options": ["Cortisone", "Insulin", "GH", "Epinephrine"],
+      "answer": 1
+    },
+    {
+      "question": "Muscle glycogen cannot contribute directly to blood glucose level because:",
+      "options": ["Muscle lacks glucose 6 phosphatase", "Muscle lacks phospho gluco isomerase", "Absence of glucokinase", "Muscle does not contain glycogen phosphorylase"],
+      "answer": 0
+    },
+    {
+      "question": "Increase in lactate and pyruvate is seen in deficiency of:",
+      "options": ["Pyridoxin", "Niacin", "Thiamine", "Retinoic acid"],
+      "answer": 2
+    },
+    {
+      "question": "The major fuel for the brain after several weeks of starvation:",
+      "options": ["Glucose", "Fatty acid", "Beta hydroxy butyrate", "Glycerol"],
+      "answer": 2
+    },
+    {
+      "question": "The main pathways of metabolism in brain are:",
+      "options": ["Glycolysis and citric acid cycle", "Glycogenolysis and Gluconeogenesis", "Embden-Meyerhof Pathway and H.M.P shunt", "Glycogenolysis and Citric acid cycle"],
+      "answer": 0
+    },
+    {
+      "question": "In the body, metabolism of 10 g of protein would produce approximately:",
+      "options": ["1 Kcal", "41 Kcal", "410 Kcal", "4100 Kcal"],
+      "answer": 2
+    },
+    {
+      "question": "Step in HMP pathway requiring TPP:",
+      "options": ["G6 PD", "6 phosphogluconate dehydrogenase", "Transketolase", "Transaldolase"],
+      "answer": 2
+    },
+    {
+      "question": "NADPH is generated by the action of:",
+      "options": ["Glucose 6 phosphate dehydrogenase", "Glucose 1 phosphate dehydrogenase", "Glucose 1,6 diphosphate dehydrogenase", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "HMP shunt is of great importance in cellular metabolism because it produces:",
+      "options": ["ATP", "ADP", "NADPH", "Ribose-5-phosphate"],
+      "answer": 2
+    },
+    {
+      "question": "Glucose 6 phosphatase deficiency is seen in:",
+      "options": ["Pompe's disease", "Von Gierke's disease", "McArdles syndrome", "Downs syndrome"],
+      "answer": 1
+    },
+    {
+      "question": "Sites where HMP shunts can occur include:",
+      "options": ["Liver", "WBC", "Lactating mammary gland", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "All of the following are substrates for gluconeogenesis except:",
+      "options": ["Alanine", "Oleic acid", "Glycerol", "Tryptophan"],
+      "answer": 1
+    },
+    {
+      "question": "During conversion of glycerol to pyruvic acid, the first glycolytic intermediate to form is:",
+      "options": ["Dihydroxyacetone phosphate", "Glyceraldehyde 3 phosphate", "1,3 bisphosphoglycerate", "3 phosphoglycerate"],
+      "answer": 0
+    },
+    {
+      "question": "Glucose can be synthesized from all except:",
+      "options": ["Amino acids", "Glycerol", "Acetoacetate", "Lactic acid"],
+      "answer": 2
+    },
+    {
+      "question": "The tissue with the highest glycogen content (mg/100gm):",
+      "options": ["Liver", "Muscle", "Brain", "Kidney"],
+      "answer": 0
+    },
+    {
+      "question": "Major contribution towards gluconeogenesis is by:",
+      "options": ["Lactate", "Glycerol", "Ketones", "Alanine"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following enzymes use NADP as coenzyme?",
+      "options": ["Glyceraldehyde 3 phosphate dehydrogenase", "Lactate dehydrogenase", "Glucose 6-Phosphate dehydrogenase", "Beta hydroxy acyl CoA dehydrogenase"],
+      "answer": 2
+    },
+    {
+      "question": "In prolonged starvation the main energy source of brain is:",
+      "options": ["Glucose", "Ketone bodies", "Fructose", "Fatty acids"],
+      "answer": 1
+    },
+    {
+      "question": "The citric acid cycle is the final pathway for oxidation of:",
+      "options": ["Enzymes", "Vitamins", "Minerals", "None of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The uptake of glucose by the liver increases following a carbohydrate meal because:",
+      "options": ["There is increase in phosphorylation of glucose by glucokinase", "GLUT-2 stimulated by insulin", "Glucokinase has a low Km for glucose", "Hexokinase in liver has a high affinity for glucose"],
+      "answer": 0
+    },
+    {
+      "question": "Glycogen breakdown leads to formation of:",
+      "options": ["Glucose", "Lactic acid", "Glucose & Lactic acid", "Glycoprotein"],
+      "answer": 0
+    },
+    {
+      "question": "All these reactions take place inside the mitochondria except:",
+      "options": ["EMP pathway", "Krebs cycle", "Urea cycle", "Electron transfer"],
+      "answer": 0
+    },
+    {
+      "question": "All are true regarding glucose 6 phosphatase deficiency except:",
+      "options": ["Hyperuricemia", "Hyperglycemia", "Defective cori cycle", "Increased mobilization of glycogen from liver"],
+      "answer": 1
+    },
+    {
+      "question": "Blood glucose level cannot be augmented by mobilization of muscle glycogen due to lack of:",
+      "options": ["G-6-P dehydrogenase", "G-6-P phosphatase", "Aldolase", "Glucokinase"],
+      "answer": 1
+    },
+    {
+      "question": "Galactosemia commonly is due to deficiency of:",
+      "options": ["Galactose 1 phosphate uridyl transferase", "Galactose 1 phosphatase", "Galactokinase", "UDP galactose epimerase"],
+      "answer": 0
+    },
+    {
+      "question": "In which type of glycogen storage disease is hyperuricemia a feature?",
+      "options": ["I", "II", "III", "IV"],
+      "answer": 0
+    },
+    {
+      "question": "McArdles disease is due to the deficiency of:",
+      "options": ["Glucose 1 phosphatase", "Glucose 1,6 phosphatase", "Glucose 6 phosphatase", "Myophosphorylase"],
+      "answer": 3
+    },
+    {
+      "question": "Type II glycogen storage disorder is due to deficiency of:",
+      "options": ["Alpha-Glucosidase", "Alpha galactosidase", "Muscle phosphorylase", "Acid Lipase"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a function of the golgi apparatus?",
+      "options": ["Modification of proteins", "m RNA synthesis", "Protein storage", "t RNA synthesis"],
+      "answer": 0
+    },
+    {
+      "question": "Ribosomes are usually associated with:",
+      "options": ["Endoplasmic reticulum", "Mitochondria", "Nucleolus", "Plasma membrane"],
+      "answer": 0
+    },
+    {
+      "question": "Golgi bodies function is:",
+      "options": ["Protein lipid synthesis", "Protein synthesis", "Packaging and secretion", "Energy production"],
+      "answer": 2
+    },
+    {
+      "question": "Which cell organelle contains DNA?",
+      "options": ["Mitochondrion", "Golgi body", "Endoplasmic reticulum", "Centriole"],
+      "answer": 0
+    },
+    {
+      "question": "Which of these organelle functions as the digestive system of the cell?",
+      "options": ["Mitochondria", "Rough endoplasmic reticulum", "Lysosomes", "Golgi apparatus"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is inclusion of cytoplasm?",
+      "options": ["Endoplasmic reticulum", "Ribosome", "Golgi body", "Glycogen"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the organelles contain DNA?",
+      "options": ["Nucleus", "Nucleolus", "Mitochondria", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Cell membrane consists of:",
+      "options": ["Lipids and proteins", "Lipids only", "Protein only", "Carbohydrates only"],
+      "answer": 0
+    },
+    {
+      "question": "The main function of mitochondria is:",
+      "options": ["Protein synthesis", "Oxidation", "Electron transfer", "Fat synthesis"],
+      "answer": 1
+    },
+    {
+      "question": "In ECF main electrolyte is:",
+      "options": ["Na+", "K+", "Cl-", "Proteins"],
+      "answer": 0
+    },
+    {
+      "question": "Oligosaccharide is:",
+      "options": ["Glucose", "Fructose", "Maltose", "Dextrin"],
+      "answer": 2
+    },
+    {
+      "question": "Bilirubin is produced from:",
+      "options": ["Haemoglobin", "Myoglobin", "Cytochrome", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "Heme is converted to bilirubin mainly in:",
+      "options": ["Kidney", "Liver", "Spleen", "Bone marrow"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following about biological membrane is true?",
+      "options": ["Lipid moiety is amphiphatic", "Rigid assembly of protein, lipid and carbohydrate", "Symmetrical bi leaflet structures", "Lipid and protein moiety are held by covalent interactions"],
+      "answer": 0
+    },
+    {
+      "question": "The major driving force for formation of membrane lipid bilayer is:",
+      "options": ["Hydrogen bonding", "Hydrophobic interactions", "Vander wall forces", "Ionic interactions"],
+      "answer": 1
+    },
+    {
+      "question": "Mannose 6 phosphate containing freshly synthesized proteins are directed to:",
+      "options": ["Nucleus", "Lysosomes", "Mitochondria", "Golgi apparatus"],
+      "answer": 1
+    },
+    {
+      "question": "Inside the cell, the substance which contributes to most of the osmolality is:",
+      "options": ["Protein", "Potassium", "Urea", "Phosphate"],
+      "answer": 1
+    },
+    {
+      "question": "Ferritin - an inactive form of iron is stored in:",
+      "options": ["Gut", "Spleen", "Liver", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The patient suffered from hypogonadism, failure to thrive, loss of taste and unable to maintain stability. This shows the deficiency of:",
+      "options": ["Zinc", "Chromium", "Copper", "Potassium"],
+      "answer": 0
+    },
+    {
+      "question": "Iron absorption is decreased in presence of all except:",
+      "options": ["Phytates", "Ascorbic acid", "Tannins", "Phosphates"],
+      "answer": 1
+    },
+    {
+      "question": "Normal serum calcium level is:",
+      "options": ["4-6 mg/dl", "9-11 mg/dl", "12-14 mg/dl", "15-18 mg/dl"],
+      "answer": 1
+    },
+    {
+      "question": "The normal value of serum potassium level is:",
+      "options": ["2.8-3.8 meq/L", "3.8-5 meq/L", "5-5.8 meq/L", "6-7.2 meq/L"],
+      "answer": 1
+    },
+    {
+      "question": "Highest binding of iron in plasma is seen with:",
+      "options": ["Transferrin", "Ferritin", "Hemoglobin", "Ceruloplasmin"],
+      "answer": 0
+    },
+    {
+      "question": "Daily requirement of iron in man is:",
+      "options": ["1gm", "10 microgram", "10 mg", "20 mg"],
+      "answer": 2
+    },
+    {
+      "question": "In human body which of the following trace element is next to iron?",
+      "options": ["Ca++", "Zn++", "Cu++", "Selenium"],
+      "answer": 1
+    },
+    {
+      "question": "Peroxidase enzyme contains:",
+      "options": ["Chromium", "Selenium", "Magnesium", "Calcium"],
+      "answer": 1
+    },
+    {
+      "question": "Iron is complexed in haemoglobin to:",
+      "options": ["Leucine", "Histidine", "Isoleucine", "Valine"],
+      "answer": 1
+    },
+    {
+      "question": "Normal serum alkaline phosphatase level is:",
+      "options": ["100-400 Bodansky units", "1000-4000 Bodansky units", "0.1-0.4 Bodansky units", "1-4 Bodansky units"],
+      "answer": 0
+    },
+    {
+      "question": "The normal range of serum osmolality (in mosm/L) is:",
+      "options": ["280 to 295", "300 to 320", "350 to 375", "200 to 250"],
+      "answer": 0
+    },
+    {
+      "question": "The fuel value of fat is:",
+      "options": ["4", "7", "9", "11"],
+      "answer": 2
+    },
+    {
+      "question": "Normal level of serum phosphorous is:",
+      "options": ["2.5 - 4.5 mg%", "7-9 mg%", "40-50 mg%", "1-2 mg%"],
+      "answer": 0
+    },
+    {
+      "question": "The most important buffer in RBC is:",
+      "options": ["Bicarbonate", "Hemoglobin", "Phosphate", "Protein"],
+      "answer": 1
+    },
+    {
+      "question": "In Cytochrome p450, P stands for:",
+      "options": ["Structural proteins", "Substrate proteins", "Pigment", "Polymer"],
+      "answer": 2
+    },
+    {
+      "question": "Normal blood bilirubin level is:",
+      "options": ["0.5 - 1 mg%", "1 - 3 mg%", "3 - 4 mg%", "4 - 5.5 mg%"],
+      "answer": 0
+    },
+    {
+      "question": "The mineral having sparing action on Vitamin E is:",
+      "options": ["Chromium", "Iron", "Selenium", "Zinc"],
+      "answer": 2
+    },
+    {
+      "question": "Cholesterol levels in abnormal person should be preferably less than:",
+      "options": ["200 mg/dl", "180 mg/dl", "150 mg/dl", "120 mg/dl"],
+      "answer": 0
+    },
+    {
+      "question": "Hyponatremia is defined as a serum Na+ level:",
+      "options": ["< 135 mmol/L", ">135 mmol/L", "< 160 mmol/L", "< 100 mmol/L"],
+      "answer": 0
+    },
+    {
+      "question": "Normal blood pH is:",
+      "options": ["7.35 - 7.45", "7.0 - 7.2", "7.5 - 7.6", "6.8 - 7.0"],
+      "answer": 0
+    },
+    {
+      "question": "Most important compensatory mechanism in metabolic acidosis:",
+      "options": ["Hyperventilation", "Increased NH3 excretion by kidneys", "Increased urinary phosphates", "Increased HCO3 Production"],
+      "answer": 0
+    },
+    {
+      "question": "To keep blood pH at 7.4 the HCO3 : H2CO3 ratio should be:",
+      "options": ["20:1", "30:1", "15:1", "1:1"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is false about starvation ketoacidosis?",
+      "options": ["Metabolic acidosis", "Smell of acetone in breath", "Benedict's test +ve", "Rothera's test is +ve"],
+      "answer": 2
+    },
+    {
+      "question": "In molecular cloning, Blue White screening is used for:",
+      "options": ["To screen for recombinant vectors", "To detect gene mutations", "To identify desired chromosomal DNA insert in plasmid vectors", "To detect host DNA in situ"],
+      "answer": 0
+    },
+    {
+      "question": "A mutation that converts an amino acid codon to a stop codon is a:",
+      "options": ["Nonsense mutation", "Transversion", "Silent mutation", "Frame shift mutation"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is not a post transcriptional modification of RNA?",
+      "options": ["Splicing", "5' capping", "3' polyadenylation", "Glycosylation"],
+      "answer": 3
+    },
+    {
+      "question": "Serum creatine kinase-3 (CK-3) is elevated in:",
+      "options": ["Muscular dystrophy", "Myocardial infarction", "Alcoholic cirrhosis", "Brain tumours"],
+      "answer": 0
+    },
+    {
+      "question": "Alkaptonuria, an inherited metabolic disorder is due to the deficiency of:",
+      "options": ["Homogentisic oxidase", "Cystathionase", "Tyrosine transaminase", "Phenylalanine hydroxylase"],
+      "answer": 0
+    },
+    {
+      "question": "Albinism is a genetic disease that results in incomplete metabolism of:",
+      "options": ["Histidine", "Cystine", "Tyrosine", "Alanine"],
+      "answer": 2
+    },
+    {
+      "question": "In Hartnup's disease which amino acid is excreted in the urine?",
+      "options": ["Ornithine", "Glutamine", "Tryptophan", "Phenylalanine"],
+      "answer": 2
+    },
+    {
+      "question": "Argentaffinoma is characterized by excess excretion of:",
+      "options": ["5-Hydroxy indole acetate", "3-Hydroxy phenyl pyruvate", "Phenyl lactate", "Phenyl acetate"],
+      "answer": 0
+    },
+    {
+      "question": "In maple syrup urine disease the amino acids excreted in the urine are:",
+      "options": ["Leucine", "Isoleucine", "Valine", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Amino acids excreted in the urine in cystinosis are:",
+      "options": ["Cystine", "Ornithine", "Arginine", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is abnormal constituent of urine?",
+      "options": ["Glucose", "Creatine", "Urea", "None of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is not a second messenger?",
+      "options": ["cAMP", "cGMP", "Phosphatidyl inositol", "Phosphatidyl glycerol"],
+      "answer": 3
+    },
+    {
+      "question": "A balanced diet consists of:",
+      "options": ["20% proteins, 25% fats, 50% carbohydrates", "20% proteins, 35% fats, 45% carbohydrates", "25% proteins, 25% fats, 50% carbohydrates", "35% proteins, 15% fats, 50% carbohydrates"],
+      "answer": 0
+    },
+    {
+      "question": "Colloidal osmotic pressure of plasma is by:",
+      "options": ["Albumin", "Fibrinogen", "Globulin", "Prothrombin"],
+      "answer": 0
+    },
+    {
+      "question": "The daily requirement of protein for the adults is:",
+      "options": ["6 gms", "60 gms", "120 gms", "250 gms"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is not a part of hemoglobin molecule?",
+      "options": ["Pyrrole rings", "Vinyl groups", "Histidine", "Ferric ions"],
+      "answer": 3
+    },
+    {
+      "question": "Proteins are absorbed from GIT as:",
+      "options": ["Amino acids", "Peptides", "Peptones", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a precursor of protoporphyrin?",
+      "options": ["Alanine", "Leucine", "Histidine", "Glycine"],
+      "answer": 3
+    },
+    {
+      "question": "False statement about haemoglobin structure:",
+      "options": ["Hb has 2 polypeptide chains", "Iron is present in ferrous state", "Hb structurally similar to myoglobin", "Ferrous ions are in porphyrin rings"],
+      "answer": 0
+    },
+    {
+      "question": "At pH 7 the binding of 2,3 DPG to hemoglobin occurs at which site?",
+      "options": ["Sulphydryl group", "Carboxy terminal", "Amino terminal", "Histidine"],
+      "answer": 3
+    },
+    {
+      "question": "Urea is produced by the enzyme:",
+      "options": ["Urease", "Uricase", "Arginase", "Glutaminase"],
+      "answer": 2
+    },
+    {
+      "question": "Urinary protein is detected by:",
+      "options": ["Barfoed test", "Hay's test", "Boiling test", "Ehrlich's test"],
+      "answer": 2
+    },
+    {
+      "question": "Bile contains:",
+      "options": ["Cholic acid", "Chenodeoxycholic acid", "Deoxycholic acid", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "Bile acids are formed from:",
+      "options": ["Cholesterol", "Amino acids", "Bilirubin", "Lipoproteins"],
+      "answer": 0
+    },
+    {
+      "question": "Norepinephrine is converted to epinephrine by:",
+      "options": ["Dopamine hydroxylase", "Dopa decarboxylase", "O-methylation", "N-methylation"],
+      "answer": 3
+    },
+    {
+      "question": "Rate limiting step in adrenaline synthesis is conversion of:",
+      "options": ["Tyrosine to dopa", "Phenylalanine to tyrosine", "Dopa to dopamine", "Dopamine to norepinephrine"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following has a ketogenic effect on livers?",
+      "options": ["Insulin", "Glucagon", "GH", "Androgen"],
+      "answer": 1
+    },
+    {
+      "question": "Calcitonin is antagonist to:",
+      "options": ["Parathyroid hormone", "Thyroxine", "Triiodothyronine", "Serotonin"],
+      "answer": 0
+    },
+    {
+      "question": "Thyroxine and catecholamines are derived from:",
+      "options": ["Tyrosine", "Tryptophan", "Alanine", "Leucine"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the precursor of adrenaline and thyroxine synthesis?",
+      "options": ["Phenylalanine", "Tyrosine", "Tryptophan", "None of the above"],
+      "answer": 1
+    },
+    {
+      "question": "The immediate precursor of norepinephrine is:",
+      "options": ["Epinephrine", "Tyrosine", "Dopamine", "Phenylalanine"],
+      "answer": 2
+    },
+    {
+      "question": "The precursor of testosterone is:",
+      "options": ["Aldosterone", "Methyl testosterone", "Estrogen", "Pregnenolone"],
+      "answer": 3
+    },
+    {
+      "question": "Somatomedin mediates:",
+      "options": ["Deposition of chondroitin sulfate", "Lipolysis", "Gluconeogenesis", "Decreased rate of glucose uptake by cells"],
+      "answer": 0
+    },
+    {
+      "question": "Ligand for peroxisome proliferation activating receptor (PPAR) receptors is:",
+      "options": ["Repaglinide", "Voglibose", "Exanatide", "Rosiglitazone"],
+      "answer": 3
+    },
+    {
+      "question": "Major source of ammonia in the kidney is:",
+      "options": ["Urea", "Aspartate", "Glutamine", "Glutamate"],
+      "answer": 2
+    },
+    {
+      "question": "Key enzyme in urea synthesis is:",
+      "options": ["Urease", "Carbamyl synthetase", "Arginase", "Ornithine transcarbamylase"],
+      "answer": 1
+    },
+    {
+      "question": "Ammonia is detoxified in liver to form:",
+      "options": ["Uric acid", "Glutamine", "Creatinine", "Urea"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following combination is correct?",
+      "options": ["Thiamine - Acyl CoA", "Biotin-CO2", "ATP-Hydrogen", "NAD - Phosphate"],
+      "answer": 1
+    },
+    {
+      "question": "Insulin increases the following pathways in liver EXCEPT:",
+      "options": ["Fatty acid synthesis", "Glycogen synthesis", "Protein synthesis", "Glucose synthesis"],
+      "answer": 3
+    },
+    {
+      "question": "Most lipogenic sugar is:",
+      "options": ["Fructose", "Glucose", "Galactose", "Ribose"],
+      "answer": 0
+    },
+    {
+      "question": "The process by which a base sequence of messenger RNA is synthesized on a template of complementary DNA is called:",
+      "options": ["Transcription", "Transduction", "Translation", "Translocation"],
+      "answer": 0
+    },
+    {
+      "question": "Digestion of proteins is initiated by:",
+      "options": ["Amylase", "Sucrase", "Chymotrypsin", "Pepsin"],
+      "answer": 3
+    },
+    {
+      "question": "The nitrogen of the body is supplied by:",
+      "options": ["Triacyl glycerol", "Proteins", "Glucose", "Lipids"],
+      "answer": 1
+    },
+    {
+      "question": "One of the following is not an amino acid:",
+      "options": ["Glycine", "Hydroxy proline", "Glutamic acid", "Choline"],
+      "answer": 3
+    },
+    {
+      "question": "Precursor of melanin is:",
+      "options": ["Tyrosine", "Tryptophan", "Phenylalanine", "DOPA"],
+      "answer": 3
+    },
+    {
+      "question": "The reducing end of glutathione, the amino acid is:",
+      "options": ["Glycine", "Leucine", "Lysine", "Valine"],
+      "answer": 0
+    },
+    {
+      "question": "Following are the essential amino acids:",
+      "options": ["Phenylalanine, Tryptophan, Lysine", "Phenylalanine, Arginine, Methionine", "Valine, Leucine, Isoleucine", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The process of transfer of information from the RNA to the proteins is called:",
+      "options": ["Mutation", "Translation", "Transcription", "Conjugation"],
+      "answer": 1
+    },
+    {
+      "question": "Following is non-essential amino acid:",
+      "options": ["Phenylalanine", "Proline", "Tryptophan", "Threonine"],
+      "answer": 1
+    },
+    {
+      "question": "One of the following is nonessential amino acid:",
+      "options": ["Tyrosine", "Valine", "Methionine", "Threonine"],
+      "answer": 0
+    },
+    {
+      "question": "Aromatic ring is present in:",
+      "options": ["Arginine", "Glycine", "Phenylalanine", "Valine"],
+      "answer": 2
+    },
+    {
+      "question": "Indole ring is present in:",
+      "options": ["Tryptophan", "Valine", "Methionine", "Histidine"],
+      "answer": 0
+    },
+    {
+      "question": "Biuret test is confirmatory test for:",
+      "options": ["Protein", "Fat", "Carbohydrate", "Nucleic acid"],
+      "answer": 0
+    },
+    {
+      "question": "Albumin and globulins are which type of proteins?",
+      "options": ["Simple proteins", "Peptones", "Prolamines", "Lactalbumin"],
+      "answer": 0
+    },
+    {
+      "question": "Tertiary structure of protein is maintained by all except:",
+      "options": ["H2 bond", "Hydrophobic interactions", "Ionic bond", "Disulphide bond"],
+      "answer": 3
+    },
+    {
+      "question": "Vitamin C effects:",
+      "options": ["Maturation of procollagen", "Formation of osteoid matrix", "Calcification of osteoid", "Both A and B"],
+      "answer": 3
+    },
+    {
+      "question": "Cereals are deficient in:",
+      "options": ["Lysine", "Methionine", "Tryptophan", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "In the physiological system, nitric oxide is known to act through:",
+      "options": ["Cyclic AMP", "Calcium ions", "Cyclic GMP", "Prostacyclins"],
+      "answer": 2
+    },
+    {
+      "question": "True about denaturation of protein is all except:",
+      "options": ["Unfolding occurs", "Disruption of secondary structure occurs", "Sequence of amino acids remain the same", "Biological activity is retained"],
+      "answer": 3
+    },
+    {
+      "question": "Within the RBC hypoxia stimulates glycolysis by which of the following regulating pathways?",
+      "options": ["Hypoxia stimulates pyruvate dehydrogenase by increased 2,3 DPG", "Hypoxia inhibits hexokinase", "Hypoxia stimulates release of all glycolytic enzymes from Band 3 on RBC membrane", "Activation of the regulatory enzymes by high pH"],
+      "answer": 2
+    },
+    {
+      "question": "The abundant glycoprotein in the basement membrane and has binding domain for both ECM and cell-surface receptor is:",
+      "options": ["Laminin", "Fibronectin", "E-Cadherins", "Tenascin"],
+      "answer": 0
+    },
+    {
+      "question": "The following are derived from cholesterol, EXCEPT:",
+      "options": ["Bile acids", "Steroid hormones", "Vitamin D", "Energy"],
+      "answer": 3
+    },
+    {
+      "question": "Generation of free radicals occurs by all of the following mechanism EXCEPT:",
+      "options": ["Normal metabolism", "Oxygen toxicity", "Reperfusion after ischemic injury", "None of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The antibacterial substance present in tears which acts by splitting cell wall components is:",
+      "options": ["Penicillin", "Lysozyme", "Betalysine", "Lactoperoxidase"],
+      "answer": 1
+    },
+    {
+      "question": "Glycemic index of a starchy food is a measure of its:",
+      "options": ["Energy", "Utility", "Collectivity", "Blood glucose raising ability"],
+      "answer": 3
+    },
+    {
+      "question": "All are components of basement membrane except:",
+      "options": ["Nidogen", "Laminin", "Entactin", "Rhodopsin"],
+      "answer": 3
+    },
+    {
+      "question": "A patient of type 2 diabetes mellitus is given nutrition rich in:",
+      "options": ["Proteins", "Carbohydrates", "Fat", "Fibre rich diet"],
+      "answer": 3
+    },
+    {
+      "question": "Which of these is not included in parenteral therapy?",
+      "options": ["Carbohydrates", "Fibres", "Fats", "Micronutrients"],
+      "answer": 1
+    },
+    {
+      "question": "Free radicals are chemical species which have:",
+      "options": ["Single unpaired electron in an outer orbit", "Single paired electron in an outer orbit", "Double unpaired electron in an outer orbit", "Double paired electron in an outer orbit"],
+      "answer": 0
+    },
+    {
+      "question": "Hydroxylation of proline requires the following except:",
+      "options": ["Vitamin C", "Iron", "Oxygen", "Vitamin E"],
+      "answer": 3
+    },
+    {
+      "question": "True about G protein coupled receptors is:",
+      "options": ["G proteins bind to hormones on the cell surface", "All the three subunits alpha, beta and gamma should bind each other for G protein to act", "G Proteins act as inhibitory and excitatory because of difference in alpha subunit", "G protein is bound to GTP in resting state"],
+      "answer": 2
+    },
+    {
+      "question": "Collagen is rich in:",
+      "options": ["Glutamate and glycine", "Alanine and glycine", "Proline and glycine", "Glutamate and proline"],
+      "answer": 2
+    },
+    {
+      "question": "Most of the biochemical reactions occur in:",
+      "options": ["Cytoplasm", "Nucleus", "Mitochondria", "All of the above"],
+      "answer": 3
+    }
+  ]
+}

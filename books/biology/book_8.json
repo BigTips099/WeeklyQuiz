@@ -1,0 +1,1284 @@
+{
+  "questions": [
+    {
+      "question": "The study of chemical processes in living organisms is called:",
+      "options": [
+        "Chemistry",
+        "Biochemistry",
+        "Biology",
+        "Physics"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The most abundant organic molecule in the human body is:",
+      "options": [
+        "Protein",
+        "Water",
+        "Carbohydrate",
+        "Lipid"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Enzymes are classified as which type of molecule?",
+      "options": [
+        "Lipids",
+        "Proteins",
+        "Carbohydrates",
+        "Nucleic acids"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The pH of human blood is approximately:",
+      "options": [
+        "6.4",
+        "7.4",
+        "8.4",
+        "9.4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which vitamin is water soluble?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin E"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The energy currency of the cell is:",
+      "options": [
+        "Glucose",
+        "ATP",
+        "NADH",
+        "GTP"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The building blocks of proteins are:",
+      "options": [
+        "Nucleotides",
+        "Amino acids",
+        "Fatty acids",
+        "Monosaccharides"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of bond links amino acids in proteins?",
+      "options": [
+        "Hydrogen bond",
+        "Peptide bond",
+        "Ionic bond",
+        "Covalent bond"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first stable product of the Calvin cycle is:",
+      "options": [
+        "3-PGA",
+        "G3P",
+        "RuBP",
+        "Glucose"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which molecule is the main carrier of chemical energy?",
+      "options": [
+        "Glucose",
+        "ATP",
+        "NADH",
+        "FADH2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Metabolism refers to:",
+      "options": [
+        "Anabolic reactions only",
+        "Catabolic reactions only",
+        "Both anabolic and catabolic",
+        "Chemical reactions"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which molecule is not a polymer?",
+      "options": [
+        "Protein",
+        "DNA",
+        "Lipid",
+        "Starch"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Cellular respiration occurs in which organelle?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of converting glucose into pyruvate is called:",
+      "options": [
+        "Glycolysis",
+        "Krebs cycle",
+        "ETC",
+        "Fermentation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which molecule is used in protein synthesis?",
+      "options": [
+        "Glucose",
+        "Amino acids",
+        "Fatty acids",
+        "Nucleotides"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The monomer of DNA is the:",
+      "options": [
+        "Amino acid",
+        "Nucleotide",
+        "Monosaccharide",
+        "Fatty acid"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Phospholipids are important components of the:",
+      "options": [
+        "Cell membrane",
+        "Cell wall",
+        "Ribosomes",
+        "Nucleus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The transport of molecules through a membrane using energy is called:",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Passive transport",
+        "Active transport"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which process produces the most ATP?",
+      "options": [
+        "Glycolysis",
+        "Krebs cycle",
+        "Electron transport chain",
+        "Fermentation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The DNA double helix was discovered by:",
+      "options": [
+        "Darwin and Mendel",
+        "Watson and Crick",
+        "Pasteur and Koch",
+        "Hooke and Leeuwenhoek"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Enzyme function is affected by:",
+      "options": [
+        "Temperature",
+        "pH",
+        "Substrate concentration",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The building blocks of lipids are:",
+      "options": [
+        "Glycerol and fatty acids",
+        "Amino acids",
+        "Nucleotides",
+        "Monosaccharides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Osmosis involves the movement of:",
+      "options": [
+        "Solutes",
+        "Water",
+        "Ions",
+        "All molecules"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "DNA replication occurs during which phase?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Blood glucose level is controlled by:",
+      "options": [
+        "Insulin and glucagon",
+        "Thyroxine",
+        "Adrenaline",
+        "Cortisol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Biomolecules are:",
+      "options": [
+        "Any molecule",
+        "Molecules in living things",
+        "Synthetic molecules",
+        "Inorganic molecules"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is NOT a fat-soluble vitamin?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The main site of protein synthesis is the:",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Golgi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The term 'enzyme' was coined by:",
+      "options": [
+        "Pasteur",
+        "Kuhne",
+        "Sumner",
+        "Buchner"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first enzyme to be crystallized was:",
+      "options": [
+        "Urease",
+        "Amylase",
+        "Catalase",
+        "Pepsin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Enzymes lower the:",
+      "options": [
+        "Activation energy",
+        "Temperature",
+        "pH",
+        "Concentration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The active site of an enzyme is where:",
+      "options": [
+        "Substrate binds",
+        "Product is released",
+        "Cofactor binds",
+        "Inhibitor binds"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Competitive inhibition occurs when:",
+      "options": [
+        "Inhibitor binds to the active site",
+        "Inhibitor binds elsewhere",
+        "Substrate binds elsewhere",
+        "Product binds to active site"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Non-competitive inhibition occurs when:",
+      "options": [
+        "Inhibitor binds elsewhere on the enzyme",
+        "Inhibitor binds to the active site",
+        "Substrate binds elsewhere",
+        "Product binds to active site"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Allosteric enzymes have:",
+      "options": [
+        "Multiple binding sites",
+        "One binding site",
+        "No binding sites",
+        "Only active sites"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Coenzymes are:",
+      "options": [
+        "Organic molecules that assist enzymes",
+        "Inorganic molecules that assist enzymes",
+        "Proteins that assist enzymes",
+        "Lipids that assist enzymes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cofactors are:",
+      "options": [
+        "Inorganic molecules that assist enzymes",
+        "Organic molecules that assist enzymes",
+        "Proteins that assist enzymes",
+        "Lipids that assist enzymes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "NAD+ is an example of a:",
+      "options": [
+        "Coenzyme",
+        "Cofactor",
+        "Substrate",
+        "Product"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "FAD is an example of a:",
+      "options": [
+        "Coenzyme",
+        "Cofactor",
+        "Substrate",
+        "Product"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Michaelis-Menten equation describes:",
+      "options": [
+        "Enzyme kinetics",
+        "Membrane transport",
+        "Signal transduction",
+        "Gene expression"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Vmax of an enzyme is:",
+      "options": [
+        "Maximum reaction rate",
+        "Minimum reaction rate",
+        "Average reaction rate",
+        "Substrate concentration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Km of an enzyme is:",
+      "options": [
+        "Substrate concentration at 1/2 Vmax",
+        "Maximum reaction rate",
+        "Minimum reaction rate",
+        "Enzyme concentration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A low Km indicates:",
+      "options": [
+        "High affinity for substrate",
+        "Low affinity for substrate",
+        "High reaction rate",
+        "Low reaction rate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A high Km indicates:",
+      "options": [
+        "Low affinity for substrate",
+        "High affinity for substrate",
+        "High reaction rate",
+        "Low reaction rate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Glycolysis occurs in the:",
+      "options": [
+        "Cytoplasm",
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Glycolysis produces how many ATP molecules?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Glycolysis produces how many NADH molecules?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Krebs cycle occurs in the:",
+      "options": [
+        "Cytoplasm",
+        "Mitochondrial matrix",
+        "Inner mitochondrial membrane",
+        "Outer mitochondrial membrane"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Krebs cycle produces how many ATP molecules?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Krebs cycle produces how many NADH molecules?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Krebs cycle produces how many FADH2 molecules?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The electron transport chain is located in the:",
+      "options": [
+        "Inner mitochondrial membrane",
+        "Outer mitochondrial membrane",
+        "Mitochondrial matrix",
+        "Cytoplasm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The electron transport chain produces how many ATP molecules?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "ATP synthase is located in the:",
+      "options": [
+        "Inner mitochondrial membrane",
+        "Outer mitochondrial membrane",
+        "Mitochondrial matrix",
+        "Cytoplasm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chemiosmosis involves the movement of:",
+      "options": [
+        "Protons",
+        "Electrons",
+        "Sodium ions",
+        "Potassium ions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The proton gradient in mitochondria is created by:",
+      "options": [
+        "Electron transport chain",
+        "ATP synthase",
+        "Krebs cycle",
+        "Glycolysis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Oxidative phosphorylation produces:",
+      "options": [
+        "ATP",
+        "GTP",
+        "CTP",
+        "UTP"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Substrate-level phosphorylation occurs in:",
+      "options": [
+        "Glycolysis and Krebs cycle",
+        "Electron transport chain",
+        "Only glycolysis",
+        "Only Krebs cycle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The enzyme that synthesizes ATP is:",
+      "options": [
+        "ATP synthase",
+        "ATPase",
+        "Kinase",
+        "Phosphatase"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The enzyme that breaks down ATP is:",
+      "options": [
+        "ATPase",
+        "ATP synthase",
+        "Kinase",
+        "Phosphatase"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Photosynthesis occurs in:",
+      "options": [
+        "Chloroplasts",
+        "Mitochondria",
+        "Nucleus",
+        "Ribosomes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Photosynthesis produces:",
+      "options": [
+        "Glucose and oxygen",
+        "Glucose and carbon dioxide",
+        "Oxygen and carbon dioxide",
+        "Glucose only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The light reactions of photosynthesis produce:",
+      "options": [
+        "ATP and NADPH",
+        "Glucose",
+        "Oxygen only",
+        "Carbon dioxide"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Calvin cycle produces:",
+      "options": [
+        "Glucose",
+        "ATP",
+        "NADPH",
+        "Oxygen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rubisco is the most abundant enzyme and it:",
+      "options": [
+        "Fixes CO2",
+        "Splits water",
+        "Produces ATP",
+        "Produces NADPH"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "C4 plants have evolved to:",
+      "options": [
+        "Minimize photorespiration",
+        "Maximize photorespiration",
+        "Increase water loss",
+        "Decrease photosynthesis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CAM plants store CO2 as:",
+      "options": [
+        "Malate",
+        "Glucose",
+        "Sucrose",
+        "Starch"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The glyoxylate cycle occurs in:",
+      "options": [
+        "Glyoxysomes",
+        "Mitochondria",
+        "Chloroplasts",
+        "Peroxisomes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The glyoxylate cycle allows plants to:",
+      "options": [
+        "Convert fats to carbohydrates",
+        "Convert carbohydrates to fats",
+        "Convert proteins to carbohydrates",
+        "Convert carbohydrates to proteins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Beta-oxidation occurs in the:",
+      "options": [
+        "Mitochondria",
+        "Cytoplasm",
+        "Nucleus",
+        "Ribosomes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Beta-oxidation breaks down:",
+      "options": [
+        "Fatty acids",
+        "Glucose",
+        "Amino acids",
+        "Nucleic acids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ketone bodies are produced from:",
+      "options": [
+        "Fatty acids",
+        "Glucose",
+        "Amino acids",
+        "Nucleotides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cholesterol is synthesized in the:",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Brain",
+        "Muscle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The mevalonate pathway produces:",
+      "options": [
+        "Cholesterol",
+        "Fatty acids",
+        "Amino acids",
+        "Nucleotides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lipoproteins transport:",
+      "options": [
+        "Lipids",
+        "Proteins",
+        "Carbohydrates",
+        "Nucleic acids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "LDL is known as:",
+      "options": [
+        "Bad cholesterol",
+        "Good cholesterol",
+        "Neutral cholesterol",
+        "No cholesterol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "HDL is known as:",
+      "options": [
+        "Good cholesterol",
+        "Bad cholesterol",
+        "Neutral cholesterol",
+        "No cholesterol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Statins are used to:",
+      "options": [
+        "Lower cholesterol",
+        "Increase cholesterol",
+        "Transport cholesterol",
+        "Store cholesterol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first step in amino acid catabolism is:",
+      "options": [
+        "Deamination",
+        "Transamination",
+        "Decarboxylation",
+        "Oxidation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The urea cycle occurs in the:",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Brain",
+        "Muscle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ammonia is converted to urea in the:",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Brain",
+        "Muscle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Urea is excreted by the:",
+      "options": [
+        "Kidney",
+        "Liver",
+        "Skin",
+        "Lungs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Essential amino acids cannot be synthesized by the:",
+      "options": [
+        "Body",
+        "Liver",
+        "Kidney",
+        "Brain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Non-essential amino acids can be synthesized by the:",
+      "options": [
+        "Body",
+        "Liver",
+        "Kidney",
+        "Brain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Protein degradation occurs in the:",
+      "options": [
+        "Lysosome",
+        "Mitochondria",
+        "Golgi",
+        "ER"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ubiquitin tags proteins for:",
+      "options": [
+        "Degradation",
+        "Synthesis",
+        "Transport",
+        "Folding"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The proteasome degrades:",
+      "options": [
+        "Ubiquitinated proteins",
+        "All proteins",
+        "Lipids",
+        "Carbohydrates"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Apoptosis is:",
+      "options": [
+        "Programmed cell death",
+        "Cell division",
+        "Cell growth",
+        "Cell repair"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Necrosis is:",
+      "options": [
+        "Unprogrammed cell death",
+        "Programmed cell death",
+        "Cell division",
+        "Cell growth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cancer is characterized by:",
+      "options": [
+        "Uncontrolled cell division",
+        "Controlled cell division",
+        "Cell death",
+        "Cell repair"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tumor suppressor genes:",
+      "options": [
+        "Prevent cancer",
+        "Cause cancer",
+        "Have no role",
+        "Promote cell division"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Oncogenes:",
+      "options": [
+        "Promote cancer",
+        "Prevent cancer",
+        "Have no role",
+        "Repair DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "p53 is a:",
+      "options": [
+        "Tumor suppressor protein",
+        "Oncoprotein",
+        "Enzyme",
+        "Hormone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ras is an example of an:",
+      "options": [
+        "Oncogene",
+        "Tumor suppressor",
+        "Enzyme",
+        "Hormone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Telomerase is active in:",
+      "options": [
+        "Cancer cells",
+        "Normal cells",
+        "Stem cells",
+        "All cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Warburg effect describes:",
+      "options": [
+        "Cancer cells using glycolysis",
+        "Cancer cells using oxidative phosphorylation",
+        "Cancer cells dying",
+        "Cancer cells growing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Metastasis is the process of:",
+      "options": [
+        "Cancer spreading",
+        "Cancer shrinking",
+        "Cancer dying",
+        "Cancer growing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Angiogenesis is the formation of:",
+      "options": [
+        "New blood vessels",
+        "New cells",
+        "New proteins",
+        "New DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chemotherapy targets:",
+      "options": [
+        "Rapidly dividing cells",
+        "Slowly dividing cells",
+        "Non-dividing cells",
+        "All cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Radiation therapy uses:",
+      "options": [
+        "Ionizing radiation",
+        "UV radiation",
+        "Heat",
+        "Cold"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Immunotherapy uses the:",
+      "options": [
+        "Immune system",
+        "Nervous system",
+        "Digestive system",
+        "Respiratory system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gene therapy for cancer involves:",
+      "options": [
+        "Inserting suicide genes",
+        "Inserting oncogenes",
+        "Removing tumor suppressors",
+        "Removing all genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The CRISPR system was discovered in:",
+      "options": [
+        "Bacteria",
+        "Humans",
+        "Plants",
+        "Viruses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cas9 is an enzyme that:",
+      "options": [
+        "Cuts DNA",
+        "Synthesizes DNA",
+        "Repairs DNA",
+        "Transcribes DNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The guide RNA in CRISPR is complementary to:",
+      "options": [
+        "Target DNA",
+        "Target RNA",
+        "Target protein",
+        "Target lipid"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CRISPR can be used to:",
+      "options": [
+        "Correct mutations",
+        "Create mutations",
+        "Both",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first CRISPR-edited babies were born in:",
+      "options": [
+        "China",
+        "USA",
+        "UK",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ethical concerns of CRISPR include:",
+      "options": [
+        "Germline editing",
+        "Somatic editing",
+        "Gene therapy",
+        "Protein therapy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genetic screening is used to:",
+      "options": [
+        "Detect genetic disorders",
+        "Create mutations",
+        "Edit genes",
+        "Repair genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prenatal testing detects:",
+      "options": [
+        "Genetic disorders in fetus",
+        "Genetic disorders in mother",
+        "Genetic disorders in father",
+        "No disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Preimplantation genetic diagnosis (PGD) is used for:",
+      "options": [
+        "Testing embryos",
+        "Testing adults",
+        "Testing children",
+        "Testing animals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genetic counseling helps:",
+      "options": [
+        "Families understand genetic risks",
+        "Create mutations",
+        "Edit genes",
+        "Repair genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pharmacogenomics is the study of:",
+      "options": [
+        "How genes affect drug response",
+        "How drugs affect genes",
+        "How proteins affect drugs",
+        "How lipids affect drugs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Personalized medicine uses:",
+      "options": [
+        "Genetic information",
+        "Protein information",
+        "Lipid information",
+        "Carbohydrate information"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Biobanks store:",
+      "options": [
+        "Biological samples",
+        "Chemical samples",
+        "Physical samples",
+        "Environmental samples"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Data privacy is important in:",
+      "options": [
+        "Genetic research",
+        "Protein research",
+        "Lipid research",
+        "Carbohydrate research"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Informed consent is required for:",
+      "options": [
+        "Genetic testing",
+        "Protein testing",
+        "Lipid testing",
+        "Carbohydrate testing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The future of biochemistry includes:",
+      "options": [
+        "Precision medicine",
+        "Gene editing",
+        "Synthetic biology",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "ATP is composed of:",
+      "options": [
+        "Adenine, ribose, three phosphate groups",
+        "Adenine, deoxyribose, three phosphate groups",
+        "Guanine, ribose, three phosphate groups",
+        "Uracil, ribose, three phosphate groups"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The energy in ATP is stored in:",
+      "options": [
+        "Phosphoanhydride bonds",
+        "Hydrogen bonds",
+        "Ionic bonds",
+        "Peptide bonds"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "DNA and RNA differ in:",
+      "options": [
+        "Sugar and bases",
+        "Sugar only",
+        "Bases only",
+        "Structure only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The primary structure of a protein is:",
+      "options": [
+        "Amino acid sequence",
+        "Alpha-helix",
+        "Beta-sheet",
+        "Three-dimensional shape"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The secondary structure of a protein includes:",
+      "options": [
+        "Alpha-helices and beta-sheets",
+        "Amino acid sequence",
+        "Three-dimensional shape",
+        "Multiple polypeptide chains"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The tertiary structure of a protein is:",
+      "options": [
+        "Three-dimensional shape",
+        "Amino acid sequence",
+        "Alpha-helices",
+        "Beta-sheets"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The quaternary structure of a protein involves:",
+      "options": [
+        "Multiple polypeptide chains",
+        "Amino acid sequence",
+        "Alpha-helices",
+        "Beta-sheets"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chaperone proteins assist in:",
+      "options": [
+        "Protein folding",
+        "Protein synthesis",
+        "Protein degradation",
+        "Protein transport"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prions are:",
+      "options": [
+        "Misfolded proteins",
+        "Normal proteins",
+        "Nucleic acids",
+        "Lipids"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prion diseases are caused by:",
+      "options": [
+        "Protein misfolding",
+        "Viral infection",
+        "Bacterial infection",
+        "Fungal infection"
+      ],
+      "answer": 0
+    }
+  ]
+}

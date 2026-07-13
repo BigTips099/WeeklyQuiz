@@ -1,0 +1,1471 @@
+{
+  "category": "Thermodynamics",
+  "total_questions": 293,
+  "questions": [
+    {
+      "question": "The branch of physics that deals with heat and temperature is called:",
+      "options": ["Thermodynamics", "Mechanics", "Electromagnetism", "Optics"],
+      "answer": 0
+    },
+    {
+      "question": "Temperature is a measure of:",
+      "options": ["Average kinetic energy of molecules", "Total kinetic energy of molecules", "Average potential energy of molecules", "Total potential energy of molecules"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of temperature is:",
+      "options": ["Kelvin", "Celsius", "Fahrenheit", "Rankine"],
+      "answer": 0
+    },
+    {
+      "question": "The freezing point of water in Kelvin is:",
+      "options": ["273.15 K", "373.15 K", "0 K", "100 K"],
+      "answer": 0
+    },
+    {
+      "question": "The boiling point of water in Kelvin is:",
+      "options": ["373.15 K", "273.15 K", "100 K", "0 K"],
+      "answer": 0
+    },
+    {
+      "question": "Absolute zero is:",
+      "options": ["0 K", "-273.15°C", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "The zeroth law of thermodynamics deals with:",
+      "options": ["Thermal equilibrium", "Conservation of energy", "Entropy", "Heat engines"],
+      "answer": 0
+    },
+    {
+      "question": "If two bodies are in thermal equilibrium with a third body, they are in thermal equilibrium with each other. This is the:",
+      "options": ["Zeroth law", "First law", "Second law", "Third law"],
+      "answer": 0
+    },
+    {
+      "question": "The first law of thermodynamics is based on:",
+      "options": ["Conservation of energy", "Conservation of mass", "Conservation of momentum", "Conservation of charge"],
+      "answer": 0
+    },
+    {
+      "question": "The first law of thermodynamics is given by:",
+      "options": ["ΔU = Q - W", "ΔU = Q + W", "ΔU = W - Q", "ΔU = QW"],
+      "answer": 0
+    },
+    {
+      "question": "In thermodynamics, work done by the system is considered:",
+      "options": ["Positive", "Negative", "Zero", "Undefined"],
+      "answer": 0
+    },
+    {
+      "question": "In thermodynamics, work done on the system is considered:",
+      "options": ["Negative", "Positive", "Zero", "Undefined"],
+      "answer": 0
+    },
+    {
+      "question": "Heat added to the system is considered:",
+      "options": ["Positive", "Negative", "Zero", "Undefined"],
+      "answer": 0
+    },
+    {
+      "question": "Heat removed from the system is considered:",
+      "options": ["Negative", "Positive", "Zero", "Undefined"],
+      "answer": 0
+    },
+    {
+      "question": "An isothermal process is one in which:",
+      "options": ["Temperature remains constant", "Pressure remains constant", "Volume remains constant", "Heat remains constant"],
+      "answer": 0
+    },
+    {
+      "question": "An isobaric process is one in which:",
+      "options": ["Pressure remains constant", "Temperature remains constant", "Volume remains constant", "Heat remains constant"],
+      "answer": 0
+    },
+    {
+      "question": "An isochoric process is one in which:",
+      "options": ["Volume remains constant", "Pressure remains constant", "Temperature remains constant", "Heat remains constant"],
+      "answer": 0
+    },
+    {
+      "question": "An adiabatic process is one in which:",
+      "options": ["No heat exchange occurs", "Temperature remains constant", "Pressure remains constant", "Volume remains constant"],
+      "answer": 0
+    },
+    {
+      "question": "In an isothermal process for an ideal gas:",
+      "options": ["ΔU = 0", "Q = W", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "In an adiabatic process for an ideal gas:",
+      "options": ["Q = 0", "ΔU = -W", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "In an isochoric process for an ideal gas:",
+      "options": ["W = 0", "ΔU = Q", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "The work done in an isothermal process is:",
+      "options": ["W = nRT ln(V₂/V₁)", "W = nRT(V₂ - V₁)", "W = nRT ln(P₂/P₁)", "Both A and C"],
+      "answer": 3
+    },
+    {
+      "question": "The work done in an isobaric process is:",
+      "options": ["W = P(V₂ - V₁)", "W = nRT ln(V₂/V₁)", "W = 0", "W = ΔU"],
+      "answer": 0
+    },
+    {
+      "question": "The work done in an isochoric process is:",
+      "options": ["W = 0", "W = P(V₂ - V₁)", "W = nRT ln(V₂/V₁)", "W = ΔU"],
+      "answer": 0
+    },
+    {
+      "question": "For an adiabatic process, the relation between P and V is:",
+      "options": ["PV^γ = constant", "PV = constant", "P/V^γ = constant", "V/P^γ = constant"],
+      "answer": 0
+    },
+    {
+      "question": "For an adiabatic process, the relation between T and V is:",
+      "options": ["TV^(γ-1) = constant", "TV^γ = constant", "T/V^(γ-1) = constant", "T/V^γ = constant"],
+      "answer": 0
+    },
+    {
+      "question": "The ratio of specific heats γ is given by:",
+      "options": ["Cp/Cv", "Cv/Cp", "Cp - Cv", "Cv - Cp"],
+      "answer": 0
+    },
+    {
+      "question": "The relation between Cp and Cv for an ideal gas is:",
+      "options": ["Cp - Cv = R", "Cp + Cv = R", "Cp/Cv = R", "Cp × Cv = R"],
+      "answer": 0
+    },
+    {
+      "question": "For a monoatomic ideal gas, γ is:",
+      "options": ["5/3", "7/5", "3/5", "5/7"],
+      "answer": 0
+    },
+    {
+      "question": "For a diatomic ideal gas, γ is:",
+      "options": ["7/5", "5/3", "3/5", "5/7"],
+      "answer": 0
+    },
+    {
+      "question": "The internal energy of an ideal gas depends on:",
+      "options": ["Temperature only", "Pressure only", "Volume only", "Both pressure and volume"],
+      "answer": 0
+    },
+    {
+      "question": "The internal energy of an ideal gas is:",
+      "options": ["U = nCvT", "U = nCpT", "U = nRT", "U = nCvP"],
+      "answer": 0
+    },
+    {
+      "question": "The enthalpy of an ideal gas is defined as:",
+      "options": ["H = U + PV", "H = U - PV", "H = U × PV", "H = U/PV"],
+      "answer": 0
+    },
+    {
+      "question": "For an ideal gas, the change in enthalpy is:",
+      "options": ["ΔH = nCpΔT", "ΔH = nCvΔT", "ΔH = nRΔT", "ΔH = nCpΔP"],
+      "answer": 0
+    },
+    {
+      "question": "The second law of thermodynamics deals with:",
+      "options": ["Entropy and direction of processes", "Conservation of energy", "Thermal equilibrium", "Absolute zero"],
+      "answer": 0
+    },
+    {
+      "question": "The Kelvin-Planck statement of the second law states:",
+      "options": ["It is impossible to construct a heat engine that converts all heat into work", "It is impossible to transfer heat from cold to hot without work", "Entropy always increases", "Absolute zero is unattainable"],
+      "answer": 0
+    },
+    {
+      "question": "The Clausius statement of the second law states:",
+      "options": ["It is impossible to transfer heat from cold to hot without work", "It is impossible to convert all heat into work", "Entropy always increases", "Absolute zero is unattainable"],
+      "answer": 0
+    },
+    {
+      "question": "The efficiency of a heat engine is:",
+      "options": ["η = W/Q_h", "η = Q_h/W", "η = (Q_h - Q_c)/Q_h", "Both A and C"],
+      "answer": 3
+    },
+    {
+      "question": "The Carnot engine is:",
+      "options": ["The most efficient heat engine", "The least efficient heat engine", "A practical engine", "An irreversible engine"],
+      "answer": 0
+    },
+    {
+      "question": "The efficiency of a Carnot engine is:",
+      "options": ["η = 1 - T_c/T_h", "η = 1 - T_h/T_c", "η = T_c/T_h", "η = T_h/T_c"],
+      "answer": 0
+    },
+    {
+      "question": "The Carnot cycle consists of:",
+      "options": ["Two isothermal and two adiabatic processes", "Two isobaric and two isochoric processes", "One isothermal and one adiabatic process", "Two isothermal and two isochoric processes"],
+      "answer": 0
+    },
+    {
+      "question": "The coefficient of performance of a refrigerator is:",
+      "options": ["COP = Q_c/W", "COP = W/Q_c", "COP = Q_h/W", "COP = W/Q_h"],
+      "answer": 0
+    },
+    {
+      "question": "The coefficient of performance of a heat pump is:",
+      "options": ["COP = Q_h/W", "COP = W/Q_h", "COP = Q_c/W", "COP = W/Q_c"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy is defined as:",
+      "options": ["dS = dQ_rev/T", "dS = dQ/T", "dS = dW/T", "dS = dU/T"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of entropy is:",
+      "options": ["J/K", "J·K", "K/J", "J/K²"],
+      "answer": 0
+    },
+    {
+      "question": "The second law of thermodynamics in terms of entropy is:",
+      "options": ["ΔS ≥ 0 for an isolated system", "ΔS ≤ 0 for an isolated system", "ΔS = 0 for an isolated system", "ΔS > 0 for all systems"],
+      "answer": 0
+    },
+    {
+      "question": "For a reversible process, the entropy change is:",
+      "options": ["Zero", "Positive", "Negative", "Infinite"],
+      "answer": 0
+    },
+    {
+      "question": "For an irreversible process, the entropy change is:",
+      "options": ["Positive", "Negative", "Zero", "Undefined"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy change for an ideal gas is:",
+      "options": ["ΔS = nCv ln(T₂/T₁) + nR ln(V₂/V₁)", "ΔS = nCp ln(T₂/T₁) + nR ln(P₂/P₁)", "ΔS = nCv ln(T₂/T₁) + nR ln(P₂/P₁)", "Both A and B"],
+      "answer": 3
+    },
+    {
+      "question": "The entropy change for a reversible isothermal process is:",
+      "options": ["ΔS = Q/T", "ΔS = 0", "ΔS = W/T", "ΔS = ΔU/T"],
+      "answer": 0
+    },
+    {
+      "question": "The third law of thermodynamics states:",
+      "options": ["Entropy approaches zero as temperature approaches absolute zero", "Entropy approaches infinity as temperature approaches absolute zero", "Entropy is constant at absolute zero", "Entropy is maximum at absolute zero"],
+      "answer": 0
+    },
+    {
+      "question": "At absolute zero, the entropy of a perfect crystal is:",
+      "options": ["Zero", "Maximum", "Constant", "Infinite"],
+      "answer": 0
+    },
+    {
+      "question": "Absolute zero is:",
+      "options": ["Unattainable", "Attainable", "Reached in laboratories", "The lowest temperature possible"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibbs free energy is defined as:",
+      "options": ["G = H - TS", "G = H + TS", "G = U - TS", "G = U + TS"],
+      "answer": 0
+    },
+    {
+      "question": "The Helmholtz free energy is defined as:",
+      "options": ["F = U - TS", "F = U + TS", "F = H - TS", "F = H + TS"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibbs free energy is used for:",
+      "options": ["Processes at constant T and P", "Processes at constant T and V", "Processes at constant P and V", "Processes at constant T only"],
+      "answer": 0
+    },
+    {
+      "question": "The Helmholtz free energy is used for:",
+      "options": ["Processes at constant T and V", "Processes at constant T and P", "Processes at constant P and V", "Processes at constant T only"],
+      "answer": 0
+    },
+    {
+      "question": "For a spontaneous process at constant T and P:",
+      "options": ["ΔG < 0", "ΔG > 0", "ΔG = 0", "ΔG is undefined"],
+      "answer": 0
+    },
+    {
+      "question": "For a system in equilibrium at constant T and P:",
+      "options": ["ΔG = 0", "ΔG < 0", "ΔG > 0", "ΔG is undefined"],
+      "answer": 0
+    },
+    {
+      "question": "The Maxwell's relations are derived from:",
+      "options": ["Thermodynamic potentials", "First law", "Second law", "Third law"],
+      "answer": 0
+    },
+    {
+      "question": "The Maxwell's relations are:",
+      "options": ["(∂T/∂V)_S = -(∂P/∂S)_V", "(∂T/∂P)_S = (∂V/∂S)_P", "(∂S/∂V)_T = (∂P/∂T)_V", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The Clausius-Clapeyron equation relates:",
+      "options": ["Vapor pressure and temperature", "Pressure and volume", "Temperature and entropy", "Internal energy and temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The Clausius-Clapeyron equation is:",
+      "options": ["dP/dT = L/(TΔV)", "dP/dT = T/(LΔV)", "dP/dT = LΔV/T", "dP/dT = TΔV/L"],
+      "answer": 0
+    },
+    {
+      "question": "The Joule-Thomson effect is:",
+      "options": ["Cooling of gas during expansion", "Heating of gas during expansion", "Cooling of liquid during expansion", "Heating of liquid during expansion"],
+      "answer": 0
+    },
+    {
+      "question": "The Joule-Thomson coefficient is defined as:",
+      "options": ["μ_JT = (∂T/∂P)_H", "μ_JT = (∂P/∂T)_H", "μ_JT = (∂T/∂V)_H", "μ_JT = (∂V/∂T)_H"],
+      "answer": 0
+    },
+    {
+      "question": "For an ideal gas, the Joule-Thomson coefficient is:",
+      "options": ["Zero", "Positive", "Negative", "Infinite"],
+      "answer": 0
+    },
+    {
+      "question": "The inversion temperature is:",
+      "options": ["The temperature at which μ_JT = 0", "The temperature at which μ_JT is maximum", "The temperature at which μ_JT is minimum", "The temperature at which μ_JT is infinite"],
+      "answer": 0
+    },
+    {
+      "question": "The van der Waals equation is:",
+      "options": ["(P + a/V²)(V - b) = RT", "(P - a/V²)(V + b) = RT", "(P + a/V)(V - b) = RT", "(P - a/V)(V + b) = RT"],
+      "answer": 0
+    },
+    {
+      "question": "The van der Waals constants a and b account for:",
+      "options": ["Intermolecular forces and molecular volume", "Molecular mass and volume", "Temperature and pressure", "Heat and work"],
+      "answer": 0
+    },
+    {
+      "question": "The critical point of a substance is:",
+      "options": ["The point where liquid and vapor phases become indistinguishable", "The point where solid and liquid phases coexist", "The point where solid and vapor phases coexist", "The point where all three phases coexist"],
+      "answer": 0
+    },
+    {
+      "question": "At the critical point, the meniscus:",
+      "options": ["Disappears", "Becomes more pronounced", "Is horizontal", "Is vertical"],
+      "answer": 0
+    },
+    {
+      "question": "The Boyle temperature is:",
+      "options": ["The temperature at which a gas behaves ideally over a range of pressures", "The temperature at which a gas liquefies", "The temperature at which a gas solidifies", "The temperature at which a gas dissociates"],
+      "answer": 0
+    },
+    {
+      "question": "The reduced variables are:",
+      "options": ["P_r = P/P_c, V_r = V/V_c, T_r = T/T_c", "P_r = P_c/P, V_r = V_c/V, T_r = T_c/T", "P_r = P/P_c, V_r = V_c/V, T_r = T/T_c", "P_r = P_c/P, V_r = V/V_c, T_r = T_c/T"],
+      "answer": 0
+    },
+    {
+      "question": "The law of corresponding states states:",
+      "options": ["All substances behave similarly at the same reduced variables", "All substances behave differently at the same reduced variables", "Only gases behave similarly at the same reduced variables", "Only liquids behave similarly at the same reduced variables"],
+      "answer": 0
+    },
+    {
+      "question": "The compressibility factor Z is defined as:",
+      "options": ["Z = PV/RT", "Z = RT/PV", "Z = P/RT", "Z = V/RT"],
+      "answer": 0
+    },
+    {
+      "question": "For an ideal gas, the compressibility factor Z is:",
+      "options": ["1", "0", "> 1", "< 1"],
+      "answer": 0
+    },
+    {
+      "question": "The virial equation of state is:",
+      "options": ["PV/RT = 1 + B/V + C/V² + ...", "PV/RT = 1 - B/V - C/V²", "PV/RT = 1 + BP + CP² + ...", "Both A and C"],
+      "answer": 3
+    },
+    {
+      "question": "The second virial coefficient B depends on:",
+      "options": ["Temperature", "Pressure", "Volume", "Mass"],
+      "answer": 0
+    },
+    {
+      "question": "The heat capacity at constant pressure Cp is:",
+      "options": ["(∂H/∂T)_P", "(∂U/∂T)_P", "(∂H/∂T)_V", "(∂U/∂T)_V"],
+      "answer": 0
+    },
+    {
+      "question": "The heat capacity at constant volume Cv is:",
+      "options": ["(∂U/∂T)_V", "(∂H/∂T)_V", "(∂U/∂T)_P", "(∂H/∂T)_P"],
+      "answer": 0
+    },
+    {
+      "question": "The ratio Cp/Cv for an ideal gas is:",
+      "options": ["γ", "1/γ", "γ-1", "1/(γ-1)"],
+      "answer": 0
+    },
+    {
+      "question": "The specific heat of water is:",
+      "options": ["4.186 J/g·K", "4.186 J/g·°C", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "The latent heat of fusion of ice is:",
+      "options": ["333.5 kJ/kg", "2257 kJ/kg", "80 cal/g", "Both A and C"],
+      "answer": 3
+    },
+    {
+      "question": "The latent heat of vaporization of water is:",
+      "options": ["2257 kJ/kg", "333.5 kJ/kg", "80 cal/g", "540 cal/g"],
+      "answer": 3
+    },
+    {
+      "question": "The triple point of water is:",
+      "options": ["273.16 K, 611 Pa", "273.15 K, 1 atm", "373.15 K, 1 atm", "273.16 K, 1 atm"],
+      "answer": 0
+    },
+    {
+      "question": "The phase diagram shows:",
+      "options": ["The conditions for different phases to coexist", "The temperature and pressure conditions", "The volume and temperature conditions", "The pressure and volume conditions"],
+      "answer": 0
+    },
+    {
+      "question": "The sublimation is:",
+      "options": ["Direct conversion from solid to vapor", "Direct conversion from liquid to vapor", "Direct conversion from solid to liquid", "Direct conversion from vapor to solid"],
+      "answer": 0
+    },
+    {
+      "question": "The deposition is:",
+      "options": ["Direct conversion from vapor to solid", "Direct conversion from solid to vapor", "Direct conversion from liquid to vapor", "Direct conversion from solid to liquid"],
+      "answer": 0
+    },
+    {
+      "question": "The melting point is:",
+      "options": ["The temperature at which solid and liquid coexist", "The temperature at which liquid and vapor coexist", "The temperature at which solid and vapor coexist", "The temperature at which all three phases coexist"],
+      "answer": 0
+    },
+    {
+      "question": "The boiling point is:",
+      "options": ["The temperature at which liquid and vapor coexist at a given pressure", "The temperature at which solid and liquid coexist", "The temperature at which solid and vapor coexist", "The temperature at which all three phases coexist"],
+      "answer": 0
+    },
+    {
+      "question": "The normal boiling point is:",
+      "options": ["The boiling point at 1 atm", "The boiling point at 1 Pa", "The boiling point at 0°C", "The boiling point at 100°C"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy of vaporization is:",
+      "options": ["ΔS_vap = ΔH_vap/T_b", "ΔS_vap = T_b/ΔH_vap", "ΔS_vap = ΔH_vap × T_b", "ΔS_vap = 1/(ΔH_vap × T_b)"],
+      "answer": 0
+    },
+    {
+      "question": "Trouton's rule states:",
+      "options": ["ΔS_vap ≈ 85 J/mol·K for many liquids", "ΔS_vap ≈ 85 J/mol·K for all liquids", "ΔS_vap ≈ 85 cal/mol·K for many liquids", "ΔS_vap ≈ 85 cal/mol·K for all liquids"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical potential is:",
+      "options": ["μ = (∂G/∂n)_{T,P}", "μ = (∂F/∂n)_{T,V}", "μ = (∂H/∂n)_{S,P}", "μ = (∂U/∂n)_{S,V}"],
+      "answer": 0
+    },
+    {
+      "question": "The condition for chemical equilibrium is:",
+      "options": ["μ_A = μ_B for all components", "μ_A ≠ μ_B for all components", "μ_A > μ_B for all components", "μ_A < μ_B for all components"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibbs phase rule is:",
+      "options": ["F = C - P + 2", "F = C + P - 2", "F = C - P", "F = C + P"],
+      "answer": 0
+    },
+    {
+      "question": "In the Gibbs phase rule, F represents:",
+      "options": ["Degrees of freedom", "Number of phases", "Number of components", "Temperature"],
+      "answer": 0
+    },
+    {
+      "question": "For a single component system, the triple point has:",
+      "options": ["F = 0", "F = 1", "F = 2", "F = 3"],
+      "answer": 0
+    },
+    {
+      "question": "For a single component system, the coexistence curve has:",
+      "options": ["F = 1", "F = 0", "F = 2", "F = 3"],
+      "answer": 0
+    },
+    {
+      "question": "The equilibrium constant K is related to Gibbs free energy by:",
+      "options": ["ΔG° = -RT ln K", "ΔG° = RT ln K", "ΔG° = -RT/K", "ΔG° = RT/K"],
+      "answer": 0
+    },
+    {
+      "question": "The van't Hoff equation relates:",
+      "options": ["K and T", "K and P", "K and V", "K and U"],
+      "answer": 0
+    },
+    {
+      "question": "The van't Hoff equation is:",
+      "options": ["d ln K/dT = ΔH°/RT²", "d ln K/dT = -ΔH°/RT²", "d ln K/dT = ΔH°/RT", "d ln K/dT = -ΔH°/RT"],
+      "answer": 0
+    },
+    {
+      "question": "The osmotic pressure is given by:",
+      "options": ["π = cRT", "π = cRT/M", "π = cM/RT", "π = RT/c"],
+      "answer": 0
+    },
+    {
+      "question": "The boiling point elevation is given by:",
+      "options": ["ΔT_b = K_b m", "ΔT_b = K_b/m", "ΔT_b = m/K_b", "ΔT_b = K_b × M"],
+      "answer": 0
+    },
+    {
+      "question": "The freezing point depression is given by:",
+      "options": ["ΔT_f = K_f m", "ΔT_f = K_f/m", "ΔT_f = m/K_f", "ΔT_f = K_f × M"],
+      "answer": 0
+    },
+    {
+      "question": "The Raoult's law is:",
+      "options": ["P_i = x_i P_i°", "P_i = x_i/P_i°", "P_i = P_i°/x_i", "P_i = x_i × P_i°"],
+      "answer": 3
+    },
+    {
+      "question": "Henry's law is:",
+      "options": ["P_i = k_H x_i", "P_i = k_H/x_i", "P_i = x_i/k_H", "P_i = k_H × x_i"],
+      "answer": 0
+    },
+    {
+      "question": "The ideal solution is one where:",
+      "options": ["Raoult's law is obeyed", "Henry's law is obeyed", "Both A and B", "Neither A nor B"],
+      "answer": 0
+    },
+    {
+      "question": "The excess thermodynamic functions are:",
+      "options": ["The difference between actual and ideal behavior", "The sum of actual and ideal behavior", "The product of actual and ideal behavior", "The ratio of actual to ideal behavior"],
+      "answer": 0
+    },
+    {
+      "question": "The activity of a component is:",
+      "options": ["a_i = P_i/P_i°", "a_i = P_i/P_i°", "a_i = x_i", "a_i = γ_i x_i"],
+      "answer": 3
+    },
+    {
+      "question": "The activity coefficient is:",
+      "options": ["γ_i = a_i/x_i", "γ_i = x_i/a_i", "γ_i = a_i × x_i", "γ_i = 1/(a_i × x_i)"],
+      "answer": 0
+    },
+    {
+      "question": "The Debye-Hückel theory describes:",
+      "options": ["Electrolyte solutions", "Non-electrolyte solutions", "Ideal solutions", "Gaseous solutions"],
+      "answer": 0
+    },
+    {
+      "question": "The Debye-Hückel limiting law is:",
+      "options": ["log γ = -A z² √I", "log γ = A z² √I", "log γ = -A z² I", "log γ = A z² I"],
+      "answer": 0
+    },
+    {
+      "question": "The ionic strength I is:",
+      "options": ["I = ½Σ c_i z_i²", "I = Σ c_i z_i²", "I = ½Σ c_i z_i", "I = Σ c_i z_i"],
+      "answer": 0
+    },
+    {
+      "question": "The Debye length is:",
+      "options": ["λ_D = √(εkT/2Ne²I)", "λ_D = √(εkT/Ne²I)", "λ_D = √(2εkT/Ne²I)", "λ_D = √(εkT/2Ne²)"],
+      "answer": 0
+    },
+    {
+      "question": "The Boltzmann distribution is:",
+      "options": ["N_i/N = e^{-E_i/kT}/Σe^{-E_i/kT}", "N_i/N = e^{E_i/kT}/Σe^{E_i/kT}", "N_i/N = kT/E_i", "N_i/N = E_i/kT"],
+      "answer": 0
+    },
+    {
+      "question": "The Maxwell-Boltzmann distribution gives:",
+      "options": ["The distribution of molecular speeds in a gas", "The distribution of energies in a gas", "The distribution of positions in a gas", "The distribution of momenta in a gas"],
+      "answer": 0
+    },
+    {
+      "question": "The Maxwell-Boltzmann speed distribution is:",
+      "options": ["f(v) = 4π(m/2πkT)^{3/2} v² e^{-mv²/2kT}", "f(v) = 4π(m/2πkT)^{3/2} v e^{-mv²/2kT}", "f(v) = 4π(m/2πkT)^{3/2} v² e^{-mv²/kT}", "f(v) = 4π(m/2πkT)^{3/2} v e^{-mv²/kT}"],
+      "answer": 0
+    },
+    {
+      "question": "The most probable speed is:",
+      "options": ["v_mp = √(2kT/m)", "v_mp = √(3kT/m)", "v_mp = √(8kT/m)", "v_mp = √(kT/m)"],
+      "answer": 0
+    },
+    {
+      "question": "The average speed is:",
+      "options": ["v_avg = √(8kT/m)", "v_avg = √(2kT/m)", "v_avg = √(3kT/m)", "v_avg = √(kT/m)"],
+      "answer": 0
+    },
+    {
+      "question": "The root mean square speed is:",
+      "options": ["v_rms = √(3kT/m)", "v_rms = √(2kT/m)", "v_rms = √(8kT/m)", "v_rms = √(kT/m)"],
+      "answer": 0
+    },
+    {
+      "question": "The relation between the three speeds is:",
+      "options": ["v_rms > v_avg > v_mp", "v_mp > v_avg > v_rms", "v_avg > v_rms > v_mp", "v_mp > v_rms > v_avg"],
+      "answer": 0
+    },
+    {
+      "question": "The mean free path is:",
+      "options": ["λ = 1/(√2πd²n)", "λ = 1/(πd²n)", "λ = 1/(√2πd²)", "λ = πd²n/√2"],
+      "answer": 0
+    },
+    {
+      "question": "The collision frequency is:",
+      "options": ["Z = √2πd²v_avg n", "Z = πd²v_avg n", "Z = √2πd²v_avg", "Z = πd²v_avg"],
+      "answer": 0
+    },
+    {
+      "question": "The thermal conductivity of a gas is:",
+      "options": ["κ = (1/3)Cv v_avg λ", "κ = (1/3)Cp v_avg λ", "κ = (1/3)Cv v_rms λ", "κ = (1/3)Cp v_rms λ"],
+      "answer": 0
+    },
+    {
+      "question": "The diffusion coefficient is:",
+      "options": ["D = (1/3)v_avg λ", "D = (1/3)v_rms λ", "D = (1/3)v_avg", "D = (1/3)λ"],
+      "answer": 0
+    },
+    {
+      "question": "The viscosity of a gas is:",
+      "options": ["η = (1/3)ρ v_avg λ", "η = (1/3)ρ v_rms λ", "η = (1/3)v_avg λ", "η = (1/3)ρ λ"],
+      "answer": 0
+    },
+    {
+      "question": "The equation of state for an ideal gas is:",
+      "options": ["PV = nRT", "PV = mRT", "PV = NkT", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The universal gas constant R is:",
+      "options": ["8.314 J/mol·K", "8.314 cal/mol·K", "0.0821 L·atm/mol·K", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The Boltzmann constant k is:",
+      "options": ["1.38 × 10⁻²³ J/K", "1.38 × 10⁻²³ cal/K", "8.617 × 10⁻⁵ eV/K", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The relation between R and k is:",
+      "options": ["R = N_A k", "R = k/N_A", "R = N_A/k", "R = k × N_A"],
+      "answer": 3
+    },
+    {
+      "question": "The Avogadro number N_A is:",
+      "options": ["6.022 × 10²³ mol⁻¹", "6.022 × 10²³", "6.022 × 10²² mol⁻¹", "6.022 × 10²⁴ mol⁻¹"],
+      "answer": 0
+    },
+    {
+      "question": "The standard temperature and pressure (STP) are:",
+      "options": ["273.15 K, 1 atm", "298.15 K, 1 atm", "273.15 K, 1 bar", "298.15 K, 1 bar"],
+      "answer": 0
+    },
+    {
+      "question": "At STP, one mole of an ideal gas occupies:",
+      "options": ["22.414 L", "22.414 m³", "22.414 cm³", "22.414 mL"],
+      "answer": 0
+    },
+    {
+      "question": "The Dalton's law of partial pressures states:",
+      "options": ["P_total = Σ P_i", "P_total = P_i × x_i", "P_total = P_i/x_i", "P_total = 1/Σ P_i"],
+      "answer": 0
+    },
+    {
+      "question": "The Amagat's law of partial volumes states:",
+      "options": ["V_total = Σ V_i", "V_total = V_i × x_i", "V_total = V_i/x_i", "V_total = 1/Σ V_i"],
+      "answer": 0
+    },
+    {
+      "question": "The adiabatic index γ is also called:",
+      "options": ["Ratio of specific heats", "Poisson's ratio", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "For a reversible adiabatic process:",
+      "options": ["TV^(γ-1) = constant", "TP^(1-γ)/γ = constant", "PV^γ = constant", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The work done in a reversible adiabatic process is:",
+      "options": ["W = (P₁V₁ - P₂V₂)/(γ-1)", "W = (P₂V₂ - P₁V₁)/(γ-1)", "W = (P₁V₁ - P₂V₂)/γ", "W = (P₂V₂ - P₁V₁)/γ"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy of an isolated system:",
+      "options": ["Never decreases", "Never increases", "Always increases", "Always decreases"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy of the universe:",
+      "options": ["Always increases", "Always decreases", "Remains constant", "Oscillates"],
+      "answer": 0
+    },
+    {
+      "question": "The thermodynamic temperature scale is based on:",
+      "options": ["Carnot engine", "Ideal gas", "Water triple point", "Absolute zero"],
+      "answer": 0
+    },
+    {
+      "question": "The thermodynamic temperature is:",
+      "options": ["Proportional to heat in a reversible process", "Proportional to entropy", "Proportional to internal energy", "Proportional to enthalpy"],
+      "answer": 0
+    },
+    {
+      "question": "The heat engine efficiency is limited by:",
+      "options": ["Second law of thermodynamics", "First law of thermodynamics", "Zeroth law", "Third law"],
+      "answer": 0
+    },
+    {
+      "question": "A reversible heat engine operating between two reservoirs has efficiency:",
+      "options": ["Less than Carnot efficiency", "Equal to Carnot efficiency", "Greater than Carnot efficiency", "Independent of reservoirs"],
+      "answer": 1
+    },
+    {
+      "question": "An irreversible heat engine has efficiency:",
+      "options": ["Less than Carnot efficiency", "Equal to Carnot efficiency", "Greater than Carnot efficiency", "Independent of reservoirs"],
+      "answer": 0
+    },
+    {
+      "question": "The Clausius inequality is:",
+      "options": ["∮dQ/T ≤ 0", "∮dQ/T ≥ 0", "∮dQ/T = 0", "∮dQ/T > 0"],
+      "answer": 0
+    },
+    {
+      "question": "For a reversible cycle, ∮dQ/T = 0. This is:",
+      "options": ["Clausius theorem", "Kelvin theorem", "Carnot theorem", "Joule theorem"],
+      "answer": 0
+    },
+    {
+      "question": "The entropy production is:",
+      "options": ["Zero for reversible processes", "Positive for irreversible processes", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "The Onsager relations describe:",
+      "options": ["Coupling between different thermodynamic forces and fluxes", "Coupling between heat and work", "Coupling between entropy and temperature", "Coupling between pressure and volume"],
+      "answer": 0
+    },
+    {
+      "question": "The Onsager reciprocal relations state:",
+      "options": ["L_ij = L_ji", "L_ij = -L_ji", "L_ij = 1/L_ji", "L_ij = -1/L_ji"],
+      "answer": 0
+    },
+    {
+      "question": "The thermoelectric effects include:",
+      "options": ["Seebeck effect", "Peltier effect", "Thomson effect", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The Seebeck effect is:",
+      "options": ["Generation of voltage due to temperature difference", "Generation of heat due to electric current", "Temperature change due to electric current", "Generation of current due to temperature difference"],
+      "answer": 0
+    },
+    {
+      "question": "The Peltier effect is:",
+      "options": ["Generation of heat due to electric current", "Generation of voltage due to temperature difference", "Temperature change due to electric current", "Generation of current due to temperature difference"],
+      "answer": 0
+    },
+    {
+      "question": "The Thomson effect is:",
+      "options": ["Temperature change due to electric current in a uniform conductor", "Generation of voltage due to temperature difference", "Generation of heat due to electric current", "Generation of current due to temperature difference"],
+      "answer": 0
+    },
+    {
+      "question": "The Kelvin relations connect:",
+      "options": ["Thermoelectric coefficients", "Thermodynamic coefficients", "Transport coefficients", "None of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The thermocouple works on:",
+      "options": ["Seebeck effect", "Peltier effect", "Thomson effect", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The Peltier cooler works on:",
+      "options": ["Peltier effect", "Seebeck effect", "Thomson effect", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The Curie law is:",
+      "options": ["M = C H/T", "M = C T/H", "M = C/H T", "M = C H T"],
+      "answer": 0
+    },
+    {
+      "question": "The Curie temperature is:",
+      "options": ["The temperature above which ferromagnetism disappears", "The temperature below which ferromagnetism appears", "The temperature at which ferromagnetism is maximum", "The temperature at which ferromagnetism is minimum"],
+      "answer": 0
+    },
+    {
+      "question": "The paramagnetic susceptibility follows:",
+      "options": ["Curie law", "Curie-Weiss law", "Both A and B", "Neither A nor B"],
+      "answer": 0
+    },
+    {
+      "question": "The Curie-Weiss law is:",
+      "options": ["χ = C/(T - T_c)", "χ = C/(T + T_c)", "χ = C(T - T_c)", "χ = C(T + T_c)"],
+      "answer": 0
+    },
+    {
+      "question": "The thermodynamics of black hole is described by:",
+      "options": ["Hawking radiation", "Bekenstein-Hawking entropy", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "The black hole temperature is:",
+      "options": ["T = ℏc³/8πGMk_B", "T = ℏc³/8πGM", "T = ℏc³/8πG", "T = ℏc³/8πk_B"],
+      "answer": 0
+    },
+    {
+      "question": "The black hole entropy is:",
+      "options": ["S = k_B A/4Gℏ", "S = A/4Gℏ", "S = k_B A/4G", "S = A/4G"],
+      "answer": 0
+    },
+    {
+      "question": "The thermodynamic identity for a black hole is:",
+      "options": ["dM = T dS + Ω dJ + Φ dQ", "dM = T dS + P dV", "dM = T dS + F dV", "dM = T dS + E dV"],
+      "answer": 0
+    },
+    {
+      "question": "The Stefan-Boltzmann law states:",
+      "options": ["E = σT⁴", "E = σT²", "E = σT³", "E = σT"],
+      "answer": 0
+    },
+    {
+      "question": "The Stefan-Boltzmann constant σ is:",
+      "options": ["5.67 × 10⁻⁸ W/m²K⁴", "5.67 × 10⁻⁸ W/m²K²", "5.67 × 10⁻⁸ J/m²K⁴", "5.67 × 10⁻⁸ cal/m²K⁴"],
+      "answer": 0
+    },
+    {
+      "question": "The Wien's displacement law is:",
+      "options": ["λ_max T = b", "λ_max/T = b", "λ_max = bT", "λ_max = b/T"],
+      "answer": 0
+    },
+    {
+      "question": "The Wien's constant b is approximately:",
+      "options": ["2.9 × 10⁻³ m·K", "2.9 × 10⁻³ m/K", "2.9 × 10⁻³ K/m", "2.9 × 10⁻³ m·K²"],
+      "answer": 0
+    },
+    {
+      "question": "The Planck radiation law is:",
+      "options": ["E_λ = 2hc²/λ⁵ × 1/(e^{hc/λkT} - 1)", "E_λ = 2hc²/λ⁵ × 1/(e^{hc/λkT} + 1)", "E_λ = 2hc²/λ⁵ × 1/(e^{hc/λkT})", "E_λ = 2hc²/λ⁵ × (e^{hc/λkT} - 1)"],
+      "answer": 0
+    },
+    {
+      "question": "The Rayleigh-Jeans law is valid for:",
+      "options": ["Long wavelengths", "Short wavelengths", "All wavelengths", "No wavelengths"],
+      "answer": 0
+    },
+    {
+      "question": "The Wien's law is valid for:",
+      "options": ["Short wavelengths", "Long wavelengths", "All wavelengths", "No wavelengths"],
+      "answer": 0
+    },
+    {
+      "question": "The Planck law solved the:",
+      "options": ["Ultraviolet catastrophe", "Infrared catastrophe", "Visible catastrophe", "X-ray catastrophe"],
+      "answer": 0
+    },
+    {
+      "question": "The ultraviolet catastrophe was a problem in:",
+      "options": ["Classical physics", "Quantum physics", "Relativistic physics", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The radiation pressure is:",
+      "options": ["P = 4σT⁴/3c", "P = σT⁴/3c", "P = 4σT⁴/c", "P = σT⁴/c"],
+      "answer": 0
+    },
+    {
+      "question": "The energy density of blackbody radiation is:",
+      "options": ["u = 4σT⁴/c", "u = σT⁴/c", "u = 4σT⁴/c²", "u = σT⁴/c²"],
+      "answer": 0
+    },
+    {
+      "question": "The solar constant is:",
+      "options": ["1361 W/m²", "1361 W/cm²", "1361 cal/m²", "1361 J/m²"],
+      "answer": 0
+    },
+    {
+      "question": "The Earth's temperature without greenhouse effect would be:",
+      "options": ["-18°C", "15°C", "0°C", "30°C"],
+      "answer": 0
+    },
+    {
+      "question": "The greenhouse effect is due to:",
+      "options": ["Absorption of infrared radiation by atmospheric gases", "Absorption of ultraviolet radiation by atmospheric gases", "Absorption of visible radiation by atmospheric gases", "Absorption of X-ray radiation by atmospheric gases"],
+      "answer": 0
+    },
+    {
+      "question": "The global warming potential (GWP) measures:",
+      "options": ["The warming effect of greenhouse gases relative to CO₂", "The cooling effect of greenhouse gases", "The temperature increase", "The sea level rise"],
+      "answer": 0
+    },
+    {
+      "question": "The carbon footprint measures:",
+      "options": ["The total greenhouse gas emissions", "The carbon dioxide emissions only", "The methane emissions only", "The nitrous oxide emissions only"],
+      "answer": 0
+    },
+    {
+      "question": "The thermodynamic efficiency of a power plant is typically:",
+      "options": ["30-40%", "50-60%", "70-80%", "90-100%"],
+      "answer": 0
+    },
+    {
+      "question": "The combined cycle power plant has efficiency:",
+      "options": ["50-60%", "30-40%", "70-80%", "90-100%"],
+      "answer": 0
+    },
+    {
+      "question": "The fuel cell efficiency can be:",
+      "options": ["40-60%", "20-30%", "70-80%", "90-100%"],
+      "answer": 0
+    },
+    {
+      "question": "The Carnot efficiency of a power plant is limited by:",
+      "options": ["Source and sink temperatures", "Source temperature only", "Sink temperature only", "Pressure only"],
+      "answer": 0
+    },
+    {
+      "question": "The Rankine cycle is used in:",
+      "options": ["Steam power plants", "Gas turbines", "Refrigerators", "Heat pumps"],
+      "answer": 0
+    },
+    {
+      "question": "The Brayton cycle is used in:",
+      "options": ["Gas turbines", "Steam power plants", "Refrigerators", "Heat pumps"],
+      "answer": 0
+    },
+    {
+      "question": "The Otto cycle is used in:",
+      "options": ["Gasoline engines", "Diesel engines", "Steam engines", "Jet engines"],
+      "answer": 0
+    },
+    {
+      "question": "The Diesel cycle is used in:",
+      "options": ["Diesel engines", "Gasoline engines", "Steam engines", "Jet engines"],
+      "answer": 0
+    },
+    {
+      "question": "The Stirling cycle is:",
+      "options": ["A regenerative cycle", "A non-regenerative cycle", "A steam cycle", "A gas cycle"],
+      "answer": 0
+    },
+    {
+      "question": "The Ericsson cycle is:",
+      "options": ["A regenerative cycle", "A non-regenerative cycle", "A steam cycle", "A gas cycle"],
+      "answer": 0
+    },
+    {
+      "question": "The refrigeration cycle is:",
+      "options": ["Reverse of heat engine cycle", "Same as heat engine cycle", "Different from heat engine cycle", "Independent of heat engine cycle"],
+      "answer": 0
+    },
+    {
+      "question": "The vapor compression refrigeration cycle uses:",
+      "options": ["Compressor, condenser, expansion valve, evaporator", "Compressor, evaporator, condenser", "Compressor, expansion valve, condenser", "Evaporator, condenser, expansion valve"],
+      "answer": 0
+    },
+    {
+      "question": "The absorption refrigeration cycle uses:",
+      "options": ["Absorber, generator, condenser, evaporator", "Compressor, condenser, expansion valve, evaporator", "Absorber, compressor, condenser, evaporator", "Generator, compressor, condenser, evaporator"],
+      "answer": 0
+    },
+    {
+      "question": "The heat pump:",
+      "options": ["Transfers heat from cold to hot using work", "Transfers heat from hot to cold", "Produces work from heat", "Transforms heat to work"],
+      "answer": 0
+    },
+    {
+      "question": "The coefficient of performance of a heat pump is:",
+      "options": ["Usually > 1", "Usually < 1", "Usually = 1", "Can be any value"],
+      "answer": 0
+    },
+    {
+      "question": "The coefficient of performance of a refrigerator is:",
+      "options": ["Usually > 1", "Usually < 1", "Usually = 1", "Can be any value"],
+      "answer": 0
+    },
+    {
+      "question": "The exergy is:",
+      "options": ["The maximum useful work obtainable from a system", "The total energy of a system", "The entropy of a system", "The enthalpy of a system"],
+      "answer": 0
+    },
+    {
+      "question": "The exergy destruction is:",
+      "options": ["Due to irreversibilities", "Due to reversibilities", "Due to equilibrium", "Due to non-equilibrium"],
+      "answer": 0
+    },
+    {
+      "question": "The energy conservation is:",
+      "options": ["First law of thermodynamics", "Second law of thermodynamics", "Zeroth law", "Third law"],
+      "answer": 0
+    },
+    {
+      "question": "The energy quality is:",
+      "options": ["Decreased by entropy generation", "Increased by entropy generation", "Unaffected by entropy generation", "Inversely proportional to entropy"],
+      "answer": 0
+    },
+    {
+      "question": "The low-grade energy is:",
+      "options": ["Energy with high entropy", "Energy with low entropy", "Energy with zero entropy", "Energy with maximum entropy"],
+      "answer": 0
+    },
+    {
+      "question": "The high-grade energy is:",
+      "options": ["Energy with low entropy", "Energy with high entropy", "Energy with zero entropy", "Energy with maximum entropy"],
+      "answer": 0
+    },
+    {
+      "question": "The renewable energy sources include:",
+      "options": ["Solar, wind, hydro, geothermal", "Coal, oil, natural gas", "Nuclear, coal, oil", "Solar, nuclear, coal"],
+      "answer": 0
+    },
+    {
+      "question": "The non-renewable energy sources include:",
+      "options": ["Coal, oil, natural gas", "Solar, wind, hydro", "Geothermal, biomass", "Nuclear, hydro"],
+      "answer": 0
+    },
+    {
+      "question": "The solar thermal power plant uses:",
+      "options": ["Concentrated solar radiation to produce steam", "Photovoltaic cells", "Solar panels", "Solar cells"],
+      "answer": 0
+    },
+    {
+      "question": "The photovoltaic effect is:",
+      "options": ["Conversion of light to electricity", "Conversion of heat to electricity", "Conversion of light to heat", "Conversion of electricity to light"],
+      "answer": 0
+    },
+    {
+      "question": "The wind turbine converts:",
+      "options": ["Wind kinetic energy to electricity", "Wind potential energy to electricity", "Wind thermal energy to electricity", "Wind chemical energy to electricity"],
+      "answer": 0
+    },
+    {
+      "question": "The hydroelectric power converts:",
+      "options": ["Water potential energy to electricity", "Water kinetic energy to electricity", "Water thermal energy to electricity", "Water chemical energy to electricity"],
+      "answer": 0
+    },
+    {
+      "question": "The geothermal energy comes from:",
+      "options": ["Earth's internal heat", "Sun's energy", "Wind energy", "Ocean energy"],
+      "answer": 0
+    },
+    {
+      "question": "The ocean thermal energy conversion (OTEC) uses:",
+      "options": ["Temperature difference between surface and deep ocean water", "Wave energy", "Tidal energy", "Current energy"],
+      "answer": 0
+    },
+    {
+      "question": "The tidal energy uses:",
+      "options": ["Rise and fall of tides", "Ocean currents", "Wave motion", "Temperature difference"],
+      "answer": 0
+    },
+    {
+      "question": "The wave energy uses:",
+      "options": ["Ocean surface waves", "Tidal waves", "Tsunami waves", "Sound waves"],
+      "answer": 0
+    },
+    {
+      "question": "The biomass energy is from:",
+      "options": ["Organic matter", "Inorganic matter", "Fossil fuels", "Nuclear materials"],
+      "answer": 0
+    },
+    {
+      "question": "The biofuel is:",
+      "options": ["Fuel from biological sources", "Fuel from fossil sources", "Fuel from nuclear sources", "Fuel from mineral sources"],
+      "answer": 0
+    },
+    {
+      "question": "The hydrogen fuel cell produces:",
+      "options": ["Electricity from hydrogen and oxygen", "Heat from hydrogen and oxygen", "Light from hydrogen and oxygen", "Sound from hydrogen and oxygen"],
+      "answer": 0
+    },
+    {
+      "question": "The PEM fuel cell uses:",
+      "options": ["Proton exchange membrane", "Polymer electrolyte membrane", "Phosphoric acid", "Solid oxide"],
+      "answer": 0
+    },
+    {
+      "question": "The solid oxide fuel cell operates at:",
+      "options": ["High temperature (600-1000°C)", "Low temperature (50-100°C)", "Room temperature", "Cryogenic temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The energy storage systems include:",
+      "options": ["Batteries, pumped hydro, flywheels", "Batteries only", "Pumped hydro only", "Flywheels only"],
+      "answer": 0
+    },
+    {
+      "question": "The lithium-ion battery has:",
+      "options": ["High energy density", "Low energy density", "High power density", "Low power density"],
+      "answer": 0
+    },
+    {
+      "question": "The lead-acid battery has:",
+      "options": ["Low energy density", "High energy density", "High power density", "Low power density"],
+      "answer": 0
+    },
+    {
+      "question": "The pumped hydro storage uses:",
+      "options": ["Gravitational potential energy", "Kinetic energy", "Thermal energy", "Chemical energy"],
+      "answer": 0
+    },
+    {
+      "question": "The flywheel storage uses:",
+      "options": ["Rotational kinetic energy", "Potential energy", "Chemical energy", "Thermal energy"],
+      "answer": 0
+    },
+    {
+      "question": "The compressed air energy storage uses:",
+      "options": ["Compressed air in underground caverns", "Compressed gas in tanks", "Compressed liquid", "Compressed solid"],
+      "answer": 0
+    },
+    {
+      "question": "The superconducting magnetic energy storage uses:",
+      "options": ["Magnetic field in superconductors", "Electric field in capacitors", "Chemical energy in batteries", "Thermal energy in reservoirs"],
+      "answer": 0
+    },
+    {
+      "question": "The capacitor stores:",
+      "options": ["Energy in electric field", "Energy in magnetic field", "Energy in chemical form", "Energy in thermal form"],
+      "answer": 0
+    },
+    {
+      "question": "The inductor stores:",
+      "options": ["Energy in magnetic field", "Energy in electric field", "Energy in chemical form", "Energy in thermal form"],
+      "answer": 0
+    },
+    {
+      "question": "The thermodynamic efficiency of a battery is:",
+      "options": ["The ratio of output energy to input energy", "The ratio of input energy to output energy", "The ratio of power to energy", "The ratio of energy to power"],
+      "answer": 0
+    },
+    {
+      "question": "The round-trip efficiency of energy storage is:",
+      "options": ["The ratio of energy output to energy input", "The ratio of energy input to energy output", "The ratio of power to energy", "The ratio of energy to power"],
+      "answer": 0
+    },
+    {
+      "question": "The calorimetry is:",
+      "options": ["The measurement of heat", "The measurement of work", "The measurement of power", "The measurement of energy"],
+      "answer": 0
+    },
+    {
+      "question": "The bomb calorimeter measures:",
+      "options": ["Heat of combustion at constant volume", "Heat of combustion at constant pressure", "Heat of reaction at constant volume", "Heat of reaction at constant pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The coffee cup calorimeter measures:",
+      "options": ["Heat at constant pressure", "Heat at constant volume", "Heat of combustion", "Heat of vaporization"],
+      "answer": 0
+    },
+    {
+      "question": "The calorimeter constant is:",
+      "options": ["The heat capacity of the calorimeter", "The heat of the reaction", "The temperature change", "The mass of the sample"],
+      "answer": 0
+    },
+    {
+      "question": "The heat of combustion is:",
+      "options": ["The heat released when a substance burns", "The heat absorbed when a substance burns", "The heat released when a substance forms", "The heat absorbed when a substance forms"],
+      "answer": 0
+    },
+    {
+      "question": "The heat of formation is:",
+      "options": ["The heat released when a compound forms from elements", "The heat absorbed when a compound forms from elements", "The heat released when a compound burns", "The heat absorbed when a compound burns"],
+      "answer": 0
+    },
+    {
+      "question": "The Hess's law states:",
+      "options": ["The total enthalpy change is independent of the path", "The total enthalpy change depends on the path", "The total enthalpy change is zero", "The total enthalpy change is maximum"],
+      "answer": 0
+    },
+    {
+      "question": "The standard enthalpy of formation is:",
+      "options": ["The enthalpy change when 1 mole of compound is formed from elements in standard states", "The enthalpy change when 1 mole of compound is burned", "The enthalpy change when 1 mole of compound is vaporized", "The enthalpy change when 1 mole of compound is melted"],
+      "answer": 0
+    },
+    {
+      "question": "The standard enthalpy of combustion is:",
+      "options": ["The enthalpy change when 1 mole of substance is completely burned in oxygen", "The enthalpy change when 1 mole of substance is formed", "The enthalpy change when 1 mole of substance is vaporized", "The enthalpy change when 1 mole of substance is melted"],
+      "answer": 0
+    },
+    {
+      "question": "The bond energy is:",
+      "options": ["The energy required to break a bond", "The energy released when a bond is formed", "The energy required to break a bond per mole", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The enthalpy of a reaction is:",
+      "options": ["ΔH = ΣH_products - ΣH_reactants", "ΔH = ΣH_reactants - ΣH_products", "ΔH = ΣH_products + ΣH_reactants", "ΔH = ΣH_reactants × ΣH_products"],
+      "answer": 0
+    },
+    {
+      "question": "The exothermic reaction has:",
+      "options": ["ΔH < 0", "ΔH > 0", "ΔH = 0", "ΔH undefined"],
+      "answer": 0
+    },
+    {
+      "question": "The endothermic reaction has:",
+      "options": ["ΔH > 0", "ΔH < 0", "ΔH = 0", "ΔH undefined"],
+      "answer": 0
+    },
+    {
+      "question": "The thermochemical equation includes:",
+      "options": ["The enthalpy change", "The temperature", "The pressure", "The volume"],
+      "answer": 0
+    },
+    {
+      "question": "The lattice energy is:",
+      "options": ["The energy required to separate an ionic solid into gaseous ions", "The energy released when ionic solid forms", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "The Born-Haber cycle is used to determine:",
+      "options": ["Lattice energy", "Enthalpy of formation", "Enthalpy of reaction", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The hydration energy is:",
+      "options": ["The energy released when ions are hydrated", "The energy absorbed when ions are hydrated", "The energy required to hydrate ions", "The energy of the hydrated ion"],
+      "answer": 0
+    },
+    {
+      "question": "The solvent-solute interactions affect:",
+      "options": ["Heat of solution", "Heat of reaction", "Heat of combustion", "Heat of formation"],
+      "answer": 0
+    },
+    {
+      "question": "The heat of solution is:",
+      "options": ["The enthalpy change when a solute dissolves", "The enthalpy change when a solvent dissolves", "The enthalpy change when a solid melts", "The enthalpy change when a liquid vaporizes"],
+      "answer": 0
+    },
+    {
+      "question": "The integral heat of solution is:",
+      "options": ["The heat change for dissolving a definite amount of solute", "The heat change for dissolving an infinite amount", "The heat change for a specific temperature", "The heat change for a specific pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The differential heat of solution is:",
+      "options": ["The heat change per mole of solute added to a large solution", "The heat change for dissolving all the solute", "The heat change for a specific temperature", "The heat change for a specific pressure"],
+      "answer": 0
+    },
+    {
+      "question": "The heat of dilution is:",
+      "options": ["The heat change when a solution is diluted", "The heat change when a solution is concentrated", "The heat change when a solute dissolves", "The heat change when a solvent evaporates"],
+      "answer": 0
+    },
+    {
+      "question": "The thermodynamic stability is:",
+      "options": ["Stability based on Gibbs free energy", "Stability based on internal energy", "Stability based on enthalpy", "Stability based on entropy"],
+      "answer": 0
+    },
+    {
+      "question": "The kinetic stability is:",
+      "options": ["Stability based on reaction rates", "Stability based on Gibbs free energy", "Stability based on enthalpy", "Stability based on entropy"],
+      "answer": 0
+    },
+    {
+      "question": "The activation energy is:",
+      "options": ["The energy barrier that must be overcome for a reaction", "The energy released in a reaction", "The energy absorbed in a reaction", "The total energy of a reaction"],
+      "answer": 0
+    },
+    {
+      "question": "The Arrhenius equation is:",
+      "options": ["k = A e^{-E_a/RT}", "k = A e^{E_a/RT}", "k = A/RT e^{-E_a/RT}", "k = A RT e^{-E_a/RT}"],
+      "answer": 0
+    },
+    {
+      "question": "The transition state theory describes:",
+      "options": ["The rate of chemical reactions", "The equilibrium of chemical reactions", "The heat of chemical reactions", "The entropy of chemical reactions"],
+      "answer": 0
+    },
+    {
+      "question": "The thermodynamic equilibrium is:",
+      "options": ["State of minimum Gibbs free energy", "State of maximum Gibbs free energy", "State of zero Gibbs free energy", "State of constant Gibbs free energy"],
+      "answer": 0
+    },
+    {
+      "question": "The chemical equilibrium is:",
+      "options": ["Dynamic equilibrium", "Static equilibrium", "Thermal equilibrium", "Mechanical equilibrium"],
+      "answer": 0
+    },
+    {
+      "question": "The Le Chatelier's principle states:",
+      "options": ["System responds to stress by shifting equilibrium", "System does not respond to stress", "System always shifts to products", "System always shifts to reactants"],
+      "answer": 0
+    },
+    {
+      "question": "The effect of pressure on equilibrium:",
+      "options": ["Depends on the change in number of moles of gas", "Depends on temperature", "Depends on volume", "Independent of all factors"],
+      "answer": 0
+    },
+    {
+      "question": "The effect of temperature on equilibrium:",
+      "options": ["Depends on enthalpy change", "Depends on entropy change", "Depends on volume change", "Independent of all factors"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibbs-Duhem equation relates:",
+      "options": ["Chemical potentials of components in a solution", "Thermodynamic potentials", "Enthalpy and entropy", "Pressure and volume"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibbs-Duhem equation is:",
+      "options": ["Σ x_i dμ_i = 0", "Σ x_i dμ_i = 1", "Σ x_i dμ_i = -1", "Σ x_i dμ_i = constant"],
+      "answer": 0
+    },
+    {
+      "question": "The Duhem-Margules equation relates:",
+      "options": ["Partial pressures and compositions", "Chemical potentials and compositions", "Enthalpy and composition", "Entropy and composition"],
+      "answer": 0
+    },
+    {
+      "question": "The azeotrope is:",
+      "options": ["A mixture with constant boiling point", "A mixture with variable boiling point", "A mixture with constant composition", "A mixture with variable composition"],
+      "answer": 0
+    },
+    {
+      "question": "The minimum boiling azeotrope has:",
+      "options": ["Boiling point lower than components", "Boiling point higher than components", "Boiling point equal to components", "No boiling point"],
+      "answer": 0
+    },
+    {
+      "question": "The maximum boiling azeotrope has:",
+      "options": ["Boiling point higher than components", "Boiling point lower than components", "Boiling point equal to components", "No boiling point"],
+      "answer": 0
+    },
+    {
+      "question": "The liquid-vapor equilibrium is governed by:",
+      "options": ["Vapor pressure", "Temperature", "Composition", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The solid-liquid equilibrium is governed by:",
+      "options": ["Melting point", "Temperature", "Pressure", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The solid-vapor equilibrium is governed by:",
+      "options": ["Sublimation pressure", "Temperature", "Pressure", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The phase rule for a non-reactive system is:",
+      "options": ["F = C - P + 2", "F = C - P + 1", "F = C - P", "F = C - P + 3"],
+      "answer": 0
+    },
+    {
+      "question": "The phase rule for a reactive system with r independent reactions is:",
+      "options": ["F = C - P - r + 2", "F = C - P + r + 2", "F = C - P + 2", "F = C - P + r"],
+      "answer": 0
+    },
+    {
+      "question": "The condensed phase rule (at constant pressure) is:",
+      "options": ["F = C - P + 1", "F = C - P + 2", "F = C - P", "F = C - P + 3"],
+      "answer": 0
+    },
+    {
+      "question": "The two-component phase diagram can have:",
+      "options": ["Eutectic point", "Peritectic point", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "The eutectic point is:",
+      "options": ["The lowest melting point in a binary system", "The highest melting point in a binary system", "The temperature at which all components melt", "The temperature at which all components freeze"],
+      "answer": 0
+    },
+    {
+      "question": "The peritectic point is:",
+      "options": ["The point where a solid phase reacts with a liquid to form another solid", "The point where two solids melt", "The point where two liquids freeze", "The point where a solid and liquid coexist"],
+      "answer": 0
+    },
+    {
+      "question": "The lever rule is used to determine:",
+      "options": ["The amount of each phase in a two-phase region", "The composition of each phase", "The temperature of each phase", "The pressure of each phase"],
+      "answer": 0
+    },
+    {
+      "question": "The Gibbs free energy for a phase transition is:",
+      "options": ["ΔG = 0", "ΔG > 0", "ΔG < 0", "ΔG is undefined"],
+      "answer": 0
+    },
+    {
+      "question": "The first-order phase transition has:",
+      "options": ["Discontinuous first derivatives of G", "Continuous first derivatives of G", "Discontinuous second derivatives of G", "Continuous second derivatives of G"],
+      "answer": 0
+    },
+    {
+      "question": "The second-order phase transition has:",
+      "options": ["Continuous first derivatives but discontinuous second derivatives of G", "Discontinuous first derivatives of G", "Continuous all derivatives", "Discontinuous all derivatives"],
+      "answer": 0
+    },
+    {
+      "question": "The latent heat is:",
+      "options": ["Zero for second-order phase transitions", "Non-zero for first-order phase transitions", "Zero for first-order phase transitions", "Non-zero for second-order phase transitions"],
+      "answer": 2
+    },
+    {
+      "question": "The Ehrenfest classification of phase transitions is based on:",
+      "options": ["Derivatives of Gibbs free energy", "Entropy change", "Enthalpy change", "Volume change"],
+      "answer": 0
+    },
+    {
+      "question": "The critical exponents describe:",
+      "options": ["The behavior of thermodynamic quantities near critical point", "The behavior of thermodynamic quantities far from critical point", "The behavior of thermodynamic quantities at absolute zero", "The behavior of thermodynamic quantities at infinite temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The scaling laws relate:",
+      "options": ["Different critical exponents", "Different critical temperatures", "Different critical pressures", "Different critical volumes"],
+      "answer": 0
+    },
+    {
+      "question": "The universality classes describe:",
+      "options": ["Systems with same critical exponents", "Systems with same critical temperature", "Systems with same critical pressure", "Systems with same critical volume"],
+      "answer": 0
+    },
+    {
+      "question": "The Landau theory of phase transitions describes:",
+      "options": ["Phase transitions near critical point", "Phase transitions far from critical point", "All phase transitions", "No phase transitions"],
+      "answer": 0
+    },
+    {
+      "question": "The order parameter in Landau theory:",
+      "options": ["Is zero in the disordered phase and non-zero in the ordered phase", "Is zero in the ordered phase and non-zero in the disordered phase", "Is zero in all phases", "Is non-zero in all phases"],
+      "answer": 0
+    },
+    {
+      "question": "The mean field theory is:",
+      "options": ["An approximation for phase transitions", "An exact solution for phase transitions", "A numerical method", "An experimental method"],
+      "answer": 0
+    },
+    {
+      "question": "The fluctuations are:",
+      "options": ["Important near critical point", "Unimportant near critical point", "Important far from critical point", "Zero near critical point"],
+      "answer": 0
+    },
+    {
+      "question": "The Ginzburg criterion determines:",
+      "options": ["When fluctuations are important", "When fluctuations are unimportant", "When fluctuations are zero", "When fluctuations are infinite"],
+      "answer": 0
+    },
+    {
+      "question": "The upper critical dimension is:",
+      "options": ["The dimension above which mean field theory is valid", "The dimension below which mean field theory is valid", "The dimension where fluctuations are zero", "The dimension where fluctuations are infinite"],
+      "answer": 0
+    },
+    {
+      "question": "The renormalization group is:",
+      "options": ["A theory for critical phenomena", "A theory for ideal gases", "A theory for black holes", "A theory for quantum mechanics"],
+      "answer": 0
+    }
+  ]
+}

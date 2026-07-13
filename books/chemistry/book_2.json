@@ -1,0 +1,1146 @@
+{
+  "category": "Inorganic Chemistry",
+  "total_questions": 213,
+  "questions": [
+    {
+      "question": "The most abundant element in the Earth's crust is:",
+      "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a noble gas?",
+      "options": ["Helium", "Nitrogen", "Oxygen", "Hydrogen"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of sodium is:",
+      "options": ["11", "12", "13", "14"],
+      "answer": 0
+    },
+    {
+      "question": "Which element has the highest electronegativity?",
+      "options": ["Fluorine", "Oxygen", "Chlorine", "Nitrogen"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of caustic soda is:",
+      "options": ["NaOH", "KOH", "Ca(OH)2", "NH4OH"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an alkali metal?",
+      "options": ["Potassium", "Calcium", "Magnesium", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The color of chlorine gas is:",
+      "options": ["Greenish-yellow", "Colorless", "Red-brown", "Blue"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in water purification?",
+      "options": ["Chlorine", "Bromine", "Iodine", "Fluorine"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of common salt is:",
+      "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a transition metal?",
+      "options": ["Iron", "Sodium", "Calcium", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of iron is:",
+      "options": ["26", "27", "28", "29"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a lanthanide?",
+      "options": ["Cerium", "Uranium", "Thorium", "Plutonium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of gypsum is:",
+      "options": ["CaSO4.2H2O", "CaSO4.H2O", "CaSO4", "CaCO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a metalloid?",
+      "options": ["Silicon", "Carbon", "Lead", "Tin"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of copper is:",
+      "options": ["29", "30", "28", "27"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a halogen?",
+      "options": ["Bromine", "Sodium", "Magnesium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of bleaching powder is:",
+      "options": ["CaOCl2", "NaOCl", "CaCl2", "NaClO"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making glass?",
+      "options": ["SiO2", "CO2", "SO2", "NO2"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of zinc is:",
+      "options": ["30", "31", "32", "33"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a magnetic material?",
+      "options": ["Iron", "Copper", "Aluminum", "Silver"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of washing soda is:",
+      "options": ["Na2CO3.10H2O", "Na2CO3.H2O", "Na2CO3", "NaHCO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a radioactive element?",
+      "options": ["Uranium", "Lead", "Iron", "Copper"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of silver is:",
+      "options": ["47", "48", "49", "50"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a semiconductor?",
+      "options": ["Silicon", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of baking soda is:",
+      "options": ["NaHCO3", "Na2CO3", "NaOH", "NaCl"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a heavy metal?",
+      "options": ["Lead", "Sodium", "Magnesium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of gold is:",
+      "options": ["79", "80", "81", "82"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used as a catalyst?",
+      "options": ["Platinum", "Sodium", "Magnesium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of ammonia is:",
+      "options": ["NH3", "NH4", "NO2", "N2O"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an alkaline earth metal?",
+      "options": ["Calcium", "Sodium", "Potassium", "Lithium"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of mercury is:",
+      "options": ["80", "81", "82", "83"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a liquid metal?",
+      "options": ["Mercury", "Sodium", "Potassium", "Lithium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of sulfuric acid is:",
+      "options": ["H2SO4", "HCl", "HNO3", "H3PO4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a strong oxidizing agent?",
+      "options": ["KMnO4", "NaCl", "H2O", "CO2"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of platinum is:",
+      "options": ["78", "79", "80", "81"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a noble metal?",
+      "options": ["Gold", "Iron", "Copper", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of hydrochloric acid is:",
+      "options": ["HCl", "H2SO4", "HNO3", "H3PO4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in batteries?",
+      "options": ["Lithium", "Sodium", "Potassium", "Magnesium"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of cobalt is:",
+      "options": ["27", "28", "29", "30"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a component of steel?",
+      "options": ["Iron", "Copper", "Aluminum", "Silver"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of phosphoric acid is:",
+      "options": ["H3PO4", "H2SO4", "HCl", "HNO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a reducing agent?",
+      "options": ["Sodium", "Chlorine", "Oxygen", "Fluorine"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of chromium is:",
+      "options": ["24", "25", "26", "27"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making pigments?",
+      "options": ["Titanium dioxide", "NaCl", "KCl", "CaCO3"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of nitric acid is:",
+      "options": ["HNO3", "HCl", "H2SO4", "H3PO4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a p-block element?",
+      "options": ["Aluminum", "Sodium", "Potassium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of manganese is:",
+      "options": ["25", "26", "27", "28"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used as a fertilizer?",
+      "options": ["Ammonium nitrate", "NaCl", "KCl", "CaCO3"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of acetic acid is:",
+      "options": ["CH3COOH", "CH3OH", "CH3CHO", "CH3COCH3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an amphoteric oxide?",
+      "options": ["Al2O3", "Na2O", "K2O", "MgO"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of nickel is:",
+      "options": ["28", "29", "30", "31"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making alloys?",
+      "options": ["Copper", "Sodium", "Potassium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of carbonic acid is:",
+      "options": ["H2CO3", "HCl", "HNO3", "H2SO4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a basic oxide?",
+      "options": ["Na2O", "CO2", "SO2", "NO2"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of barium is:",
+      "options": ["56", "57", "58", "59"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making ceramics?",
+      "options": ["Kaolin", "NaCl", "KCl", "CaCO3"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of calcium carbonate is:",
+      "options": ["CaCO3", "CaO", "Ca(OH)2", "CaSO4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a chalcogen?",
+      "options": ["Oxygen", "Fluorine", "Chlorine", "Bromine"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of strontium is:",
+      "options": ["38", "39", "40", "41"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in fireworks?",
+      "options": ["Strontium", "Sodium", "Potassium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of magnesium sulfate is:",
+      "options": ["MgSO4", "MgCO3", "MgO", "Mg(OH)2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an f-block element?",
+      "options": ["Uranium", "Iron", "Copper", "Zinc"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of palladium is:",
+      "options": ["46", "47", "48", "49"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in catalytic converters?",
+      "options": ["Platinum", "Sodium", "Magnesium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of sodium sulfate is:",
+      "options": ["Na2SO4", "NaCl", "NaOH", "Na2CO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a diamagnetic material?",
+      "options": ["Bismuth", "Iron", "Cobalt", "Nickel"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of antimony is:",
+      "options": ["51", "52", "53", "54"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making semiconductors?",
+      "options": ["Germanium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of potassium permanganate is:",
+      "options": ["KMnO4", "KCl", "KOH", "K2CO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a strong acid?",
+      "options": ["HCl", "CH3COOH", "H2CO3", "H2S"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of tungsten is:",
+      "options": ["74", "75", "76", "77"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following has the highest melting point?",
+      "options": ["Tungsten", "Iron", "Copper", "Silver"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of sodium carbonate is:",
+      "options": ["Na2CO3", "NaCl", "NaOH", "NaHCO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a polar covalent compound?",
+      "options": ["HCl", "H2", "Cl2", "N2"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of bismuth is:",
+      "options": ["83", "84", "85", "86"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making matches?",
+      "options": ["Phosphorus", "Sodium", "Potassium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of potassium chloride is:",
+      "options": ["KCl", "KOH", "K2CO3", "KMnO4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a green house gas?",
+      "options": ["CO2", "O2", "N2", "Ar"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of thorium is:",
+      "options": ["90", "91", "92", "93"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in nuclear reactors?",
+      "options": ["Uranium", "Lead", "Iron", "Copper"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of calcium oxide is:",
+      "options": ["CaO", "CaCO3", "Ca(OH)2", "CaSO4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a hard water component?",
+      "options": ["Ca(HCO3)2", "NaCl", "KCl", "NaOH"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of cesium is:",
+      "options": ["55", "56", "57", "58"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a photosensitive material?",
+      "options": ["AgBr", "NaCl", "KCl", "CaCO3"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of sodium bicarbonate is:",
+      "options": ["NaHCO3", "Na2CO3", "NaOH", "NaCl"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making soap?",
+      "options": ["NaOH", "HCl", "H2SO4", "HNO3"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of lanthanum is:",
+      "options": ["57", "58", "59", "60"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a rare earth metal?",
+      "options": ["Neodymium", "Iron", "Copper", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of magnesium oxide is:",
+      "options": ["MgO", "MgCO3", "MgSO4", "Mg(OH)2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making toothpaste?",
+      "options": ["CaCO3", "NaCl", "KCl", "NaOH"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of scandium is:",
+      "options": ["21", "22", "23", "24"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making aircraft parts?",
+      "options": ["Aluminum", "Copper", "Iron", "Silver"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of zinc sulfate is:",
+      "options": ["ZnSO4", "ZnCO3", "ZnO", "Zn(OH)2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a weak acid?",
+      "options": ["CH3COOH", "HCl", "H2SO4", "HNO3"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of gallium is:",
+      "options": ["31", "32", "33", "34"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making LED lights?",
+      "options": ["Gallium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of copper sulfate is:",
+      "options": ["CuSO4", "CuCO3", "CuO", "Cu(OH)2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a blue vitriol?",
+      "options": ["CuSO4.5H2O", "FeSO4.7H2O", "ZnSO4.7H2O", "MgSO4.7H2O"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of germanium is:",
+      "options": ["32", "33", "34", "35"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making infrared detectors?",
+      "options": ["Germanium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of nickel sulfate is:",
+      "options": ["NiSO4", "NiCO3", "NiO", "Ni(OH)2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making magnets?",
+      "options": ["Nickel", "Copper", "Aluminum", "Silver"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of selenium is:",
+      "options": ["34", "35", "36", "37"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in photocells?",
+      "options": ["Selenium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of sodium chloride is:",
+      "options": ["NaCl", "Na2CO3", "NaOH", "NaHCO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making PVC?",
+      "options": ["Chlorine", "Bromine", "Iodine", "Fluorine"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of rubidium is:",
+      "options": ["37", "38", "39", "40"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making glass?",
+      "options": ["Sodium carbonate", "NaCl", "KCl", "CaCO3"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of potassium hydroxide is:",
+      "options": ["KOH", "KCl", "K2CO3", "KMnO4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a deliquescent substance?",
+      "options": ["NaOH", "NaCl", "KCl", "CaCO3"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of yttrium is:",
+      "options": ["39", "40", "41", "42"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making laser?",
+      "options": ["Yttrium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of ammonium chloride is:",
+      "options": ["NH4Cl", "NH4OH", "NH4NO3", "(NH4)2SO4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in dry cells?",
+      "options": ["NH4Cl", "NaCl", "KCl", "CaCl2"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of zirconium is:",
+      "options": ["40", "41", "42", "43"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in nuclear reactors?",
+      "options": ["Zirconium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of sodium hydroxide is:",
+      "options": ["NaOH", "NaCl", "Na2CO3", "NaHCO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making paper?",
+      "options": ["NaOH", "HCl", "H2SO4", "HNO3"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of niobium is:",
+      "options": ["41", "42", "43", "44"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making superconductors?",
+      "options": ["Niobium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of silver nitrate is:",
+      "options": ["AgNO3", "AgCl", "AgBr", "AgI"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making mirrors?",
+      "options": ["Silver", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of cadmium is:",
+      "options": ["48", "49", "50", "51"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making batteries?",
+      "options": ["Cadmium", "Sodium", "Potassium", "Magnesium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of calcium phosphate is:",
+      "options": ["Ca3(PO4)2", "CaCO3", "CaSO4", "Ca(OH)2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making fertilizer?",
+      "options": ["Calcium phosphate", "NaCl", "KCl", "NaOH"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of indium is:",
+      "options": ["49", "50", "51", "52"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making solar cells?",
+      "options": ["Indium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of tin oxide is:",
+      "options": ["SnO2", "SnO", "SnCl2", "SnCl4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making ceramics?",
+      "options": ["Tin oxide", "NaCl", "KCl", "CaCO3"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of tellurium is:",
+      "options": ["52", "53", "54", "55"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making thermoelectric devices?",
+      "options": ["Tellurium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of iodine is:",
+      "options": ["I2", "I", "I3", "I4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used as antiseptic?",
+      "options": ["Iodine", "Chlorine", "Bromine", "Fluorine"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of xenon is:",
+      "options": ["54", "55", "56", "57"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in flash lamps?",
+      "options": ["Xenon", "Argon", "Neon", "Krypton"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of cesium chloride is:",
+      "options": ["CsCl", "CsOH", "Cs2CO3", "CsNO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in atomic clocks?",
+      "options": ["Cesium", "Sodium", "Potassium", "Lithium"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of barium is:",
+      "options": ["56", "57", "58", "59"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making green fireworks?",
+      "options": ["Barium", "Sodium", "Potassium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of lanthanum oxide is:",
+      "options": ["La2O3", "LaO", "La2O", "LaO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making catalysts?",
+      "options": ["Lanthanum", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of cerium is:",
+      "options": ["58", "59", "60", "61"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making self-cleaning ovens?",
+      "options": ["Cerium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of praseodymium oxide is:",
+      "options": ["Pr2O3", "PrO", "Pr2O", "PrO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making magnets?",
+      "options": ["Praseodymium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of neodymium is:",
+      "options": ["60", "61", "62", "63"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making lasers?",
+      "options": ["Neodymium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of samarium oxide is:",
+      "options": ["Sm2O3", "SmO", "Sm2O", "SmO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making magnets?",
+      "options": ["Samarium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of europium is:",
+      "options": ["63", "64", "65", "66"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making red phosphors?",
+      "options": ["Europium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of gadolinium oxide is:",
+      "options": ["Gd2O3", "GdO", "Gd2O", "GdO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making MRI contrast agents?",
+      "options": ["Gadolinium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of terbium is:",
+      "options": ["65", "66", "67", "68"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making green phosphors?",
+      "options": ["Terbium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of dysprosium oxide is:",
+      "options": ["Dy2O3", "DyO", "Dy2O", "DyO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making magnets?",
+      "options": ["Dysprosium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of holmium is:",
+      "options": ["67", "68", "69", "70"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making lasers?",
+      "options": ["Holmium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of erbium oxide is:",
+      "options": ["Er2O3", "ErO", "Er2O", "ErO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making pink glass?",
+      "options": ["Erbium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of thulium is:",
+      "options": ["69", "70", "71", "72"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making X-ray sources?",
+      "options": ["Thulium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of ytterbium oxide is:",
+      "options": ["Yb2O3", "YbO", "Yb2O", "YbO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making lasers?",
+      "options": ["Ytterbium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of lutetium is:",
+      "options": ["71", "72", "73", "74"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making catalysts?",
+      "options": ["Lutetium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of hafnium oxide is:",
+      "options": ["HfO2", "HfO", "Hf2O", "HfO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making ceramics?",
+      "options": ["Hafnium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of tantalum is:",
+      "options": ["73", "74", "75", "76"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making capacitors?",
+      "options": ["Tantalum", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of rhenium oxide is:",
+      "options": ["Re2O7", "ReO2", "ReO3", "Re2O3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making catalysts?",
+      "options": ["Rhenium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of osmium is:",
+      "options": ["76", "77", "78", "79"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the densest metal?",
+      "options": ["Osmium", "Gold", "Platinum", "Tungsten"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of iridium oxide is:",
+      "options": ["IrO2", "IrO", "Ir2O", "IrO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making spark plugs?",
+      "options": ["Iridium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of platinum is:",
+      "options": ["78", "79", "80", "81"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used as a catalyst in automobiles?",
+      "options": ["Platinum", "Sodium", "Potassium", "Calcium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of gold chloride is:",
+      "options": ["AuCl3", "AuCl", "AuCl2", "AuCl4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making jewelry?",
+      "options": ["Gold", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of mercury is:",
+      "options": ["80", "81", "82", "83"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making thermometers?",
+      "options": ["Mercury", "Sodium", "Potassium", "Lithium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of thallium oxide is:",
+      "options": ["Tl2O3", "TlO", "Tl2O", "TlO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making low-melting alloys?",
+      "options": ["Thallium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of lead is:",
+      "options": ["82", "83", "84", "85"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making batteries?",
+      "options": ["Lead", "Sodium", "Potassium", "Magnesium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of bismuth oxide is:",
+      "options": ["Bi2O3", "BiO", "Bi2O", "BiO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making cosmetics?",
+      "options": ["Bismuth", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of polonium is:",
+      "options": ["84", "85", "86", "87"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a radioactive element?",
+      "options": ["Polonium", "Lead", "Iron", "Copper"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of radon is:",
+      "options": ["Rn", "Ra", "Rd", "R"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a radioactive noble gas?",
+      "options": ["Radon", "Xenon", "Krypton", "Argon"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of francium is:",
+      "options": ["87", "88", "89", "90"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the most electropositive element?",
+      "options": ["Francium", "Sodium", "Potassium", "Lithium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of radium chloride is:",
+      "options": ["RaCl2", "RaCl", "RaCl3", "RaCl4"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in cancer treatment?",
+      "options": ["Radium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of actinium is:",
+      "options": ["89", "90", "91", "92"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a radioactive element?",
+      "options": ["Actinium", "Lead", "Iron", "Copper"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of thorium oxide is:",
+      "options": ["ThO2", "ThO", "Th2O", "ThO3"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in making gas mantles?",
+      "options": ["Thorium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of protactinium is:",
+      "options": ["91", "92", "93", "94"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a radioactive element?",
+      "options": ["Protactinium", "Lead", "Iron", "Copper"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of uranium oxide is:",
+      "options": ["UO2", "UO3", "U2O3", "U3O8"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used as nuclear fuel?",
+      "options": ["Uranium", "Lead", "Iron", "Copper"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of neptunium is:",
+      "options": ["93", "94", "95", "96"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a transuranic element?",
+      "options": ["Neptunium", "Uranium", "Thorium", "Actinium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of plutonium oxide is:",
+      "options": ["PuO2", "PuO", "Pu2O3", "Pu3O8"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in nuclear weapons?",
+      "options": ["Plutonium", "Lead", "Iron", "Copper"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of americium is:",
+      "options": ["95", "96", "97", "98"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in smoke detectors?",
+      "options": ["Americium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of curium oxide is:",
+      "options": ["Cm2O3", "CmO", "Cm2O", "CmO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a radioactive element?",
+      "options": ["Curium", "Lead", "Iron", "Copper"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of berkelium is:",
+      "options": ["97", "98", "99", "100"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a transuranic element?",
+      "options": ["Berkelium", "Uranium", "Thorium", "Actinium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of californium oxide is:",
+      "options": ["Cf2O3", "CfO", "Cf2O", "CfO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used in neutron detection?",
+      "options": ["Californium", "Copper", "Iron", "Aluminum"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of einsteinium is:",
+      "options": ["99", "100", "101", "102"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a synthetic element?",
+      "options": ["Einsteinium", "Uranium", "Thorium", "Actinium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of fermium oxide is:",
+      "options": ["Fm2O3", "FmO", "Fm2O", "FmO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a synthetic element?",
+      "options": ["Fermium", "Uranium", "Thorium", "Actinium"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of mendelevium is:",
+      "options": ["101", "102", "103", "104"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a synthetic element?",
+      "options": ["Mendelevium", "Uranium", "Thorium", "Actinium"],
+      "answer": 0
+    },
+    {
+      "question": "The formula of nobelium oxide is:",
+      "options": ["No2O3", "NoO", "No2O", "NoO2"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a synthetic element?",
+      "options": ["Nobelium", "Uranium", "Thorium", "Actinium"],
+      "answer": 0
+    },
+    {
+      "question": "The atomic number of lawrencium is:",
+      "options": ["103", "104", "105", "106"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a synthetic element?",
+      "options": ["Lawrencium", "Uranium", "Thorium", "Actinium"],
+      "answer": 0
+    }
+  ]
+}

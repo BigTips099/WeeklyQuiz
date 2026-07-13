@@ -1,0 +1,861 @@
+{
+  "category": "Sampling Methods",
+  "total_questions": 170,
+  "questions": [
+    {
+      "question": "The process of selecting a sample from a population is called:",
+      "options": ["Sampling", "Census", "Survey", "Experimentation"],
+      "answer": 0
+    },
+    {
+      "question": "A complete enumeration of all items in a population is called:",
+      "options": ["Sample", "Census", "Survey", "Experiment"],
+      "answer": 1
+    },
+    {
+      "question": "A subset of a population selected for study is called:",
+      "options": ["Parameter", "Statistic", "Sample", "Census"],
+      "answer": 2
+    },
+    {
+      "question": "A numerical characteristic of a population is called:",
+      "options": ["Statistic", "Parameter", "Sample", "Variable"],
+      "answer": 1
+    },
+    {
+      "question": "A numerical characteristic of a sample is called:",
+      "options": ["Parameter", "Statistic", "Population", "Variable"],
+      "answer": 1
+    },
+    {
+      "question": "The list of all sampling units in a population is called:",
+      "options": ["Sampling frame", "Sample list", "Population list", "Data frame"],
+      "answer": 0
+    },
+    {
+      "question": "In probability sampling, each unit has:",
+      "options": ["Known probability of selection", "Unknown probability of selection", "Zero probability", "Equal probability"],
+      "answer": 0
+    },
+    {
+      "question": "In non-probability sampling, each unit has:",
+      "options": ["Unknown probability of selection", "Known probability of selection", "Equal probability", "Zero probability"],
+      "answer": 0
+    },
+    {
+      "question": "Simple random sampling is a type of:",
+      "options": ["Probability sampling", "Non-probability sampling", "Quota sampling", "Convenience sampling"],
+      "answer": 0
+    },
+    {
+      "question": "Convenience sampling is a type of:",
+      "options": ["Non-probability sampling", "Probability sampling", "Stratified sampling", "Cluster sampling"],
+      "answer": 0
+    },
+    {
+      "question": "In simple random sampling with replacement, a unit can be selected:",
+      "options": ["More than once", "Only once", "Never", "Always"],
+      "answer": 0
+    },
+    {
+      "question": "In simple random sampling without replacement, a unit can be selected:",
+      "options": ["Only once", "More than once", "Never", "Always"],
+      "answer": 0
+    },
+    {
+      "question": "The number of possible samples of size n from N units with replacement is:",
+      "options": ["N^n", "n^N", "N", "n"],
+      "answer": 0
+    },
+    {
+      "question": "The number of possible samples of size n from N units without replacement is:",
+      "options": ["NCn", "N^n", "n^N", "N"],
+      "answer": 0
+    },
+    {
+      "question": "In stratified sampling, the population is divided into:",
+      "options": ["Strata", "Clusters", "Stages", "Phases"],
+      "answer": 0
+    },
+    {
+      "question": "In cluster sampling, the population is divided into:",
+      "options": ["Clusters", "Strata", "Stages", "Phases"],
+      "answer": 0
+    },
+    {
+      "question": "In systematic sampling, we select every:",
+      "options": ["kth unit", "nth unit", "Nth unit", "random unit"],
+      "answer": 0
+    },
+    {
+      "question": "The sampling interval in systematic sampling is:",
+      "options": ["N/n", "n/N", "N", "n"],
+      "answer": 0
+    },
+    {
+      "question": "The starting point in systematic sampling is chosen:",
+      "options": ["Randomly", "Systematically", "Deliberately", "Conveniently"],
+      "answer": 0
+    },
+    {
+      "question": "Quota sampling is a type of:",
+      "options": ["Non-probability sampling", "Probability sampling", "Stratified sampling", "Cluster sampling"],
+      "answer": 0
+    },
+    {
+      "question": "Purposive sampling is also called:",
+      "options": ["Judgment sampling", "Random sampling", "Systematic sampling", "Stratified sampling"],
+      "answer": 0
+    },
+    {
+      "question": "Snowball sampling is used when:",
+      "options": ["Population is hard to reach", "Population is easy to reach", "Population is small", "Population is large"],
+      "answer": 0
+    },
+    {
+      "question": "The sampling error is the difference between:",
+      "options": ["Sample and population values", "Two sample values", "Two population values", "Sample and sample values"],
+      "answer": 0
+    },
+    {
+      "question": "The standard error is the standard deviation of:",
+      "options": ["Sampling distribution", "Population distribution", "Sample distribution", "Error distribution"],
+      "answer": 0
+    },
+    {
+      "question": "As sample size increases, the standard error:",
+      "options": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "question": "The finite population correction factor is used when:",
+      "options": ["Sample is large relative to population", "Sample is small relative to population", "Population is infinite", "Population is unknown"],
+      "answer": 0
+    },
+    {
+      "question": "The finite population correction factor is:",
+      "options": ["√((N-n)/(N-1))", "√((N+n)/(N-1))", "√((N-n)/N)", "√((N+n)/N)"],
+      "answer": 0
+    },
+    {
+      "question": "The variance of sample mean in SRSWOR is:",
+      "options": ["(S²/n)(N-n)/(N-1)", "S²/n", "S²/(n-1)", "S²/(N-1)"],
+      "answer": 0
+    },
+    {
+      "question": "The variance of sample mean in SRSWR is:",
+      "options": ["S²/n", "(S²/n)(N-n)/(N-1)", "S²/(n-1)", "S²/(N-1)"],
+      "answer": 0
+    },
+    {
+      "question": "The sample size required for estimating mean with given precision is:",
+      "options": ["n = (z²σ²)/E²", "n = (zσ²)/E²", "n = (z²σ)/E²", "n = (z²σ²)/E"],
+      "answer": 0
+    },
+    {
+      "question": "The sample size required for estimating proportion with given precision is:",
+      "options": ["n = (z²pq)/E²", "n = (zpq)/E²", "n = (z²p)/E²", "n = (z²q)/E²"],
+      "answer": 0
+    },
+    {
+      "question": "In stratified sampling, the allocation of sample size to strata can be:",
+      "options": ["Proportional", "Equal", "Optimal", "All of these"],
+      "answer": 3
+    },
+    {
+      "question": "In proportional allocation, sample size in each stratum is:",
+      "options": ["n × (N_h/N)", "n × (N/N_h)", "n_h = n", "n_h = N_h"],
+      "answer": 0
+    },
+    {
+      "question": "In Neyman allocation, the sample size is proportional to:",
+      "options": ["N_h × S_h", "N_h", "S_h", "N_h/S_h"],
+      "answer": 0
+    },
+    {
+      "question": "The variance of sample mean in stratified sampling with proportional allocation is:",
+      "options": ["Σ(W_h S_h²)/n", "Σ(W_h² S_h²)/n", "Σ(W_h S_h)/n", "Σ(S_h²)/n"],
+      "answer": 0
+    },
+    {
+      "question": "Cluster sampling is more efficient when:",
+      "options": ["Clusters are heterogeneous", "Clusters are homogeneous", "Clusters are equal", "Clusters are unequal"],
+      "answer": 0
+    },
+    {
+      "question": "Stratified sampling is more efficient when:",
+      "options": ["Strata are homogeneous", "Strata are heterogeneous", "Strata are equal", "Strata are unequal"],
+      "answer": 0
+    },
+    {
+      "question": "The intra-class correlation in cluster sampling measures:",
+      "options": ["Homogeneity within clusters", "Heterogeneity within clusters", "Variability between clusters", "Variability within clusters"],
+      "answer": 0
+    },
+    {
+      "question": "The design effect in cluster sampling is:",
+      "options": ["Ratio of variances", "Difference of variances", "Product of variances", "Sum of variances"],
+      "answer": 0
+    },
+    {
+      "question": "The effective sample size is:",
+      "options": ["n/DEFF", "n × DEFF", "n + DEFF", "n - DEFF"],
+      "answer": 0
+    },
+    {
+      "question": "Two-stage sampling involves:",
+      "options": ["Two levels of selection", "One level of selection", "Three levels of selection", "Four levels of selection"],
+      "answer": 0
+    },
+    {
+      "question": "Multi-stage sampling involves:",
+      "options": ["More than two stages", "Two stages", "One stage", "No stages"],
+      "answer": 0
+    },
+    {
+      "question": "The probability proportional to size sampling uses:",
+      "options": ["Selection probability proportional to size", "Equal selection probability", "Fixed selection probability", "Random selection probability"],
+      "answer": 0
+    },
+    {
+      "question": "The cumulative sum method is used in:",
+      "options": ["PPS sampling", "Simple random sampling", "Systematic sampling", "Stratified sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The Lahiri method is used for:",
+      "options": ["PPS sampling", "Simple random sampling", "Systematic sampling", "Stratified sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The ratio estimator is used when:",
+      "options": ["Auxiliary information is available", "No auxiliary information is available", "Population is small", "Population is large"],
+      "answer": 0
+    },
+    {
+      "question": "The regression estimator is used when:",
+      "options": ["Auxiliary information is available", "No auxiliary information is available", "Population is small", "Population is large"],
+      "answer": 0
+    },
+    {
+      "question": "The difference estimator is used when:",
+      "options": ["Auxiliary information is available", "No auxiliary information is available", "Population is small", "Population is large"],
+      "answer": 0
+    },
+    {
+      "question": "The ratio estimator is biased when:",
+      "options": ["Sample is small", "Sample is large", "Population is small", "Population is large"],
+      "answer": 0
+    },
+    {
+      "question": "The ratio estimator is consistent when:",
+      "options": ["Sample size increases", "Sample size decreases", "Population size increases", "Population size decreases"],
+      "answer": 0
+    },
+    {
+      "question": "The variance of ratio estimator is approximately:",
+      "options": ["(1/n)(1/n)Σ(y_i - Rx_i)²", "(1/n)Σ(y_i - Rx_i)²", "Σ(y_i - Rx_i)²", "(1/n²)Σ(y_i - Rx_i)²"],
+      "answer": 0
+    },
+    {
+      "question": "The regression estimator is more efficient than ratio estimator when:",
+      "options": ["Correlation is low", "Correlation is high", "Correlation is zero", "Correlation is negative"],
+      "answer": 0
+    },
+    {
+      "question": "The combined ratio estimator is used in:",
+      "options": ["Stratified sampling", "Cluster sampling", "Systematic sampling", "Simple random sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The separate ratio estimator is used in:",
+      "options": ["Stratified sampling", "Cluster sampling", "Systematic sampling", "Simple random sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The combined regression estimator is used in:",
+      "options": ["Stratified sampling", "Cluster sampling", "Systematic sampling", "Simple random sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The separate regression estimator is used in:",
+      "options": ["Stratified sampling", "Cluster sampling", "Systematic sampling", "Simple random sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The jackknife method is used for:",
+      "options": ["Variance estimation", "Mean estimation", "Proportion estimation", "Ratio estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The bootstrap method is used for:",
+      "options": ["Variance estimation", "Mean estimation", "Proportion estimation", "Ratio estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The balanced repeated replication is used for:",
+      "options": ["Variance estimation", "Mean estimation", "Proportion estimation", "Ratio estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The half-sample replication is used for:",
+      "options": ["Variance estimation", "Mean estimation", "Proportion estimation", "Ratio estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The Taylor series linearization is used for:",
+      "options": ["Variance estimation", "Mean estimation", "Proportion estimation", "Ratio estimation"],
+      "answer": 0
+    },
+    {
+      "question": "The generalized variance function is used for:",
+      "options": ["Variance estimation", "Mean estimation", "Proportion estimation", "Ratio estimation"],
+      "answer": 0
+    },
+    {
+      "question": "Non-response error occurs when:",
+      "options": ["Some units do not respond", "All units respond", "Units respond incorrectly", "Units respond completely"],
+      "answer": 0
+    },
+    {
+      "question": "Coverage error occurs when:",
+      "options": ["Some units are not in sampling frame", "All units are in sampling frame", "Units respond incorrectly", "Units do not respond"],
+      "answer": 0
+    },
+    {
+      "question": "Measurement error occurs when:",
+      "options": ["Responses are incorrect", "Responses are correct", "Responses are incomplete", "Responses are missing"],
+      "answer": 0
+    },
+    {
+      "question": "Processing error occurs when:",
+      "options": ["Data entry is incorrect", "Data entry is correct", "Data entry is complete", "Data entry is missing"],
+      "answer": 0
+    },
+    {
+      "question": "The non-response bias occurs when:",
+      "options": ["Respondents differ from non-respondents", "Respondents are similar to non-respondents", "All respond", "No one responds"],
+      "answer": 0
+    },
+    {
+      "question": "The unit non-response occurs when:",
+      "options": ["Entire unit does not respond", "Part of unit does not respond", "All units respond", "No units respond"],
+      "answer": 0
+    },
+    {
+      "question": "The item non-response occurs when:",
+      "options": ["Some questions are not answered", "All questions are answered", "Entire unit does not respond", "All units respond"],
+      "answer": 0
+    },
+    {
+      "question": "Imputation is used to handle:",
+      "options": ["Missing data", "Complete data", "Incorrect data", "Unavailable data"],
+      "answer": 0
+    },
+    {
+      "question": "The hot deck imputation uses:",
+      "options": ["Similar observed units", "Random values", "Mean values", "Median values"],
+      "answer": 0
+    },
+    {
+      "question": "The cold deck imputation uses:",
+      "options": ["External sources", "Similar observed units", "Random values", "Mean values"],
+      "answer": 0
+    },
+    {
+      "question": "The mean imputation replaces missing values with:",
+      "options": ["Mean of observed values", "Median of observed values", "Mode of observed values", "Random values"],
+      "answer": 0
+    },
+    {
+      "question": "The regression imputation uses:",
+      "options": ["Regression model", "Mean values", "Median values", "Random values"],
+      "answer": 0
+    },
+    {
+      "question": "The multiple imputation creates:",
+      "options": ["Multiple completed datasets", "Single completed dataset", "No completed dataset", "Random completed dataset"],
+      "answer": 0
+    },
+    {
+      "question": "The stochastic imputation includes:",
+      "options": ["Random component", "No random component", "Only deterministic component", "No component"],
+      "answer": 0
+    },
+    {
+      "question": "The calibration weighting adjusts for:",
+      "options": ["Non-response", "Measurement error", "Coverage error", "Processing error"],
+      "answer": 0
+    },
+    {
+      "question": "The post-stratification adjusts for:",
+      "options": ["Non-response", "Measurement error", "Coverage error", "Processing error"],
+      "answer": 0
+    },
+    {
+      "question": "The raking ratio estimation adjusts for:",
+      "options": ["Multiple variables simultaneously", "Single variable", "No variable", "All variables"],
+      "answer": 0
+    },
+    {
+      "question": "The generalized regression estimator adjusts for:",
+      "options": ["Auxiliary variables", "No auxiliary variables", "Population variables", "Sample variables"],
+      "answer": 0
+    },
+    {
+      "question": "The balanced panel survey involves:",
+      "options": ["Same units over time", "Different units over time", "Random units over time", "No units over time"],
+      "answer": 0
+    },
+    {
+      "question": "The rotating panel survey involves:",
+      "options": ["Replacing some units each wave", "Same units each wave", "Different units each wave", "No units each wave"],
+      "answer": 0
+    },
+    {
+      "question": "The split panel survey involves:",
+      "options": ["Dividing panel into subsamples", "Same units over time", "Different units over time", "Random units over time"],
+      "answer": 0
+    },
+    {
+      "question": "The longitudinal survey follows:",
+      "options": ["Same units over time", "Different units over time", "Random units over time", "No units over time"],
+      "answer": 0
+    },
+    {
+      "question": "The cross-sectional survey collects data:",
+      "options": ["At one point in time", "Over multiple points in time", "Over years", "Over decades"],
+      "answer": 0
+    },
+    {
+      "question": "The repeated cross-sectional survey collects data:",
+      "options": ["From different samples each time", "From same sample each time", "From random samples each time", "From no samples each time"],
+      "answer": 0
+    },
+    {
+      "question": "The census is a:",
+      "options": ["Complete enumeration", "Partial enumeration", "Random enumeration", "Systematic enumeration"],
+      "answer": 0
+    },
+    {
+      "question": "The population census is conducted:",
+      "options": ["Every 10 years", "Every year", "Every 5 years", "Every 20 years"],
+      "answer": 0
+    },
+    {
+      "question": "The housing census collects data about:",
+      "options": ["Housing units", "People only", "Businesses only", "Schools only"],
+      "answer": 0
+    },
+    {
+      "question": "The economic census collects data about:",
+      "options": ["Businesses", "People", "Housing", "Education"],
+      "answer": 0
+    },
+    {
+      "question": "The agricultural census collects data about:",
+      "options": ["Farms", "Businesses", "People", "Housing"],
+      "answer": 0
+    },
+    {
+      "question": "The labor force survey measures:",
+      "options": ["Employment status", "Income levels", "Education levels", "Health status"],
+      "answer": 0
+    },
+    {
+      "question": "The current population survey measures:",
+      "options": ["Employment statistics", "Population size", "Income statistics", "Education statistics"],
+      "answer": 0
+    },
+    {
+      "question": "The national health interview survey measures:",
+      "options": ["Health status", "Employment status", "Income status", "Education status"],
+      "answer": 0
+    },
+    {
+      "question": "The national crime victimization survey measures:",
+      "options": ["Crime rates", "Health status", "Employment status", "Income status"],
+      "answer": 0
+    },
+    {
+      "question": "The survey of consumer finances measures:",
+      "options": ["Consumer finances", "Health status", "Employment status", "Education status"],
+      "answer": 0
+    },
+    {
+      "question": "The American community survey collects data:",
+      "options": ["Continuously", "Annually", "Decennially", "Biannually"],
+      "answer": 0
+    },
+    {
+      "question": "The master sampling frame is a:",
+      "options": ["List of all sampling units", "List of some sampling units", "List of selected units", "List of excluded units"],
+      "answer": 0
+    },
+    {
+      "question": "The area sampling frame uses:",
+      "options": ["Geographic areas", "People", "Businesses", "Housing"],
+      "answer": 0
+    },
+    {
+      "question": "The list sampling frame uses:",
+      "options": ["Lists of units", "Geographic areas", "People", "Businesses"],
+      "answer": 0
+    },
+    {
+      "question": "The dual frame sampling uses:",
+      "options": ["Two sampling frames", "One sampling frame", "Three sampling frames", "Four sampling frames"],
+      "answer": 0
+    },
+    {
+      "question": "The multiple frame sampling uses:",
+      "options": ["More than one sampling frame", "One sampling frame", "Two sampling frames", "No sampling frame"],
+      "answer": 0
+    },
+    {
+      "question": "The screening survey is used to:",
+      "options": ["Identify target population", "Collect main data", "Analyze data", "Report data"],
+      "answer": 0
+    },
+    {
+      "question": "The pilot survey is conducted to:",
+      "options": ["Test survey procedures", "Collect main data", "Analyze data", "Report data"],
+      "answer": 0
+    },
+    {
+      "question": "The pre-test is conducted to:",
+      "options": ["Test survey questions", "Collect main data", "Analyze data", "Report data"],
+      "answer": 0
+    },
+    {
+      "question": "The cognitive interview is used to:",
+      "options": ["Understand respondent thought process", "Collect main data", "Analyze data", "Report data"],
+      "answer": 0
+    },
+    {
+      "question": "The behavioral coding is used to:",
+      "options": ["Analyze interview interactions", "Understand respondent thought process", "Collect main data", "Report data"],
+      "answer": 0
+    },
+    {
+      "question": "The paradata in surveys includes:",
+      "options": ["Process data", "Survey data", "Auxiliary data", "Population data"],
+      "answer": 0
+    },
+    {
+      "question": "The responsive design in surveys:",
+      "options": ["Adapts based on data", "Stays fixed", "Changes randomly", "Adapts based on time"],
+      "answer": 0
+    },
+    {
+      "question": "The adaptive design in surveys:",
+      "options": ["Adapts based on data", "Stays fixed", "Changes randomly", "Adapts based on time"],
+      "answer": 0
+    },
+    {
+      "question": "The sequential design in surveys:",
+      "options": ["Data collection in stages", "One-time data collection", "Random data collection", "Continuous data collection"],
+      "answer": 0
+    },
+    {
+      "question": "The quota sampling involves:",
+      "options": ["Setting quotas for subgroups", "Random selection", "Systematic selection", "Convenience selection"],
+      "answer": 0
+    },
+    {
+      "question": "The voluntary response sampling involves:",
+      "options": ["Volunteers", "Random selection", "Systematic selection", "Stratified selection"],
+      "answer": 0
+    },
+    {
+      "question": "The purposive sampling selects:",
+      "options": ["Units with specific purpose", "Random units", "Systematic units", "Convenient units"],
+      "answer": 0
+    },
+    {
+      "question": "The expert sampling selects:",
+      "options": ["Experts", "Random units", "Systematic units", "Convenient units"],
+      "answer": 0
+    },
+    {
+      "question": "The snowball sampling starts with:",
+      "options": ["Initial subjects who refer others", "Random subjects", "Systematic subjects", "Stratified subjects"],
+      "answer": 0
+    },
+    {
+      "question": "The chain referral sampling is:",
+      "options": ["Snowball sampling", "Random sampling", "Systematic sampling", "Stratified sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The key informant sampling selects:",
+      "options": ["Key informants", "Random units", "Systematic units", "Convenient units"],
+      "answer": 0
+    },
+    {
+      "question": "The deviant case sampling selects:",
+      "options": ["Unusual cases", "Typical cases", "Random cases", "Systematic cases"],
+      "answer": 0
+    },
+    {
+      "question": "The extreme case sampling selects:",
+      "options": ["Extreme cases", "Typical cases", "Random cases", "Systematic cases"],
+      "answer": 0
+    },
+    {
+      "question": "The typical case sampling selects:",
+      "options": ["Typical cases", "Extreme cases", "Random cases", "Systematic cases"],
+      "answer": 0
+    },
+    {
+      "question": "The maximum variation sampling selects:",
+      "options": ["Maximum variation", "Minimum variation", "Random variation", "Systematic variation"],
+      "answer": 0
+    },
+    {
+      "question": "The homogeneous sampling selects:",
+      "options": ["Homogeneous cases", "Heterogeneous cases", "Random cases", "Systematic cases"],
+      "answer": 0
+    },
+    {
+      "question": "The critical case sampling selects:",
+      "options": ["Critical cases", "Typical cases", "Random cases", "Systematic cases"],
+      "answer": 0
+    },
+    {
+      "question": "The intensity sampling selects:",
+      "options": ["Intense but not extreme cases", "Extreme cases", "Typical cases", "Random cases"],
+      "answer": 0
+    },
+    {
+      "question": "The criterion sampling selects:",
+      "options": ["Cases meeting criteria", "Random cases", "Systematic cases", "Convenient cases"],
+      "answer": 0
+    },
+    {
+      "question": "The confirming/disconfirming sampling selects:",
+      "options": ["Cases confirming or disconfirming", "Random cases", "Systematic cases", "Convenient cases"],
+      "answer": 0
+    },
+    {
+      "question": "The stratified purposeful sampling:",
+      "options": ["Combines stratification and purpose", "Only stratification", "Only purpose", "Neither stratification nor purpose"],
+      "answer": 0
+    },
+    {
+      "question": "The parallel sampling in qualitative research:",
+      "options": ["Multiple samples simultaneously", "Single sample", "Sequential samples", "Random samples"],
+      "answer": 0
+    },
+    {
+      "question": "The sequential sampling in qualitative research:",
+      "options": ["Samples in sequence", "Multiple samples simultaneously", "Single sample", "Random sample"],
+      "answer": 0
+    },
+    {
+      "question": "The theoretical sampling is used in:",
+      "options": ["Grounded theory", "Random sampling", "Systematic sampling", "Stratified sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The saturation in qualitative sampling means:",
+      "options": ["No new information emerges", "New information emerges", "Data is complete", "Data is incomplete"],
+      "answer": 0
+    },
+    {
+      "question": "The data saturation is reached when:",
+      "options": ["Additional data adds no new insights", "Additional data adds new insights", "Data is complete", "Data is incomplete"],
+      "answer": 0
+    },
+    {
+      "question": "The theoretical saturation is reached when:",
+      "options": ["Category is fully developed", "Category is partially developed", "No category is developed", "Data is complete"],
+      "answer": 0
+    },
+    {
+      "question": "The purposive sampling is also called:",
+      "options": ["Judgment sampling", "Random sampling", "Systematic sampling", "Stratified sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The availability sampling is also called:",
+      "options": ["Convenience sampling", "Random sampling", "Systematic sampling", "Stratified sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The sampling distribution is the distribution of:",
+      "options": ["Sample statistic", "Population parameter", "Sample data", "Population data"],
+      "answer": 0
+    },
+    {
+      "question": "The sampling distribution of sample mean is normal when:",
+      "options": ["Sample size is large", "Sample size is small", "Population is normal", "Population is skewed"],
+      "answer": 0
+    },
+    {
+      "question": "The central limit theorem applies to:",
+      "options": ["Large samples", "Small samples", "All samples", "No samples"],
+      "answer": 0
+    },
+    {
+      "question": "The standard error of sample proportion is:",
+      "options": ["√(p(1-p)/n)", "p(1-p)/n", "√(p(1-p))", "p/n"],
+      "answer": 0
+    },
+    {
+      "question": "The standard error of difference between two means is:",
+      "options": ["√(σ₁²/n₁ + σ₂²/n₂)", "σ₁²/n₁ + σ₂²/n₂", "√(σ₁² + σ₂²)", "σ₁ + σ₂"],
+      "answer": 0
+    },
+    {
+      "question": "The standard error of difference between two proportions is:",
+      "options": ["√(p₁q₁/n₁ + p₂q₂/n₂)", "p₁q₁/n₁ + p₂q₂/n₂", "√(p₁q₁ + p₂q₂)", "p₁q₁ + p₂q₂"],
+      "answer": 0
+    },
+    {
+      "question": "The pooled estimate of proportion is:",
+      "options": ["(x₁+x₂)/(n₁+n₂)", "(x₁/n₁ + x₂/n₂)/2", "(x₁+x₂)/(n₁)", "(x₁+x₂)/(n₂)"],
+      "answer": 0
+    },
+    {
+      "question": "The standard error of sample mean from finite population is:",
+      "options": ["(σ/√n)√((N-n)/(N-1))", "σ/√n", "σ/√(n-1)", "σ/(N-n)"],
+      "answer": 0
+    },
+    {
+      "question": "The standard error of sample proportion from finite population is:",
+      "options": ["√(pq/n)√((N-n)/(N-1))", "√(pq/n)", "√(pq/(n-1))", "√(pq/(N-n))"],
+      "answer": 0
+    },
+    {
+      "question": "The coefficient of variation of sample mean is:",
+      "options": ["Standard error / mean", "Standard deviation / mean", "Variance / mean", "Mean / standard error"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence interval for population mean is:",
+      "options": ["x̄ ± z(S.E.)", "x̄ ± z(σ)", "x̄ ± z(S.D.)", "x̄ ± z(Var)"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence interval for population proportion is:",
+      "options": ["p̂ ± z√(p̂q̂/n)", "p̂ ± z(p̂q̂)", "p̂ ± z√(pq)", "p̂ ± z(pq)"],
+      "answer": 0
+    },
+    {
+      "question": "The sample size for estimating mean with desired precision is:",
+      "options": ["n = (z²σ²)/E²", "n = (zσ²)/E²", "n = (z²σ)/E²", "n = (z²σ²)/E"],
+      "answer": 0
+    },
+    {
+      "question": "The sample size for estimating proportion with desired precision is:",
+      "options": ["n = (z²pq)/E²", "n = (zpq)/E²", "n = (z²p)/E²", "n = (z²q)/E²"],
+      "answer": 0
+    },
+    {
+      "question": "The sample size for estimating mean when population size is known is:",
+      "options": ["n = n₀/(1+n₀/N)", "n = n₀(1+n₀/N)", "n = n₀/(1-n₀/N)", "n = n₀(1-n₀/N)"],
+      "answer": 0
+    },
+    {
+      "question": "The sample size for estimating proportion when population size is known is:",
+      "options": ["n = n₀/(1+n₀/N)", "n = n₀(1+n₀/N)", "n = n₀/(1-n₀/N)", "n = n₀(1-n₀/N)"],
+      "answer": 0
+    },
+    {
+      "question": "The minimum sample size required for a survey is:",
+      "options": ["Determined by objectives and resources", "Always 30", "Always 100", "Always 1000"],
+      "answer": 0
+    },
+    {
+      "question": "The power analysis is used to determine:",
+      "options": ["Sample size", "Population size", "Effect size", "Significance level"],
+      "answer": 0
+    },
+    {
+      "question": "The effect size in power analysis is:",
+      "options": ["Magnitude of effect", "Significance of effect", "Direction of effect", "Probability of effect"],
+      "answer": 0
+    },
+    {
+      "question": "The significance level in power analysis is:",
+      "options": ["α", "β", "1-α", "1-β"],
+      "answer": 0
+    },
+    {
+      "question": "The power of a test depends on:",
+      "options": ["Sample size, effect size, α", "Sample size only", "Effect size only", "α only"],
+      "answer": 0
+    },
+    {
+      "question": "The stratified random sampling ensures:",
+      "options": ["Representation of all groups", "Representation of some groups", "No representation of groups", "Random representation"],
+      "answer": 0
+    },
+    {
+      "question": "The cluster sampling is less precise than simple random sampling when:",
+      "options": ["Clusters are homogeneous", "Clusters are heterogeneous", "Clusters are equal", "Clusters are unequal"],
+      "answer": 0
+    },
+    {
+      "question": "The systematic sampling can be biased when:",
+      "options": ["There is periodicity", "There is no periodicity", "Population is random", "Population is small"],
+      "answer": 0
+    },
+    {
+      "question": "The random number table is used in:",
+      "options": ["Simple random sampling", "Systematic sampling", "Stratified sampling", "Cluster sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The computer-generated random numbers are used in:",
+      "options": ["Simple random sampling", "Systematic sampling", "Stratified sampling", "Cluster sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The probability proportional to size sampling is used when:",
+      "options": ["Population units have different sizes", "Population units have equal sizes", "Population is small", "Population is large"],
+      "answer": 0
+    },
+    {
+      "question": "The double sampling involves:",
+      "options": ["Two-phase sampling", "Two-stage sampling", "Two-strata sampling", "Two-cluster sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The two-phase sampling is also called:",
+      "options": ["Double sampling", "Two-stage sampling", "Two-strata sampling", "Two-cluster sampling"],
+      "answer": 0
+    },
+    {
+      "question": "The adaptive cluster sampling uses:",
+      "options": ["Adaptive selection based on observations", "Fixed selection", "Random selection", "Systematic selection"],
+      "answer": 0
+    },
+    {
+      "question": "The network sampling uses:",
+      "options": ["Social networks", "Random networks", "Systematic networks", "Stratified networks"],
+      "answer": 0
+    },
+    {
+      "question": "The respondent-driven sampling is used for:",
+      "options": ["Hidden populations", "General populations", "Small populations", "Large populations"],
+      "answer": 0
+    },
+    {
+      "question": "The time-location sampling is used for:",
+      "options": ["Hard-to-reach populations", "Easy-to-reach populations", "General populations", "Small populations"],
+      "answer": 0
+    },
+    {
+      "question": "The ethnographic sampling is used in:",
+      "options": ["Qualitative research", "Quantitative research", "Experimental research", "Descriptive research"],
+      "answer": 0
+    },
+    {
+      "question": "The purposeful random sampling is used in:",
+      "options": ["Qualitative research", "Quantitative research", "Experimental research", "Descriptive research"],
+      "answer": 0
+    }
+  ]
+}

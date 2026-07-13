@@ -1,0 +1,1246 @@
+{
+  "category": "Optics",
+  "total_questions": 248,
+  "questions": [
+    {
+      "question": "The branch of physics that deals with the behavior and properties of light is called:",
+      "options": ["Optics", "Mechanics", "Thermodynamics", "Electromagnetism"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of light in vacuum is approximately:",
+      "options": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10¹⁰ m/s", "3 × 10⁴ m/s"],
+      "answer": 0
+    },
+    {
+      "question": "The speed of light in a medium is:",
+      "options": ["Less than speed in vacuum", "Greater than speed in vacuum", "Equal to speed in vacuum", "Zero"],
+      "answer": 0
+    },
+    {
+      "question": "The refractive index of a medium is defined as:",
+      "options": ["n = c/v", "n = v/c", "n = c/v²", "n = v²/c"],
+      "answer": 0
+    },
+    {
+      "question": "Snell's law relates:",
+      "options": ["Angle of incidence and angle of refraction", "Angle of incidence and angle of reflection", "Angle of refraction and angle of reflection", "Incident and reflected rays"],
+      "answer": 0
+    },
+    {
+      "question": "Snell's law is given by:",
+      "options": ["n₁ sin θ₁ = n₂ sin θ₂", "n₁ cos θ₁ = n₂ cos θ₂", "n₁ tan θ₁ = n₂ tan θ₂", "n₁ sec θ₁ = n₂ sec θ₂"],
+      "answer": 0
+    },
+    {
+      "question": "The law of reflection states that:",
+      "options": ["Angle of incidence equals angle of reflection", "Angle of incidence equals angle of refraction", "Angle of reflection equals angle of refraction", "All angles are equal"],
+      "answer": 0
+    },
+    {
+      "question": "The critical angle is given by:",
+      "options": ["sin θ_c = n₂/n₁", "sin θ_c = n₁/n₂", "tan θ_c = n₂/n₁", "cos θ_c = n₂/n₁"],
+      "answer": 0
+    },
+    {
+      "question": "Total internal reflection occurs when:",
+      "options": ["Angle of incidence > critical angle", "Angle of incidence < critical angle", "Angle of incidence = critical angle", "Angle of incidence = 90°"],
+      "answer": 0
+    },
+    {
+      "question": "The Brewster angle is given by:",
+      "options": ["tan θ_B = n₂/n₁", "tan θ_B = n₁/n₂", "sin θ_B = n₂/n₁", "cos θ_B = n₂/n₁"],
+      "answer": 0
+    },
+    {
+      "question": "At Brewster angle, the reflected light is:",
+      "options": ["Completely polarized", "Unpolarized", "Circularly polarized", "Elliptically polarized"],
+      "answer": 0
+    },
+    {
+      "question": "The principle of superposition states:",
+      "options": ["When two waves overlap, the resultant displacement is the sum of individual displacements", "When two waves overlap, the resultant displacement is the difference of individual displacements", "When two waves overlap, they cancel each other", "When two waves overlap, they form a standing wave"],
+      "answer": 0
+    },
+    {
+      "question": "Interference is the:",
+      "options": ["Superposition of two or more waves", "Bending of waves around obstacles", "Change in direction of waves", "Absorption of waves"],
+      "answer": 0
+    },
+    {
+      "question": "Constructive interference occurs when path difference is:",
+      "options": ["mλ", "(2m+1)λ/2", "mλ/2", "(2m+1)λ"],
+      "answer": 0
+    },
+    {
+      "question": "Destructive interference occurs when path difference is:",
+      "options": ["(2m+1)λ/2", "mλ", "mλ/2", "(2m+1)λ"],
+      "answer": 0
+    },
+    {
+      "question": "Young's double-slit experiment demonstrates:",
+      "options": ["Interference of light", "Diffraction of light", "Polarization of light", "Refraction of light"],
+      "answer": 0
+    },
+    {
+      "question": "In Young's double-slit experiment, fringe width is:",
+      "options": ["β = λD/d", "β = dD/λ", "β = λD/d²", "β = λD²/d"],
+      "answer": 0
+    },
+    {
+      "question": "The intensity of interference fringes is:",
+      "options": ["I = I₀ cos²(πd sinθ/λ)", "I = I₀ sin²(πd sinθ/λ)", "I = I₀ cos(πd sinθ/λ)", "I = I₀ sin(πd sinθ/λ)"],
+      "answer": 0
+    },
+    {
+      "question": "Thin film interference is due to:",
+      "options": ["Reflection from both surfaces of a thin film", "Refraction through a thin film", "Diffraction by a thin film", "Polarization by a thin film"],
+      "answer": 0
+    },
+    {
+      "question": "Newton's rings are due to:",
+      "options": ["Interference in thin air film", "Diffraction of light", "Polarization of light", "Refraction of light"],
+      "answer": 0
+    },
+    {
+      "question": "In Newton's rings, the diameter of dark rings is proportional to:",
+      "options": ["√n", "n", "n²", "1/√n"],
+      "answer": 0
+    },
+    {
+      "question": "Diffraction is the:",
+      "options": ["Bending of waves around obstacles", "Superposition of waves", "Change in direction of waves", "Absorption of waves"],
+      "answer": 0
+    },
+    {
+      "question": "In single-slit diffraction, the minima occur at:",
+      "options": ["a sinθ = mλ", "a sinθ = (2m+1)λ/2", "a sinθ = mλ/2", "a sinθ = (2m+1)λ"],
+      "answer": 0
+    },
+    {
+      "question": "In single-slit diffraction, the maxima occur at:",
+      "options": ["a sinθ = (2m+1)λ/2", "a sinθ = mλ", "a sinθ = mλ/2", "a sinθ = (2m+1)λ"],
+      "answer": 0
+    },
+    {
+      "question": "The width of central maximum in single-slit diffraction is:",
+      "options": ["2λD/a", "λD/a", "λD/2a", "2λa/D"],
+      "answer": 0
+    },
+    {
+      "question": "In a diffraction grating, the condition for maxima is:",
+      "options": ["d sinθ = mλ", "d sinθ = (2m+1)λ/2", "d sinθ = mλ/2", "d sinθ = (2m+1)λ"],
+      "answer": 0
+    },
+    {
+      "question": "The resolving power of a grating is:",
+      "options": ["R = λ/Δλ = mN", "R = λ/Δλ = N/m", "R = λ/Δλ = m/N", "R = λ/Δλ = m²N"],
+      "answer": 0
+    },
+    {
+      "question": "The resolving power of a microscope is:",
+      "options": ["R = 2NA/λ", "R = λ/2NA", "R = 2NA×λ", "R = 2λ/NA"],
+      "answer": 0
+    },
+    {
+      "question": "The resolving power of a telescope is:",
+      "options": ["R = a/1.22λ", "R = 1.22λ/a", "R = 1.22a/λ", "R = λ/1.22a"],
+      "answer": 0
+    },
+    {
+      "question": "Rayleigh criterion states that two points are resolved when:",
+      "options": ["The central maximum of one falls on the first minimum of the other", "The central maxima coincide", "The first minima coincide", "The maxima are separated by the fringe width"],
+      "answer": 0
+    },
+    {
+      "question": "Polarization of light refers to:",
+      "options": ["The orientation of electric field oscillations", "The direction of propagation", "The intensity of light", "The color of light"],
+      "answer": 0
+    },
+    {
+      "question": "Unpolarized light has:",
+      "options": ["Electric field oscillating in all directions perpendicular to propagation", "Electric field in one direction", "Electric field in two directions", "Electric field parallel to propagation"],
+      "answer": 0
+    },
+    {
+      "question": "Linearly polarized light has:",
+      "options": ["Electric field in one direction", "Electric field in all directions", "Electric field in a circle", "Electric field in an ellipse"],
+      "answer": 0
+    },
+    {
+      "question": "Circularly polarized light has:",
+      "options": ["Electric field rotating in a circle", "Electric field in one direction", "Electric field in all directions", "Electric field in an ellipse"],
+      "answer": 0
+    },
+    {
+      "question": "Elliptically polarized light has:",
+      "options": ["Electric field rotating in an ellipse", "Electric field in a circle", "Electric field in one direction", "Electric field in all directions"],
+      "answer": 0
+    },
+    {
+      "question": "A polarizer:",
+      "options": ["Transmits light with electric field in a specific direction", "Transmits all light", "Absorbs all light", "Reflects all light"],
+      "answer": 0
+    },
+    {
+      "question": "Malus's law gives the intensity of transmitted light through a polarizer:",
+      "options": ["I = I₀ cos²θ", "I = I₀ sin²θ", "I = I₀ cosθ", "I = I₀ sinθ"],
+      "answer": 0
+    },
+    {
+      "question": "The intensity of transmitted light through two polarizers at angle θ is:",
+      "options": ["I = I₀ cos²θ", "I = I₀ sin²θ", "I = I₀/2 cos²θ", "I = I₀/2 sin²θ"],
+      "answer": 0
+    },
+    {
+      "question": "Optical activity is the:",
+      "options": ["Rotation of plane of polarization", "Absorption of light", "Reflection of light", "Scattering of light"],
+      "answer": 0
+    },
+    {
+      "question": "Specific rotation is given by:",
+      "options": ["[α] = α/lc", "[α] = lc/α", "[α] = αl/c", "[α] = αc/l"],
+      "answer": 0
+    },
+    {
+      "question": "A polarimeter is used to measure:",
+      "options": ["Optical rotation", "Refractive index", "Absorption", "Reflection"],
+      "answer": 0
+    },
+    {
+      "question": "Circular birefringence is the:",
+      "options": ["Difference in refractive indices for right and left circularly polarized light", "Difference in refractive indices for two linear polarizations", "Difference in absorption for two polarizations", "Difference in speed for two polarizations"],
+      "answer": 0
+    },
+    {
+      "question": "The dispersion of light is:",
+      "options": ["The splitting of light into its component colors", "The bending of light", "The reflection of light", "The absorption of light"],
+      "answer": 0
+    },
+    {
+      "question": "Dispersion occurs because:",
+      "options": ["Refractive index depends on wavelength", "Speed of light depends on wavelength", "Both A and B", "Neither A nor B"],
+      "answer": 2
+    },
+    {
+      "question": "Normal dispersion is when:",
+      "options": ["Refractive index decreases with increasing wavelength", "Refractive index increases with increasing wavelength", "Refractive index is independent of wavelength", "Refractive index oscillates with wavelength"],
+      "answer": 0
+    },
+    {
+      "question": "Anomalous dispersion is when:",
+      "options": ["Refractive index increases with increasing wavelength", "Refractive index decreases with increasing wavelength", "Refractive index is independent of wavelength", "Refractive index oscillates with wavelength"],
+      "answer": 0
+    },
+    {
+      "question": "The dispersion formula is given by:",
+      "options": ["n = A + B/λ² + C/λ⁴ + ...", "n = A + Bλ² + Cλ⁴ + ...", "n = A + B/λ + C/λ² + ...", "n = A + Bλ + Cλ² + ..."],
+      "answer": 0
+    },
+    {
+      "question": "The Cauchy formula is:",
+      "options": ["n = A + B/λ² + C/λ⁴", "n = A + Bλ² + Cλ⁴", "n = A + B/λ + C/λ²", "n = A + Bλ + Cλ²"],
+      "answer": 0
+    },
+    {
+      "question": "The Sellmeier equation is:",
+      "options": ["n² = 1 + Σ A_i λ²/(λ² - λ_i²)", "n² = 1 + Σ A_i/(λ² - λ_i²)", "n = 1 + Σ A_i λ²/(λ² - λ_i²)", "n = 1 + Σ A_i/(λ² - λ_i²)"],
+      "answer": 0
+    },
+    {
+      "question": "The prism is used to:",
+      "options": ["Disperse light", "Reflect light", "Transmit light", "Absorb light"],
+      "answer": 0
+    },
+    {
+      "question": "The angle of minimum deviation for a prism is related to:",
+      "options": ["Refractive index", "Prism angle", "Wavelength", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The relation between refractive index and minimum deviation is:",
+      "options": ["n = sin((A+δ_m)/2)/sin(A/2)", "n = sin(A/2)/sin((A+δ_m)/2)", "n = cos((A+δ_m)/2)/cos(A/2)", "n = cos(A/2)/cos((A+δ_m)/2)"],
+      "answer": 0
+    },
+    {
+      "question": "The spectroscope uses a:",
+      "options": ["Prism or grating to disperse light", "Mirror to reflect light", "Lens to focus light", "Filter to absorb light"],
+      "answer": 0
+    },
+    {
+      "question": "The spectrometer is used to measure:",
+      "options": ["Wavelength of light", "Intensity of light", "Polarization of light", "Speed of light"],
+      "answer": 0
+    },
+    {
+      "question": "The Michelson interferometer is used to measure:",
+      "options": ["Wavelength of light", "Refractive index", "Thickness of thin films", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "In Michelson interferometer, the fringe shift is:",
+      "options": ["ΔN = 2d/λ", "ΔN = d/λ", "ΔN = 2λ/d", "ΔN = λ/d"],
+      "answer": 0
+    },
+    {
+      "question": "The Fabry-Pérot interferometer consists of:",
+      "options": ["Two parallel partially reflecting mirrors", "Two perpendicular mirrors", "One mirror and one lens", "Two lenses"],
+      "answer": 0
+    },
+    {
+      "question": "The Fabry-Pérot interferometer has:",
+      "options": ["High resolving power", "Low resolving power", "No resolving power", "Variable resolving power"],
+      "answer": 0
+    },
+    {
+      "question": "The free spectral range of Fabry-Pérot interferometer is:",
+      "options": ["Δλ = λ²/2nd", "Δλ = 2nd/λ²", "Δλ = λ/2nd", "Δλ = 2nd/λ"],
+      "answer": 0
+    },
+    {
+      "question": "The finesse of Fabry-Pérot interferometer is:",
+      "options": ["F = π√R/(1-R)", "F = (1-R)/π√R", "F = π(1-R)/√R", "F = √R/π(1-R)"],
+      "answer": 0
+    },
+    {
+      "question": "The Mach-Zehnder interferometer is used in:",
+      "options": ["Optical communication", "Astronomy", "Microscopy", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The holography is based on:",
+      "options": ["Interference and diffraction", "Reflection and refraction", "Polarization and dispersion", "Absorption and emission"],
+      "answer": 0
+    },
+    {
+      "question": "A hologram records:",
+      "options": ["Amplitude and phase of light", "Only amplitude of light", "Only phase of light", "Intensity of light"],
+      "answer": 0
+    },
+    {
+      "question": "A lens is a device that:",
+      "options": ["Focuses or diverges light", "Reflects light", "Absorbs light", "Scatters light"],
+      "answer": 0
+    },
+    {
+      "question": "A converging lens has:",
+      "options": ["Positive focal length", "Negative focal length", "Zero focal length", "Infinite focal length"],
+      "answer": 0
+    },
+    {
+      "question": "A diverging lens has:",
+      "options": ["Negative focal length", "Positive focal length", "Zero focal length", "Infinite focal length"],
+      "answer": 0
+    },
+    {
+      "question": "The lens maker's formula is:",
+      "options": ["1/f = (μ-1)(1/R₁ - 1/R₂)", "1/f = (μ-1)(1/R₁ + 1/R₂)", "1/f = (μ+1)(1/R₁ - 1/R₂)", "1/f = (μ+1)(1/R₁ + 1/R₂)"],
+      "answer": 0
+    },
+    {
+      "question": "The thin lens formula is:",
+      "options": ["1/v - 1/u = 1/f", "1/v + 1/u = 1/f", "v - u = f", "v + u = f"],
+      "answer": 0
+    },
+    {
+      "question": "The magnification of a lens is:",
+      "options": ["m = -v/u", "m = v/u", "m = -u/v", "m = u/v"],
+      "answer": 0
+    },
+    {
+      "question": "The power of a lens is:",
+      "options": ["P = 1/f (in meters)", "P = f (in meters)", "P = 1/f (in cm)", "P = f (in cm)"],
+      "answer": 0
+    },
+    {
+      "question": "The SI unit of lens power is:",
+      "options": ["Dioptre", "Meter", "Diopter", "Both A and C"],
+      "answer": 3
+    },
+    {
+      "question": "A compound microscope has:",
+      "options": ["Two converging lenses", "One converging and one diverging lens", "Two diverging lenses", "One lens"],
+      "answer": 0
+    },
+    {
+      "question": "The magnification of a compound microscope is:",
+      "options": ["m = m₀ × mₑ", "m = m₀ + mₑ", "m = m₀ - mₑ", "m = m₀/mₑ"],
+      "answer": 0
+    },
+    {
+      "question": "The telescope is used to:",
+      "options": ["View distant objects", "View small objects", "Disperse light", "Polarize light"],
+      "answer": 0
+    },
+    {
+      "question": "The magnification of a telescope is:",
+      "options": ["m = f₀/fₑ", "m = fₑ/f₀", "m = f₀ + fₑ", "m = f₀ - fₑ"],
+      "answer": 0
+    },
+    {
+      "question": "A camera lens has:",
+      "options": ["Variable focal length", "Fixed focal length", "Zero focal length", "Infinite focal length"],
+      "answer": 0
+    },
+    {
+      "question": "The aperture of a lens controls:",
+      "options": ["Amount of light entering", "Focal length", "Magnification", "Dispersion"],
+      "answer": 0
+    },
+    {
+      "question": "The f-number of a lens is:",
+      "options": ["f-number = f/D", "f-number = D/f", "f-number = f×D", "f-number = f²/D"],
+      "answer": 0
+    },
+    {
+      "question": "The depth of field is:",
+      "options": ["The range of distances over which objects appear in focus", "The range of wavelengths in focus", "The range of intensities in focus", "The range of colors in focus"],
+      "answer": 0
+    },
+    {
+      "question": "Aberrations in lenses are:",
+      "options": ["Deviation from ideal image formation", "Perfect image formation", "Absorption of light", "Scattering of light"],
+      "answer": 0
+    },
+    {
+      "question": "Spherical aberration is caused by:",
+      "options": ["Light rays at different distances from the axis focusing at different points", "Light rays of different wavelengths focusing at different points", "Light rays at different angles focusing at different points", "Light rays of different intensities focusing at different points"],
+      "answer": 0
+    },
+    {
+      "question": "Chromatic aberration is caused by:",
+      "options": ["Light rays of different wavelengths focusing at different points", "Light rays at different distances from the axis focusing at different points", "Light rays at different angles focusing at different points", "Light rays of different intensities focusing at different points"],
+      "answer": 0
+    },
+    {
+      "question": "An achromatic lens is designed to:",
+      "options": ["Reduce chromatic aberration", "Reduce spherical aberration", "Reduce astigmatism", "Reduce coma"],
+      "answer": 0
+    },
+    {
+      "question": "An aplanatic lens is designed to:",
+      "options": ["Reduce spherical aberration", "Reduce chromatic aberration", "Reduce astigmatism", "Reduce coma"],
+      "answer": 0
+    },
+    {
+      "question": "The eye lens focuses light on the:",
+      "options": ["Retina", "Cornea", "Iris", "Pupil"],
+      "answer": 0
+    },
+    {
+      "question": "Myopia is also called:",
+      "options": ["Nearsightedness", "Farsightedness", "Astigmatism", "Presbyopia"],
+      "answer": 0
+    },
+    {
+      "question": "Hyperopia is also called:",
+      "options": ["Farsightedness", "Nearsightedness", "Astigmatism", "Presbyopia"],
+      "answer": 0
+    },
+    {
+      "question": "Myopia is corrected by:",
+      "options": ["A diverging lens", "A converging lens", "A cylindrical lens", "A prism"],
+      "answer": 0
+    },
+    {
+      "question": "Hyperopia is corrected by:",
+      "options": ["A converging lens", "A diverging lens", "A cylindrical lens", "A prism"],
+      "answer": 0
+    },
+    {
+      "question": "Astigmatism is corrected by:",
+      "options": ["A cylindrical lens", "A spherical lens", "A prism", "A plane mirror"],
+      "answer": 0
+    },
+    {
+      "question": "Presbyopia is:",
+      "options": ["Age-related loss of near focusing ability", "Nearsightedness", "Farsightedness", "Astigmatism"],
+      "answer": 0
+    },
+    {
+      "question": "The far point of the normal eye is:",
+      "options": ["Infinity", "25 cm", "50 cm", "100 cm"],
+      "answer": 0
+    },
+    {
+      "question": "The near point of the normal eye is:",
+      "options": ["25 cm", "Infinity", "50 cm", "100 cm"],
+      "answer": 0
+    },
+    {
+      "question": "The least distance of distinct vision is:",
+      "options": ["25 cm", "50 cm", "100 cm", "10 cm"],
+      "answer": 0
+    },
+    {
+      "question": "The resolving power of the eye is about:",
+      "options": ["1 arc minute", "1 degree", "1 arc second", "10 arc minutes"],
+      "answer": 0
+    },
+    {
+      "question": "Scattering of light is:",
+      "options": ["Deviation of light in different directions", "Absorption of light", "Reflection of light", "Refraction of light"],
+      "answer": 0
+    },
+    {
+      "question": "Rayleigh scattering is:",
+      "options": ["Scattering of light by particles much smaller than wavelength", "Scattering of light by particles comparable to wavelength", "Scattering of light by particles much larger than wavelength", "No scattering"],
+      "answer": 0
+    },
+    {
+      "question": "The intensity of Rayleigh scattering is proportional to:",
+      "options": ["1/λ⁴", "1/λ²", "1/λ", "λ⁴"],
+      "answer": 0
+    },
+    {
+      "question": "The blue color of the sky is due to:",
+      "options": ["Rayleigh scattering", "Reflection", "Refraction", "Diffraction"],
+      "answer": 0
+    },
+    {
+      "question": "The red color of sunset is due to:",
+      "options": ["Increased scattering of blue light", "Decreased scattering of blue light", "Absorption of blue light", "Reflection of red light"],
+      "answer": 0
+    },
+    {
+      "question": "Mie scattering is:",
+      "options": ["Scattering by particles comparable to wavelength", "Scattering by particles much smaller than wavelength", "Scattering by particles much larger than wavelength", "No scattering"],
+      "answer": 0
+    },
+    {
+      "question": "Raman scattering is:",
+      "options": ["Inelastic scattering of light with change in frequency", "Elastic scattering of light", "Absorption of light", "Reflection of light"],
+      "answer": 0
+    },
+    {
+      "question": "The Raman effect was discovered by:",
+      "options": ["C.V. Raman", "Rayleigh", "Brillouin", "Michelson"],
+      "answer": 0
+    },
+    {
+      "question": "In Raman scattering, the frequency shift is:",
+      "options": ["Equal to molecular vibrational frequencies", "Equal to incident frequency", "Independent of molecular frequencies", "Equal to zero"],
+      "answer": 0
+    },
+    {
+      "question": "Brillouin scattering is:",
+      "options": ["Scattering from acoustic phonons", "Scattering from optical phonons", "Scattering from molecules", "Scattering from atoms"],
+      "answer": 0
+    },
+    {
+      "question": "A laser is a device that:",
+      "options": ["Produces coherent light", "Produces incoherent light", "Produces white light", "Absorbs light"],
+      "answer": 0
+    },
+    {
+      "question": "LASER stands for:",
+      "options": ["Light Amplification by Stimulated Emission of Radiation", "Light Amplification by Spontaneous Emission of Radiation", "Light Absorption by Stimulated Emission of Radiation", "Light Amplification by Stimulated Absorption of Radiation"],
+      "answer": 0
+    },
+    {
+      "question": "Population inversion is required for:",
+      "options": ["Laser action", "Spontaneous emission", "Absorption", "Scattering"],
+      "answer": 0
+    },
+    {
+      "question": "The three-level laser system has:",
+      "options": ["Ground state, metastable state, and upper state", "Ground state and excited state only", "Ground state, excited state, and ionized state", "Ground state, metastable state, and ionized state"],
+      "answer": 0
+    },
+    {
+      "question": "The four-level laser system:",
+      "options": ["Is more efficient than three-level system", "Is less efficient than three-level system", "Is equally efficient as three-level system", "Cannot operate"],
+      "answer": 0
+    },
+    {
+      "question": "The ruby laser uses:",
+      "options": ["Cr³⁺ ions in Al₂O₃", "Nd³⁺ ions", "CO₂ gas", "He-Ne gas"],
+      "answer": 0
+    },
+    {
+      "question": "The ruby laser emits at:",
+      "options": ["694.3 nm", "632.8 nm", "1064 nm", "10.6 μm"],
+      "answer": 0
+    },
+    {
+      "question": "The He-Ne laser emits at:",
+      "options": ["632.8 nm", "694.3 nm", "1064 nm", "10.6 μm"],
+      "answer": 0
+    },
+    {
+      "question": "The Nd:YAG laser emits at:",
+      "options": ["1064 nm", "694.3 nm", "632.8 nm", "10.6 μm"],
+      "answer": 0
+    },
+    {
+      "question": "The CO₂ laser emits at:",
+      "options": ["10.6 μm", "1064 nm", "694.3 nm", "632.8 nm"],
+      "answer": 0
+    },
+    {
+      "question": "Semiconductor lasers are used in:",
+      "options": ["Fiber optic communication", "Astronomy", "Medicine", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The coherence length of a laser is:",
+      "options": ["The distance over which the wave remains coherent", "The distance between two mirrors", "The length of the gain medium", "The wavelength of light"],
+      "answer": 0
+    },
+    {
+      "question": "The mode locking in lasers produces:",
+      "options": ["Short pulses", "Continuous waves", "Long pulses", "No output"],
+      "answer": 0
+    },
+    {
+      "question": "Q-switching in lasers produces:",
+      "options": ["High power pulses", "Continuous waves", "Low power pulses", "No output"],
+      "answer": 0
+    },
+    {
+      "question": "Fiber optics uses:",
+      "options": ["Total internal reflection", "Refraction", "Reflection", "Diffraction"],
+      "answer": 0
+    },
+    {
+      "question": "The numerical aperture of an optical fiber is:",
+      "options": ["NA = √(n₁² - n₂²)", "NA = √(n₁² + n₂²)", "NA = n₁² - n₂²", "NA = n₁/n₂"],
+      "answer": 0
+    },
+    {
+      "question": "The acceptance angle of an optical fiber is:",
+      "options": ["sin θ_a = NA", "cos θ_a = NA", "tan θ_a = NA", "sec θ_a = NA"],
+      "answer": 0
+    },
+    {
+      "question": "Single-mode fiber has:",
+      "options": ["Small core diameter", "Large core diameter", "Intermediate core diameter", "No core"],
+      "answer": 0
+    },
+    {
+      "question": "Multi-mode fiber has:",
+      "options": ["Large core diameter", "Small core diameter", "Intermediate core diameter", "No core"],
+      "answer": 0
+    },
+    {
+      "question": "Dispersion in optical fibers causes:",
+      "options": ["Pulse broadening", "Pulse narrowing", "Signal amplification", "Signal attenuation"],
+      "answer": 0
+    },
+    {
+      "question": "The attenuation in optical fibers is due to:",
+      "options": ["Absorption and scattering", "Refraction", "Reflection", "Diffraction"],
+      "answer": 0
+    },
+    {
+      "question": "The optical fiber communication uses:",
+      "options": ["Infrared light", "Visible light", "Ultraviolet light", "X-rays"],
+      "answer": 0
+    },
+    {
+      "question": "Wavelength division multiplexing (WDM) is used to:",
+      "options": ["Transmit multiple signals on different wavelengths", "Amplify signals", "Detect signals", "Modulate signals"],
+      "answer": 0
+    },
+    {
+      "question": "The optical amplifier is used to:",
+      "options": ["Amplify optical signals without converting to electrical", "Convert optical to electrical", "Convert electrical to optical", "Attenuate signals"],
+      "answer": 0
+    },
+    {
+      "question": "The erbium-doped fiber amplifier (EDFA) operates at:",
+      "options": ["1550 nm", "1310 nm", "850 nm", "1064 nm"],
+      "answer": 0
+    },
+    {
+      "question": "The optical switch is used to:",
+      "options": ["Route optical signals", "Amplify optical signals", "Detect optical signals", "Modulate optical signals"],
+      "answer": 0
+    },
+    {
+      "question": "The photodetector converts:",
+      "options": ["Light to electrical signal", "Electrical signal to light", "Light to heat", "Heat to light"],
+      "answer": 0
+    },
+    {
+      "question": "The photodiode is a:",
+      "options": ["Light detector", "Light source", "Light amplifier", "Light modulator"],
+      "answer": 0
+    },
+    {
+      "question": "The solar cell converts:",
+      "options": ["Light to electricity", "Electricity to light", "Light to heat", "Heat to light"],
+      "answer": 0
+    },
+    {
+      "question": "The photovoltaic effect is:",
+      "options": ["Generation of voltage due to light", "Generation of light due to voltage", "Generation of current due to light", "Both A and C"],
+      "answer": 3
+    },
+    {
+      "question": "The photoconductivity is:",
+      "options": ["Increase in conductivity due to light", "Decrease in conductivity due to light", "No change in conductivity due to light", "Conversion of light to electricity"],
+      "answer": 0
+    },
+    {
+      "question": "The photoelectric effect is:",
+      "options": ["Emission of electrons due to light", "Emission of light due to electrons", "Absorption of light", "Scattering of light"],
+      "answer": 0
+    },
+    {
+      "question": "The work function is:",
+      "options": ["The minimum energy required to remove an electron", "The maximum energy required to remove an electron", "The average energy required to remove an electron", "The energy of a photon"],
+      "answer": 0
+    },
+    {
+      "question": "In the photoelectric effect, the stopping potential depends on:",
+      "options": ["Frequency of light", "Intensity of light", "Area of the metal surface", "Temperature of the metal"],
+      "answer": 0
+    },
+    {
+      "question": "The diffraction of light was discovered by:",
+      "options": ["Grimaldi", "Newton", "Huygens", "Young"],
+      "answer": 0
+    },
+    {
+      "question": "The wave theory of light was proposed by:",
+      "options": ["Huygens", "Newton", "Einstein", "Planck"],
+      "answer": 0
+    },
+    {
+      "question": "The corpuscular theory of light was proposed by:",
+      "options": ["Newton", "Huygens", "Einstein", "Planck"],
+      "answer": 0
+    },
+    {
+      "question": "The electromagnetic theory of light was proposed by:",
+      "options": ["Maxwell", "Newton", "Huygens", "Einstein"],
+      "answer": 0
+    },
+    {
+      "question": "The quantum theory of light was proposed by:",
+      "options": ["Einstein", "Newton", "Huygens", "Maxwell"],
+      "answer": 0
+    },
+    {
+      "question": "The dual nature of light was demonstrated by:",
+      "options": ["Einstein and de Broglie", "Newton and Huygens", "Maxwell and Faraday", "Bohr and Rutherford"],
+      "answer": 0
+    },
+    {
+      "question": "The photoelectric effect proves:",
+      "options": ["Particle nature of light", "Wave nature of light", "Both wave and particle nature", "Neither wave nor particle nature"],
+      "answer": 0
+    },
+    {
+      "question": "The diffraction of light proves:",
+      "options": ["Wave nature of light", "Particle nature of light", "Both wave and particle nature", "Neither wave nor particle nature"],
+      "answer": 0
+    },
+    {
+      "question": "The polarization of light proves:",
+      "options": ["Transverse nature of light waves", "Longitudinal nature of light waves", "Particle nature of light", "Quantum nature of light"],
+      "answer": 0
+    },
+    {
+      "question": "The optical path length is:",
+      "options": ["The product of geometrical path and refractive index", "The ratio of geometrical path to refractive index", "The sum of geometrical path and refractive index", "The difference of geometrical path and refractive index"],
+      "answer": 0
+    },
+    {
+      "question": "The phase change on reflection from a denser medium is:",
+      "options": ["π", "π/2", "2π", "0"],
+      "answer": 0
+    },
+    {
+      "question": "The phase change on reflection from a rarer medium is:",
+      "options": ["0", "π", "π/2", "2π"],
+      "answer": 0
+    },
+    {
+      "question": "The anti-reflecting coating works on the principle of:",
+      "options": ["Destructive interference", "Constructive interference", "Diffraction", "Polarization"],
+      "answer": 0
+    },
+    {
+      "question": "The anti-reflecting coating thickness is:",
+      "options": ["λ/4n", "λ/2n", "λ/n", "2λ/n"],
+      "answer": 0
+    },
+    {
+      "question": "The interference pattern in Michelson interferometer is:",
+      "options": ["Circular fringes", "Straight fringes", "Elliptical fringes", "Rectangular fringes"],
+      "answer": 0
+    },
+    {
+      "question": "The interference pattern in Newton's rings is:",
+      "options": ["Circular fringes", "Straight fringes", "Elliptical fringes", "Rectangular fringes"],
+      "answer": 0
+    },
+    {
+      "question": "The interference pattern in Young's double-slit is:",
+      "options": ["Straight fringes", "Circular fringes", "Elliptical fringes", "Rectangular fringes"],
+      "answer": 0
+    },
+    {
+      "question": "The diffraction pattern from a circular aperture is:",
+      "options": ["Airy pattern", "Straight fringes", "Circular fringes", "Rectangular fringes"],
+      "answer": 0
+    },
+    {
+      "question": "The Airy disk is the:",
+      "options": ["Central maximum in diffraction from a circular aperture", "First maximum in diffraction", "First minimum in diffraction", "Second maximum in diffraction"],
+      "answer": 0
+    },
+    {
+      "question": "The Rayleigh criterion for resolution of a circular aperture is:",
+      "options": ["θ_min = 1.22λ/D", "θ_min = 1.22D/λ", "θ_min = λ/D", "θ_min = D/λ"],
+      "answer": 0
+    },
+    {
+      "question": "The diffraction grating has:",
+      "options": ["Many equally spaced slits", "One slit", "Two slits", "Circular aperture"],
+      "answer": 0
+    },
+    {
+      "question": "The resolving power of a diffraction grating is proportional to:",
+      "options": ["Number of slits", "Wavelength", "Grating spacing", "Slit width"],
+      "answer": 0
+    },
+    {
+      "question": "The dispersion of a diffraction grating is:",
+      "options": ["dθ/dλ = m/(d cosθ)", "dθ/dλ = m cosθ/d", "dθ/dλ = d/(m cosθ)", "dθ/dλ = m/(d sinθ)"],
+      "answer": 0
+    },
+    {
+      "question": "The free spectral range of a grating is:",
+      "options": ["Δλ = λ/m", "Δλ = mλ", "Δλ = λ²/m", "Δλ = m/λ"],
+      "answer": 0
+    },
+    {
+      "question": "The ghost lines in a grating are due to:",
+      "options": ["Irregularities in ruling", "Irregularities in illumination", "Irregularities in detection", "Irregularities in temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The echelette grating is a:",
+      "options": ["Blazed grating", "Reflection grating", "Transmission grating", "Concave grating"],
+      "answer": 0
+    },
+    {
+      "question": "The concave grating has:",
+      "options": ["Focusing property", "No focusing property", "Reflecting property", "Transmitting property"],
+      "answer": 0
+    },
+    {
+      "question": "The spherical aberration can be reduced by:",
+      "options": ["Using a parabolic mirror", "Using a spherical mirror", "Using a plane mirror", "Using a cylindrical mirror"],
+      "answer": 0
+    },
+    {
+      "question": "The chromatic aberration can be reduced by:",
+      "options": ["Achromatic doublet", "Parabolic mirror", "Spherical mirror", "Plane mirror"],
+      "answer": 0
+    },
+    {
+      "question": "The astigmatism is due to:",
+      "options": ["Different focal lengths in different planes", "Different focal lengths in the same plane", "No focal length", "Infinite focal length"],
+      "answer": 0
+    },
+    {
+      "question": "The coma aberration is due to:",
+      "options": ["Off-axis rays focusing at different points", "On-axis rays focusing at different points", "Different wavelengths focusing at different points", "Different intensities focusing at different points"],
+      "answer": 0
+    },
+    {
+      "question": "The distortion aberration is due to:",
+      "options": ["Different magnification for different parts of the image", "Different focal lengths for different parts", "Different wavelengths for different parts", "Different intensities for different parts"],
+      "answer": 0
+    },
+    {
+      "question": "The field curvature is due to:",
+      "options": ["The image plane being curved", "The object plane being curved", "The lens being curved", "The detector being curved"],
+      "answer": 0
+    },
+    {
+      "question": "The optical fiber has:",
+      "options": ["Core and cladding", "Core only", "Cladding only", "No structure"],
+      "answer": 0
+    },
+    {
+      "question": "The refractive index of the core is:",
+      "options": ["Greater than cladding", "Less than cladding", "Equal to cladding", "Zero"],
+      "answer": 0
+    },
+    {
+      "question": "The refractive index of the cladding is:",
+      "options": ["Less than core", "Greater than core", "Equal to core", "Zero"],
+      "answer": 0
+    },
+    {
+      "question": "The graded-index fiber has:",
+      "options": ["Gradually varying refractive index", "Stepwise varying refractive index", "Constant refractive index", "Zero refractive index"],
+      "answer": 0
+    },
+    {
+      "question": "The step-index fiber has:",
+      "options": ["Stepwise varying refractive index", "Gradually varying refractive index", "Constant refractive index", "Zero refractive index"],
+      "answer": 0
+    },
+    {
+      "question": "The modal dispersion in fiber is:",
+      "options": ["Due to different paths of different modes", "Due to different wavelengths", "Due to different polarizations", "Due to different intensities"],
+      "answer": 0
+    },
+    {
+      "question": "The chromatic dispersion in fiber is:",
+      "options": ["Due to different wavelengths", "Due to different paths", "Due to different polarizations", "Due to different intensities"],
+      "answer": 0
+    },
+    {
+      "question": "The polarization mode dispersion is:",
+      "options": ["Due to different polarizations", "Due to different wavelengths", "Due to different paths", "Due to different intensities"],
+      "answer": 0
+    },
+    {
+      "question": "The dispersion-shifted fiber is designed to:",
+      "options": ["Shift the zero-dispersion wavelength", "Shift the zero-dispersion frequency", "Shift the zero-dispersion mode", "Shift the zero-dispersion intensity"],
+      "answer": 0
+    },
+    {
+      "question": "The non-dispersion-shifted fiber has zero dispersion at:",
+      "options": ["1310 nm", "1550 nm", "850 nm", "1064 nm"],
+      "answer": 0
+    },
+    {
+      "question": "The dispersion-compensating fiber is used to:",
+      "options": ["Compensate for dispersion", "Compensate for attenuation", "Compensate for scattering", "Compensate for absorption"],
+      "answer": 0
+    },
+    {
+      "question": "The optical time-domain reflectometer (OTDR) is used to:",
+      "options": ["Measure fiber loss and locate faults", "Measure fiber dispersion", "Measure fiber polarization", "Measure fiber temperature"],
+      "answer": 0
+    },
+    {
+      "question": "The optical spectrum analyzer measures:",
+      "options": ["Optical spectrum", "Optical power", "Optical phase", "Optical polarization"],
+      "answer": 0
+    },
+    {
+      "question": "The optical power meter measures:",
+      "options": ["Optical power", "Optical spectrum", "Optical phase", "Optical polarization"],
+      "answer": 0
+    },
+    {
+      "question": "The optical coherence tomography (OCT) uses:",
+      "options": ["Low coherence interferometry", "High coherence interferometry", "Diffraction", "Polarization"],
+      "answer": 0
+    },
+    {
+      "question": "The OCT is used in:",
+      "options": ["Medical imaging", "Fiber testing", "Spectroscopy", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The optical tweezers use:",
+      "options": ["Laser light to trap particles", "Magnetic fields to trap particles", "Electric fields to trap particles", "Gravitational fields to trap particles"],
+      "answer": 0
+    },
+    {
+      "question": "The optical trapping is based on:",
+      "options": ["Force of light", "Force of magnets", "Force of gravity", "Force of electricity"],
+      "answer": 0
+    },
+    {
+      "question": "The laser cooling uses:",
+      "options": ["Doppler effect", "Zeeman effect", "Stark effect", "Compton effect"],
+      "answer": 0
+    },
+    {
+      "question": "The Bose-Einstein condensate was achieved using:",
+      "options": ["Laser cooling and evaporative cooling", "Laser cooling only", "Evaporative cooling only", "No cooling"],
+      "answer": 0
+    },
+    {
+      "question": "The optical lattice is formed by:",
+      "options": ["Interference of laser beams", "Interference of electron beams", "Interference of neutron beams", "Interference of proton beams"],
+      "answer": 0
+    },
+    {
+      "question": "The optical lattice is used to:",
+      "options": ["Trap atoms", "Trap electrons", "Trap photons", "Trap protons"],
+      "answer": 0
+    },
+    {
+      "question": "The Faraday rotator is used in:",
+      "options": ["Optical isolators", "Optical amplifiers", "Optical modulators", "Optical detectors"],
+      "answer": 0
+    },
+    {
+      "question": "The optical isolator allows:",
+      "options": ["Light to pass in one direction only", "Light to pass in both directions", "Light to pass in no direction", "Light to pass in all directions"],
+      "answer": 0
+    },
+    {
+      "question": "The optical circulator allows:",
+      "options": ["Light to pass from port 1 to 2, 2 to 3, etc.", "Light to pass from port 1 to 2 only", "Light to pass from port 2 to 1 only", "Light to pass in all directions"],
+      "answer": 0
+    },
+    {
+      "question": "The electro-optic modulator uses:",
+      "options": ["Electric field to change refractive index", "Magnetic field to change refractive index", "Temperature to change refractive index", "Pressure to change refractive index"],
+      "answer": 0
+    },
+    {
+      "question": "The acousto-optic modulator uses:",
+      "options": ["Sound waves to change refractive index", "Electric field to change refractive index", "Magnetic field to change refractive index", "Temperature to change refractive index"],
+      "answer": 0
+    },
+    {
+      "question": "The magneto-optic modulator uses:",
+      "options": ["Magnetic field to change refractive index", "Electric field to change refractive index", "Sound waves to change refractive index", "Temperature to change refractive index"],
+      "answer": 0
+    },
+    {
+      "question": "The thermo-optic modulator uses:",
+      "options": ["Temperature to change refractive index", "Electric field to change refractive index", "Magnetic field to change refractive index", "Sound waves to change refractive index"],
+      "answer": 0
+    },
+    {
+      "question": "The optical phase conjugate mirror:",
+      "options": ["Reverses the phase of light", "Reverses the amplitude of light", "Reverses the frequency of light", "Reverses the polarization of light"],
+      "answer": 0
+    },
+    {
+      "question": "The optical phase conjugation is used for:",
+      "options": ["Aberration correction", "Amplification", "Frequency conversion", "Polarization conversion"],
+      "answer": 0
+    },
+    {
+      "question": "The non-linear optics deals with:",
+      "options": ["Intensity-dependent optical phenomena", "Linear optical phenomena", "Thermal optical phenomena", "Magnetic optical phenomena"],
+      "answer": 0
+    },
+    {
+      "question": "The second harmonic generation is:",
+      "options": ["Frequency doubling", "Frequency halving", "Frequency shifting", "Frequency mixing"],
+      "answer": 0
+    },
+    {
+      "question": "The third harmonic generation is:",
+      "options": ["Frequency tripling", "Frequency doubling", "Frequency halving", "Frequency shifting"],
+      "answer": 0
+    },
+    {
+      "question": "The optical parametric oscillation is:",
+      "options": ["Generation of two lower frequency waves from one higher frequency wave", "Generation of one higher frequency wave from two lower frequency waves", "Generation of one wave from another", "Generation of no wave"],
+      "answer": 0
+    },
+    {
+      "question": "The optical parametric amplification is:",
+      "options": ["Amplification using non-linear optics", "Amplification using linear optics", "Amplification using thermal optics", "Amplification using magnetic optics"],
+      "answer": 0
+    },
+    {
+      "question": "The optical frequency comb is:",
+      "options": ["A spectrum of equally spaced frequencies", "A spectrum of random frequencies", "A spectrum of continuous frequencies", "A spectrum of discrete frequencies"],
+      "answer": 0
+    },
+    {
+      "question": "The optical frequency comb is used for:",
+      "options": ["Frequency metrology", "Spectroscopy", "Astronomy", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The optical atomic clock uses:",
+      "options": ["Optical transitions", "Microwave transitions", "Radio transitions", "Infrared transitions"],
+      "answer": 0
+    },
+    {
+      "question": "The optical atomic clock has:",
+      "options": ["High precision", "Low precision", "Medium precision", "No precision"],
+      "answer": 0
+    },
+    {
+      "question": "The optical lattice clock uses:",
+      "options": ["Atoms trapped in optical lattice", "Atoms in free space", "Atoms in magnetic trap", "Atoms in electric trap"],
+      "answer": 0
+    },
+    {
+      "question": "The optical clock is based on:",
+      "options": ["Stable optical frequency reference", "Stable microwave frequency reference", "Stable radio frequency reference", "Stable infrared frequency reference"],
+      "answer": 0
+    },
+    {
+      "question": "The optical coherence is:",
+      "options": ["The property of waves having a fixed phase relationship", "The property of waves having no phase relationship", "The property of waves having random phase", "The property of waves having zero phase"],
+      "answer": 0
+    },
+    {
+      "question": "The temporal coherence is related to:",
+      "options": ["Bandwidth", "Amplitude", "Frequency", "Wavelength"],
+      "answer": 0
+    },
+    {
+      "question": "The spatial coherence is related to:",
+      "options": ["Source size", "Bandwidth", "Frequency", "Wavelength"],
+      "answer": 0
+    },
+    {
+      "question": "The degree of coherence is:",
+      "options": ["A measure of correlation between waves", "A measure of correlation between particles", "A measure of correlation between fields", "A measure of correlation between forces"],
+      "answer": 0
+    },
+    {
+      "question": "The Michelson stellar interferometer was used to:",
+      "options": ["Measure star diameters", "Measure star distances", "Measure star temperatures", "Measure star masses"],
+      "answer": 0
+    },
+    {
+      "question": "The intensity interferometer uses:",
+      "options": ["Correlation of intensities", "Correlation of phases", "Correlation of amplitudes", "Correlation of frequencies"],
+      "answer": 0
+    },
+    {
+      "question": "The optical interferometry is used in:",
+      "options": ["Astronomy", "Metrology", "Spectroscopy", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The optical metrology uses:",
+      "options": ["Interference for precision measurements", "Diffraction for precision measurements", "Polarization for precision measurements", "Refraction for precision measurements"],
+      "answer": 0
+    },
+    {
+      "question": "The laser interferometer is used in:",
+      "options": ["LIGO", "Spectroscopy", "Microscopy", "All of the above"],
+      "answer": 0
+    },
+    {
+      "question": "The LIGO uses:",
+      "options": ["Laser interferometry to detect gravitational waves", "Laser interferometry to detect electromagnetic waves", "Laser interferometry to detect acoustic waves", "Laser interferometry to detect thermal waves"],
+      "answer": 0
+    },
+    {
+      "question": "The optical cavity is:",
+      "options": ["A region between two mirrors", "A region between two lenses", "A region between two prisms", "A region between two gratings"],
+      "answer": 0
+    },
+    {
+      "question": "The optical cavity modes are:",
+      "options": ["Discrete frequencies", "Continuous frequencies", "Random frequencies", "Zero frequencies"],
+      "answer": 0
+    },
+    {
+      "question": "The free spectral range of an optical cavity is:",
+      "options": ["Δν = c/2L", "Δν = 2L/c", "Δν = c/L", "Δν = L/c"],
+      "answer": 0
+    },
+    {
+      "question": "The finesse of an optical cavity is:",
+      "options": ["F = π√R/(1-R)", "F = (1-R)/π√R", "F = π(1-R)/√R", "F = √R/π(1-R)"],
+      "answer": 0
+    },
+    {
+      "question": "The optical cavity enhances:",
+      "options": ["Light intensity", "Light frequency", "Light wavelength", "Light polarization"],
+      "answer": 0
+    },
+    {
+      "question": "The optical resonator is used in:",
+      "options": ["Lasers", "Interferometers", "Spectrometers", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The whispering gallery modes are:",
+      "options": ["Modes in circular resonators", "Modes in linear resonators", "Modes in rectangular resonators", "Modes in triangular resonators"],
+      "answer": 0
+    },
+    {
+      "question": "The whispering gallery modes are used in:",
+      "options": ["Sensors", "Lasers", "Filters", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The optical sensor uses:",
+      "options": ["Light to measure physical quantities", "Light to measure chemical quantities", "Light to measure biological quantities", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The fiber optic sensor uses:",
+      "options": ["Fiber to transmit light", "Fiber to reflect light", "Fiber to refract light", "Fiber to diffract light"],
+      "answer": 0
+    },
+    {
+      "question": "The fiber optic gyroscope uses:",
+      "options": ["Sagnac effect", "Doppler effect", "Zeeman effect", "Stark effect"],
+      "answer": 0
+    },
+    {
+      "question": "The Sagnac effect is:",
+      "options": ["Phase difference due to rotation", "Phase difference due to translation", "Phase difference due to acceleration", "Phase difference due to vibration"],
+      "answer": 0
+    },
+    {
+      "question": "The optical gyroscope measures:",
+      "options": ["Rotation rate", "Translation rate", "Acceleration rate", "Vibration rate"],
+      "answer": 0
+    },
+    {
+      "question": "The optical MEMS are:",
+      "options": ["Micro-electro-mechanical systems for optics", "Micro-electro-mechanical systems for mechanics", "Micro-electro-mechanical systems for electronics", "Micro-electro-mechanical systems for thermodynamics"],
+      "answer": 0
+    },
+    {
+      "question": "The optical MEMS are used in:",
+      "options": ["Projectors", "Sensors", "Communication", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "The digital micromirror device (DMD) uses:",
+      "options": ["Mirrors to reflect light", "Lenses to focus light", "Prisms to disperse light", "Filters to absorb light"],
+      "answer": 0
+    },
+    {
+      "question": "The DMD is used in:",
+      "options": ["Projectors", "Cameras", "Microscopes", "Telescopes"],
+      "answer": 0
+    },
+    {
+      "question": "The optical coherence tomography uses:",
+      "options": ["Low coherence light", "High coherence light", "Monochromatic light", "Polychromatic light"],
+      "answer": 0
+    },
+    {
+      "question": "The OCT imaging depth is:",
+      "options": ["Few mm", "Few cm", "Few μm", "Few nm"],
+      "answer": 0
+    },
+    {
+      "question": "The optical microscopy resolution limit is:",
+      "options": ["~λ/2", "~λ", "~2λ", "~λ/4"],
+      "answer": 0
+    },
+    {
+      "question": "The super-resolution microscopy overcomes:",
+      "options": ["Diffraction limit", "Refraction limit", "Reflection limit", "Absorption limit"],
+      "answer": 0
+    },
+    {
+      "question": "The STED microscopy is:",
+      "options": ["Stimulated emission depletion microscopy", "Scanning transmission electron microscopy", "Scanning tunneling electron microscopy", "Stimulated emission detection microscopy"],
+      "answer": 0
+    },
+    {
+      "question": "The PALM microscopy is:",
+      "options": ["Photo-activated localization microscopy", "Particle activated localization microscopy", "Photon activated localization microscopy", "Proton activated localization microscopy"],
+      "answer": 0
+    },
+    {
+      "question": "The STORM microscopy is:",
+      "options": ["Stochastic optical reconstruction microscopy", "Scanning transmission optical microscopy", "Stimulated optical reconstruction microscopy", "Statistical optical reconstruction microscopy"],
+      "answer": 0
+    }
+  ]
+}

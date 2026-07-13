@@ -1,0 +1,576 @@
+{
+  "category": "Inferential Statistics",
+  "total_questions": 112,
+  "questions": [
+    {
+      "question": "The branch of statistics concerned with drawing conclusions about population from sample is called:",
+      "options": ["Descriptive Statistics", "Inferential Statistics", "Probability", "Sampling"],
+      "answer": 1
+    },
+    {
+      "question": "A hypothesis that states no difference or no relationship is called:",
+      "options": ["Alternative Hypothesis", "Null Hypothesis", "Research Hypothesis", "Composite Hypothesis"],
+      "answer": 1
+    },
+    {
+      "question": "The probability of committing a Type I error is denoted by:",
+      "options": ["β", "α", "1-β", "1-α"],
+      "answer": 1
+    },
+    {
+      "question": "The probability of committing a Type II error is denoted by:",
+      "options": ["α", "1-α", "β", "1-β"],
+      "answer": 2
+    },
+    {
+      "question": "The power of a test is:",
+      "options": ["1-β", "1-α", "α", "β"],
+      "answer": 0
+    },
+    {
+      "question": "A test statistic that follows a t-distribution is used when:",
+      "options": ["Population variance is known", "Population variance is unknown", "Sample size is large", "Population is skewed"],
+      "answer": 1
+    },
+    {
+      "question": "The degrees of freedom for a one-sample t-test is:",
+      "options": ["n", "n-1", "n-2", "2n-1"],
+      "answer": 1
+    },
+    {
+      "question": "The chi-square test is used for:",
+      "options": ["Testing means", "Testing proportions", "Testing independence", "Testing variances"],
+      "answer": 2
+    },
+    {
+      "question": "In a chi-square test, the expected frequency in a cell is calculated as:",
+      "options": ["Row total × Column total / Grand total", "Row total + Column total", "Row total - Column total", "Grand total / Number of cells"],
+      "answer": 0
+    },
+    {
+      "question": "The degrees of freedom for a chi-square test of independence in a 2x3 table is:",
+      "options": ["5", "2", "3", "1"],
+      "answer": 1
+    },
+    {
+      "question": "A confidence interval of 95% means that:",
+      "options": ["95% of sample means fall in this interval", "We are 95% confident that population parameter lies in this interval", "95% of population lies in this interval", "There is 95% chance of Type I error"],
+      "answer": 1
+    },
+    {
+      "question": "The standard error of the mean is:",
+      "options": ["σ/√n", "σ²/n", "√(σ²/n)", "σ×√n"],
+      "answer": 0
+    },
+    {
+      "question": "As sample size increases, the standard error:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "answer": 1
+    },
+    {
+      "question": "A Type I error occurs when:",
+      "options": ["We reject a true null hypothesis", "We accept a false null hypothesis", "We reject a false null hypothesis", "We accept a true null hypothesis"],
+      "answer": 0
+    },
+    {
+      "question": "A Type II error occurs when:",
+      "options": ["We reject a true null hypothesis", "We accept a false null hypothesis", "We reject a false null hypothesis", "We accept a true null hypothesis"],
+      "answer": 1
+    },
+    {
+      "question": "The level of significance is the probability of:",
+      "options": ["Type I error", "Type II error", "Both errors", "Power of test"],
+      "answer": 0
+    },
+    {
+      "question": "A two-tailed test is used when:",
+      "options": ["Alternative hypothesis is one-sided", "Alternative hypothesis is two-sided", "Null hypothesis is false", "Sample size is small"],
+      "answer": 1
+    },
+    {
+      "question": "The z-test is used when:",
+      "options": ["Population variance is known", "Population variance is unknown", "Sample size is small", "Data is qualitative"],
+      "answer": 0
+    },
+    {
+      "question": "The t-test is used when:",
+      "options": ["Population variance is known", "Population variance is unknown", "Sample size is large", "Data is nominal"],
+      "answer": 1
+    },
+    {
+      "question": "The F-test is used to compare:",
+      "options": ["Two means", "Two variances", "Two proportions", "Two medians"],
+      "answer": 1
+    },
+    {
+      "question": "ANOVA is used to compare:",
+      "options": ["Two means", "More than two means", "Two variances", "Two proportions"],
+      "answer": 1
+    },
+    {
+      "question": "In ANOVA, the total variation is partitioned into:",
+      "options": ["Two components", "Three components", "Four components", "Five components"],
+      "answer": 0
+    },
+    {
+      "question": "The degrees of freedom for between groups in ANOVA is:",
+      "options": ["k-1", "n-k", "n-1", "k"],
+      "answer": 0
+    },
+    {
+      "question": "The degrees of freedom for within groups in ANOVA is:",
+      "options": ["k-1", "n-k", "n-1", "k"],
+      "answer": 1
+    },
+    {
+      "question": "The F-ratio in ANOVA is calculated as:",
+      "options": ["MSB/MSW", "MSW/MSB", "SSB/SSW", "SSW/SSB"],
+      "answer": 0
+    },
+    {
+      "question": "A p-value less than α means:",
+      "options": ["Reject null hypothesis", "Accept null hypothesis", "Fail to reject null hypothesis", "Cannot determine"],
+      "answer": 0
+    },
+    {
+      "question": "A confidence interval for a population proportion is based on:",
+      "options": ["Normal distribution", "t-distribution", "Chi-square distribution", "F-distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The standard error of a proportion is:",
+      "options": ["√(p(1-p)/n)", "p(1-p)/n", "√(p(1-p))", "p/n"],
+      "answer": 0
+    },
+    {
+      "question": "The degrees of freedom for a paired t-test is:",
+      "options": ["n", "n-1", "n-2", "2n-1"],
+      "answer": 1
+    },
+    {
+      "question": "The chi-square distribution is:",
+      "options": ["Symmetrical", "Positively skewed", "Negatively skewed", "Normal"],
+      "answer": 1
+    },
+    {
+      "question": "The t-distribution approaches normal distribution when:",
+      "options": ["Sample size increases", "Sample size decreases", "Population variance increases", "Population variance decreases"],
+      "answer": 0
+    },
+    {
+      "question": "A test statistic is used to:",
+      "options": ["Make a decision about the population", "Describe the sample", "Measure central tendency", "Measure dispersion"],
+      "answer": 0
+    },
+    {
+      "question": "The null hypothesis is denoted by:",
+      "options": ["H₀", "H₁", "H₂", "H₃"],
+      "answer": 0
+    },
+    {
+      "question": "The alternative hypothesis is denoted by:",
+      "options": ["H₀", "H₁", "H₂", "H₃"],
+      "answer": 1
+    },
+    {
+      "question": "A one-tailed test is used when alternative hypothesis is:",
+      "options": ["Two-sided", "One-sided", "Equal", "Not equal"],
+      "answer": 1
+    },
+    {
+      "question": "The probability of rejecting a false null hypothesis is called:",
+      "options": ["Power of test", "Level of significance", "Confidence level", "Type I error"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence interval for mean with known variance uses:",
+      "options": ["z-score", "t-score", "F-score", "Chi-square score"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence interval for mean with unknown variance uses:",
+      "options": ["z-score", "t-score", "F-score", "Chi-square score"],
+      "answer": 1
+    },
+    {
+      "question": "The chi-square test for goodness of fit has degrees of freedom:",
+      "options": ["k-1", "k", "k+1", "n-k"],
+      "answer": 0
+    },
+    {
+      "question": "The degrees of freedom for chi-square test of independence in r×c table is:",
+      "options": ["(r-1)(c-1)", "r×c", "r+c-1", "r+c-2"],
+      "answer": 0
+    },
+    {
+      "question": "If the calculated chi-square value is greater than the critical value, we:",
+      "options": ["Reject null hypothesis", "Accept null hypothesis", "Fail to reject null hypothesis", "Cannot decide"],
+      "answer": 0
+    },
+    {
+      "question": "The F-distribution is:",
+      "options": ["Symmetrical", "Positively skewed", "Negatively skewed", "Normal"],
+      "answer": 1
+    },
+    {
+      "question": "The degrees of freedom for F-test are:",
+      "options": ["Two", "Three", "Four", "One"],
+      "answer": 0
+    },
+    {
+      "question": "ANOVA stands for:",
+      "options": ["Analysis of Variance", "Analysis of Variables", "Analysis of Values", "Analysis of Variances"],
+      "answer": 0
+    },
+    {
+      "question": "In two-way ANOVA, we study the effect of:",
+      "options": ["One factor", "Two factors", "Three factors", "Four factors"],
+      "answer": 1
+    },
+    {
+      "question": "The interaction effect in two-way ANOVA refers to:",
+      "options": ["Combined effect of two factors", "Effect of one factor", "Effect of no factor", "Error effect"],
+      "answer": 0
+    },
+    {
+      "question": "The mean square in ANOVA is calculated by dividing sum of squares by:",
+      "options": ["Degrees of freedom", "Sample size", "Number of groups", "Total observations"],
+      "answer": 0
+    },
+    {
+      "question": "The total sum of squares in ANOVA is partitioned into:",
+      "options": ["SSB and SSE", "SSB and SSW", "SSW and SSE", "SSB, SSW, and SSE"],
+      "answer": 1
+    },
+    {
+      "question": "The null hypothesis in ANOVA states that:",
+      "options": ["All means are equal", "All means are different", "At least one mean is different", "None of the means are equal"],
+      "answer": 0
+    },
+    {
+      "question": "The alternative hypothesis in ANOVA states that:",
+      "options": ["All means are equal", "All means are different", "At least one mean is different", "None of the means are equal"],
+      "answer": 2
+    },
+    {
+      "question": "A confidence interval provides:",
+      "options": ["A point estimate", "A range of values", "A probability", "A test statistic"],
+      "answer": 1
+    },
+    {
+      "question": "The confidence level is denoted by:",
+      "options": ["1-α", "1-β", "α", "β"],
+      "answer": 0
+    },
+    {
+      "question": "The standard error of estimate in regression is:",
+      "options": ["√(SSE/(n-2))", "SSE/(n-2)", "√(SSE/n)", "SSE/n"],
+      "answer": 0
+    },
+    {
+      "question": "A t-test for independent samples has degrees of freedom:",
+      "options": ["n₁+n₂-2", "n₁+n₂-1", "n₁+n₂", "n₁+n₂+1"],
+      "answer": 0
+    },
+    {
+      "question": "A paired t-test is used when samples are:",
+      "options": ["Independent", "Dependent", "Large", "Small"],
+      "answer": 1
+    },
+    {
+      "question": "The chi-square test is based on:",
+      "options": ["Observed frequencies", "Expected frequencies", "Both observed and expected", "Neither observed nor expected"],
+      "answer": 2
+    },
+    {
+      "question": "The expected frequency in chi-square test is based on:",
+      "options": ["Null hypothesis", "Alternative hypothesis", "Sample data", "Population data"],
+      "answer": 0
+    },
+    {
+      "question": "A one-sample t-test is used to compare:",
+      "options": ["Two means", "A sample mean with a population mean", "Two proportions", "Two variances"],
+      "answer": 1
+    },
+    {
+      "question": "The degrees of freedom for a one-sample t-test is:",
+      "options": ["n-1", "n", "n+1", "2n-1"],
+      "answer": 0
+    },
+    {
+      "question": "A z-test for proportions is used when:",
+      "options": ["Sample size is large", "Sample size is small", "Population variance is known", "Population variance is unknown"],
+      "answer": 0
+    },
+    {
+      "question": "The alternative hypothesis for a two-tailed test is:",
+      "options": ["≠", "<", ">", "="],
+      "answer": 0
+    },
+    {
+      "question": "The alternative hypothesis for a left-tailed test is:",
+      "options": ["<", ">", "≠", "="],
+      "answer": 0
+    },
+    {
+      "question": "The alternative hypothesis for a right-tailed test is:",
+      "options": [">", "<", "≠", "="],
+      "answer": 0
+    },
+    {
+      "question": "The critical region is also called:",
+      "options": ["Rejection region", "Acceptance region", "Confidence region", "Parameter region"],
+      "answer": 0
+    },
+    {
+      "question": "The probability of Type I error is equal to:",
+      "options": ["α", "β", "1-α", "1-β"],
+      "answer": 0
+    },
+    {
+      "question": "The probability of Type II error is equal to:",
+      "options": ["α", "β", "1-α", "1-β"],
+      "answer": 1
+    },
+    {
+      "question": "The power of a test is equal to:",
+      "options": ["1-β", "1-α", "α", "β"],
+      "answer": 0
+    },
+    {
+      "question": "As α increases, the power of test:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "question": "As sample size increases, the power of test:",
+      "options": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence interval width decreases when:",
+      "options": ["Sample size increases", "Sample size decreases", "Confidence level increases", "Variance increases"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence interval width increases when:",
+      "options": ["Confidence level increases", "Sample size increases", "Variance decreases", "All of these"],
+      "answer": 0
+    },
+    {
+      "question": "A point estimate is:",
+      "options": ["A single value", "A range of values", "A probability", "A test statistic"],
+      "answer": 0
+    },
+    {
+      "question": "An interval estimate is:",
+      "options": ["A range of values", "A single value", "A probability", "A test statistic"],
+      "answer": 0
+    },
+    {
+      "question": "The unbiased estimator of population variance is:",
+      "options": ["Sample variance with n-1", "Sample variance with n", "Sample variance with n+1", "Sample variance with 2n"],
+      "answer": 0
+    },
+    {
+      "question": "The maximum likelihood estimator is:",
+      "options": ["Unbiased", "Consistent", "Efficient", "All of these"],
+      "answer": 1
+    },
+    {
+      "question": "The method of moments is used for:",
+      "options": ["Estimation", "Hypothesis testing", "Regression", "Correlation"],
+      "answer": 0
+    },
+    {
+      "question": "The likelihood function is used in:",
+      "options": ["Maximum likelihood estimation", "Method of moments", "Hypothesis testing", "Regression"],
+      "answer": 0
+    },
+    {
+      "question": "A consistent estimator converges to the true parameter as:",
+      "options": ["Sample size increases", "Sample size decreases", "Population increases", "Population decreases"],
+      "answer": 0
+    },
+    {
+      "question": "An efficient estimator has:",
+      "options": ["Minimum variance", "Maximum variance", "Zero variance", "Infinite variance"],
+      "answer": 0
+    },
+    {
+      "question": "The likelihood ratio test is used for:",
+      "options": ["Testing composite hypotheses", "Testing simple hypotheses", "Estimation", "Regression"],
+      "answer": 0
+    },
+    {
+      "question": "The Wald test is used for:",
+      "options": ["Testing linear restrictions", "Testing nonlinear restrictions", "Estimation", "Regression"],
+      "answer": 0
+    },
+    {
+      "question": "The Lagrange multiplier test is also called:",
+      "options": ["Score test", "Wald test", "Likelihood ratio test", "F-test"],
+      "answer": 0
+    },
+    {
+      "question": "The F-test is used to test:",
+      "options": ["Overall significance of regression", "Individual significance", "Correlation", "Variance"],
+      "answer": 0
+    },
+    {
+      "question": "The t-test is used to test:",
+      "options": ["Individual significance of a coefficient", "Overall significance", "Correlation", "Variance"],
+      "answer": 0
+    },
+    {
+      "question": "The p-value is the probability of:",
+      "options": ["Observing a test statistic as extreme as the calculated one", "Committing Type I error", "Committing Type II error", "Power of test"],
+      "answer": 0
+    },
+    {
+      "question": "If the p-value is less than α, we:",
+      "options": ["Reject null hypothesis", "Accept null hypothesis", "Fail to reject null hypothesis", "Cannot decide"],
+      "answer": 0
+    },
+    {
+      "question": "The critical value is determined by:",
+      "options": ["Level of significance", "Sample size", "Population size", "All of these"],
+      "answer": 0
+    },
+    {
+      "question": "The test statistic for a one-sample z-test is:",
+      "options": ["(x̄-μ)/(σ/√n)", "(x̄-μ)/(s/√n)", "(x̄-μ)/(σ)", "(x̄-μ)/s"],
+      "answer": 0
+    },
+    {
+      "question": "The test statistic for a one-sample t-test is:",
+      "options": ["(x̄-μ)/(s/√n)", "(x̄-μ)/(σ/√n)", "(x̄-μ)/(s)", "(x̄-μ)/σ"],
+      "answer": 0
+    },
+    {
+      "question": "The degrees of freedom for a two-sample t-test with equal variances is:",
+      "options": ["n₁+n₂-2", "n₁+n₂-1", "n₁+n₂", "n₁+n₂+1"],
+      "answer": 0
+    },
+    {
+      "question": "The Welch t-test is used when:",
+      "options": ["Population variances are unequal", "Population variances are equal", "Sample sizes are equal", "Sample sizes are unequal"],
+      "answer": 0
+    },
+    {
+      "question": "The Mann-Whitney U test is:",
+      "options": ["Parametric", "Non-parametric", "Both", "Neither"],
+      "answer": 1
+    },
+    {
+      "question": "The Wilcoxon signed-rank test is used for:",
+      "options": ["Paired data", "Independent data", "Large samples", "Small samples"],
+      "answer": 0
+    },
+    {
+      "question": "The sign test is used for:",
+      "options": ["Paired data", "Independent data", "Large samples", "Small samples"],
+      "answer": 0
+    },
+    {
+      "question": "The Kruskal-Wallis test is a non-parametric alternative to:",
+      "options": ["ANOVA", "t-test", "Chi-square test", "F-test"],
+      "answer": 0
+    },
+    {
+      "question": "The Friedman test is a non-parametric alternative to:",
+      "options": ["Repeated measures ANOVA", "One-way ANOVA", "Two-way ANOVA", "MANOVA"],
+      "answer": 0
+    },
+    {
+      "question": "The chi-square test can be used for:",
+      "options": ["Nominal data", "Ordinal data", "Interval data", "Ratio data"],
+      "answer": 0
+    },
+    {
+      "question": "The degrees of freedom for chi-square goodness of fit test with k categories is:",
+      "options": ["k-1", "k", "k+1", "2k-1"],
+      "answer": 0
+    },
+    {
+      "question": "The expected frequency in chi-square test should be at least:",
+      "options": ["5", "10", "15", "20"],
+      "answer": 0
+    },
+    {
+      "question": "Yates' correction is used in chi-square test when:",
+      "options": ["Small sample sizes", "Large sample sizes", "Normal distribution", "Skewed distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The t-distribution is also called:",
+      "options": ["Student's distribution", "Fisher's distribution", "Gaussian distribution", "Binomial distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The F-distribution is also called:",
+      "options": ["Fisher's distribution", "Student's distribution", "Gaussian distribution", "Poisson distribution"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence interval for a population mean with known variance is:",
+      "options": ["x̄ ± z(σ/√n)", "x̄ ± t(s/√n)", "x̄ ± z(s/√n)", "x̄ ± t(σ/√n)"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence interval for a population mean with unknown variance is:",
+      "options": ["x̄ ± t(s/√n)", "x̄ ± z(σ/√n)", "x̄ ± z(s/√n)", "x̄ ± t(σ/√n)"],
+      "answer": 0
+    },
+    {
+      "question": "The confidence interval for a population proportion is:",
+      "options": ["p̂ ± z√(p̂(1-p̂)/n)", "p̂ ± t√(p̂(1-p̂)/n)", "p̂ ± z√(p(1-p)/n)", "p̂ ± t√(p(1-p)/n)"],
+      "answer": 0
+    },
+    {
+      "question": "The chi-square test for independence is used to test:",
+      "options": ["Association between two variables", "Difference between two means", "Difference between two proportions", "Goodness of fit"],
+      "answer": 0
+    },
+    {
+      "question": "The chi-square test for goodness of fit is used to test:",
+      "options": ["Whether data fits a distribution", "Association between two variables", "Difference between two means", "Difference between two proportions"],
+      "answer": 0
+    },
+    {
+      "question": "The degrees of freedom for chi-square test for homogeneity is:",
+      "options": ["(r-1)(c-1)", "r×c", "r+c-1", "r+c-2"],
+      "answer": 0
+    },
+    {
+      "question": "The chi-square test for homogeneity is used to test:",
+      "options": ["Whether several populations have same distribution", "Association between two variables", "Goodness of fit", "Difference between two means"],
+      "answer": 0
+    },
+    {
+      "question": "The likelihood ratio test statistic is:",
+      "options": ["-2 ln(λ)", "2 ln(λ)", "ln(λ)", "1/ln(λ)"],
+      "answer": 0
+    },
+    {
+      "question": "The Wald test statistic is based on:",
+      "options": ["Difference between estimated and hypothesized values", "Likelihood ratio", "Score function", "All of these"],
+      "answer": 0
+    },
+    {
+      "question": "The score test is also called:",
+      "options": ["Lagrange multiplier test", "Wald test", "Likelihood ratio test", "F-test"],
+      "answer": 0
+    },
+    {
+      "question": "The bootstrap method is used for:",
+      "options": ["Estimating standard errors", "Testing hypotheses", "Confidence intervals", "All of these"],
+      "answer": 3
+    },
+    {
+      "question": "The jackknife method is used for:",
+      "options": ["Estimating bias", "Testing hypotheses", "Confidence intervals", "All of these"],
+      "answer": 0
+    }
+  ]
+}
