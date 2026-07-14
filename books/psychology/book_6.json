@@ -1,0 +1,606 @@
+{
+  "category": "Positive Psychology",
+  "totalQuestions": 59,
+  "questions": [
+    {
+      "question": "Positive psychology is the study of:",
+      "options": [
+        "Mental illness only",
+        "Human strengths, well-being, and flourishing",
+        "Cognitive processes only",
+        "Behavioral disorders only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Martin Seligman is known as the:",
+      "options": [
+        "Father of behaviorism",
+        "Father of positive psychology",
+        "Father of psychoanalysis",
+        "Father of cognitive psychology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The PERMA model includes:",
+      "options": [
+        "Positive emotion, Engagement, Relationships, Meaning, Accomplishment",
+        "Positive emotion, Energy, Relationships, Meaning, Achievement",
+        "Pleasure, Engagement, Relationships, Meaning, Achievement",
+        "Positive emotion, Engagement, Relaxation, Meaning, Accomplishment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Positive emotion in the PERMA model refers to:",
+      "options": [
+        "Avoiding all emotions",
+        "Experiencing joy, gratitude, hope, and other positive feelings",
+        "Only happiness",
+        "Only pleasure"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Engagement in the PERMA model refers to:",
+      "options": [
+        "Being bored",
+        "Being fully absorbed and immersed in activities",
+        "Avoiding activities",
+        "Multitasking"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Relationships in the PERMA model refer to:",
+      "options": [
+        "Isolation",
+        "Having supportive and positive social connections",
+        "Avoiding others",
+        "Only romantic relationships"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meaning in the PERMA model refers to:",
+      "options": [
+        "Having no purpose",
+        "Having a sense of purpose and meaning in life",
+        "Only material success",
+        "Only career success"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Accomplishment in the PERMA model refers to:",
+      "options": [
+        "Giving up on goals",
+        "Achieving goals and having a sense of accomplishment",
+        "Only career goals",
+        "Only academic goals"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Subjective well-being refers to:",
+      "options": [
+        "Objective life conditions",
+        "People's self-evaluation of their happiness and life satisfaction",
+        "Only financial status",
+        "Only health status"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The hedonic perspective of well-being focuses on:",
+      "options": [
+        "Meaning and purpose",
+        "Pleasure and happiness",
+        "Self-actualization",
+        "Personal growth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The eudaimonic perspective of well-being focuses on:",
+      "options": [
+        "Pleasure and happiness",
+        "Meaning, purpose, and self-realization",
+        "Avoiding pain",
+        "Material success"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Character strengths are:",
+      "options": [
+        "Negative traits",
+        "Positive traits that are valued across cultures",
+        "Physical abilities",
+        "Cognitive abilities only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The VIA Classification of Character Strengths was developed by:",
+      "options": [
+        "Seligman and Csikszentmihalyi",
+        "Peterson and Seligman",
+        "Maslow and Rogers",
+        "Freud and Jung"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Wisdom and knowledge is a virtue that includes:",
+      "options": [
+        "Creativity, curiosity, and love of learning",
+        "Bravery and persistence",
+        "Kindness and love",
+        "Modesty and humility"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Courage is a virtue that includes:",
+      "options": [
+        "Creativity and curiosity",
+        "Bravery, persistence, and integrity",
+        "Kindness and love",
+        "Gratitude and hope"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Humanity is a virtue that includes:",
+      "options": [
+        "Creativity and curiosity",
+        "Bravery and persistence",
+        "Kindness, love, and social intelligence",
+        "Modesty and humility"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Justice is a virtue that includes:",
+      "options": [
+        "Creativity and curiosity",
+        "Bravery and persistence",
+        "Citizenship, fairness, and leadership",
+        "Gratitude and hope"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Temperance is a virtue that includes:",
+      "options": [
+        "Creativity and curiosity",
+        "Forgiveness, humility, and self-regulation",
+        "Kindness and love",
+        "Gratitude and hope"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Transcendence is a virtue that includes:",
+      "options": [
+        "Creativity and curiosity",
+        "Bravery and persistence",
+        "Gratitude, hope, and spirituality",
+        "Kindness and love"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Resilience is defined as:",
+      "options": [
+        "Giving up easily",
+        "The ability to bounce back from adversity",
+        "Avoiding challenges",
+        "Ignoring problems"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Gratitude is associated with:",
+      "options": [
+        "Lower well-being",
+        "Higher well-being and life satisfaction",
+        "No change in well-being",
+        "Increased anxiety"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Optimism is defined as:",
+      "options": [
+        "Expecting negative outcomes",
+        "Expecting positive outcomes",
+        "Having no expectations",
+        "Ignoring reality"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pessimism is defined as:",
+      "options": [
+        "Expecting positive outcomes",
+        "Expecting negative outcomes",
+        "Having no expectations",
+        "Ignoring reality"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Explanatory style refers to:",
+      "options": [
+        "How people explain causes of events",
+        "How people explain their emotions",
+        "How people explain others' behavior",
+        "How people explain their personality"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Optimistic explanatory style involves:",
+      "options": [
+        "Attributing negative events to internal, stable, and global factors",
+        "Attributing negative events to external, temporary, and specific factors",
+        "Attributing positive events to external, temporary, and specific factors",
+        "Ignoring explanations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Learned optimism was proposed by:",
+      "options": [
+        "Albert Bandura",
+        "Martin Seligman",
+        "Mihaly Csikszentmihalyi",
+        "Christopher Peterson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Flow was described by:",
+      "options": [
+        "Martin Seligman",
+        "Mihaly Csikszentmihalyi",
+        "Albert Bandura",
+        "Lev Vygotsky"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Flow is characterized by:",
+      "options": [
+        "Boredom and disengagement",
+        "Complete absorption and immersion in an activity",
+        "Anxiety and stress",
+        "Lack of focus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The flow state occurs when:",
+      "options": [
+        "Challenge exceeds skill",
+        "Skill exceeds challenge",
+        "Challenge and skill are balanced and high",
+        "Challenge and skill are both low"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Mindfulness is defined as:",
+      "options": [
+        "Focusing on the past",
+        "Focusing on the future",
+        "Paying attention to the present moment with acceptance",
+        "Avoiding all thoughts"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Mindfulness-based interventions have been shown to:",
+      "options": [
+        "Increase stress",
+        "Reduce stress and improve well-being",
+        "Have no effect",
+        "Increase anxiety"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Self-compassion involves:",
+      "options": [
+        "Being harsh on oneself",
+        "Being kind and understanding to oneself in times of suffering",
+        "Ignoring one's own needs",
+        "Overly criticizing oneself"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Gratitude interventions (e.g., gratitude journals) are associated with:",
+      "options": [
+        "Lower happiness",
+        "Higher happiness and life satisfaction",
+        "No change in well-being",
+        "Increased depression"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Savoring refers to:",
+      "options": [
+        "Ignoring positive experiences",
+        "Actively appreciating and enjoying positive experiences",
+        "Focusing on negative experiences",
+        "Avoiding experiences"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Broaden-and-build theory was proposed by:",
+      "options": [
+        "Martin Seligman",
+        "Barbara Fredrickson",
+        "Mihaly Csikszentmihalyi",
+        "Christopher Peterson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "According to broaden-and-build theory, positive emotions:",
+      "options": [
+        "Narrow thinking and reduce resources",
+        "Broaden thinking and build personal resources",
+        "Have no effect on thinking",
+        "Only affect behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Positive emotions include:",
+      "options": [
+        "Anger and fear",
+        "Joy, gratitude, serenity, and hope",
+        "Sadness and anxiety",
+        "Guilt and shame"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Emotional intelligence involves:",
+      "options": [
+        "Ignoring emotions",
+        "Understanding and managing one's own and others' emotions",
+        "Only managing one's own emotions",
+        "Only understanding others' emotions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The broaden-and-build theory suggests positive emotions lead to:",
+      "options": [
+        "Narrowed attention",
+        "Expanded attention and creativity",
+        "Reduced social connections",
+        "Decreased well-being"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Positive psychology emphasizes:",
+      "options": [
+        "Only treating mental illness",
+        "Building strengths and promoting flourishing",
+        "Only studying negative emotions",
+        "Only focusing on trauma"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Post-traumatic growth refers to:",
+      "options": [
+        "No change after trauma",
+        "Positive psychological change following trauma",
+        "Negative change following trauma",
+        "Avoiding trauma"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Self-determination theory emphasizes:",
+      "options": [
+        "External motivation only",
+        "Autonomy, competence, and relatedness",
+        "Only autonomy",
+        "Only competence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Intrinsic motivation refers to:",
+      "options": [
+        "Doing something for external rewards",
+        "Doing something for internal satisfaction and interest",
+        "Avoiding activities",
+        "Doing something under pressure"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Extrinsic motivation refers to:",
+      "options": [
+        "Doing something for internal satisfaction",
+        "Doing something for external rewards or to avoid punishment",
+        "Avoiding activities",
+        "Doing something out of curiosity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Autonomy in self-determination theory refers to:",
+      "options": [
+        "Being controlled by others",
+        "Having choice and control over one's actions",
+        "Avoiding responsibility",
+        "Being dependent on others"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Competence in self-determination theory refers to:",
+      "options": [
+        "Feeling incapable",
+        "Feeling capable and effective in activities",
+        "Avoiding challenges",
+        "Feeling helpless"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Relatedness in self-determination theory refers to:",
+      "options": [
+        "Isolation from others",
+        "Feeling connected to others",
+        "Avoiding relationships",
+        "Being dependent on others"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hope is defined as:",
+      "options": [
+        "Only wanting something without any plan",
+        "A cognitive process involving goals, pathways, and agency",
+        "Only agency",
+        "Only pathways"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agency in hope theory refers to:",
+      "options": [
+        "Belief in one's ability to find routes to goals",
+        "Belief in one's ability to achieve goals",
+        "Having no goals",
+        "Giving up on goals"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pathways in hope theory refers to:",
+      "options": [
+        "Belief in one's ability to achieve goals",
+        "Belief in one's ability to find routes to goals",
+        "Having no goals",
+        "Giving up on goals"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Positive psychology interventions include:",
+      "options": [
+        "Only medication",
+        "Gratitude journaling, acts of kindness, and mindfulness",
+        "Only cognitive therapy",
+        "Only behavior therapy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Acts of kindness have been shown to:",
+      "options": [
+        "Decrease well-being",
+        "Increase well-being and happiness",
+        "Have no effect",
+        "Increase stress"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Social connectedness is associated with:",
+      "options": [
+        "Lower well-being",
+        "Higher well-being and longevity",
+        "No change in well-being",
+        "Increased isolation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Forgiveness has been shown to:",
+      "options": [
+        "Increase stress",
+        "Improve mental and physical health",
+        "Decrease well-being",
+        "Have no effect"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Meaning in life is associated with:",
+      "options": [
+        "Lower well-being",
+        "Higher well-being and resilience",
+        "No change in well-being",
+        "Increased anxiety"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Positive psychology aims to:",
+      "options": [
+        "Only reduce suffering",
+        "Reduce suffering and increase flourishing",
+        "Only increase happiness",
+        "Only treat mental illness"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The happiness set-point theory suggests that:",
+      "options": [
+        "Happiness is determined entirely by circumstances",
+        "Happiness returns to a baseline level after major life events",
+        "Happiness is entirely genetic",
+        "Happiness never changes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Adaptation is the tendency to:",
+      "options": [
+        "Become more sensitive to change",
+        "Become less sensitive to change over time",
+        "Avoid all change",
+        "React intensely to all changes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The hedonic treadmill refers to:",
+      "options": [
+        "Happiness is constantly increasing",
+        "People return to their baseline happiness after positive or negative events",
+        "Happiness is always decreasing",
+        "Happiness never changes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Eudaimonia is:",
+      "options": [
+        "A state of pleasure",
+        "A state of living well and flourishing",
+        "A state of pain",
+        "A state of apathy"
+      ],
+      "answer": 1
+    }
+  ]
+}

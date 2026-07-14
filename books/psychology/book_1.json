@@ -1,0 +1,906 @@
+{
+  "category": "Cognitive Psychology",
+  "totalQuestions": 86,
+  "questions": [
+    {
+      "question": "Cognitive psychology primarily focuses on:",
+      "options": [
+        "Behavioral responses",
+        "Mental processes",
+        "Genetic influences",
+        "Social interactions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is considered the father of cognitive psychology?",
+      "options": [
+        "B.F. Skinner",
+        "Sigmund Freud",
+        "Ulric Neisser",
+        "Jean Piaget"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The term 'cognitive revolution' refers to:",
+      "options": [
+        "The shift from behaviorism to cognitive psychology",
+        "The shift from psychoanalysis to behaviorism",
+        "The shift from cognitive to behavioral psychology",
+        "The shift from humanism to behaviorism"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which approach emphasizes the study of mental processes?",
+      "options": [
+        "Behaviorism",
+        "Cognitive psychology",
+        "Psychoanalysis",
+        "Humanism"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Short-term memory has a capacity of approximately:",
+      "options": [
+        "7 items",
+        "5 items",
+        "10 items",
+        "3 items"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The process of converting sensory information into a form that can be stored in memory is called:",
+      "options": [
+        "Retrieval",
+        "Encoding",
+        "Storage",
+        "Rehearsal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of memory has an unlimited capacity?",
+      "options": [
+        "Sensory memory",
+        "Short-term memory",
+        "Long-term memory",
+        "Working memory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The 'magical number seven, plus or minus two' is associated with:",
+      "options": [
+        "Long-term memory",
+        "Short-term memory",
+        "Sensory memory",
+        "Procedural memory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Automatic processing refers to:",
+      "options": [
+        "Effortful encoding of information",
+        "Unconscious encoding of incidental information",
+        "Deliberate memorization",
+        "Rehearsal of information"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Effortful processing requires:",
+      "options": [
+        "No attention",
+        "Minimal effort",
+        "Conscious effort and attention",
+        "Automatic encoding"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Iconic memory is a type of:",
+      "options": [
+        "Sensory memory for visual information",
+        "Sensory memory for auditory information",
+        "Short-term memory",
+        "Long-term memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Echoic memory is a type of:",
+      "options": [
+        "Sensory memory for visual information",
+        "Sensory memory for auditory information",
+        "Short-term memory",
+        "Long-term memory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The process of getting information out of memory is called:",
+      "options": [
+        "Encoding",
+        "Storage",
+        "Retrieval",
+        "Rehearsal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which memory system holds information for less than a second?",
+      "options": [
+        "Long-term memory",
+        "Short-term memory",
+        "Sensory memory",
+        "Working memory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Chunking is a method used to:",
+      "options": [
+        "Increase the capacity of short-term memory",
+        "Decrease the capacity of short-term memory",
+        "Improve sensory memory",
+        "Enhance long-term memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rehearsal is important for:",
+      "options": [
+        "Transferring information from sensory to short-term memory",
+        "Transferring information from short-term to long-term memory",
+        "Transferring information from long-term to sensory memory",
+        "Forgetting information"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Explicit memory is also known as:",
+      "options": [
+        "Implicit memory",
+        "Declarative memory",
+        "Procedural memory",
+        "Non-declarative memory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Implicit memory is also known as:",
+      "options": [
+        "Declarative memory",
+        "Explicit memory",
+        "Non-declarative memory",
+        "Semantic memory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which type of memory includes skills and habits?",
+      "options": [
+        "Semantic memory",
+        "Episodic memory",
+        "Procedural memory",
+        "Declarative memory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Semantic memory refers to:",
+      "options": [
+        "Memory for personal experiences",
+        "Memory for facts and knowledge",
+        "Memory for skills",
+        "Memory for emotions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Episodic memory refers to:",
+      "options": [
+        "Memory for facts and knowledge",
+        "Memory for personal experiences and events",
+        "Memory for skills",
+        "Memory for habits"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The hippocampus is crucial for:",
+      "options": [
+        "Procedural memory",
+        "Semantic memory",
+        "Forming new explicit memories",
+        "Implicit memory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The cerebellum is important for:",
+      "options": [
+        "Explicit memory",
+        "Declarative memory",
+        "Implicit/procedural memory",
+        "Semantic memory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Amnesia refers to:",
+      "options": [
+        "Enhanced memory",
+        "Memory loss",
+        "Increased intelligence",
+        "Improved cognitive function"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Retrograde amnesia is:",
+      "options": [
+        "Inability to form new memories",
+        "Inability to recall past memories",
+        "Loss of procedural memory",
+        "Loss of semantic memory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Anterograde amnesia is:",
+      "options": [
+        "Inability to recall past memories",
+        "Inability to form new memories",
+        "Loss of procedural memory",
+        "Loss of sensory memory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The primacy effect refers to:",
+      "options": [
+        "Better recall of items at the beginning of a list",
+        "Better recall of items at the end of a list",
+        "Better recall of middle items",
+        "Better recall of all items equally"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The recency effect refers to:",
+      "options": [
+        "Better recall of items at the beginning of a list",
+        "Better recall of items at the end of a list",
+        "Better recall of middle items",
+        "Better recall of all items equally"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The serial position effect combines:",
+      "options": [
+        "Primacy and recency effects",
+        "Encoding and retrieval",
+        "Storage and retrieval",
+        "Sensory and short-term memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Proactive interference occurs when:",
+      "options": [
+        "Old information interferes with new information",
+        "New information interferes with old information",
+        "Old information enhances new information",
+        "New information enhances old information"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Retroactive interference occurs when:",
+      "options": [
+        "Old information interferes with new information",
+        "New information interferes with old information",
+        "Old information enhances new information",
+        "New information enhances old information"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Repression is a defense mechanism that involves:",
+      "options": [
+        "Conscious forgetting",
+        "Unconscious forgetting",
+        "Enhanced memory",
+        "Improved recall"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Misinformation effect refers to:",
+      "options": [
+        "Enhanced memory",
+        "Memory distortion due to misleading information",
+        "Improved recall",
+        "Accurate memory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Source amnesia is:",
+      "options": [
+        "Forgetting the source of information",
+        "Forgetting the information itself",
+        "Forgetting skills",
+        "Forgetting habits"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Deja vu is the feeling of:",
+      "options": [
+        "Having experienced something before",
+        "Seeing something for the first time",
+        "Forgetting something",
+        "Learning something new"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Attention is defined as:",
+      "options": [
+        "The ability to ignore stimuli",
+        "The ability to focus on specific stimuli",
+        "The ability to remember everything",
+        "The ability to process all information"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Selective attention refers to:",
+      "options": [
+        "Processing multiple stimuli simultaneously",
+        "Focusing on one stimulus while ignoring others",
+        "Ignoring all stimuli",
+        "Processing all stimuli equally"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Divided attention refers to:",
+      "options": [
+        "Focusing on one stimulus",
+        "Processing multiple stimuli simultaneously",
+        "Ignoring all stimuli",
+        "Processing no stimuli"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Inattentional blindness is:",
+      "options": [
+        "Not seeing visible objects due to focused attention",
+        "Seeing all visible objects",
+        "Not hearing audible sounds",
+        "Remembering everything"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change blindness is:",
+      "options": [
+        "Not detecting changes in visual scenes",
+        "Detecting all changes",
+        "Ignoring auditory changes",
+        "Remembering all changes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Automatic processing requires:",
+      "options": [
+        "Conscious effort",
+        "No conscious effort",
+        "Deliberate attention",
+        "Extensive rehearsal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Controlled processing requires:",
+      "options": [
+        "No conscious effort",
+        "Conscious effort and attention",
+        "Minimal attention",
+        "Automatic encoding"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Stroop effect demonstrates:",
+      "options": [
+        "Automatic processing interference",
+        "Enhanced controlled processing",
+        "Improved memory",
+        "Better attention"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Language is defined as:",
+      "options": [
+        "A system of communication using sounds and symbols",
+        "A system of communication using only gestures",
+        "A system of communication using only written words",
+        "A system of communication using only pictures"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Phonemes are:",
+      "options": [
+        "The smallest units of meaning",
+        "The smallest units of sound",
+        "The smallest units of grammar",
+        "The largest units of language"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Morphemes are:",
+      "options": [
+        "The smallest units of sound",
+        "The smallest units of meaning",
+        "The largest units of language",
+        "Units of grammar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Syntax refers to:",
+      "options": [
+        "The meaning of words",
+        "The rules for combining words into sentences",
+        "The sounds of language",
+        "The use of language in context"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Semantics refers to:",
+      "options": [
+        "The rules for combining words",
+        "The meaning of words and sentences",
+        "The sounds of language",
+        "The use of language in context"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pragmatics refers to:",
+      "options": [
+        "The meaning of words",
+        "The rules for combining words",
+        "The sounds of language",
+        "The use of language in social context"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Broca's area is associated with:",
+      "options": [
+        "Language comprehension",
+        "Language production",
+        "Memory formation",
+        "Attention"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Wernicke's area is associated with:",
+      "options": [
+        "Language production",
+        "Language comprehension",
+        "Memory formation",
+        "Attention"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Aphasia is:",
+      "options": [
+        "Enhanced language ability",
+        "Language impairment due to brain damage",
+        "Improved memory",
+        "Better attention"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Broca's aphasia is characterized by:",
+      "options": [
+        "Difficulty understanding language",
+        "Difficulty producing language",
+        "Difficulty reading",
+        "Difficulty writing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Wernicke's aphasia is characterized by:",
+      "options": [
+        "Difficulty producing language",
+        "Difficulty understanding language",
+        "Difficulty speaking",
+        "Difficulty reading"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The linguistic relativity hypothesis suggests that:",
+      "options": [
+        "Language determines thought",
+        "Thought determines language",
+        "Language and thought are unrelated",
+        "Language is irrelevant to cognition"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Problem-solving involves:",
+      "options": [
+        "Finding a solution to a problem",
+        "Ignoring the problem",
+        "Avoiding the problem",
+        "Forgetting the problem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Algorithms are:",
+      "options": [
+        "Shortcuts in problem-solving",
+        "Step-by-step procedures for solving problems",
+        "Random guesses",
+        "Intuitive solutions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Heuristics are:",
+      "options": [
+        "Step-by-step procedures",
+        "Mental shortcuts in problem-solving",
+        "Random solutions",
+        "Guaranteed solutions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The availability heuristic is based on:",
+      "options": [
+        "Logical reasoning",
+        "Ease of recalling examples",
+        "Random guesses",
+        "Step-by-step procedures"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The representativeness heuristic is based on:",
+      "options": [
+        "Ease of recalling examples",
+        "Similarity to a prototype",
+        "Logical reasoning",
+        "Random guesses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Confirmation bias is:",
+      "options": [
+        "Ignoring information that confirms beliefs",
+        "Seeking information that confirms beliefs",
+        "Ignoring all information",
+        "Seeking contradictory information"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Functional fixedness is:",
+      "options": [
+        "Seeing new uses for objects",
+        "Seeing only traditional uses for objects",
+        "Ignoring all objects",
+        "Finding creative solutions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mental set refers to:",
+      "options": [
+        "Tendency to approach problems in a flexible way",
+        "Tendency to approach problems in a fixed way",
+        "Ignoring problems",
+        "Avoiding problems"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Insight refers to:",
+      "options": [
+        "Slow, methodical problem-solving",
+        "Sudden realization of a solution",
+        "Random guessing",
+        "Step-by-step procedures"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Divergent thinking involves:",
+      "options": [
+        "Finding one correct solution",
+        "Generating multiple solutions",
+        "Ignoring all solutions",
+        "Finding no solutions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Convergent thinking involves:",
+      "options": [
+        "Generating multiple solutions",
+        "Finding one correct solution",
+        "Ignoring all solutions",
+        "Random guessing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Decision-making involves:",
+      "options": [
+        "Choosing between alternatives",
+        "Ignoring alternatives",
+        "Random choices",
+        "Avoiding decisions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Framing effect refers to:",
+      "options": [
+        "Ignoring how options are presented",
+        "Influence of presentation on decisions",
+        "Making random decisions",
+        "Avoiding decisions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Anchoring bias is:",
+      "options": [
+        "Relying on the first piece of information",
+        "Ignoring the first piece of information",
+        "Random decision-making",
+        "Avoiding decisions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Overconfidence bias refers to:",
+      "options": [
+        "Underestimating one's abilities",
+        "Overestimating one's abilities",
+        "Accurately estimating one's abilities",
+        "Ignoring one's abilities"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Perception is defined as:",
+      "options": [
+        "The process of organizing and interpreting sensory information",
+        "The process of only detecting sensory information",
+        "The process of ignoring sensory information",
+        "The process of storing sensory information"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sensation is defined as:",
+      "options": [
+        "The process of organizing sensory information",
+        "The process of detecting physical energy from the environment",
+        "The process of interpreting sensory information",
+        "The process of storing sensory information"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The absolute threshold is:",
+      "options": [
+        "The minimum stimulation needed to detect a stimulus 50% of the time",
+        "The maximum stimulation needed to detect a stimulus",
+        "The minimum stimulation needed to detect a stimulus 100% of the time",
+        "The maximum stimulation needed to detect a stimulus 50% of the time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The difference threshold (JND) is:",
+      "options": [
+        "The minimum difference between two stimuli required for detection 50% of the time",
+        "The maximum difference between two stimuli",
+        "The minimum difference between two stimuli required for detection 100% of the time",
+        "The maximum difference required for detection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sensory adaptation refers to:",
+      "options": [
+        "Increased sensitivity to constant stimulation",
+        "Decreased sensitivity to constant stimulation",
+        "No change in sensitivity",
+        "Enhanced perception"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Top-down processing is:",
+      "options": [
+        "Processing that starts with sensory information",
+        "Processing that is influenced by expectations and prior knowledge",
+        "Processing that ignores prior knowledge",
+        "Processing that only uses sensory information"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bottom-up processing is:",
+      "options": [
+        "Processing influenced by expectations",
+        "Processing that starts with sensory information",
+        "Processing that ignores sensory information",
+        "Processing based on prior knowledge"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Gestalt principle of proximity states that:",
+      "options": [
+        "Objects that are similar are perceived as a group",
+        "Objects that are close together are perceived as a group",
+        "Objects that are continuous are perceived as a group",
+        "Objects that are closed are perceived as a group"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Gestalt principle of similarity states that:",
+      "options": [
+        "Objects that are close together are perceived as a group",
+        "Objects that are similar are perceived as a group",
+        "Objects that are continuous are perceived as a group",
+        "Objects that are closed are perceived as a group"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Gestalt principle of closure states that:",
+      "options": [
+        "Objects that are close together are perceived as a group",
+        "Objects that are similar are perceived as a group",
+        "We perceive incomplete figures as complete",
+        "Objects that are continuous are perceived as a group"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Gestalt principle of continuity states that:",
+      "options": [
+        "Objects that are close together are perceived as a group",
+        "Objects that are similar are perceived as a group",
+        "We perceive smooth, continuous patterns",
+        "We perceive incomplete figures as complete"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Depth perception involves:",
+      "options": [
+        "Perceiving objects as two-dimensional",
+        "Perceiving objects as three-dimensional",
+        "Perceiving objects as flat",
+        "Perceiving objects as abstract"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Binocular cues for depth perception include:",
+      "options": [
+        "Relative size",
+        "Retinal disparity",
+        "Linear perspective",
+        "Texture gradient"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Monocular cues for depth perception include:",
+      "options": [
+        "Retinal disparity",
+        "Convergence",
+        "Relative size",
+        "Binocular fusion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Ponzo illusion demonstrates:",
+      "options": [
+        "Auditory perception",
+        "Visual illusion based on depth cues",
+        "Tactile perception",
+        "Olfactory perception"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Illusions are:",
+      "options": [
+        "Accurate perceptions of reality",
+        "Misperceptions of reality",
+        "Enhanced perceptions",
+        "Reduced perceptions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cognitive psychology research methods include:",
+      "options": [
+        "Only observation",
+        "Experiments, case studies, and neuroimaging",
+        "Only case studies",
+        "Only neuroimaging"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Neuroimaging techniques like fMRI measure:",
+      "options": [
+        "Brain structure only",
+        "Brain activity by measuring blood flow",
+        "Brain activity by measuring electrical signals",
+        "Brain structure and activity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The prefrontal cortex is involved in:",
+      "options": [
+        "Memory formation",
+        "Executive functions and decision-making",
+        "Language comprehension",
+        "Vision"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The amygdala is involved in:",
+      "options": [
+        "Memory formation",
+        "Emotional processing",
+        "Language production",
+        "Motor control"
+      ],
+      "answer": 1
+    }
+  ]
+}

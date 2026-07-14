@@ -1,0 +1,726 @@
+{
+  "category": "Abnormal Psychology",
+  "totalQuestions": 63,
+  "questions": [
+    {
+      "question": "Abnormal psychology is the study of:",
+      "options": [
+        "Normal behavior",
+        "Psychological disorders and unusual behavior",
+        "Cognitive processes",
+        "Social interactions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The DSM is used to:",
+      "options": [
+        "Treat psychological disorders",
+        "Diagnose psychological disorders",
+        "Prevent psychological disorders",
+        "Study cognitive processes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The biopsychosocial model considers:",
+      "options": [
+        "Only biological factors",
+        "Only psychological factors",
+        "Biological, psychological, and social factors",
+        "Only social factors"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The diathesis-stress model suggests that:",
+      "options": [
+        "Only genetics cause disorders",
+        "Only environment causes disorders",
+        "Genetic predisposition plus stress causes disorders",
+        "Stress has no effect"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Anxiety disorders are characterized by:",
+      "options": [
+        "Excessive happiness",
+        "Excessive fear and anxiety",
+        "Excessive energy",
+        "Excessive sleep"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Generalized anxiety disorder (GAD) is characterized by:",
+      "options": [
+        "Specific phobias",
+        "Excessive worry about multiple areas of life",
+        "Panic attacks",
+        "Obsessive thoughts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Panic disorder is characterized by:",
+      "options": [
+        "Chronic worry",
+        "Recurrent unexpected panic attacks",
+        "Social anxiety",
+        "Specific fears"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Agoraphobia is the fear of:",
+      "options": [
+        "Heights",
+        "Open spaces and situations where escape might be difficult",
+        "Spiders",
+        "Crowds only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Social anxiety disorder is characterized by:",
+      "options": [
+        "Fear of animals",
+        "Fear of social situations and judgment",
+        "Fear of heights",
+        "Fear of closed spaces"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Specific phobias are:",
+      "options": [
+        "Generalized fears",
+        "Intense fears of specific objects or situations",
+        "Social fears",
+        "Panic attacks"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Obsessive-compulsive disorder (OCD) is characterized by:",
+      "options": [
+        "Only obsessions",
+        "Only compulsions",
+        "Obsessions and/or compulsions",
+        "Panic attacks"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Obsessions are:",
+      "options": [
+        "Repetitive behaviors",
+        "Intrusive, unwanted thoughts",
+        "Voluntary thoughts",
+        "Happy thoughts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Compulsions are:",
+      "options": [
+        "Intrusive thoughts",
+        "Repetitive behaviors performed to reduce anxiety",
+        "Voluntary actions",
+        "Relaxing activities"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hoarding disorder is characterized by:",
+      "options": [
+        "Excessive spending",
+        "Excessive saving of items and difficulty discarding them",
+        "Excessive cleaning",
+        "Excessive checking"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Body dysmorphic disorder involves:",
+      "options": [
+        "Dissatisfaction with weight only",
+        "Preoccupation with perceived flaws in appearance",
+        "Dissatisfaction with height only",
+        "Dissatisfaction with intelligence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Trichotillomania involves:",
+      "options": [
+        "Excessive eating",
+        "Excessive sleeping",
+        "Hair-pulling",
+        "Skin-picking"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Excoriation disorder involves:",
+      "options": [
+        "Hair-pulling",
+        "Excessive eating",
+        "Skin-picking",
+        "Excessive sleeping"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Post-traumatic stress disorder (PTSD) involves:",
+      "options": [
+        "Forgetting traumatic events",
+        "Persistent re-experiencing of traumatic events",
+        "Complete recovery from trauma",
+        "No emotional response to trauma"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Acute stress disorder is similar to PTSD but:",
+      "options": [
+        "Has no symptoms",
+        "Lasts longer than PTSD",
+        "Lasts less than one month",
+        "Lasts more than six months"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Adjustment disorder occurs:",
+      "options": [
+        "After a major positive event",
+        "Within 3 months of a stressor",
+        "After a traumatic event",
+        "Without any stressor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mood disorders are characterized by:",
+      "options": [
+        "Stable mood",
+        "Extreme fluctuations or disturbances in mood",
+        "Only depressed mood",
+        "Only manic mood"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Major depressive disorder (MDD) involves:",
+      "options": [
+        "Excessive happiness",
+        "Persistent depressed mood and loss of interest",
+        "Excessive energy",
+        "Psychotic symptoms"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dysthymia (persistent depressive disorder) involves:",
+      "options": [
+        "Episodic depression",
+        "Chronic, long-term depression",
+        "Depression only in winter",
+        "Depression only after childbirth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bipolar disorder is characterized by:",
+      "options": [
+        "Only depressive episodes",
+        "Only manic episodes",
+        "Depressive and manic episodes",
+        "Psychotic episodes only"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Bipolar I disorder involves:",
+      "options": [
+        "Hypomanic episodes",
+        "Full manic episodes and major depressive episodes",
+        "Only depressive episodes",
+        "Only manic episodes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bipolar II disorder involves:",
+      "options": [
+        "Full manic episodes",
+        "Hypomanic episodes and major depressive episodes",
+        "Only depressive episodes",
+        "Only manic episodes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cyclothymic disorder involves:",
+      "options": [
+        "Full manic episodes",
+        "Hypomanic and depressive symptoms for at least 2 years",
+        "Major depressive episodes",
+        "Psychotic episodes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Schizophrenia is characterized by:",
+      "options": [
+        "Only hallucinations",
+        "Only delusions",
+        "Delusions, hallucinations, disorganized speech, and negative symptoms",
+        "Only disorganized speech"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Positive symptoms of schizophrenia include:",
+      "options": [
+        "Flat affect and social withdrawal",
+        "Hallucinations and delusions",
+        "Lack of motivation",
+        "Cognitive deficits"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Negative symptoms of schizophrenia include:",
+      "options": [
+        "Hallucinations",
+        "Delusions",
+        "Flat affect and lack of motivation",
+        "Disorganized speech"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Delusions are:",
+      "options": [
+        "False perceptions",
+        "False beliefs",
+        "Disorganized thoughts",
+        "Incoherent speech"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hallucinations are:",
+      "options": [
+        "False beliefs",
+        "False perceptions (e.g., hearing voices)",
+        "Disorganized thoughts",
+        "Flat affect"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Paranoid schizophrenia is characterized by:",
+      "options": [
+        "Disorganized behavior",
+        "Prominent hallucinations and delusions",
+        "Catatonia",
+        "Flat affect"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Disorganized schizophrenia is characterized by:",
+      "options": [
+        "Prominent delusions",
+        "Disorganized speech and behavior",
+        "Hallucinations only",
+        "Catatonia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Catatonia involves:",
+      "options": [
+        "Excessive movement",
+        "Marked psychomotor disturbance (e.g., stupor or excitement)",
+        "Only hallucinations",
+        "Only delusions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Schizoaffective disorder involves symptoms of:",
+      "options": [
+        "Only schizophrenia",
+        "Only mood disorder",
+        "Both schizophrenia and mood disorder",
+        "Only psychosis"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Schizotypal personality disorder is characterized by:",
+      "options": [
+        "No symptoms",
+        "Eccentric behavior and magical thinking",
+        "Anti-social behavior",
+        "Dramatic behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Borderline personality disorder (BPD) is characterized by:",
+      "options": [
+        "Stable relationships",
+        "Instability in moods, relationships, and self-image",
+        "No emotional reactivity",
+        "Avoidance of relationships"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Antisocial personality disorder is characterized by:",
+      "options": [
+        "Empathy for others",
+        "Disregard for others' rights and lack of empathy",
+        "Social anxiety",
+        "Dependent behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Histrionic personality disorder is characterized by:",
+      "options": [
+        "Excessive emotionality and attention-seeking",
+        "Social withdrawal",
+        "Dependent behavior",
+        "Perfectionism"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Narcissistic personality disorder is characterized by:",
+      "options": [
+        "Low self-esteem",
+        "Grandiose sense of self-importance and need for admiration",
+        "Self-deprecation",
+        "Avoidance of attention"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Avoidant personality disorder is characterized by:",
+      "options": [
+        "Social dominance",
+        "Social inhibition and feelings of inadequacy",
+        "Extroversion",
+        "Aggressive behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dependent personality disorder is characterized by:",
+      "options": [
+        "Need for independence",
+        "Excessive need to be taken care of and clingy behavior",
+        "Self-sufficiency",
+        "Avoidance of others"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Obsessive-compulsive personality disorder (OCPD) is characterized by:",
+      "options": [
+        "Flexibility in rules",
+        "Preoccupation with orderliness and perfectionism",
+        "Lack of organization",
+        "Spontaneity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Paranoid personality disorder is characterized by:",
+      "options": [
+        "Trust in others",
+        "Distrust and suspiciousness of others",
+        "Social openness",
+        "Naivety"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Schizoid personality disorder is characterized by:",
+      "options": [
+        "Detachment from social relationships and limited emotional expression",
+        "Social engagement",
+        "Extroverted behavior",
+        "Emotional warmth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dissociative disorders involve:",
+      "options": [
+        "Complete memory recovery",
+        "Disruptions in consciousness, memory, identity, or perception",
+        "Only memory loss",
+        "Only identity confusion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dissociative amnesia involves:",
+      "options": [
+        "Complete memory loss",
+        "Inability to recall important personal information",
+        "Enhanced memory",
+        "Only forgetting childhood events"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dissociative fugue involves:",
+      "options": [
+        "Short-term memory loss",
+        "Unexpected travel and inability to recall past identity",
+        "Complete amnesia without travel",
+        "Only identity confusion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dissociative identity disorder (DID) involves:",
+      "options": [
+        "Single identity",
+        "Two or more distinct identities or personality states",
+        "Only amnesia",
+        "Only depression"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Depersonalization/derealization disorder involves:",
+      "options": [
+        "Feelings of being connected to self",
+        "Feelings of detachment from self or reality",
+        "Only derealization",
+        "Only depersonalization"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Somatic symptom disorder involves:",
+      "options": [
+        "Psychological symptoms only",
+        "Physical symptoms without clear medical cause",
+        "Only pain symptoms",
+        "Only gastrointestinal symptoms"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Illness anxiety disorder involves:",
+      "options": [
+        "No health concerns",
+        "Preoccupation with having a serious illness",
+        "Only minor health concerns",
+        "Excessive energy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Conversion disorder involves:",
+      "options": [
+        "Physical symptoms with clear medical cause",
+        "Physical symptoms with no clear medical cause",
+        "Only psychological symptoms",
+        "Only cognitive symptoms"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Factitious disorder involves:",
+      "options": [
+        "Accidental faking of illness",
+        "Intentional faking of illness for psychological reasons",
+        "Real illness",
+        "Only physical illness"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Malingering involves:",
+      "options": [
+        "Accidental faking of illness",
+        "Intentional faking of illness for external gain",
+        "Real illness",
+        "Only psychological illness"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Anorexia nervosa is characterized by:",
+      "options": [
+        "Binge eating without purging",
+        "Severe restriction of food intake and fear of gaining weight",
+        "Normal eating patterns",
+        "Excessive eating"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bulimia nervosa is characterized by:",
+      "options": [
+        "Restriction of food only",
+        "Binge eating followed by purging behaviors",
+        "Normal eating patterns",
+        "Only restriction"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Binge-eating disorder is characterized by:",
+      "options": [
+        "Binge eating without purging",
+        "Binge eating followed by purging",
+        "Restriction of food only",
+        "Normal eating patterns"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Substance use disorder involves:",
+      "options": [
+        "Occasional use without problems",
+        "Problematic pattern of substance use with significant impairment",
+        "Only alcohol use",
+        "Only drug use"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Tolerance refers to:",
+      "options": [
+        "Decreased need for a substance",
+        "Increased need for a substance to achieve the same effect",
+        "No need for a substance",
+        "Avoidance of a substance"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Withdrawal refers to:",
+      "options": [
+        "Pleasant effects of stopping a substance",
+        "Unpleasant physical and psychological symptoms when stopping a substance",
+        "No symptoms when stopping a substance",
+        "Improved mood when stopping a substance"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The dopamine hypothesis suggests that schizophrenia is related to:",
+      "options": [
+        "Low dopamine activity",
+        "Excessive dopamine activity",
+        "Low serotonin activity",
+        "Excessive serotonin activity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cognitive-behavioral therapy (CBT) is effective for:",
+      "options": [
+        "Only depression",
+        "Many psychological disorders including anxiety and depression",
+        "Only anxiety",
+        "Only schizophrenia"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Psychodynamic therapy focuses on:",
+      "options": [
+        "Changing behaviors only",
+        "Unconscious conflicts and early experiences",
+        "Changing thoughts only",
+        "Social factors only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Humanistic therapy focuses on:",
+      "options": [
+        "Unconscious conflicts",
+        "Self-actualization and personal growth",
+        "Changing behaviors",
+        "Social factors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Antidepressant medications work primarily by affecting:",
+      "options": [
+        "Dopamine only",
+        "Neurotransmitters like serotonin, norepinephrine, and dopamine",
+        "Only serotonin",
+        "Only norepinephrine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Antipsychotic medications are used to treat:",
+      "options": [
+        "Anxiety disorders",
+        "Schizophrenia and psychotic disorders",
+        "Depression",
+        "Personality disorders"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mood stabilizers are used to treat:",
+      "options": [
+        "Anxiety",
+        "Depression",
+        "Bipolar disorder",
+        "Schizophrenia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Benzodiazepines are used to treat:",
+      "options": [
+        "Schizophrenia",
+        "Anxiety disorders",
+        "Depression",
+        "Personality disorders"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "SSRI stands for:",
+      "options": [
+        "Selective Serotonin Reuptake Inhibitor",
+        "Somatic Serotonin Reuptake Inhibitor",
+        "Selective Serotonin Response Inhibitor",
+        "Systemic Serotonin Reuptake Inhibitor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The diathesis-stress model is used to explain:",
+      "options": [
+        "Normal development",
+        "The development of psychological disorders",
+        "Cognitive development",
+        "Social development"
+      ],
+      "answer": 1
+    }
+  ]
+}

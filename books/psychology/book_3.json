@@ -1,0 +1,696 @@
+{
+  "category": "Developmental Psychology",
+  "totalQuestions": 70,
+  "questions": [
+    {
+      "question": "Developmental psychology studies:",
+      "options": [
+        "Only childhood development",
+        "Physical, cognitive, and social changes across the lifespan",
+        "Only cognitive changes",
+        "Only physical changes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The prenatal stage lasts approximately:",
+      "options": [
+        "9 months",
+        "6 months",
+        "12 months",
+        "3 months"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The germinal stage of prenatal development is the:",
+      "options": [
+        "First 2 weeks",
+        "First month",
+        "First 3 months",
+        "First week"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The embryonic stage of prenatal development is the:",
+      "options": [
+        "First 2 weeks",
+        "2 to 8 weeks",
+        "9 to 40 weeks",
+        "First month"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The fetal stage of prenatal development is the:",
+      "options": [
+        "First 2 weeks",
+        "2 to 8 weeks",
+        "9 weeks to birth",
+        "First month"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Teratogens are:",
+      "options": [
+        "Substances that promote healthy development",
+        "Substances that can harm prenatal development",
+        "Substances that enhance fetal growth",
+        "Substances that prevent birth defects"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fetal alcohol syndrome is caused by:",
+      "options": [
+        "Maternal smoking",
+        "Maternal alcohol consumption",
+        "Maternal drug use",
+        "Maternal nutrition"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Habituation in infants refers to:",
+      "options": [
+        "Increased response to repeated stimuli",
+        "Decreased response to repeated stimuli",
+        "No response to stimuli",
+        "Enhanced learning"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Jean Piaget is known for his theory of:",
+      "options": [
+        "Psychosocial development",
+        "Cognitive development",
+        "Psychosexual development",
+        "Moral development"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Piaget's sensorimotor stage occurs from:",
+      "options": [
+        "Birth to 2 years",
+        "2 to 7 years",
+        "7 to 11 years",
+        "11 years and up"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the sensorimotor stage, infants learn through:",
+      "options": [
+        "Abstract thinking",
+        "Senses and motor actions",
+        "Language and logic",
+        "Hypothetical reasoning"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Object permanence is the understanding that:",
+      "options": [
+        "Objects disappear forever when not seen",
+        "Objects continue to exist even when not seen",
+        "Objects are always visible",
+        "Objects are imaginary"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Object permanence develops during which stage?",
+      "options": [
+        "Preoperational stage",
+        "Sensorimotor stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Piaget's preoperational stage occurs from:",
+      "options": [
+        "Birth to 2 years",
+        "2 to 7 years",
+        "7 to 11 years",
+        "11 years and up"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Egocentrism is characteristic of which stage?",
+      "options": [
+        "Sensorimotor stage",
+        "Preoperational stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Egocentrism in children refers to:",
+      "options": [
+        "Being selfish",
+        "Inability to take another's perspective",
+        "Focusing on oneself only",
+        "Understanding others' perspectives"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Animism is the belief that:",
+      "options": [
+        "Only humans have thoughts",
+        "Inanimate objects have feelings and thoughts",
+        "Animals have no feelings",
+        "Only living things have thoughts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Piaget's concrete operational stage occurs from:",
+      "options": [
+        "Birth to 2 years",
+        "2 to 7 years",
+        "7 to 11 years",
+        "11 years and up"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Conservation is the understanding that:",
+      "options": [
+        "Quantity changes when appearance changes",
+        "Quantity remains the same despite changes in appearance",
+        "Appearance determines quantity",
+        "Quantity is unimportant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Conservation develops during which stage?",
+      "options": [
+        "Sensorimotor stage",
+        "Preoperational stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Piaget's formal operational stage begins at:",
+      "options": [
+        "2 years",
+        "7 years",
+        "11 years",
+        "15 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Abstract thinking develops during which stage?",
+      "options": [
+        "Sensorimotor stage",
+        "Preoperational stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Lev Vygotsky emphasized the role of:",
+      "options": [
+        "Biological maturation",
+        "Social interaction and culture",
+        "Rewards and punishments",
+        "Unconscious conflicts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The zone of proximal development (ZPD) is:",
+      "options": [
+        "Tasks a child can do alone",
+        "Tasks a child cannot do at all",
+        "Tasks a child can do with guidance",
+        "Tasks a child can do perfectly"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Scaffolding in Vygotsky's theory refers to:",
+      "options": [
+        "Building physical structures",
+        "Providing support that is gradually removed",
+        "Punishing incorrect behavior",
+        "Ignoring the child's efforts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Erik Erikson proposed the theory of:",
+      "options": [
+        "Cognitive development",
+        "Psychosocial development",
+        "Psychosexual development",
+        "Moral development"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Erikson's first stage of development is:",
+      "options": [
+        "Autonomy vs. shame",
+        "Initiative vs. guilt",
+        "Trust vs. mistrust",
+        "Industry vs. inferiority"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The psychosocial crisis of infancy is:",
+      "options": [
+        "Autonomy vs. shame",
+        "Trust vs. mistrust",
+        "Initiative vs. guilt",
+        "Industry vs. inferiority"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Erikson's second stage (toddlerhood) is:",
+      "options": [
+        "Trust vs. mistrust",
+        "Autonomy vs. shame and doubt",
+        "Initiative vs. guilt",
+        "Industry vs. inferiority"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Erikson's third stage (preschool) is:",
+      "options": [
+        "Trust vs. mistrust",
+        "Autonomy vs. shame",
+        "Initiative vs. guilt",
+        "Industry vs. inferiority"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Erikson's fourth stage (school age) is:",
+      "options": [
+        "Trust vs. mistrust",
+        "Autonomy vs. shame",
+        "Initiative vs. guilt",
+        "Industry vs. inferiority"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Erikson's fifth stage (adolescence) is:",
+      "options": [
+        "Intimacy vs. isolation",
+        "Generativity vs. stagnation",
+        "Identity vs. role confusion",
+        "Integrity vs. despair"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Erikson's sixth stage (young adulthood) is:",
+      "options": [
+        "Identity vs. role confusion",
+        "Intimacy vs. isolation",
+        "Generativity vs. stagnation",
+        "Integrity vs. despair"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Erikson's seventh stage (middle adulthood) is:",
+      "options": [
+        "Identity vs. role confusion",
+        "Intimacy vs. isolation",
+        "Generativity vs. stagnation",
+        "Integrity vs. despair"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Erikson's eighth stage (late adulthood) is:",
+      "options": [
+        "Identity vs. role confusion",
+        "Intimacy vs. isolation",
+        "Generativity vs. stagnation",
+        "Integrity vs. despair"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Attachment theory was developed by:",
+      "options": [
+        "Jean Piaget",
+        "Lev Vygotsky",
+        "John Bowlby",
+        "Erik Erikson"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Secure attachment is characterized by:",
+      "options": [
+        "Anxiety when caregiver leaves",
+        "Distress when caregiver leaves and joy upon return",
+        "Indifference to caregiver",
+        "Avoidance of caregiver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Insecure-avoidant attachment is characterized by:",
+      "options": [
+        "Distress when caregiver leaves",
+        "Indifference to caregiver's presence and absence",
+        "Clinginess to caregiver",
+        "Joy upon caregiver's return"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Insecure-anxious attachment is characterized by:",
+      "options": [
+        "Indifference to caregiver",
+        "Extreme distress when caregiver leaves and difficulty calming down",
+        "Joy upon caregiver's return",
+        "Avoidance of caregiver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Harry Harlow's research with monkeys demonstrated the importance of:",
+      "options": [
+        "Food over comfort",
+        "Comfort over food",
+        "Parental discipline",
+        "Cognitive development"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imprinting was studied by:",
+      "options": [
+        "John Bowlby",
+        "Konrad Lorenz",
+        "Harry Harlow",
+        "Mary Ainsworth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Critical periods are:",
+      "options": [
+        "Times when learning is impossible",
+        "Optimal periods for certain experiences to occur",
+        "Times when development stops",
+        "Times when all learning is equal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Lawrence Kohlberg studied:",
+      "options": [
+        "Cognitive development",
+        "Moral development",
+        "Psychosocial development",
+        "Attachment"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Kohlberg's preconventional level of morality is based on:",
+      "options": [
+        "Internalized principles",
+        "Rewards and punishments",
+        "Social norms",
+        "Universal ethics"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Kohlberg's conventional level of morality is based on:",
+      "options": [
+        "Rewards and punishments",
+        "Social norms and laws",
+        "Universal ethical principles",
+        "Self-interest"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Kohlberg's postconventional level of morality is based on:",
+      "options": [
+        "Rewards and punishments",
+        "Social norms and laws",
+        "Universal ethical principles",
+        "Self-interest"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Carol Gilligan criticized Kohlberg's theory for:",
+      "options": [
+        "Ignoring cognitive development",
+        "Gender bias and valuing justice over care",
+        "Focusing only on children",
+        "Ignoring cultural factors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Puberty is triggered by:",
+      "options": [
+        "Cognitive development",
+        "Hormonal changes",
+        "Social factors",
+        "Environmental factors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Adolescence is characterized by:",
+      "options": [
+        "Decreased risk-taking behavior",
+        "Identity formation and increased risk-taking",
+        "Stable sense of self",
+        "Complete cognitive development"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Early adulthood is characterized by:",
+      "options": [
+        "Physical decline",
+        "Establishing intimacy and careers",
+        "Cognitive decline",
+        "Identity confusion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Middle adulthood is characterized by:",
+      "options": [
+        "Physical decline and generativity",
+        "Identity formation",
+        "Establishing intimacy",
+        "Cognitive decline"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Late adulthood is characterized by:",
+      "options": [
+        "Generativity",
+        "Integrity vs. despair and physical decline",
+        "Identity formation",
+        "Intimacy formation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Neuroplasticity refers to:",
+      "options": [
+        "The brain's inability to change",
+        "The brain's ability to reorganize and form new connections",
+        "The brain's ability to stay the same",
+        "The brain's ability to shrink"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dementia is characterized by:",
+      "options": [
+        "Enhanced cognitive function",
+        "Decline in memory and cognitive function",
+        "Improved memory",
+        "Increased intelligence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Alzheimer's disease is the most common cause of:",
+      "options": [
+        "Schizophrenia",
+        "Dementia",
+        "Depression",
+        "Anxiety"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Menopause in women typically occurs around age:",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "35"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Crystallized intelligence refers to:",
+      "options": [
+        "The ability to think quickly",
+        "Accumulated knowledge and verbal skills",
+        "The ability to solve new problems",
+        "Physical intelligence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fluid intelligence refers to:",
+      "options": [
+        "Accumulated knowledge",
+        "The ability to solve new problems and think flexibly",
+        "Verbal skills",
+        "Memory skills"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Crystallized intelligence tends to:",
+      "options": [
+        "Decline with age",
+        "Remain stable or increase with age",
+        "Decrease in childhood",
+        "Peak in adolescence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fluid intelligence tends to:",
+      "options": [
+        "Remain stable with age",
+        "Decline with age",
+        "Increase with age",
+        "Peak in late adulthood"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The prefrontal cortex is not fully developed until:",
+      "options": [
+        "Childhood",
+        "Adolescence",
+        "Early adulthood (mid-20s)",
+        "Late adulthood"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Bilingualism has been shown to:",
+      "options": [
+        "Hinder cognitive development",
+        "Enhance cognitive flexibility and executive function",
+        "Cause confusion in children",
+        "Delay language development"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Temperament refers to:",
+      "options": [
+        "Learned behaviors",
+        "Inborn personality traits and emotional reactivity",
+        "Social skills",
+        "Intelligence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Goodness of fit refers to:",
+      "options": [
+        "The match between a child's temperament and the environment",
+        "Perfect behavior in children",
+        "Physical health",
+        "Academic achievement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Peer influence becomes most significant during:",
+      "options": [
+        "Infancy",
+        "Childhood",
+        "Adolescence",
+        "Late adulthood"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Parenting styles were studied by:",
+      "options": [
+        "Jean Piaget",
+        "Diana Baumrind",
+        "John Bowlby",
+        "Albert Bandura"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The authoritative parenting style is characterized by:",
+      "options": [
+        "High control and low warmth",
+        "High warmth and high control",
+        "Low warmth and low control",
+        "High warmth and low control"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The authoritarian parenting style is characterized by:",
+      "options": [
+        "High warmth and high control",
+        "High control and low warmth",
+        "Low control and high warmth",
+        "Low control and low warmth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The permissive parenting style is characterized by:",
+      "options": [
+        "High control and low warmth",
+        "High warmth and low control",
+        "Low warmth and low control",
+        "High warmth and high control"
+      ],
+      "answer": 1
+    }
+  ]
+}

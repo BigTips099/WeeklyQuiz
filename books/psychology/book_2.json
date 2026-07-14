@@ -1,0 +1,636 @@
+{
+  "category": "Behavioral Psychology",
+  "totalQuestions": 65,
+  "questions": [
+    {
+      "question": "Behaviorism focuses primarily on:",
+      "options": [
+        "Internal mental processes",
+        "Observable behavior",
+        "Unconscious conflicts",
+        "Genetic influences"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is considered the founder of behaviorism?",
+      "options": [
+        "B.F. Skinner",
+        "John B. Watson",
+        "Ivan Pavlov",
+        "Edward Thorndike"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Classical conditioning was discovered by:",
+      "options": [
+        "B.F. Skinner",
+        "John B. Watson",
+        "Ivan Pavlov",
+        "Edward Thorndike"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In classical conditioning, the unconditioned stimulus (UCS) is:",
+      "options": [
+        "A stimulus that triggers a learned response",
+        "A stimulus that naturally triggers a response",
+        "A response to a learned stimulus",
+        "A neutral stimulus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In classical conditioning, the conditioned stimulus (CS) is:",
+      "options": [
+        "A stimulus that naturally triggers a response",
+        "A previously neutral stimulus that triggers a learned response",
+        "A response to a natural stimulus",
+        "An unconditioned response"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Pavlov's experiment, the food was the:",
+      "options": [
+        "Conditioned stimulus",
+        "Unconditioned stimulus",
+        "Conditioned response",
+        "Neutral stimulus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Pavlov's experiment, the bell was the:",
+      "options": [
+        "Unconditioned stimulus",
+        "Conditioned stimulus",
+        "Unconditioned response",
+        "Conditioned response"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Pavlov's experiment, salivation to the bell was the:",
+      "options": [
+        "Unconditioned response",
+        "Conditioned response",
+        "Unconditioned stimulus",
+        "Neutral stimulus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Acquisition in classical conditioning refers to:",
+      "options": [
+        "The weakening of a conditioned response",
+        "The initial learning of the conditioned response",
+        "The extinction of a conditioned response",
+        "The spontaneous recovery of a response"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Extinction in classical conditioning occurs when:",
+      "options": [
+        "The CS is presented repeatedly without the UCS",
+        "The UCS is presented repeatedly without the CS",
+        "The CR is strengthened",
+        "The stimulus is generalized"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Spontaneous recovery refers to:",
+      "options": [
+        "The permanent disappearance of a response",
+        "The reappearance of an extinct response after a rest period",
+        "The initial learning of a response",
+        "The generalization of a response"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Stimulus generalization occurs when:",
+      "options": [
+        "A response is only triggered by the original CS",
+        "A response is triggered by stimuli similar to the CS",
+        "A response is extinguished",
+        "A response is discriminated"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Stimulus discrimination occurs when:",
+      "options": [
+        "A response is triggered by all stimuli",
+        "A response is triggered only by the original CS",
+        "A response is extinguished",
+        "A response is generalized"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Operant conditioning was developed by:",
+      "options": [
+        "Ivan Pavlov",
+        "John B. Watson",
+        "B.F. Skinner",
+        "Edward Thorndike"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The law of effect was proposed by:",
+      "options": [
+        "B.F. Skinner",
+        "Ivan Pavlov",
+        "Edward Thorndike",
+        "John B. Watson"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The law of effect states that:",
+      "options": [
+        "All behaviors are equally likely to be repeated",
+        "Behaviors followed by positive consequences are more likely to be repeated",
+        "Behaviors followed by negative consequences are more likely to be repeated",
+        "Behaviors are randomly repeated"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Reinforcement is defined as:",
+      "options": [
+        "Any consequence that decreases behavior",
+        "Any consequence that increases behavior",
+        "Any consequence that has no effect on behavior",
+        "Any consequence that punishes behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Punishment is defined as:",
+      "options": [
+        "Any consequence that increases behavior",
+        "Any consequence that decreases behavior",
+        "Any consequence that has no effect on behavior",
+        "Any consequence that reinforces behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Positive reinforcement involves:",
+      "options": [
+        "Adding a pleasant stimulus to increase behavior",
+        "Removing a pleasant stimulus to increase behavior",
+        "Adding an unpleasant stimulus to decrease behavior",
+        "Removing an unpleasant stimulus to increase behavior"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Negative reinforcement involves:",
+      "options": [
+        "Adding a pleasant stimulus to increase behavior",
+        "Removing a pleasant stimulus to decrease behavior",
+        "Adding an unpleasant stimulus to decrease behavior",
+        "Removing an unpleasant stimulus to increase behavior"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Positive punishment involves:",
+      "options": [
+        "Adding a pleasant stimulus to decrease behavior",
+        "Adding an unpleasant stimulus to decrease behavior",
+        "Removing a pleasant stimulus to decrease behavior",
+        "Removing an unpleasant stimulus to decrease behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Negative punishment involves:",
+      "options": [
+        "Adding a pleasant stimulus to decrease behavior",
+        "Adding an unpleasant stimulus to decrease behavior",
+        "Removing a pleasant stimulus to decrease behavior",
+        "Removing an unpleasant stimulus to decrease behavior"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A reinforcer that satisfies a biological need is called:",
+      "options": [
+        "Secondary reinforcer",
+        "Primary reinforcer",
+        "Conditioned reinforcer",
+        "Generalized reinforcer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A reinforcer that is learned through association is called:",
+      "options": [
+        "Primary reinforcer",
+        "Secondary reinforcer",
+        "Unconditioned reinforcer",
+        "Biological reinforcer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Continuous reinforcement schedule means:",
+      "options": [
+        "Reinforcement after every response",
+        "Reinforcement after some responses",
+        "Reinforcement after a fixed number of responses",
+        "No reinforcement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Partial reinforcement schedule means:",
+      "options": [
+        "Reinforcement after every response",
+        "Reinforcement after some responses",
+        "Reinforcement after every correct response",
+        "No reinforcement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fixed-ratio schedule means:",
+      "options": [
+        "Reinforcement after a fixed number of responses",
+        "Reinforcement after a variable number of responses",
+        "Reinforcement after a fixed time interval",
+        "Reinforcement after a variable time interval"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Variable-ratio schedule means:",
+      "options": [
+        "Reinforcement after a fixed number of responses",
+        "Reinforcement after a variable number of responses",
+        "Reinforcement after a fixed time interval",
+        "Reinforcement after a variable time interval"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fixed-interval schedule means:",
+      "options": [
+        "Reinforcement after a fixed number of responses",
+        "Reinforcement after a variable number of responses",
+        "Reinforcement after a fixed time interval",
+        "Reinforcement after a variable time interval"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Variable-interval schedule means:",
+      "options": [
+        "Reinforcement after a fixed number of responses",
+        "Reinforcement after a variable number of responses",
+        "Reinforcement after a fixed time interval",
+        "Reinforcement after a variable time interval"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Shaping is a technique used to:",
+      "options": [
+        "Reinforce only correct responses",
+        "Reinforce successive approximations of a target behavior",
+        "Punish incorrect responses",
+        "Ignore all responses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Extinction in operant conditioning occurs when:",
+      "options": [
+        "Reinforcement is consistently given",
+        "Reinforcement is withheld",
+        "Punishment is given",
+        "The behavior is ignored"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Skinner box is used for:",
+      "options": [
+        "Studying classical conditioning",
+        "Studying operant conditioning",
+        "Studying cognitive processes",
+        "Studying social learning"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Escape learning involves:",
+      "options": [
+        "Performing a behavior to avoid an unpleasant stimulus",
+        "Performing a behavior to end an unpleasant stimulus",
+        "Performing a behavior to receive a reward",
+        "Performing a behavior to avoid a reward"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Avoidance learning involves:",
+      "options": [
+        "Performing a behavior to end an unpleasant stimulus",
+        "Performing a behavior to avoid an unpleasant stimulus before it occurs",
+        "Performing a behavior to receive a reward",
+        "Performing a behavior to avoid a reward"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Learned helplessness was studied by:",
+      "options": [
+        "B.F. Skinner",
+        "Martin Seligman",
+        "Ivan Pavlov",
+        "John B. Watson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Learned helplessness occurs when:",
+      "options": [
+        "An organism learns that it can control its environment",
+        "An organism learns that it cannot control its environment",
+        "An organism learns new behaviors easily",
+        "An organism becomes more motivated"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Observational learning was studied by:",
+      "options": [
+        "B.F. Skinner",
+        "Albert Bandura",
+        "Ivan Pavlov",
+        "John B. Watson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Albert Bandura's Bobo doll experiment demonstrated:",
+      "options": [
+        "Classical conditioning",
+        "Observational learning",
+        "Operant conditioning",
+        "Latent learning"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Vicarious reinforcement refers to:",
+      "options": [
+        "Reinforcement received directly",
+        "Reinforcement observed in others",
+        "Punishment received directly",
+        "Punishment observed in others"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Latent learning was studied by:",
+      "options": [
+        "B.F. Skinner",
+        "Edward Tolman",
+        "Albert Bandura",
+        "Ivan Pavlov"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Latent learning is:",
+      "options": [
+        "Learning that is immediately demonstrated",
+        "Learning that is not immediately demonstrated but is present",
+        "Learning through reinforcement",
+        "Learning through punishment"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cognitive maps were studied by:",
+      "options": [
+        "B.F. Skinner",
+        "Edward Tolman",
+        "Albert Bandura",
+        "John B. Watson"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A cognitive map is:",
+      "options": [
+        "A physical map of the environment",
+        "A mental representation of the environment",
+        "A written description of the environment",
+        "A picture of the environment"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Behavior modification is based on:",
+      "options": [
+        "Classical conditioning only",
+        "Operant conditioning principles",
+        "Observational learning only",
+        "Cognitive psychology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Token economy is an example of:",
+      "options": [
+        "Classical conditioning",
+        "Behavior modification using secondary reinforcers",
+        "Cognitive therapy",
+        "Psychoanalysis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Biofeedback is a technique that:",
+      "options": [
+        "Uses classical conditioning",
+        "Uses operant conditioning to control bodily processes",
+        "Uses observational learning",
+        "Uses cognitive techniques"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Applied behavior analysis (ABA) is used to:",
+      "options": [
+        "Treat mental disorders through insight",
+        "Modify behaviors using operant conditioning",
+        "Treat mental disorders through medication",
+        "Study cognitive processes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Aversive conditioning involves:",
+      "options": [
+        "Using rewards to change behavior",
+        "Using unpleasant stimuli to change behavior",
+        "Using observation to change behavior",
+        "Using insight to change behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Flooding is a behavior therapy technique that involves:",
+      "options": [
+        "Gradual exposure to a feared stimulus",
+        "Intense exposure to a feared stimulus",
+        "Reward for facing a fear",
+        "Ignoring the fear"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Systematic desensitization involves:",
+      "options": [
+        "Sudden exposure to a feared stimulus",
+        "Gradual exposure to a feared stimulus with relaxation",
+        "Punishment for fear responses",
+        "Reward for fear responses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Premack principle states that:",
+      "options": [
+        "Low-frequency behaviors can reinforce high-frequency behaviors",
+        "High-frequency behaviors can reinforce low-frequency behaviors",
+        "All behaviors are equally reinforcing",
+        "Punishment is more effective than reinforcement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In behaviorism, the mind is considered a:",
+      "options": [
+        "Important object of study",
+        "Black box",
+        "Primary focus of research",
+        "Source of all behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Radical behaviorism, proposed by Skinner, argues that:",
+      "options": [
+        "Internal mental states are important",
+        "Only observable behavior should be studied",
+        "Unconscious processes are important",
+        "Cognitive processes should be studied"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Behavioral psychology emphasizes the role of:",
+      "options": [
+        "Genetics",
+        "Environment",
+        "Unconscious conflicts",
+        "Self-actualization"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Contingency management involves:",
+      "options": [
+        "Randomly reinforcing behavior",
+        "Systematically applying consequences to behavior",
+        "Ignoring all behavior",
+        "Punishing all behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Self-control is achieved in behaviorism through:",
+      "options": [
+        "Strengthening internal willpower",
+        "Manipulating environmental consequences",
+        "Ignoring external factors",
+        "Focusing on unconscious conflicts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Habit reversal training is used to:",
+      "options": [
+        "Strengthen bad habits",
+        "Replace bad habits with good ones",
+        "Ignore habits",
+        "Punish habits"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In behavior modification, generalization is:",
+      "options": [
+        "The application of learning to new situations",
+        "The restriction of learning to one situation",
+        "The extinction of learning",
+        "The punishment of learning"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Discrimination training involves:",
+      "options": [
+        "Reinforcing behavior in all situations",
+        "Reinforcing behavior only in specific situations",
+        "Punishing behavior in all situations",
+        "Ignoring behavior in all situations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Behavioral psychology has been applied to:",
+      "options": [
+        "Education only",
+        "Therapy, education, parenting, and animal training",
+        "Therapy only",
+        "Parenting only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Time-out is a form of:",
+      "options": [
+        "Positive reinforcement",
+        "Negative punishment",
+        "Positive punishment",
+        "Negative reinforcement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Response cost is a form of:",
+      "options": [
+        "Positive reinforcement",
+        "Negative punishment",
+        "Positive punishment",
+        "Negative reinforcement"
+      ],
+      "answer": 1
+    }
+  ]
+}

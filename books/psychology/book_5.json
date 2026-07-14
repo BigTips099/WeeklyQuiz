@@ -1,0 +1,556 @@
+{
+  "category": "Social Psychology",
+  "totalQuestions": 54,
+  "questions": [
+    {
+      "question": "Social psychology is the study of:",
+      "options": [
+        "Individual behavior only",
+        "How individuals think, feel, and behave in social contexts",
+        "Cognitive processes only",
+        "Biological processes only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Social influence refers to:",
+      "options": [
+        "Ignoring others' opinions",
+        "The effect of others on an individual's behavior and beliefs",
+        "Individual decision-making only",
+        "Biological influences"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Conformity is defined as:",
+      "options": [
+        "Changing behavior to match the group",
+        "Changing behavior to stand out from the group",
+        "Ignoring the group",
+        "Rebelling against the group"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Asch's line judgment experiment studied:",
+      "options": [
+        "Obedience",
+        "Conformity",
+        "Aggression",
+        "Prejudice"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Asch's experiment, participants conformed due to:",
+      "options": [
+        "Physical threat",
+        "Normative social influence and informational social influence",
+        "Financial reward",
+        "Fear of punishment"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Normative social influence occurs when:",
+      "options": [
+        "We conform to be correct",
+        "We conform to be accepted and avoid rejection",
+        "We ignore social norms",
+        "We rebel against the group"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Informational social influence occurs when:",
+      "options": [
+        "We conform to be accepted",
+        "We conform because we believe others have more information",
+        "We ignore others' opinions",
+        "We rebel against the group"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Obedience was studied by:",
+      "options": [
+        "Solomon Asch",
+        "Stanley Milgram",
+        "Philip Zimbardo",
+        "Muzafer Sherif"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Milgram's obedience experiment, participants:",
+      "options": [
+        "Refused to obey the experimenter",
+        "Delivered what they believed were electric shocks to a learner",
+        "Questioned the experimenter's authority",
+        "Left the experiment early"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Stanford prison experiment was conducted by:",
+      "options": [
+        "Stanley Milgram",
+        "Solomon Asch",
+        "Philip Zimbardo",
+        "Albert Bandura"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Stanford prison experiment demonstrated:",
+      "options": [
+        "Obedience to authority",
+        "Conformity to group norms",
+        "The power of social roles and situations on behavior",
+        "Attraction"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Attribution theory explains:",
+      "options": [
+        "How we conform to groups",
+        "How we explain the causes of behavior",
+        "How we form attitudes",
+        "How we reduce prejudice"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dispositional attribution explains behavior as due to:",
+      "options": [
+        "Situational factors",
+        "Internal traits or characteristics",
+        "Environmental factors",
+        "Social pressure"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Situational attribution explains behavior as due to:",
+      "options": [
+        "Internal traits",
+        "Environmental or external factors",
+        "Personality characteristics",
+        "Genetic factors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The fundamental attribution error is:",
+      "options": [
+        "Overestimating situational factors",
+        "Overestimating dispositional factors and underestimating situational factors",
+        "Accurately explaining behavior",
+        "Ignoring both factors"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The actor-observer bias is:",
+      "options": [
+        "Attributing our own behavior to situations and others to dispositions",
+        "Attributing our own behavior to dispositions and others to situations",
+        "Accurately explaining behavior",
+        "Ignoring behavior"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Self-serving bias is:",
+      "options": [
+        "Attributing success to external factors",
+        "Attributing success to internal factors and failure to external factors",
+        "Attributing failure to internal factors",
+        "Accurately explaining behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Attitudes consist of:",
+      "options": [
+        "Only cognitive component",
+        "Cognitive, affective, and behavioral components",
+        "Only affective component",
+        "Only behavioral component"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cognitive dissonance theory was proposed by:",
+      "options": [
+        "Leon Festinger",
+        "Stanley Milgram",
+        "Solomon Asch",
+        "Philip Zimbardo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cognitive dissonance occurs when:",
+      "options": [
+        "Beliefs and behaviors are consistent",
+        "Beliefs and behaviors are inconsistent, causing discomfort",
+        "Attitudes are stable",
+        "Attitudes are unimportant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The foot-in-the-door phenomenon is:",
+      "options": [
+        "Agreeing to a large request first",
+        "Agreeing to a small request then being more likely to agree to a large request",
+        "Refusing all requests",
+        "Ignoring requests"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The door-in-the-face technique is:",
+      "options": [
+        "Making a small request first",
+        "Making a large request first that is refused, then making a smaller request",
+        "Making no requests",
+        "Making the same request repeatedly"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Prejudice is:",
+      "options": [
+        "A positive attitude towards a group",
+        "A negative attitude towards a group based on stereotypes",
+        "A neutral attitude towards a group",
+        "A behavior towards a group"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Discrimination is:",
+      "options": [
+        "An attitude towards a group",
+        "A behavior that treats people unfairly based on group membership",
+        "A stereotype",
+        "A positive behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Stereotypes are:",
+      "options": [
+        "Accurate beliefs about a group",
+        "Generalized beliefs about a group that may be accurate or inaccurate",
+        "Always negative beliefs",
+        "Always positive beliefs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Implicit bias refers to:",
+      "options": [
+        "Conscious and deliberate prejudice",
+        "Unconscious attitudes and stereotypes",
+        "Explicit discrimination",
+        "Open prejudice"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Implicit Association Test (IAT) measures:",
+      "options": [
+        "Explicit attitudes",
+        "Implicit attitudes",
+        "Overt behavior",
+        "Cognitive abilities"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Ingroup bias is:",
+      "options": [
+        "Favoring outgroup members",
+        "Favoring ingroup members",
+        "Neutral attitude towards all groups",
+        "Favoring no groups"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Outgroup homogeneity effect is:",
+      "options": [
+        "Perceiving outgroup members as diverse",
+        "Perceiving outgroup members as more similar to each other than they are",
+        "Perceiving ingroup members as similar",
+        "Perceiving no differences between groups"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The contact hypothesis suggests:",
+      "options": [
+        "Prejudice increases with contact",
+        "Prejudice decreases with contact under appropriate conditions",
+        "Contact has no effect on prejudice",
+        "Contact only affects behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Social identity theory was proposed by:",
+      "options": [
+        "Leon Festinger",
+        "Henri Tajfel",
+        "Stanley Milgram",
+        "Philip Zimbardo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Scapegoat theory explains prejudice as:",
+      "options": [
+        "A learned behavior",
+        "Blaming a group for problems that are not their fault",
+        "A biological instinct",
+        "A cognitive error"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Realistic conflict theory suggests prejudice arises from:",
+      "options": [
+        "Competition over scarce resources",
+        "Personality factors",
+        "Genetic factors",
+        "Cognitive biases"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Altruism is defined as:",
+      "options": [
+        "Helping only oneself",
+        "Helping others without expecting anything in return",
+        "Helping others for a reward",
+        "Ignoring others' needs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The bystander effect is:",
+      "options": [
+        "Increased helping when others are present",
+        "Decreased helping when others are present",
+        "Helping only when alone",
+        "Helping only when rewarded"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Diffusion of responsibility refers to:",
+      "options": [
+        "Taking full responsibility",
+        "Reduced personal responsibility when others are present",
+        "Increased personal responsibility",
+        "Ignoring responsibility"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pluralistic ignorance is:",
+      "options": [
+        "Correctly interpreting a situation",
+        "Misinterpreting a situation because others are not reacting",
+        "Ignoring a situation",
+        "Reacting immediately to a situation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Kitty Genovese case is often cited to illustrate:",
+      "options": [
+        "Altruism",
+        "The bystander effect",
+        "Conformity",
+        "Obedience"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Aggression is defined as:",
+      "options": [
+        "Any behavior intended to help others",
+        "Any behavior intended to harm another",
+        "Passive behavior",
+        "Assertive behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hostile aggression is:",
+      "options": [
+        "Aggression for a goal",
+        "Aggression driven by anger with the intent to harm",
+        "Accidental harm",
+        "Passive aggression"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Instrumental aggression is:",
+      "options": [
+        "Aggression driven by anger",
+        "Aggression as a means to achieve a goal",
+        "Accidental harm",
+        "Passive aggression"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The frustration-aggression hypothesis states that:",
+      "options": [
+        "Frustration always leads to aggression",
+        "Frustration sometimes leads to aggression",
+        "Aggression always leads to frustration",
+        "Aggression and frustration are unrelated"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Catharsis is the idea that:",
+      "options": [
+        "Aggression is reduced by performing an aggressive act",
+        "Aggression is increased by performing an aggressive act",
+        "Aggression is unrelated to behavior",
+        "Aggression is always harmful"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prosocial behavior is:",
+      "options": [
+        "Behavior that harms others",
+        "Behavior that benefits others",
+        "Neutral behavior",
+        "Aggressive behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Empathy is important for:",
+      "options": [
+        "Aggression",
+        "Prosocial and altruistic behavior",
+        "Prejudice",
+        "Discrimination"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Group polarization is:",
+      "options": [
+        "Group decisions becoming more moderate",
+        "Group decisions becoming more extreme",
+        "Group decisions becoming more accurate",
+        "Group decisions becoming less accurate"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Groupthink is:",
+      "options": [
+        "The desire for harmony that overrides critical thinking",
+        "The desire for conflict",
+        "The desire for individual opinions",
+        "The desire for accuracy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Social loafing is:",
+      "options": [
+        "Increased effort in a group",
+        "Decreased effort in a group",
+        "Equal effort in a group",
+        "No effort in a group"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Deindividuation is:",
+      "options": [
+        "Increased self-awareness in groups",
+        "Loss of self-awareness and individuality in groups",
+        "Increased personal responsibility",
+        "Enhanced self-control"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mere exposure effect means:",
+      "options": [
+        "We dislike things we are exposed to",
+        "We like things more when we are repeatedly exposed to them",
+        "Exposure has no effect on liking",
+        "We like things less when exposed to them"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Physical attractiveness is often associated with:",
+      "options": [
+        "Negative qualities",
+        "Positive qualities (halo effect)",
+        "No qualities",
+        "Only physical qualities"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The halo effect is:",
+      "options": [
+        "Judging a person negatively based on one trait",
+        "Judging a person positively based on one trait",
+        "Judging a person accurately",
+        "Ignoring all traits"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Social psychology research often uses:",
+      "options": [
+        "Only naturalistic observation",
+        "Experiments, surveys, and observational studies",
+        "Only surveys",
+        "Only experiments"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The just-world hypothesis is:",
+      "options": [
+        "Belief that the world is unfair",
+        "Belief that the world is fair and people get what they deserve",
+        "Belief that the world is random",
+        "Belief that the world is unpredictable"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Self-fulfilling prophecy occurs when:",
+      "options": [
+        "Beliefs about others have no effect",
+        "Beliefs about others cause them to behave in ways that confirm the beliefs",
+        "Beliefs about others are always wrong",
+        "Beliefs about others are always accurate"
+      ],
+      "answer": 1
+    }
+  ]
+}
