@@ -1,0 +1,1546 @@
+{
+  "category": "Quranic Studies",
+  "totalQuestions": 150,
+  "questions": [
+    {
+      "question": "How many Surahs are in the Holy Quran?",
+      "options": [
+        "111",
+        "112",
+        "113",
+        "114"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How many verses (Ayats) are in the Holy Quran?",
+      "options": [
+        "5555",
+        "6666",
+        "6667",
+        "6688"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Manzils (stages) are there in the Holy Quran?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many Paras (Juz) are in the Holy Quran?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many Rukus are in the Holy Quran?",
+      "options": [
+        "460",
+        "490",
+        "558",
+        "570"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many Sajdah (prostration) verses are in the Holy Quran?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many Makki Surahs are in the Holy Quran?",
+      "options": [
+        "86",
+        "87",
+        "88",
+        "89"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many Madni Surahs are in the Holy Quran?",
+      "options": [
+        "26",
+        "27",
+        "28",
+        "29"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is the longest Surah of the Holy Quran?",
+      "options": [
+        "Surah Al-Imran",
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is the shortest Surah of the Holy Quran?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Ikhlas",
+        "Surah Al-Kawthar",
+        "Surah Al-Asr"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Surah is known as the 'Heart of the Quran'?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Yaseen",
+        "Surah Al-Rahman",
+        "Surah Al-Mulk"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah is known as the 'Beauty of the Quran'?",
+      "options": [
+        "Surah Yaseen",
+        "Surah Al-Rahman",
+        "Surah Al-Kawthar",
+        "Surah Al-Hujurat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah is known as 'Umm-ul-Quran' (Mother of Quran)?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Fatiha",
+        "Surah Al-Ikhlas",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah is known as 'Aroos-ul-Quran' (Bride of the Quran)?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Yaseen",
+        "Surah Al-Rahman",
+        "Surah Al-Mulk"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Surah has the name 'Allah' in every single verse?",
+      "options": [
+        "Surah Al-Mujadila",
+        "Surah Al-Rahman",
+        "Surah Al-Baqarah",
+        "Surah Al-Imran"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah starts without 'Bismillah'?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah At-Tawbah",
+        "Surah Al-Ikhlas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Surah has 'Bismillah' twice?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Naml",
+        "Surah Al-Baqarah",
+        "Surah Al-Imran"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah was revealed twice (in Makkah and Madinah)?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Yaseen",
+        "Surah Al-Rahman",
+        "Surah Al-Mulk"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah is called 'Saloos-ul-Quran' (One-third of Quran)?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Ikhlas",
+        "Surah Al-Kawthar",
+        "Surah Al-Asr"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah is called 'Rub-e-Quran' (One-fourth of Quran)?",
+      "options": [
+        "Surah Al-Kafirun",
+        "Surah Al-Ikhlas",
+        "Surah Al-Falaq",
+        "Surah An-Nas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah contains the 'Ayat-ul-Kursi'?",
+      "options": [
+        "Surah Al-Imran",
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the number of 'Ayat-ul-Kursi' in Surah Al-Baqarah?",
+      "options": [
+        "245",
+        "250",
+        "255",
+        "260"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which Surah is the law of inheritance mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah",
+        "Surah Al-Anfal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah are the laws of marriage mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah",
+        "Surah At-Talaq"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the command for 'Wuzu, Ghusal and Tayammum' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah",
+        "Surah Al-Mujadila"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which Surah is the obligation of fasting mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah",
+        "Surah At-Talaq"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which verse of Surah Al-Baqarah describes the obligation of fasting?",
+      "options": [
+        "180",
+        "181",
+        "182",
+        "183"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In which Surah is the command for Hajj mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Maidah",
+        "Surah Al-Hajj"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'Ashab-e-Kahf' mentioned?",
+      "options": [
+        "Surah Yaseen",
+        "Surah Al-Kahf",
+        "Surah Al-Rahman",
+        "Surah Al-Mulk"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Surah Al-Kahf, which animal is mentioned with Ashab-e-Kahf?",
+      "options": [
+        "Dog",
+        "Cat",
+        "Horse",
+        "Camel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of Hazrat Musa (A.S) and Khizar (A.S)?",
+      "options": [
+        "Surah Yaseen",
+        "Surah Al-Kahf",
+        "Surah Al-Rahman",
+        "Surah Al-Mulk"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of Hazrat Yousaf (A.S)?",
+      "options": [
+        "Surah Yaseen",
+        "Surah Al-Kahf",
+        "Surah Yusuf",
+        "Surah Al-Rahman"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which Surah is the story of Hazrat Musa (A.S) and Pharaoh?",
+      "options": [
+        "Surah Yaseen",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Al-Rahman"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which Surah is the story of the 'People of the Cave'?",
+      "options": [
+        "Surah Yaseen",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Al-Rahman"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of Hazrat Adam (A.S)?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of Hazrat Ibrahim (A.S)?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The Worship of the Calf' of Bani Israel?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Taha",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'Qaroon' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Qasas",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'Zulqarnain' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Kahf",
+        "Surah Al-Qasas",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of the Elephant' mentioned?",
+      "options": [
+        "Surah Al-Fil",
+        "Surah Quraish",
+        "Surah Al-Masad",
+        "Surah Al-Kawthar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah was revealed first?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Alaq",
+        "Surah Al-Muzzammil",
+        "Surah Al-Muddaththir"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah was revealed last?",
+      "options": [
+        "Surah Al-Nasr",
+        "Surah Al-Maidah",
+        "Surah Al-Tawbah",
+        "Surah Al-Baqarah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many verses were in the first revelation (Wahi)?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which month was the first Wahi revealed?",
+      "options": [
+        "Rajab",
+        "Shaban",
+        "Ramadan",
+        "Shawwal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which cave was the first Wahi revealed?",
+      "options": [
+        "Cave Thawr",
+        "Cave Hira",
+        "Cave Saur",
+        "Cave Uhud"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first person to write the Wahi?",
+      "options": [
+        "Hazrat Zaid bin Sabit (R.A)",
+        "Hazrat Khalid bin Saeed (R.A)",
+        "Hazrat Ali (R.A)",
+        "Hazrat Uthman (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first Hafiz (memorizer) of the Holy Quran?",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Usman (R.A)",
+        "Hazrat Ali (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first woman Hafiz of the Holy Quran?",
+      "options": [
+        "Hazrat Khadija (R.A)",
+        "Hazrat Ayesha (R.A)",
+        "Hazrat Hafsa (R.A)",
+        "Hazrat Fatima (R.A)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who proposed the compilation of the Holy Quran during the caliphate of Abu Bakar (R.A)?",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Usman (R.A)",
+        "Hazrat Ali (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was given the responsibility of compiling the Quran during the caliphate of Abu Bakar (R.A)?",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Zaid bin Sabit (R.A)",
+        "Hazrat Ali (R.A)",
+        "Hazrat Uthman (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was the Holy Quran compiled in the form of a book?",
+      "options": [
+        "During Abu Bakar's caliphate",
+        "During Umar's caliphate",
+        "During Usman's caliphate",
+        "During Ali's caliphate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who ordered the compilation of the Quran in one book form?",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Usman (R.A)",
+        "Hazrat Ali (R.A)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many copies of the Quran were made during Usman's caliphate?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the head of the board established for the preparation of copies of the Quran during Usman's caliphate?",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Zaid bin Sabit (R.A)",
+        "Hazrat Ali (R.A)",
+        "Hazrat Uthman (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When were vowels inserted in the Holy Quran?",
+      "options": [
+        "During Umayyad period",
+        "During Abbasid period",
+        "During Ottoman period",
+        "During Mughal period"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who introduced dots in the Holy Quran?",
+      "options": [
+        "Hajjaj bin Yousuf",
+        "Abdul Malik Marwan",
+        "Imam Abu Hanifa",
+        "Imam Shafi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which language was the Holy Quran revealed?",
+      "options": [
+        "Arabic",
+        "Persian",
+        "Hebrew",
+        "Syriac"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many times does the word 'Quran' appear in the Holy Quran?",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many times does the name 'Allah' appear in the Holy Quran?",
+      "options": [
+        "2694",
+        "2698",
+        "2700",
+        "2705"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many times does the word 'Muhammad' appear in the Holy Quran?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How many times is 'Bismillah' repeated in the Holy Quran?",
+      "options": [
+        "113",
+        "114",
+        "115",
+        "116"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah of the Quran has the minimum number of verses?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Ikhlas",
+        "Surah Al-Kawthar",
+        "Surah Al-Asr"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Surah of the Quran has the maximum number of verses?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many Surahs start with the word 'Alif-Lam-Mim'?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many Surahs start with the word 'Ha-Meem'?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many Surahs start with the word 'Qul'?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many Surahs start with the word 'Sab-baha'?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many Surahs start with the word 'Tabaraka'?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah is known as 'Surah of the 27 Attributes of God'?",
+      "options": [
+        "Surah Al-Qalam",
+        "Surah Al-Mulk",
+        "Surah Al-Hadeed",
+        "Surah At-Talaq"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Surah is named after a metal?",
+      "options": [
+        "Surah Al-Ra'd",
+        "Surah Al-Hadeed",
+        "Surah Al-Ahzab",
+        "Surah Al-Hud"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah is named after a battle?",
+      "options": [
+        "Surah Al-Room",
+        "Surah Al-Ahzab",
+        "Surah Al-Fat'h",
+        "Surah Al-Nasr"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Surah is named after the tribe of the Holy Prophet (PBUH)?",
+      "options": [
+        "Surah Al-Lahab",
+        "Surah Quraish",
+        "Surah Al-Hashr",
+        "Surah Al-Masad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah condemns backbiting?",
+      "options": [
+        "Surah Al-Munafiqun",
+        "Surah Al-Humaza",
+        "Surah Al-Nuhu",
+        "Surah Al-Zalzala"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah contains the story of the 'People of the Elephant'?",
+      "options": [
+        "Surah Al-Fil",
+        "Surah Quraish",
+        "Surah Al-Masad",
+        "Surah Al-Kawthar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah is known as 'The Table Spread with Food'?",
+      "options": [
+        "Surah Al-Maidah",
+        "Surah Al-An'am",
+        "Surah Al-A'raf",
+        "Surah Al-Anfal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah is known as 'The Borderland between Heaven and Hell'?",
+      "options": [
+        "Surah Al-Maidah",
+        "Surah Al-A'raf",
+        "Surah Al-Anfal",
+        "Surah Al-Tawbah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah is known as 'The Spider'?",
+      "options": [
+        "Surah Al-Ankabut",
+        "Surah Al-Naml",
+        "Surah Al-Qasas",
+        "Surah Al-Kahf"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah is known as 'The Ants'?",
+      "options": [
+        "Surah Al-Ankabut",
+        "Surah Al-Naml",
+        "Surah Al-Qasas",
+        "Surah Al-Kahf"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah is known as 'The Bee'?",
+      "options": [
+        "Surah Al-Nahl",
+        "Surah Al-Naml",
+        "Surah Al-Qasas",
+        "Surah Al-Kahf"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many Surahs are named after animals?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many Surahs are named after the Prophets?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Surah ends with the names of two Prophets?",
+      "options": [
+        "Surah Yusuf",
+        "Surah Ibrahim",
+        "Surah Al-Mujadila",
+        "Surah Al-A'la"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Surah starts with two fruits names?",
+      "options": [
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah At-Teen",
+        "Surah Al-Hud"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Surah contains the word 'Quran' in its first verse?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Maidah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah is known as 'The Proof of Islam'?",
+      "options": [
+        "Surah Al-Ikhlas",
+        "Surah Al-Kafirun",
+        "Surah Al-Falaq",
+        "Surah An-Nas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Surah is known as 'The Refuge'?",
+      "options": [
+        "Surah Al-Ikhlas",
+        "Surah Al-Kafirun",
+        "Surah Al-Falaq and An-Nas",
+        "Surah Al-Baqarah"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which Surah is called 'Mauzatain' (The two refuges)?",
+      "options": [
+        "Surah Al-Fatiha and Al-Ikhlas",
+        "Surah Al-Falaq and An-Nas",
+        "Surah Al-Baqarah and Al-Imran",
+        "Surah Al-Kahf and Al-Naml"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the command for prayer (Salat) mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the command for Zakat mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the command for Hajj mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the prohibition of alcohol mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In which Surah is the prohibition of gambling mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In which Surah is the prohibition of swine mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In which Surah is the law of Qisas (retaliation) mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the law of divorce (Talaq) mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah At-Talaq",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the law of Iddah (waiting period) mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah At-Talaq",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah deals with the rights of parents?",
+      "options": [
+        "Surah Al-Ahzab",
+        "Surah Luqman",
+        "Surah Al-Muddaththir",
+        "Surah Al-Maidah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah deals with the rights of orphans?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah",
+        "Surah Al-Anfal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah deals with the rights of neighbors?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah",
+        "Surah Al-Anfal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Surah deals with the rights of prisoners of war?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah",
+        "Surah Al-Anfal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of the 'People of the Ditch' mentioned?",
+      "options": [
+        "Surah Al-Buruj",
+        "Surah At-Tariq",
+        "Surah Al-A'la",
+        "Surah Al-Fajr"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of the 'People of the City' mentioned?",
+      "options": [
+        "Surah Yaseen",
+        "Surah Al-Kahf",
+        "Surah Al-Buruj",
+        "Surah At-Tariq"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of the 'People of the Garden' mentioned?",
+      "options": [
+        "Surah Yaseen",
+        "Surah Al-Kahf",
+        "Surah Al-Qalam",
+        "Surah At-Tariq"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which Surah is the story of the 'People of the Elephant' mentioned?",
+      "options": [
+        "Surah Al-Fil",
+        "Surah Quraish",
+        "Surah Al-Masad",
+        "Surah Al-Kawthar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of the 'People of the Cave' mentioned?",
+      "options": [
+        "Surah Yaseen",
+        "Surah Al-Kahf",
+        "Surah Al-Buruj",
+        "Surah At-Tariq"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of the 'People of the Sabbath' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In which Surah is the story of 'The Calf of Bani Israel' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Taha",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The Golden Calf' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Taha",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The Ark of Noah' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Hud",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The Flood of Noah' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Hud",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The Camel of Saleh' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-A'raf",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The Ants of Solomon' mentioned?",
+      "options": [
+        "Surah Al-Ankabut",
+        "Surah Al-Naml",
+        "Surah Al-Qasas",
+        "Surah Al-Kahf"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The Bird Hud-Hud' mentioned?",
+      "options": [
+        "Surah Al-Ankabut",
+        "Surah Al-Naml",
+        "Surah Al-Qasas",
+        "Surah Al-Kahf"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The Queen of Sheba' mentioned?",
+      "options": [
+        "Surah Al-Ankabut",
+        "Surah Al-Naml",
+        "Surah Al-Qasas",
+        "Surah Al-Kahf"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The Two Gardens' mentioned?",
+      "options": [
+        "Surah Yaseen",
+        "Surah Al-Kahf",
+        "Surah Al-Buruj",
+        "Surah At-Tariq"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The City of Iram' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Fajr",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Thamud' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-A'raf",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of 'Ad' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-A'raf",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Madyan' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-A'raf",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Lot' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-A'raf",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Shu'ayb' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-A'raf",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Yunus' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Yunus",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Musa' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Taha",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Isa' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Zakariya' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Maryam",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Yahya' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Maryam",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Zakariya' and 'Yahya' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Maryam",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Imran' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Fatimah' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Abu Bakar' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Umar' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Usman' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Ali' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Khadija' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Ayesha' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Hafsa' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Zainab' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Umm Kulthum' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Fatimah bint Muhammad' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Ibrahim (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Ismaeel (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Ishaq (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Yaqub (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Yousaf (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Yusuf",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Musa (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Taha",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Haroon (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Taha",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Davood (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Saba",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Sulaiman (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Saba",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Zakariya (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Maryam",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Yahya (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Maryam",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Essa (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Maryam (AS)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Maryam",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of Muhammad (PBUH)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Muhammad",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which Surah is the story of 'The People of the Prophet (PBUH)' mentioned?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Muhammad",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "answer": 1
+    }
+  ]
+}

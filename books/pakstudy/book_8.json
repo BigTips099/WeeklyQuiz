@@ -1,0 +1,626 @@
+{
+  "category": "International Relations",
+  "totalQuestions": 60,
+  "questions": [
+    {
+      "question": "When was OIC (Organization of Islamic Cooperation) founded?",
+      "options": [
+        "1970",
+        "1975",
+        "1980",
+        "1969"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "OIC stands for?",
+      "options": [
+        "Organization of Islamic Countries",
+        "Organization of Islamic Cooperation",
+        "Organization of International Cooperation",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The headquarters of OIC is located in?",
+      "options": [
+        "Mecca",
+        "Medina",
+        "Jeddah",
+        "Riyadh"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which city of Pakistan hosted the OIC Conference in 1997?",
+      "options": [
+        "Lahore",
+        "Islamabad",
+        "Karachi",
+        "Peshawar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan hosted the OIC Summit in which year?",
+      "options": [
+        "1974",
+        "1984",
+        "1994",
+        "2004"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did Pakistan become a member of Shanghai Cooperation Organisation (SCO)?",
+      "options": [
+        "9 June 2017",
+        "8 July 2018",
+        "8 August 2016",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "SCO stands for?",
+      "options": [
+        "Shanghai Cooperation Organization",
+        "South Asian Cooperation Organization",
+        "Shanghai Council Organization",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The headquarters of SCO is located in?",
+      "options": [
+        "Beijing",
+        "Shanghai",
+        "Moscow",
+        "Tashkent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CPEC stands for?",
+      "options": [
+        "China Pakistan Electrical Coal",
+        "China Pakistan Electronics Corporation",
+        "China Pakistan Economic Corridor",
+        "China Portugal Economical Corporation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was CPEC launched?",
+      "options": [
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "CPEC is a part of which Chinese initiative?",
+      "options": [
+        "One Belt One Road",
+        "Silk Road Initiative",
+        "Asian Infrastructure Investment Bank",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The total cost of CPEC is approximately?",
+      "options": [
+        "30 billion USD",
+        "46 billion USD",
+        "60 billion USD",
+        "75 billion USD"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which country assisted Pakistan in the construction of Sandak Project?",
+      "options": [
+        "Iran",
+        "Saudi Arabia",
+        "Afghanistan",
+        "China"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The friendship gate is built on the border between Pakistan and?",
+      "options": [
+        "Afghanistan",
+        "Iran",
+        "India",
+        "China"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When was Liaquat-Nehru Pact between India and Pakistan signed?",
+      "options": [
+        "1950",
+        "1955",
+        "1964",
+        "1951"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Liaquat-Nehru Pact was signed between Pakistan and?",
+      "options": [
+        "India",
+        "China",
+        "Afghanistan",
+        "Iran"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Indus Waters Treaty was signed between India and Pakistan in?",
+      "options": [
+        "1958",
+        "1960",
+        "1962",
+        "1964"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Indus Waters Treaty was brokered by?",
+      "options": [
+        "International Monetary Fund",
+        "International Bank for Reconstruction and Development",
+        "World Bank",
+        "NATO"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan and India signed the Tashkent Declaration in which year?",
+      "options": [
+        "1965",
+        "1966",
+        "1967",
+        "1968"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Tashkent Declaration was signed between Pakistan and India after which war?",
+      "options": [
+        "1948 War",
+        "1965 War",
+        "1971 War",
+        "1999 Kargil War"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Shimla Agreement was signed between Pakistan and India in which year?",
+      "options": [
+        "1970",
+        "1971",
+        "1972",
+        "1973"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Shimla Agreement was signed after which war?",
+      "options": [
+        "1948 War",
+        "1965 War",
+        "1971 War",
+        "1999 Kargil War"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan became a member of the United Nations in?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan became a member of the Non-Aligned Movement (NAM) in?",
+      "options": [
+        "1977",
+        "1978",
+        "1979",
+        "1980"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan became a member of the Shanghai Cooperation Organisation (SCO) in?",
+      "options": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan became a member of the International Atomic Energy Agency (IAEA) in?",
+      "options": [
+        "1949",
+        "1953",
+        "1957",
+        "1963"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan became a member of the Nuclear Suppliers Group (NSG)?",
+      "options": [
+        "Not yet a member",
+        "2000",
+        "2005",
+        "2010"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan tested its nuclear device on 28th May 1998. Which country assisted Pakistan?",
+      "options": [
+        "China",
+        "North Korea",
+        "Iran",
+        "None, it was indigenous"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan's foreign policy is based on?",
+      "options": [
+        "Non-alignment",
+        "Bilateralism",
+        "Multilateralism",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan's foreign policy emphasizes?",
+      "options": [
+        "Peaceful coexistence",
+        "Aggressive expansion",
+        "Isolationism",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and China established diplomatic relations in?",
+      "options": [
+        "1950",
+        "1951",
+        "1952",
+        "1953"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and India established diplomatic relations in?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and Afghanistan established diplomatic relations in?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and Iran established diplomatic relations in?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and Turkey have always enjoyed excellent relations. Turkey was one of the first countries to recognize Pakistan in?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and Saudi Arabia have strong bilateral relations. Saudi Arabia has always supported Pakistan on which issue?",
+      "options": [
+        "Kashmir issue",
+        "Nuclear issue",
+        "Economic issues",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and the United States established diplomatic relations in?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and the United Kingdom established diplomatic relations in?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and Russia established diplomatic relations in?",
+      "options": [
+        "1947",
+        "1948",
+      "1949",
+        "1950"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan and Bangladesh established diplomatic relations in?",
+      "options": [
+        "1972",
+        "1973",
+        "1974",
+        "1975"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When did Pakistan recognize Bangladesh?",
+      "options": [
+        "Dec 1973",
+        "Jan 1974",
+        "Feb 1974",
+        "Mar 1974"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan and India have a dispute over which territory?",
+      "options": [
+        "Kashmir",
+        "Siachen",
+        "Sir Creek",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan and India have a dispute over which glacier?",
+      "options": [
+        "Siachen Glacier",
+        "Baltoro Glacier",
+        "Batura Glacier",
+        "Hispar Glacier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and India have a dispute over which maritime boundary?",
+      "options": [
+        "Sir Creek",
+        "Rann of Kutch",
+        "Gulf of Khambhat",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and Afghanistan have a dispute over?",
+      "options": [
+        "Durand Line",
+        "Khyber Pass",
+        "Wakhan Corridor",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan has been a member of the Commonwealth of Nations since?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan was suspended from the Commonwealth of Nations in which year?",
+      "options": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan was re-admitted to the Commonwealth of Nations in which year?",
+      "options": [
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan is a member of which regional organization?",
+      "options": [
+        "SAARC",
+        "ASEAN",
+        "EU",
+        "OAS"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "SAARC stands for?",
+      "options": [
+        "South Asian Association for Regional Cooperation",
+        "South Asian Alliance for Regional Cooperation",
+        "South Asian Association for Regional Coordination",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "SAARC was founded in?",
+      "options": [
+        "1983",
+        "1984",
+        "1985",
+        "1986"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The headquarters of SAARC is located in?",
+      "options": [
+        "New Delhi",
+        "Kathmandu",
+        "Dhaka",
+        "Islamabad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan is a member of which economic organization?",
+      "options": [
+        "ECO",
+        "GCC",
+        "EU",
+        "NAFTA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ECO stands for?",
+      "options": [
+        "Economic Cooperation Organization",
+        "Economic Council Organization",
+        "Eastern Cooperation Organization",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ECO was founded in?",
+      "options": [
+        "1983",
+        "1984",
+      "1985",
+        "1986"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan is a member of which international organization?",
+      "options": [
+        "IMF",
+        "World Bank",
+        "WTO",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "IMF stands for?",
+      "options": [
+        "International Monetary Fund",
+        "International Monetary Federation",
+        "International Monetary Forum",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "WTO stands for?",
+      "options": [
+        "World Trade Organization",
+        "World Treaty Organization",
+        "World Trade Office",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan has been a member of the World Trade Organization (WTO) since?",
+      "options": [
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan is a member of which international military alliance?",
+      "options": [
+        "NATO",
+        "Warsaw Pact",
+        "Non-Aligned Movement",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan's foreign policy is based on the principles of?",
+      "options": [
+        "Peaceful coexistence",
+        "Mutual respect",
+        "Non-interference",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan strongly supports the right to self-determination for which territory?",
+      "options": [
+        "Kashmir",
+        "Palestine",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,996 @@
+{
+  "category": "Islamic Jurisprudence (Fiqh)",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "What is the literal meaning of 'Fiqh'?",
+      "options": [
+        "Understanding",
+        "Law",
+        "Jurisprudence",
+        "Knowledge"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the literal meaning of 'Shariah'?",
+      "options": [
+        "A clear straight path",
+        "Instructions to follow",
+        "Making new laws",
+        "Making new Islamic system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The fundamental pillars of Islam are:",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first pillar of Islam is:",
+      "options": [
+        "Tauheed (Kalimah)",
+        "Salah",
+        "Zakat",
+        "Fasting"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The second pillar of Islam is:",
+      "options": [
+        "Tauheed",
+        "Salah",
+        "Zakat",
+        "Fasting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The third pillar of Islam is:",
+      "options": [
+        "Tauheed",
+        "Salah",
+        "Zakat",
+        "Fasting"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fourth pillar of Islam is:",
+      "options": [
+        "Tauheed",
+        "Salah",
+        "Zakat",
+        "Fasting"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The fifth pillar of Islam is:",
+      "options": [
+        "Tauheed",
+        "Salah",
+        "Zakat",
+        "Hajj"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Obligations in Islam are called:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The term 'Wajib' means:",
+      "options": [
+        "Obligatory",
+        "Recommended",
+        "Permissible",
+        "Prohibited"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The term 'Sunnat' means:",
+      "options": [
+        "Obligatory",
+        "Practices of Prophet (PBUH)",
+        "Permissible",
+        "Prohibited"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The term 'Nafl' means:",
+      "options": [
+        "Obligatory",
+        "Recommended",
+        "Permissible",
+        "Voluntary"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The term 'Haram' means:",
+      "options": [
+        "Obligatory",
+        "Recommended",
+        "Prohibited",
+        "Permissible"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The term 'Halal' means:",
+      "options": [
+        "Prohibited",
+        "Permissible",
+        "Obligatory",
+        "Recommended"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The term 'Makruh' means:",
+      "options": [
+        "Disliked",
+        "Prohibited",
+        "Permissible",
+        "Obligatory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The term 'Mubah' means:",
+      "options": [
+        "Disliked",
+        "Prohibited",
+        "Permissible",
+        "Obligatory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the meaning of 'Makruh-i-Tanzihi'?",
+      "options": [
+        "Disliked but not sinful",
+        "Disliked and sinful",
+        "Prohibited",
+        "Obligatory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Makruh-i-Tehrimi'?",
+      "options": [
+        "Disliked but not sinful",
+        "Disliked and sinful",
+        "Prohibited",
+        "Obligatory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first source of Islamic law is:",
+      "options": [
+        "Sunnah",
+        "Quran",
+        "Ijma",
+        "Qiyas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The second source of Islamic law is:",
+      "options": [
+        "Quran",
+        "Sunnah",
+        "Ijma",
+        "Qiyas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The third source of Islamic law is:",
+      "options": [
+        "Quran",
+        "Sunnah",
+        "Ijma",
+        "Qiyas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fourth source of Islamic law is:",
+      "options": [
+        "Quran",
+        "Sunnah",
+        "Ijma",
+        "Qiyas"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the meaning of 'Ijma'?",
+      "options": [
+        "Analogy",
+        "Consensus of scholars",
+        "Individual reasoning",
+        "The Quran"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Qiyas'?",
+      "options": [
+        "Consensus of scholars",
+        "Analogy",
+        "Individual reasoning",
+        "The Sunnah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Ijtihad'?",
+      "options": [
+        "Consensus of scholars",
+        "Analogy",
+        "Individual reasoning",
+        "The Quran"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the meaning of 'Taqleed'?",
+      "options": [
+        "Following a school of thought",
+        "Analogy",
+        "Individual reasoning",
+        "Consensus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many schools of thought (Fiqh) are there in Islam?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is the largest school of thought in Islam?",
+      "options": [
+        "Hanafi",
+        "Maliki",
+        "Shafi",
+        "Hanbali"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Abu Hanifa (R.A) was born in:",
+      "options": [
+        "70 Hijri",
+        "80 Hijri",
+        "90 Hijri",
+        "100 Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Abu Hanifa (R.A) died in:",
+      "options": [
+        "130 Hijri",
+        "140 Hijri",
+        "150 Hijri",
+        "160 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Abu Hanifa (R.A) was the founder of which school of thought?",
+      "options": [
+        "Hanafi",
+        "Maliki",
+        "Shafi",
+        "Hanbali"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Malik (R.A) was the founder of which school of thought?",
+      "options": [
+        "Hanafi",
+        "Maliki",
+        "Shafi",
+        "Hanbali"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Shafi (R.A) was the founder of which school of thought?",
+      "options": [
+        "Hanafi",
+        "Maliki",
+        "Shafi",
+        "Hanbali"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Ahmad bin Hanbal (R.A) was the founder of which school of thought?",
+      "options": [
+        "Hanafi",
+        "Maliki",
+        "Shafi",
+        "Hanbali"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Imam Shafi (R.A) was born in:",
+      "options": [
+        "130 Hijri",
+        "140 Hijri",
+        "150 Hijri",
+        "160 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Shafi (R.A) died in:",
+      "options": [
+        "194 Hijri",
+        "204 Hijri",
+        "214 Hijri",
+        "224 Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Kitab al Umm' was written by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi",
+        "Imam Ahmad bin Hanbal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Al-Muwatta' was written by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi",
+        "Imam Ahmad bin Hanbal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Musnad Ahmad' was written by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi",
+        "Imam Ahmad bin Hanbal"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The book 'Kitab al Kharaj' was written by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Shafi",
+        "Abu Yusuf",
+        "Muhammad Al Shaybani"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Kitab al Amwal' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Abu Yusuf",
+        "Abu Ubaid al Qasim",
+        "Muhammad Al Shaybani"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Kitab al Athar' was written by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Shafi",
+        "Imam Malik",
+        "Imam Ahmad bin Hanbal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The word 'Zakat' literally means:",
+      "options": [
+        "To Purify",
+        "To Stained",
+        "To adulterate",
+        "None of These"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Zakat is the number among the pillars of Islam:",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which Hijri year was Zakat made obligatory?",
+      "options": [
+        "1st Hijri",
+        "2nd Hijri",
+        "3rd Hijri",
+        "4th Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Nisab (threshold) of Zakat on gold is:",
+      "options": [
+        "7½ Tolas",
+        "8½ Tolas",
+        "9½ Tolas",
+        "10½ Tolas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Nisab (threshold) of Zakat on silver is:",
+      "options": [
+        "50 Tolas",
+        "52½ Tolas",
+        "54 Tolas",
+        "55 Tolas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Nisab (threshold) of Zakat on camels is:",
+      "options": [
+        "4 Camels",
+        "5 Camels",
+        "8 Camels",
+        "10 Camels"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Nisab (threshold) of Zakat on goats is:",
+      "options": [
+        "30 goats",
+        "40 goats",
+        "50 goats",
+        "60 goats"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The rate of Zakat on gold and silver is:",
+      "options": [
+        "2%",
+        "2.5%",
+        "3%",
+        "5%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The rate of Ushr (on agricultural produce) is:",
+      "options": [
+        "1/10th (10%)",
+        "1/5th (20%)",
+        "1/4th (25%)",
+        "1/3rd (33%)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ushr is applicable on:",
+      "options": [
+        "Agricultural produce",
+        "Gold",
+        "Silver",
+        "Cash"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The word 'Khums' means:",
+      "options": [
+        "One sixth",
+        "One fifth",
+        "One fourth",
+        "One seventh"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Khums is applicable on:",
+      "options": [
+        "Agricultural produce",
+        "Gold",
+        "War booty and minerals",
+        "Cash"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The recipients of Zakat are mentioned in which Surah?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah At-Tawbah",
+        "Surah Al-Maidah"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many categories of Zakat recipients are there?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is not entitled to receive Zakat?",
+      "options": [
+        "Parents, Husband, wife and children",
+        "Uncle, Sister, and Husband",
+        "Brother, Nephew and children",
+        "Parents, brother and wife"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The word 'Sawm' literally means:",
+      "options": [
+        "To leave something",
+        "To avoid something",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which Hijri year was fasting made obligatory?",
+      "options": [
+        "1st Hijri",
+        "2nd Hijri",
+        "3rd Hijri",
+        "4th Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fasting is described as a shield against:",
+      "options": [
+        "Sins",
+        "Hunger",
+        "Thirst",
+        "Anger"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the reward of fasting?",
+      "options": [
+        "Only Allah knows",
+        "It is multiplied 10 times",
+        "It is multiplied 70 times",
+        "It is forgiven all sins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The atonement (Kaffarah) for breaking a fast without valid reason is:",
+      "options": [
+        "To feed 50 people",
+        "To feed 60 people",
+        "To feed 70 people",
+        "To feed 80 people"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Kaffarah'?",
+      "options": [
+        "Atonement",
+        "Punishment",
+        "Compensation",
+        "Reward"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Qada' in relation to fasting?",
+      "options": [
+        "Making up for missed fasts",
+        "Compensation",
+        "Atonement",
+        "Reward"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The night better than a thousand months is:",
+      "options": [
+        "Shab-e-Bara'at",
+        "Shab-e-Miraj",
+        "Lailat-ul-Qadr",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Lailat-ul-Qadr is better than:",
+      "options": [
+        "1 thousand days",
+        "1 thousand hours",
+        "1 thousand months",
+        "1 thousand years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first Ashra (first ten days) of Ramadan is called:",
+      "options": [
+        "Ashra-e-Rehmat (Days of Mercy)",
+        "Ashra-e-Maghfirat (Days of Forgiveness)",
+        "Ashra-e-Najat (Days of Salvation)",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The second Ashra of Ramadan is called:",
+      "options": [
+        "Ashra-e-Rehmat",
+        "Ashra-e-Maghfirat",
+        "Ashra-e-Najat",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The third Ashra of Ramadan is called:",
+      "options": [
+        "Ashra-e-Rehmat",
+        "Ashra-e-Maghfirat",
+        "Ashra-e-Najat-e-Naar-e-Jahannum",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In Ramadan, Nafl prayer is equal to:",
+      "options": [
+        "Sunnat prayer",
+        "Farz prayer",
+        "Wajib prayer",
+        "Nafl prayer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Ramadan, Farz prayer is equal to:",
+      "options": [
+        "70 Sunnat prayers",
+        "70 Farz prayers",
+        "70 Nafl prayers",
+        "70 Wajib prayers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The total number of Rak'ahs in Tarawih prayer is:",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "20"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the meaning of 'Taraweeh'?",
+      "options": [
+        "To Stand",
+        "To Rest",
+        "To Sit",
+        "To Pray"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The fasting in the month of Ramadan is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The fasting of Ashura (10th Muharram) is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fasting of six days of Shawwal is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fasting of Monday and Thursday is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fasting of the Day of Arafah (9th Zil-Hajj) is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many days are prohibited for fasting throughout the year?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Fasting is prohibited on which days?",
+      "options": [
+        "Eid-ul-Fitr",
+        "Eid-ul-Adha",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The 'Had-e-Qazf' (punishment for false accusation) is:",
+      "options": [
+        "50 lashes",
+        "70 lashes",
+        "80 lashes",
+        "90 lashes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The punishment for adultery (Zina) is:",
+      "options": [
+        "50 lashes",
+        "70 lashes",
+        "80 lashes",
+        "100 lashes"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The punishment for drinking alcohol is:",
+      "options": [
+        "40 lashes",
+        "50 lashes",
+        "80 lashes",
+        "100 lashes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the punishment for theft (in Shariah)?",
+      "options": [
+        "Imprisonment",
+        "Fines",
+        "Cutting of hand",
+        "Lashes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The 'Hudood' laws in Islam refer to:",
+      "options": [
+        "Punishments",
+        "Fines",
+        "Imprisonment",
+        "Exile"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The 'Tazir' in Islamic law refers to:",
+      "options": [
+        "Fixed punishments",
+        "Discretionary punishments",
+        "Exile",
+        "Fines"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The 'Qisas' in Islamic law refers to:",
+      "options": [
+        "Retaliation",
+        "Exile",
+        "Fines",
+        "Imprisonment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The concept of 'Adl' in Islamic law means:",
+      "options": [
+        "Equality",
+        "Justice",
+        "Fairness",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The 'Wali' in Islamic law refers to:",
+      "options": [
+        "Guardian",
+        "Judge",
+        "Witness",
+        "Lawyer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The 'Nikah' in Islam is:",
+      "options": [
+        "Sacrament",
+        "Civil contract",
+        "Religious ritual",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The 'Mahr' (dower) in Nikah is:",
+      "options": [
+        "Optional",
+        "Obligatory",
+        "Recommended",
+        "Prohibited"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The 'Talaq' in Islamic law refers to:",
+      "options": [
+        "Marriage",
+        "Divorce",
+        "Custody",
+        "Inheritance"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The most disliked thing by Allah is:",
+      "options": [
+        "Murder",
+        "Backbiting",
+        "Marriage",
+        "Divorce"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The 'Iddah' period for a divorced woman is:",
+      "options": [
+        "2 months",
+        "3 months",
+        "4 months and 10 days",
+        "1 year"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The 'Iddah' period for a widowed woman is:",
+      "options": [
+        "2 months",
+        "3 months",
+        "4 months and 10 days",
+        "1 year"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The 'Wasiyat' in Islamic law refers to:",
+      "options": [
+        "Marriage",
+        "Divorce",
+        "Will/Bequest",
+        "Inheritance"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The maximum limit of Wasiyat (bequest) is:",
+      "options": [
+        "1/3rd of wealth",
+        "1/4th of wealth",
+        "1/5th of wealth",
+        "1/2 of wealth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the rate of Zakat in grams on gold?",
+      "options": [
+        "64.14 grams",
+        "74.23 grams",
+        "87.48 grams",
+        "92.62 grams"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the rate of Zakat in grams on silver?",
+      "options": [
+        "400 grams",
+        "500 grams",
+        "600 grams",
+        "612.36 grams"
+      ],
+      "answer": 3
+    }
+  ]
+}

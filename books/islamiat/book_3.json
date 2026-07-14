@@ -1,0 +1,1076 @@
+{
+  "category": "Prophets & Messengers",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "Who is the first Prophet of Allah?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Adam (A.S)",
+        "Hazrat Noah (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is the last Prophet of Allah?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Essa (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the total number of Prophets mentioned in the Holy Quran?",
+      "options": [
+        "20",
+        "22",
+        "24",
+        "25"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who is known as 'Abu al-Bashar' (Father of Mankind)?",
+      "options": [
+        "Hazrat Noah (A.S)",
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Adam (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is known as 'Abu al-Anbiya' (Father of Prophets)?",
+      "options": [
+        "Hazrat Adam (A.S)",
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Noah (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is known as 'Sheikh al-Anbiya' (Chief of Prophets)?",
+      "options": [
+        "Hazrat Adam (A.S)",
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Noah (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many sons did Hazrat Adam (A.S) have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the height of Hazrat Adam (A.S)?",
+      "options": [
+        "60 Feet",
+        "70 Feet",
+        "80 Feet",
+        "90 Feet"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Sheesh (A.S) was the son of which Prophet?",
+      "options": [
+        "Hazrat Adam (A.S)",
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Noah (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "At what age was Hazrat Sheesh (A.S) born to Hazrat Adam (A.S)?",
+      "options": [
+        "100 years",
+        "130 years",
+        "160 years",
+        "190 years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first Prophet to write?",
+      "options": [
+        "Hazrat Adam (A.S)",
+        "Hazrat Idrees (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Sahifas (Scriptures) were revealed to Hazrat Idrees (A.S)?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Noah (A.S) lived for how many years?",
+      "options": [
+        "550 years",
+        "750 years",
+        "950 years",
+        "1150 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the name of Hazrat Noah (A.S)'s boat?",
+      "options": [
+        "Curve",
+        "Arc",
+        "Arrow",
+        "Ark"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How many days did the flood of Hazrat Noah (A.S) last?",
+      "options": [
+        "40 days",
+        "50 days",
+        "60 days",
+        "70 days"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Noah (A.S) is known as ______ in the Quran?",
+      "options": [
+        "Najeeb Ullah",
+        "Sheikh al-Anbiya",
+        "Kalim Ullah",
+        "Khalil Ullah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is known as 'Khalil Ullah' (Friend of Allah)?",
+      "options": [
+        "Hazrat Adam (A.S)",
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Ibrahim (A.S) was thrown into the fire by which king?",
+      "options": [
+        "Pharaoh",
+        "Nimrod",
+        "Abu Jahal",
+        "Abu Lahab"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many sons did Hazrat Ibrahim (A.S) have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who were the sons of Hazrat Ibrahim (A.S)?",
+      "options": [
+        "Hazrat Ismail & Hazrat Haroon (A.S)",
+        "Hazrat Haroon & Hazrat Ishaq (A.S)",
+        "Hazrat Ismail & Hazrat Ishaq (A.S)",
+        "Hazrat Musa & Hazrat Haroon (A.S)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Ibrahim (A.S) was from which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Ur (Mesopotamia)",
+        "Jerusalem"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the father of Hazrat Ismail (A.S)?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Ishaq (A.S)",
+        "Hazrat Yaqoob (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the mother of Hazrat Ismail (A.S)?",
+      "options": [
+        "Sara",
+        "Hajra",
+        "Raheel",
+        "Zainab"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Ismail (A.S) was the ancestor of which tribe?",
+      "options": [
+        "Bani Israel",
+        "Bani Hashim",
+        "Bani Quraish",
+        "Bani Ummayyah"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Ishaq (A.S) was the Prophet of which people?",
+      "options": [
+        "Arabs",
+        "Jews",
+        "Christians",
+        "Pagans"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Yaqoob (A.S) was the son of which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Ishaq (A.S)",
+        "Hazrat Ismail (A.S)",
+        "Hazrat Yousaf (A.S)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Yaqoob (A.S) was also known as?",
+      "options": [
+        "Israel",
+        "Ismael",
+        "Ishmael",
+        "Israfeel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many sons did Hazrat Yaqoob (A.S) have?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Yousaf (A.S) was the son of which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Ishaq (A.S)",
+        "Hazrat Yaqoob (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Yousaf (A.S) and Hazrat Yaqoob (A.S) met each other after how many years?",
+      "options": [
+        "35 years",
+        "40 years",
+        "45 years",
+        "50 years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Yousaf (A.S) remained in the well for how many days?",
+      "options": [
+        "2 days",
+        "3 days",
+        "5 days",
+        "7 days"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was known as 'Kalim Ullah' (One who spoke to Allah)?",
+      "options": [
+        "Hazrat Adam (A.S)",
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many miracles were given to Hazrat Musa (A.S)?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Musa (A.S) was sent to which nation?",
+      "options": [
+        "Arabs",
+        "Bani Israel",
+        "Romans",
+        "Persians"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the brother of Hazrat Musa (A.S)?",
+      "options": [
+        "Hazrat Haroon (A.S)",
+        "Hazrat Yousaf (A.S)",
+        "Hazrat Yaqoob (A.S)",
+        "Hazrat Ibrahim (A.S)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What was the miracle of Hazrat Musa (A.S) becoming a serpent?",
+      "options": [
+        "His staff",
+        "His hand",
+        "His voice",
+        "His eyes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The sea was divided for which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Essa (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Torah (Taurat) was revealed to which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Essa (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Torat is an Arabic word which means?",
+      "options": [
+        "Law",
+        "Sign",
+        "Peace",
+        "Good news"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Zabur (Psalms) was revealed to which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Dawood (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Zabur means?",
+      "options": [
+        "Law",
+        "Sign",
+        "Pieces",
+        "Good news"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Injeel (Gospel) was revealed to which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Dawood (A.S)",
+        "Hazrat Essa (A.S)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Essa (A.S) was born to which lady?",
+      "options": [
+        "Sara",
+        "Hajra",
+        "Maryam",
+        "Raheel"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the mother of Hazrat Essa (A.S)?",
+      "options": [
+        "Hazrat Maryam (A.S)",
+        "Hazrat Hajra (A.S)",
+        "Hazrat Sara (A.S)",
+        "Hazrat Raheel (A.S)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Essa (A.S) was born without a father. Who is he called?",
+      "options": [
+        "Son of Allah",
+        "Son of Maryam",
+        "Son of Adam",
+        "Son of Ibrahim"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many disciples (Hawariyyun) did Hazrat Essa (A.S) have?",
+      "options": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was the miracle given to Hazrat Essa (A.S) by Allah?",
+      "options": [
+        "Reviving the dead",
+        "Moving mountains",
+        "Cutting the moon",
+        "Giving voice to dumb"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Essa (A.S) cured the victims of leprosy as a miracle. This is mentioned in which Surah?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Maidah",
+        "Surah Al-An'am"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Essa (A.S) prayed to Allah to become the Ummati of which Prophet?",
+      "options": [
+        "Hazrat Musa (A.S)",
+        "Hazrat Muhammad (SAW)",
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Noah (A.S)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Yahya (A.S) was the son of which Prophet?",
+      "options": [
+        "Hazrat Musa (A.S)",
+        "Hazrat Haroon (A.S)",
+        "Hazrat Zakariya (A.S)",
+        "Hazrat Yousaf (A.S)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Zakariya (A.S) was the contemporary of which Prophet?",
+      "options": [
+        "Hazrat Musa (A.S)",
+        "Hazrat Haroon (A.S)",
+        "Hazrat Isa (A.S)",
+        "Hazrat Yousaf (A.S)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Zakariya (A.S) was a carpenter by profession. Who else was a carpenter?",
+      "options": [
+        "Hazrat Musa (A.S)",
+        "Hazrat Isa (A.S)",
+        "Hazrat Zakariya (A.S)",
+        "Hazrat Yousaf (A.S)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Sulaiman (A.S) was the son of which Prophet?",
+      "options": [
+        "Hazrat Musa (A.S)",
+        "Hazrat Haroon (A.S)",
+        "Hazrat Dawood (A.S)",
+        "Hazrat Yousaf (A.S)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Dawood (A.S) was the father of which Prophet?",
+      "options": [
+        "Hazrat Sulaiman (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Essa (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What was made subservient to Hazrat Sulaiman (A.S)?",
+      "options": [
+        "Fire",
+        "Water",
+        "Wind",
+        "Clay"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Sulaiman (A.S) earned his living by making?",
+      "options": [
+        "Wallets",
+        "Baskets",
+        "Chairs",
+        "Tables"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Sulaiman (A.S) died while standing with the support of a stick. Which creature ate his stick?",
+      "options": [
+        "Ant",
+        "Bird",
+        "Worm",
+        "Termite"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Ayyub (A.S) was famous for his?",
+      "options": [
+        "Wealth",
+        "Patience",
+        "Power",
+        "Knowledge"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Ayyub (A.S) suffered from which disease for 18 years?",
+      "options": [
+        "Blindness",
+        "Skin disease",
+        "Leprosy",
+        "Cancer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Ayyub (A.S) is known as?",
+      "options": [
+        "Najeeb Ullah",
+        "Khalil Ullah",
+        "Sabir (Patient)",
+        "Kalim Ullah"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Yunus (A.S) is known as?",
+      "options": [
+        "Dhun-Nun",
+        "Khalil Ullah",
+        "Kalim Ullah",
+        "Najeeb Ullah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Dhun-Nun'?",
+      "options": [
+        "Home of Fish",
+        "Lord of the Fish",
+        "Friend of the Fish",
+        "Keeper of the Fish"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Yunus (A.S) was swallowed by a?",
+      "options": [
+        "Shark",
+        "Whale",
+        "Fish",
+        "Dolphin"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The nation of Hazrat Hud (A.S) was destroyed by?",
+      "options": [
+        "Flood",
+        "Continuous rain and Storm",
+        "Earthquake",
+        "Fire"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The nation of Hazrat Hood (A.S) was destroyed by continuous rain and storm for how many days?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Saleh (A.S) was sent to which nation?",
+      "options": [
+        "Thamud",
+        "Ad",
+        "Madyan",
+        "Bani Israel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What was the miracle of Hazrat Saleh (A.S)?",
+      "options": [
+        "She-camel",
+        "Staff",
+        "Fire",
+        "Wind"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The nation of Thamud was destroyed by?",
+      "options": [
+        "Flood",
+        "Storm",
+        "Earthquake",
+        "Fire"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Shoaib (A.S) was sent to which nation?",
+      "options": [
+        "Thamud",
+        "Ad",
+        "Madyan",
+        "Bani Israel"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Shoaib (A.S) is known as?",
+      "options": [
+        "Khateeb-ul-Anbia",
+        "Khalil Ullah",
+        "Kalim Ullah",
+        "Najeeb Ullah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Loot (A.S) was sent to which nation?",
+      "options": [
+        "Thamud",
+        "Ad",
+        "Madyan",
+        "Sodom"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The nation of Hazrat Loot (A.S) was destroyed by?",
+      "options": [
+        "Flood",
+        "Storm",
+        "Earthquake",
+        "Fire and brimstone"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Loot (A.S) was the nephew of which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Haroon (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Uzair (A.S) slept for 100 years and then woke up. This is mentioned in which Surah?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Kahf",
+        "Surah Al-Naml"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Uzair (A.S) is known as?",
+      "options": [
+        "Son of Allah (by Jews)",
+        "Friend of Allah",
+        "Kalim Ullah",
+        "Najeeb Ullah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Idrees (A.S) was the first Prophet to?",
+      "options": [
+        "Write",
+        "Speak",
+        "Read",
+        "Count"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Idrees (A.S) was also known as?",
+      "options": [
+        "Enoch",
+        "Elijah",
+        "Elisha",
+        "Ezekiel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Elijah (Ilyas A.S) was sent to which nation?",
+      "options": [
+        "Thamud",
+        "Ad",
+        "Bani Israel",
+        "Madyan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Elisha (Al-Yasa A.S) was the successor of which Prophet?",
+      "options": [
+        "Hazrat Ilyas (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Haroon (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Zul-Kifl (A.S) is mentioned in which Surah?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Anbiya",
+        "Surah Al-Sad"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Zul-Kifl (A.S) is also known as?",
+      "options": [
+        "Ezekiel",
+        "Enoch",
+        "Elijah",
+        "Elisha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) is the last Prophet. He is called?",
+      "options": [
+        "Khatim al-Anbiya",
+        "Khalil Ullah",
+        "Kalim Ullah",
+        "Najeeb Ullah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) was born in which city?",
+      "options": [
+        "Madina",
+        "Makkah",
+        "Taif",
+        "Jerusalem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) was sent to which people?",
+      "options": [
+        "Only Arabs",
+        "Only Madinites",
+        "All mankind",
+        "Only Quraish"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The name 'Muhammad' appears in the Quran how many times?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The name 'Ahmed' is another name of which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Musa (A.S)",
+        "Hazrat Essa (A.S)",
+        "Hazrat Muhammad (PBUH)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) was named 'Ahmed' by?",
+      "options": [
+        "His mother",
+        "His grandfather",
+        "Hazrat Essa (A.S)",
+        "Allah"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) is mentioned by name in the Torah as?",
+      "options": [
+        "Muhammad",
+        "Ahmed",
+        "Tayyab",
+        "Farooq"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) had how many sons?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) had how many daughters?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) was the son of?",
+      "options": [
+        "Abdul Muttalib",
+        "Abdullah",
+        "Abu Talib",
+        "Abu Lahab"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) was the grandson of?",
+      "options": [
+        "Abdul Muttalib",
+        "Abdullah",
+        "Abu Talib",
+        "Abu Lahab"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) belonged to which tribe?",
+      "options": [
+        "Banu Hashim",
+        "Banu Ummayyah",
+        "Banu Makhzoom",
+        "Banu Taym"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) was the descendant of which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Ismail (A.S)",
+        "Hazrat Ishaq (A.S)",
+        "Hazrat Yaqoob (A.S)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) received the first revelation at the age of?",
+      "options": [
+        "38 years",
+        "39 years",
+        "40 years",
+        "41 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) received the first revelation in which cave?",
+      "options": [
+        "Cave Thawr",
+        "Cave Hira",
+        "Cave Saur",
+        "Cave Uhud"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) lived in Makkah for how many years after prophethood?",
+      "options": [
+        "10 years",
+        "11 years",
+        "12 years",
+        "13 years"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) lived in Madina for how many years?",
+      "options": [
+        "8 years",
+        "9 years",
+        "10 years",
+        "11 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) performed how many Hajj?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) performed Hajj in which year?",
+      "options": [
+        "8 Hijri",
+        "9 Hijri",
+        "10 Hijri",
+        "11 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) passed away in which year?",
+      "options": [
+        "8 Hijri",
+        "9 Hijri",
+        "10 Hijri",
+        "11 Hijri"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) was buried in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Taif",
+        "Jerusalem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) was buried in the house of which wife?",
+      "options": [
+        "Hazrat Khadija (R.A)",
+        "Hazrat Ayesha (R.A)",
+        "Hazrat Hafsah (R.A)",
+        "Hazrat Salma (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who prepared the grave of Hazrat Muhammad (PBUH)?",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Usman (R.A)",
+        "Hazrat Abu Talha (R.A)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) is called 'Rahmat-ul-lil-Alameen' because?",
+      "options": [
+        "He was kind to all",
+        "He was sent as mercy to all mankind",
+        "He was a great leader",
+        "He was a great warrior"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The title 'Amin' was given to Hazrat Muhammad (PBUH) because?",
+      "options": [
+        "He was honest",
+        "He was trustworthy",
+        "He was kind",
+        "He was generous"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Muhammad (PBUH) was a descendant of which son of Hazrat Ibrahim (A.S)?",
+      "options": [
+        "Hazrat Ishaq (A.S)",
+        "Hazrat Ismail (A.S)",
+        "Hazrat Yaqoob (A.S)",
+        "Hazrat Yousaf (A.S)"
+      ],
+      "answer": 1
+    }
+  ]
+}

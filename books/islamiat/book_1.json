@@ -1,0 +1,1036 @@
+{
+  "category": "Basic Islamic Studies",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "The study of Religions is called:",
+      "options": [
+        "Seismology",
+        "Theology",
+        "Gerontology",
+        "Etymology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mughal emperor Akbar enforced Din-I-Ilahi in:",
+      "options": [
+        "1581",
+        "1582",
+        "1583",
+        "1584"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Name the wife of Haroon ur Rasheed who was the mother of Al-Ameen and Al-Ma'mun:",
+      "options": [
+        "Zubaida",
+        "Farzana",
+        "Ammamah",
+        "Buran"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did Imam Abu Hanifa born?",
+      "options": [
+        "70 Hijri",
+        "80 Hijri",
+        "90 Hijri",
+        "100 Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When did Imam Abu Hanifa die?",
+      "options": [
+        "150 Hijri",
+        "160 Hijri",
+        "170 Hijri",
+        "180 Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book Kitab al Umm is written by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Shafi",
+        "Imam Malik",
+        "Imam Hambal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Number of hadiths narrated by Hazrat Abu Huraira (R.A):",
+      "options": [
+        "5356",
+        "5374",
+        "5378",
+        "5837"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is the correct etiquette of Imam to deliver Friday Khutba?",
+      "options": [
+        "He can face toward Qiblah and deliver Khutba",
+        "He must face the audience and deliver Khutba",
+        "He is at liberty to face the Qiblah or audience",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the name of lady, whose Father, Husband, Brother and Son all were Prophets?",
+      "options": [
+        "Layya bint Ya'qub",
+        "Hazrat Maryam",
+        "Hajra",
+        "Sarah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hazrat Abu Bakr (R.A) belonged to the tribe of:",
+      "options": [
+        "Banu Sahm",
+        "Banu Taym",
+        "Banu Hashim",
+        "Banu Asad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the commander of the Infidels in the Battle of Uhud?",
+      "options": [
+        "Shaiba",
+        "Abu Jahal",
+        "Abu Sufyan",
+        "Khalid bin Walid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Prophet Muhammad (PBUH) belonged to which family?",
+      "options": [
+        "Hashmi",
+        "Quraishi",
+        "Makki",
+        "Madni"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In the beginning Prophet Muhammad (PBUH) worked as a shepherd for:",
+      "options": [
+        "Banu Saad",
+        "Banu Asad",
+        "Banu Ummayya",
+        "Banu Makhzoom"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prophet Muhammad (PBUH) had how many sons?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Prophet Muhammad (PBUH) had how many daughters?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In the 'Sacrilegious wars', when Prophet Muhammad (PBUH) was 20 years of age, Quraish and their allies were led by:",
+      "options": [
+        "Abu Jahal",
+        "Abu Lahab",
+        "Umayah bin Khalaf",
+        "Harb bin Umayah"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "To what Prophet the Zabar was revealed by Allah?",
+      "options": [
+        "Prophet Ibraheem (A.S)",
+        "Prophet Dawood (A.S)",
+        "Prophet Moosa (A.S)",
+        "Prophet Essa (A.S)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "To what Prophet the Injeel was revealed by Allah?",
+      "options": [
+        "Prophet Ibraheem (A.S)",
+        "Prophet Dawood (A.S)",
+        "Prophet Moosa (A.S)",
+        "Prophet Essa (A.S)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What companion of Prophet (PBUH) was awarded with the title of 'The sword of Allah'?",
+      "options": [
+        "Abu Bakr Siddique (R.A)",
+        "Umar Farooque (R.A)",
+        "Ali Al-Murtaza (R.A)",
+        "Khalid bin Waleed (R.A)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What companion of Prophet (PBUH) was awarded with the title of 'The lion of Allah'?",
+      "options": [
+        "Umar Farooque (R.A)",
+        "Ali Al-Murtaza (R.A)",
+        "Hamza bin Abdul Mattalib (R.A)",
+        "Khalid bin Waleed (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was the name of Imam Bukhari (R.A)?",
+      "options": [
+        "Muhammad bin Ismaeel",
+        "Muhammad Ismaeel",
+        "Muhammad Ibraheem",
+        "Ismaeel bin Ibraheem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Khateeb-ul-Ambia was the title of which Prophet?",
+      "options": [
+        "Prophet Dawood (A.S)",
+        "Prophet Noah (A.S)",
+        "Prophet Yaqoob (A.S)",
+        "Prophet Shoaib (A.S)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Namaz-e-Khasoof is offered at the time of:",
+      "options": [
+        "Lunar eclipse",
+        "Solar eclipse",
+        "Earthquake",
+        "Heavy rain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who takes out souls of life bearing creatures?",
+      "options": [
+        "Jibrael (A.S)",
+        "Mikael (A.S)",
+        "Israfeel (A.S)",
+        "Izraeel (A.S)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Name the Angel who was appointed to deliver messages to Prophet Muhammad (PBUH) from Allah:",
+      "options": [
+        "Jibrael (A.S)",
+        "Mikael (A.S)",
+        "Israfeel (A.S)",
+        "Izraeel (A.S)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cave Hira is in which mountain?",
+      "options": [
+        "As-Safa",
+        "Sil",
+        "Uhud",
+        "An-Noor"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Name the wife of Prophet Muhammad (PBUH) who was daughter of Umar Farooq (R.A):",
+      "options": [
+        "Aisha (R.A)",
+        "Juwaiyyah (R.A)",
+        "Hafsah (R.A)",
+        "Maimoonah (R.A)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Prophet Muhammad (PBUH) lived in Madina for how many years?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Al-Hudaibiyah Treaty was scribed by:",
+      "options": [
+        "Abu Bakr Siddique (R.A)",
+        "Umar Farooq (R.A)",
+        "Usman Ghani (R.A)",
+        "Ali Al-Murtaza (R.A)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which country is called the 'Land of Prophets'?",
+      "options": [
+        "Saudi Arabia",
+        "Syria",
+        "Palestine",
+        "Iraq"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Siha e Sitta are how many books of Hadith?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Eid Prayer is:",
+      "options": [
+        "Wajib",
+        "Farz",
+        "Sunnat",
+        "Mustahib"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book of Hadith, Al-Muwatta, was compiled by:",
+      "options": [
+        "Imam Abu Haneefa (R.A)",
+        "Imam Shafi (R.A)",
+        "Imam Ahmad bin Hambal (R.A)",
+        "Imam Malik (R.A)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In Hajj, touching the Black Stone is called:",
+      "options": [
+        "Istilam",
+        "Sayee",
+        "Ramee",
+        "Tawaf"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first migration of the Companions and relatives of the Prophet Muhammad (PBUH) was to:",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Abyssinia (Ethiopia)",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Banu Quraiza, Banu Nadir and Banu Qainuqa were three tribes of the:",
+      "options": [
+        "Muslims",
+        "Christians",
+        "Jews",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "'Muhammad is the messenger of Allah' is stated in which Surah?",
+      "options": [
+        "Surah Ya-Seen",
+        "Surah Muhammad",
+        "Surah Al-Muzzammil",
+        "Surah Al-Fath"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Allah says, 'Wives of Prophet Muhammad (PBUH) are mothers of believers' in which Surah?",
+      "options": [
+        "Aal-e-Imraan",
+        "Yaaseen",
+        "Muhammad",
+        "Ahzaab"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The name 'Muhammad' has been mentioned how many times in the Holy Quran?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which Surah of Quran has Bismillah twice?",
+      "options": [
+        "Aal-e-Imraan",
+        "Al-Namal",
+        "Yaaseen",
+        "Muhammad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which surah starts without 'Bismillah'?",
+      "options": [
+        "Al-Baqara",
+        "Al-Nisa",
+        "Al-Toba",
+        "Al-Ikhlas"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which surah contains the orders about Wuzu, Ghusal and Tayammum?",
+      "options": [
+        "Al-Maidah",
+        "Al-Baqara",
+        "Al-Mominoon",
+        "Al-Nisa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which famous Ghazwah is mentioned in surah Al-Imran?",
+      "options": [
+        "Ghazwah Ohad",
+        "Ghazwah Badar",
+        "Ghazwah Khaibar",
+        "Ghazwah Khandaq"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In surah Kahf, which animal is mentioned along with the Ashaab e Kahf?",
+      "options": [
+        "Dog",
+        "Cat",
+        "Horse",
+        "Woodpecker"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The 'Battle of Yermuk' was fought between Muslims and:",
+      "options": [
+        "Romans",
+        "Jews",
+        "Iranis",
+        "Christians"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In Hajj, stoning the Devil is called:",
+      "options": [
+        "Istilam",
+        "Sayee",
+        "Ramee",
+        "Tawaf"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In Hajj, traveling seven times between Mount Safa and Mount Marwah is called:",
+      "options": [
+        "Istilam",
+        "Sayee",
+        "Ramee",
+        "Tawaf"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first Umayyad Caliph was:",
+      "options": [
+        "Khalid bin Waleed (R.A)",
+        "Ameer Muawiyah (R.A)",
+        "Abu Ubaidah (R.A)",
+        "Amr bin Al-Aas (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Prophet Muhammad (PBUH) sent his messengers to the kings beyond Arabia calling them to Islam. In order to authenticate the credentials of his messengers, a seal was made of:",
+      "options": [
+        "Gold",
+        "Silver",
+        "Metallic",
+        "Wooden"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the Battle of Uhud, Prophet Muhammad (PBUH) selected how many skillful archers to stay on a mountain?",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What was the relation between Prophet Moosa (A.S) and Prophet Haroon (A.S)?",
+      "options": [
+        "Prophet Moosa (A.S) was father of Prophet Haroon (A.S)",
+        "Prophet Haroon (A.S) was father of Prophet Moosa (A.S)",
+        "Brothers",
+        "Cousins"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Mosque of ______ was demolished by the Prophet?",
+      "options": [
+        "Quba",
+        "Harmain",
+        "Nabavi",
+        "Zarar"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat ______ conquered the fort of Qamus:",
+      "options": [
+        "Ali",
+        "Abu Bakar",
+        "Umar",
+        "Usman"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lady named ______ tried to poison the Holy Prophet:",
+      "options": [
+        "Ayesha",
+        "Razia",
+        "Zainab",
+        "Fatima"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Prophet recited ______ at the conquest of Makkah:",
+      "options": [
+        "Surah Al-Fatha",
+        "Surah Al-Kausar",
+        "Surah Al-Nasr",
+        "Surah Al-Ikhlas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Second migration to Habshah took place in:",
+      "options": [
+        "613 A.D",
+        "614 A.D",
+        "615 A.D",
+        "616 A.D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Friend of Khadija (R.A) carried message of Nikah:",
+      "options": [
+        "Fatima",
+        "Kulsoom",
+        "Nafeesa",
+        "Sobia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Abdul Mutalib died in which A.D?",
+      "options": [
+        "578",
+        "579",
+        "580",
+        "581"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For how many years Haleema took care of Prophet (PBUH)?",
+      "options": [
+        "Six",
+        "Seven",
+        "Eight",
+        "Nine"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For how many years Abdul Mutalib took care of Prophet?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Social boycott of Banu Hashim took place in which year of Nabvi?",
+      "options": [
+        "4th",
+        "5th",
+        "6th",
+        "7th"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Social boycott continued for how many years?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Original name of Abu Jehl was ______ bin Hisham:",
+      "options": [
+        "Abha",
+        "Saleh",
+        "Omar",
+        "Ali"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "King of ______ tore away the message of Prophet:",
+      "options": [
+        "Iraq",
+        "Egypt",
+        "Syria",
+        "Iran"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "After how many years of the birth of Holy Prophet Bibi Amina died?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "After how many years of the birth of Prophet, Abdul Muttalib died?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Prophet addressed Khutba-e-Jumaa for first time in which Hijrah?",
+      "options": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Year of Deputation is which Hijrah?",
+      "options": [
+        "8th",
+        "9th",
+        "10th",
+        "11th"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Moawakhat (the brotherhood) took place in which Hijrah?",
+      "options": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Jehad was allowed in which Hijrah?",
+      "options": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hurrirah means a:",
+      "options": [
+        "Goat",
+        "Ant",
+        "Camel",
+        "Cat"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Companions of Prophet at Hudabiya were:",
+      "options": [
+        "1300",
+        "1400",
+        "1500",
+        "1600"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Prophet stayed at Makkah for how many days after its conquest?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Khadija and Hazrat Abu Talib died in:",
+      "options": [
+        "618 A.D",
+        "619 A.D",
+        "620 A.D",
+        "621 A.D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Ghazwa-e-Badr occurred in:",
+      "options": [
+        "2 Hijrah",
+        "3 Hijrah",
+        "4 Hijrah",
+        "5 Hijrah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many Muslims fought in the battle of Ghazwa-e-Badr?",
+      "options": [
+        "313",
+        "314",
+        "315",
+        "316"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many kings accepted Islam when Holy Prophet sent them letters?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest idol named in Kaaba was:",
+      "options": [
+        "Hubal",
+        "Jabal",
+        "Tabal",
+        "Haleeb"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bilal called first Azaan of which prayer?",
+      "options": [
+        "Fajar",
+        "Zuhar",
+        "Asar",
+        "Maghrib"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The grave of the Prophet was prepared by:",
+      "options": [
+        "Hazrat Abu Bakar",
+        "Hazrat Umar",
+        "Hazrat Usman",
+        "Hazrat Abu Talha"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "At Masjid-e-______ first Muslim University was established?",
+      "options": [
+        "Zarar",
+        "Quba",
+        "Hanafia",
+        "Nabvi"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Khadija died at what age?",
+      "options": [
+        "63",
+        "64",
+        "65",
+        "66"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Daughter of Umer who married to Prophet was:",
+      "options": [
+        "Ayesha",
+        "Summaya",
+        "Fatima",
+        "Hafsa"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat ______ died first among the Sahabah:",
+      "options": [
+        "Ali",
+        "Abu Bakar",
+        "Umar",
+        "Asad"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hazrat Usman Bin ______ was the Key holder of Kaaba:",
+      "options": [
+        "Qasim",
+        "Saad",
+        "Talha",
+        "Asad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Hazrat Abu Bakar was the merchant of:",
+      "options": [
+        "Steel",
+        "Cloth",
+        "Coal",
+        "Wheat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hazrat Umar Farooq was martyred on ______ 24 A.H:",
+      "options": [
+        "1st Muharram",
+        "2nd Muharram",
+        "3rd Muharram",
+        "4th Muharram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Only Sahabi without seeing Prophet is:",
+      "options": [
+        "Abdurreham",
+        "Qasim",
+        "Awais Karni",
+        "Usman"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the verbal meaning of word 'Islam'?",
+      "options": [
+        "Belief on Allah",
+        "Confidence of Allah",
+        "Obedience of Allah",
+        "Worship of Allah"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the literal meaning of Islam?",
+      "options": [
+        "To bow down the neck",
+        "To obey",
+        "To have safety",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "To which Prophet Muslim Ummah Belongs?",
+      "options": [
+        "Holy Prophet Hazrat Muhammad (PBUH)",
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Ismaeel (A.S)",
+        "Hazrat Yaqoob (A.S)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Opposite of Tauheed is:",
+      "options": [
+        "Atheism",
+        "Idol worship",
+        "Shirk",
+        "None of These"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many times command of erection of Namaz is given in the Quran?",
+      "options": [
+        "500 Times",
+        "600 Times",
+        "700 Times",
+        "800 Times"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "On which time the Holy Prophet (PBUH) was gifted with Namaz?",
+      "options": [
+        "Miraj",
+        "Hijrat",
+        "Ghazwa Badar",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Five prayers were declared compulsory in which year of Nabvi?",
+      "options": [
+        "9th Nabvi",
+        "10th Nabvi",
+        "11th Nabvi",
+        "12th Nabvi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Fajar, Zuhur, Asar, Maghrib and ______ are compulsory salats?",
+      "options": [
+        "Eid",
+        "Khasoof",
+        "Ishaa",
+        "Chasht"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "On the Judgment day first question will be about:",
+      "options": [
+        "Fast",
+        "Zakat",
+        "Namaz",
+        "Hajj"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Maghrib Prayer is offered:",
+      "options": [
+        "Before sunset",
+        "At noon",
+        "Just after the sunset",
+        "None of them"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The part of prayer the Holy Prophet did is called:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Nafl",
+        "Sunnat"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Muslim must face in the direction of ______ for Namaz?",
+      "options": [
+        "Bait-ul-Maqadas",
+        "Madina",
+        "Khana-e-Kabah",
+        "East"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many Takbeers are recited by Moazin in Azan?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "9"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Tasbeeh of Subhana Rabi-al-Azeem is recited in:",
+      "options": [
+        "Sajda",
+        "Rukuh",
+        "Qaada",
+        "All of them"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Tasbeeh of Subhana Rabi-al-Alaa is recited in:",
+      "options": [
+        "Sajda",
+        "Jalsa",
+        "Ruku",
+        "Qada"
+      ],
+      "answer": 0
+    }
+  ]
+}

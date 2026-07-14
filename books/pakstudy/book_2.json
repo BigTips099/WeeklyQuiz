@@ -1,0 +1,1506 @@
+{
+  "category": "History (Pre-Partition)",
+  "totalQuestions": 150,
+  "questions": [
+    {
+      "question": "When was All India Muslim League founded?",
+      "options": [
+        "December 30, 1906",
+        "September 11, 1906",
+        "December 25, 1906",
+        "September 28, 1906"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where was All India Muslim League founded?",
+      "options": [
+        "Delhi",
+        "Lahore",
+        "Dhaka",
+        "Allahabad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first President of All India Muslim League?",
+      "options": [
+        "Sir Agha Khan",
+        "Nawab Waqar ul Mulk",
+        "Nawab Saleem ullah Khan",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the founder of All India Muslim League?",
+      "options": [
+        "Nawab Salimullah Khan",
+        "Sir Syed Ahmed Khan",
+        "Quaid-e-Azam",
+        "Allama Iqbal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was Indian National Congress founded?",
+      "options": [
+        "December 25, 1885",
+        "December 28, 1885",
+        "December 30, 1885",
+        "December 31, 1885"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where was Indian National Congress founded?",
+      "options": [
+        "Delhi",
+        "Bombay",
+        "Kanpur",
+        "Allahabad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who founded Indian National Congress?",
+      "options": [
+        "Lord Curzon",
+        "Allan Octavian Hume",
+        "Lord Mountbatten",
+        "Dadabhai Naroji"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first session of Indian National Congress was held in?",
+      "options": [
+        "Calcutta",
+        "Bombay",
+        "Delhi",
+        "Aligarh"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first President of Indian National Congress?",
+      "options": [
+        "Womesh Chunder Bonnerjee",
+        "Dadabhai Naroji",
+        "George Yule",
+        "Baddrudin Tayyabji"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the Viceroy of India at the time of partition of Bengal?",
+      "options": [
+        "Lord Curzon",
+        "Lord Wavell",
+        "Lord Minto",
+        "Lord Algan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did the partition of Bengal take place?",
+      "options": [
+        "1904",
+        "1905",
+        "1906",
+        "1907"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was the partition of Bengal annulled?",
+      "options": [
+        "1906",
+        "1908",
+        "1909",
+        "1911"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Simla Deputation was led by?",
+      "options": [
+        "Sir Agha Khan",
+        "Nawab Waqar ul Mulk",
+        "Nawab Saleem ullah Khan",
+        "Quaid-e-Azam"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did Simla Deputation meet the Viceroy?",
+      "options": [
+        "1st October 1906",
+        "1st October 1907",
+        "1st October 1905",
+        "1st October 1908"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Simla Deputation successfully presented Muslims demands before?",
+      "options": [
+        "Lord Curzon",
+        "Lord Irwin",
+        "Lord Minto",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the real name of Titu Mir?",
+      "options": [
+        "Nisar Ali",
+        "Sayed Ahmad",
+        "Muhammad Ali",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who started the Faraizi Movement?",
+      "options": [
+        "Haji Shariat Ullah",
+        "Allama Muhammad Iqbal",
+        "Maulana Muhammad Ali Jauhar",
+        "Sir Aga Khan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Faraizi Movement was primarily a religious movement. Dudhu Mian transferred it to which movement?",
+      "options": [
+        "Political",
+        "Educational",
+        "Guerrilla",
+        "Cultural"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Kuka movement started in mid-Nineteenth century in?",
+      "options": [
+        "Maharashtra",
+        "Western Punjab",
+        "Madhya Bharat",
+        "Bengal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Sir Syed Ahmed Khan was born in?",
+      "options": [
+        "1815",
+        "1816",
+        "1817",
+        "1818"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Sir Syed Ahmed Khan died in?",
+      "options": [
+        "1896",
+        "1897",
+        "1898",
+        "1899"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Sir Syed Ahmed Khan retired as a Judge in?",
+      "options": [
+        "1874",
+        "1875",
+        "1876",
+        "1877"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Sir Syed Ahmed Khan established a Translation Society (later renamed as Scientific society) in 1864. In which town was it founded?",
+      "options": [
+        "Bijnaur",
+        "Aligarh",
+        "Ghazipur",
+        "Delhi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was MAO College at Aligarh started?",
+      "options": [
+        "1875",
+        "1876",
+        "1877",
+        "1878"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was Aligarh Trusteeship bill passed?",
+      "options": [
+        "1886",
+        "1887",
+        "1888",
+        "1889"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who was appointed first secretary of the Board of Trustees of Aligarh College?",
+      "options": [
+        "Syed Muhammad",
+        "Sir Syed Ahmad Khan",
+        "Hakeem Ajmal khan",
+        "Nawab Vigar-ul-malik"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who received the title of 'Knighthood' in 1888?",
+      "options": [
+        "Rahmat Ali",
+        "Sir Syed Ahmad Khan",
+        "Nawab Salimullah Khan",
+        "Agha Khan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who wrote 'The Loyal Muhammadans of India'?",
+      "options": [
+        "Sir M.Zafarullah khan",
+        "Sir Syed Ahmad Khan",
+        "Fazlul-Haq",
+        "Rahmat Ali"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Sir Syed Ahmed Khan set up a scientific society, which translated modern work from English to which language?",
+      "options": [
+        "Arabic",
+        "Urdu",
+        "Farsi",
+        "Bengali"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Sir Syed Ahmed Khan received his early education from his?",
+      "options": [
+        "Father",
+        "Maternal Grand Father",
+        "Mother",
+        "Maternal Grand Mother"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "'Congress is mainly a Hindu body which can never be sincere to the Muslims'. Who said these lines?",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Sir Syed Ahmad Khan",
+        "Fatima Jinnah",
+        "Rahmat Ali"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who introduced 'Two nations theory' in the subcontinent?",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Sir Syed Ahmad Khan",
+        "Allama Muhammad Iqbal",
+        "Zafar Ali khan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which year Sir Syed Ahmad Khan set up a school at Muradabad?",
+      "options": [
+        "1829",
+        "1839",
+        "1859",
+        "1849"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "MAO College was to provide education to?",
+      "options": [
+        "Muslims",
+        "Non-Muslims",
+        "Muslims & Non-Muslims",
+        "Christians"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The London branch of Muslim League was started by?",
+      "options": [
+        "Syed Amir Ali",
+        "Sir Wazir Hassan",
+        "Hasan Bilgrami",
+        "Moulana Shaukat Ali"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Majlis-i-Ahrar was formed in?",
+      "options": [
+        "1929",
+        "1931",
+        "1933",
+        "1935"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did Quaid-e-Azam join All India Muslim League?",
+      "options": [
+        "1911",
+        "1912",
+        "1913",
+        "1914"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quaid-e-Azam started his legal practice in Bombay (Mumbai) in?",
+      "options": [
+        "1796",
+        "1896",
+        "1895",
+        "1897"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the mother of Dina Wadia?",
+      "options": [
+        "Emibai",
+        "Ratan bai",
+        "Sakshi bai",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quaid-e-Azam first wife Emibai died in?",
+      "options": [
+        "1893",
+        "1894",
+        "1895",
+        "1896"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mother tongue of Quaid-e-Azam was?",
+      "options": [
+        "Sindhi",
+        "Baluchi",
+        "Punjabi",
+        "Gujrati"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "First marriage of Quaid-e-Azam took place in which year?",
+      "options": [
+        "1892",
+        "1893",
+        "1894",
+        "1895"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first wife of Quaid-e-Azam?",
+      "options": [
+        "Sakshi bai",
+        "Ratan bai",
+        "Emibai",
+        "None"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the Viceroy of India at the time of Quit India Movement?",
+      "options": [
+        "Lord Wavell",
+        "Lord Walington",
+        "Lord Linlithgow",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Quit India Movement was launched in the month of?",
+      "options": [
+        "March",
+        "June",
+        "August",
+        "October"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In violation of the Salt Laws, Gandhiji started a movement called?",
+      "options": [
+        "Non-Cooperation movement",
+        "Civil disobedience movement",
+        "Quit India Movement",
+        "Salt March"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Bhoodan Movement was launched by?",
+      "options": [
+        "Mahatma Gandhi",
+        "Rammanohar Lohia",
+        "Vinoba Bhave",
+        "Rammanohar Lohia"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the leader of the Young Bengal Movement?",
+      "options": [
+        "Raja Ram Mohan Roy",
+        "Henry Vivian Derozio",
+        "David Hare",
+        "Debendranath Tagore"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Arya Samaj was founded in?",
+      "options": [
+        "1875",
+        "1877",
+        "1878",
+        "1879"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who founded Muhammadan Literary Society in 1863?",
+      "options": [
+        "Shah Waliullah Dehawi",
+        "Syed Ameer Ali",
+        "Nawab Abdul Latif",
+        "Sir Syed Ahmad Khan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Nawab Abdul Latif founded the Muhammadan Literary Society in April 1863 at?",
+      "options": [
+        "Dhaka",
+        "Faridpur",
+        "Calcutta",
+        "Delhi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Khaksar Tehreek was established in 1930 by?",
+      "options": [
+        "Mahatma Gandhi",
+        "Allama Iqbal",
+        "Quaid-e-Azam",
+        "Allama Inayatullah Mashraqi"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Hindu Mahasabha was established in?",
+      "options": [
+        "1912",
+        "1916",
+        "1919",
+        "1921"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Simon Commission arrived in India on?",
+      "options": [
+        "3rd February, 1927",
+        "3rd February, 1928",
+        "3rd February, 1929",
+        "3rd February, 1930"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The British Prime Minister Ramsay Macdonald announced the Communal Award in 1932 at the end of?",
+      "options": [
+        "First Round Table Conference",
+        "Second Round Table Conference",
+        "Third Round Table Conference",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The 1st Round Table Conference on November 1930 was chaired by then British Prime Minister?",
+      "options": [
+        "Bonar Law",
+        "Ramsay MacDonald",
+        "Lloyd George",
+        "Stanley Baldwin"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Nehru Report was published in?",
+      "options": [
+        "April 1927",
+        "August 1927",
+        "April 1928",
+        "August 1928"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "All India Muslim League observed the 'Direct Action Day' on?",
+      "options": [
+        "August 6, 1944",
+        "August 6, 1945",
+        "August 6, 1946",
+        "August 16, 1946"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The interim Government was formed in 1946. Who was the Prime Minister?",
+      "options": [
+        "Pandit Nehru",
+        "F.M. Lord Wavell",
+        "Liaquat Ali Khan",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who negotiated with Cabinet Mission (1946) on behalf of All India National Congress?",
+      "options": [
+        "Gandhi",
+        "Nehru",
+        "A.K. Azad",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The All-Indian Muslim League observed 'Day of Deliverance' after?",
+      "options": [
+        "Resignation of Congress Ministries",
+        "Partition of Bengal",
+        "Simon Commission Report",
+        "Quit India Movement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first President of All India Muslim League?",
+      "options": [
+        "Sir Agha Khan",
+        "Nawab Waqar ul Mulk",
+        "Nawab Saleem ullah Khan",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did Quaid-e-Azam join All India Muslim League?",
+      "options": [
+        "1911",
+        "1912",
+        "1913",
+        "1914"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the other name of Lahore Resolution?",
+      "options": [
+        "Pakistan Resolution",
+        "Muslim league Resolution",
+        "Indo Pak Resolution",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who presented Lahore Resolution (Pakistan Resolution) on 23rd March, 1940?",
+      "options": [
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "A.K Fazlul-Haq"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Allama Muhammad Iqbal delivered his famous Allahabad Address in?",
+      "options": [
+        "1929",
+        "1930",
+        "1931",
+        "1932"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Lahore Resolution was amended and Pakistan was made an integral part of League's objective. The amendment was made in the Annual session (1941) of All India Muslim League, which was held at?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Madras",
+        "Delhi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first President of the Constitution Assembly of Pakistan?",
+      "options": [
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam",
+        "Moulvi Tameez-ud-Din",
+        "Sardar Abdur Rab Nishtar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first session of the first Constituent Assembly of Pakistan was held on?",
+      "options": [
+        "10th August 1947",
+        "11th August 1947",
+        "12th August 1947",
+        "13th August 1947"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who took the oath of Quaid-e-Azam Muhammad Ali Jinnah as the first Governor-General of Pakistan?",
+      "options": [
+        "Mian Abdur Rashid",
+        "Liaquat Ali Khan",
+        "Muhammad Munir",
+        "Muhammad Shahabuddin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quaid-e-Azam died on?",
+      "options": [
+        "10th September 1948",
+        "11th September 1948",
+        "12th September 1948",
+        "13th September 1948"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who led the funeral prayer of Quaid-e-Azam Muhammad Ali Jinnah?",
+      "options": [
+        "Maulana Shabbir Ahmed Usmani",
+        "Maulana Abdul Hamid Qadri",
+        "Allama Iqbal",
+        "Liaquat Ali Khan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quaid-e-Azam fixed his salary as the Governor General of Pakistan at?",
+      "options": [
+        "Rs 1",
+        "Rs 3",
+        "Rs 4",
+        "Rs 5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the name of the border between Pakistan and Afghanistan?",
+      "options": [
+        "Line of Control",
+        "Durand Line",
+        "Oder-Neisse line",
+        "The Radcliffe Line"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Radcliffe Line was named after?",
+      "options": [
+        "Sir Cyril Radcliffe",
+        "Lord Radcliffe",
+        "Sir Henry Radcliffe",
+        "Sir William Radcliffe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Boundary commission for Indo-Pak partition was headed by?",
+      "options": [
+        "Adorn Radcliffe",
+        "Cecil Radcliffe",
+        "Sir Cyril Radcliffe",
+        "Lord Mountbatten"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first census in India was made in the period of?",
+      "options": [
+        "Lord Curzon",
+        "Lord Canning",
+        "Lord Mayo",
+        "None"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When did the first census held in the Subcontinent?",
+      "options": [
+        "1881",
+        "1884",
+        "1888",
+        "1890"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the Viceroy of India at the time of partition of Bengal?",
+      "options": [
+        "Lord Curzon",
+        "Lord Wavell",
+        "Lord Minto",
+        "Lord Algan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did the partition of Bengal take place?",
+      "options": [
+        "1904",
+        "1905",
+        "1906",
+        "1907"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first Governor General of Pakistan?",
+      "options": [
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Iskander Mirza",
+        "Khawaja Nazimuddin",
+        "Ghulam Muhammad"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The last major extension of British Indian territory took place during the time of?",
+      "options": [
+        "Dalhousie",
+        "Lytton",
+        "Dufferin",
+        "Curzon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Battle of Buxar was fought in which year?",
+      "options": [
+        "1757",
+        "1767",
+        "1764",
+        "1762"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first battle of Tarain took place between?",
+      "options": [
+        "Alauddin Khilji and Prithviraj Chauhan",
+        "Mohammad Shah and Prithviraj Chauhan",
+        "Mahmud Ghazni and Prithviraj Chauhan",
+        "Mohammad Ghori and Prithviraj Chauhan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which battle opened the Delhi area to Muhammad Ghori?",
+      "options": [
+        "Second Battle of Tarain",
+        "First Battle of Panipat",
+        "Battle of Khanwa",
+        "First Battle of Tarain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The battle of Dharmat was fought between?",
+      "options": [
+        "Babur and Afghans",
+        "Muhammad Ghori and Jai Chand",
+        "Ahmad Shah Durrani and the Marathas",
+        "Aurangzeb and Dara Shikoh"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The first fort constructed by the British in India was?",
+      "options": [
+        "Fort St. David",
+        "Fort William",
+        "Fort St. Angelo",
+        "Fort St. George"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The ruler of which state was removed from power by the British on the pretext of misgovernance?",
+      "options": [
+        "Jhansi",
+        "Awadh",
+        "Delhi",
+        "Hyderabad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "St. George Fort was built in?",
+      "options": [
+        "Surath",
+        "Madras (now Chennai)",
+        "Agra",
+        "Delhi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Mughal painting reached its zenith under?",
+      "options": [
+        "Jahangir",
+        "Shahjahan",
+        "Humayun",
+        "Akbar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which Mughal king built Badshahi Mosque?",
+      "options": [
+        "Zaheer Uddin Babar",
+        "Naseer Uddin Humayun",
+        "Akbar",
+        "Aurangzeb"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Badshahi Mosque of Lahore was built by Aurangzeb in?",
+      "options": [
+        "1532",
+        "1630",
+        "1631",
+        "1673"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Badshahi mosque is in Lahore built by Aurangzeb in which year?",
+      "options": [
+        "1670",
+        "1671",
+        "1672",
+        "1673"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The last Mughal Empire was?",
+      "options": [
+        "Babar",
+        "Shah Jahan",
+        "Bahadur Shah II",
+        "Jahangir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Sher Shah Suri is buried in?",
+      "options": [
+        "Akora Khatak",
+        "Sarasam",
+        "Umerkot",
+        "Pakteya"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ibrahim Lodi was defeated by Babar in the First Battle of Panipat in?",
+      "options": [
+        "1524",
+        "1525",
+        "1526",
+        "1527"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Zaheer-ud-Din Babar came from?",
+      "options": [
+        "Iran",
+        "Turkey",
+        "Afghanistan",
+        "Fergana"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What was the old name of Faisalabad?",
+      "options": [
+        "Faizabad",
+        "Debal",
+        "Lailpur",
+        "Lahore"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When the name of Lyallpur was changed to Faisalabad?",
+      "options": [
+        "September 1, 1977",
+        "August 1, 1978",
+        "January 1, 1979",
+        "March 1, 1980"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Campbellpur is the old name of?",
+      "options": [
+        "Khanewal",
+        "Attock",
+        "Abbotabad",
+        "Sargodha"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The old name of Gujranwala was?",
+      "options": [
+        "Shal Kot",
+        "Khan Garh",
+        "Gujjar Kot",
+        "Khan Pur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first Punjabi poet?",
+      "options": [
+        "Baba Farid",
+        "Shah Hussain",
+        "Waris Shah",
+        "Bulleh Shah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The founder of 'Zamindar' (newspaper) was?",
+      "options": [
+        "Ch Rahmat Ali",
+        "Allama Iqbal",
+        "Maulana Zafar Ali Khan",
+        "Maulana M Ali Johar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Al-Hilal weekly was started by?",
+      "options": [
+        "Abul Kalam Azad",
+        "Jawaharlal Nehru",
+        "M.K Gandhi",
+        "Iqbal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first issue of Maulana Abul Kalam Azad's 'Al Hilal' came out on 13 July?",
+      "options": [
+        "1912",
+        "1913",
+        "1914",
+        "1915"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the founder of Daily English Newspaper Dawn?",
+      "options": [
+        "Liaquat Ali Khan",
+        "Z.A Sulehri",
+        "Quaid-e-Azam",
+        "Hafeez Jalandhri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Comrade English newspaper from Calcutta was issued by?",
+      "options": [
+        "Maulana Shibli Nomani",
+        "Maulana Muhammad Ali Johar",
+        "Quaid-e-Azam",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who reviewed the famous book 'The Indian Musalmans' in 1872?",
+      "options": [
+        "Sir Syed Ahmed Khan",
+        "Sir William Wilson Hunter",
+        "M Delwar Hussain",
+        "John King Fairbank"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Indian Musalmans' published in 1871 was written by?",
+      "options": [
+        "Joseph Rudyard Kipling",
+        "Syed Ameer Ali",
+        "Sir Syed Ahmed Khan",
+        "William Wilson Hunter"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who is the author of 'Hunter par Hunter'?",
+      "options": [
+        "Depuy Nazir Ahmed",
+        "Sir Syed Ahmed Khan",
+        "Maulana Zafar Ali khan",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'The Millat and Menace of Indianism' is written by?",
+      "options": [
+        "Muhammad Ali",
+        "Ch. Rehmat Ali",
+        "Shaukat Ali",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Ch. Rahmat Ali, the architect of the name of Pakistan, died in?",
+      "options": [
+        "1950",
+        "1951",
+        "1953",
+        "1954"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When did Choudhry Rehmat Ali introduced the term Pakistan in his pamphlet?",
+      "options": [
+        "1930",
+        "1928",
+        "1926",
+        "1933"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Pamphlet 'Now or Never' was written in 1933 by?",
+      "options": [
+        "M Ali Johar",
+        "Sir Syed",
+        "Ch Rahmat Ali",
+        "Allama Iqbal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who floated the idea of establishment of Anjuman-e-Hamiat-e-Islam?",
+      "options": [
+        "Maulana Shibli",
+        "Kh. Hamid ud din",
+        "Munshi Charag ud Din",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "At the annual session of Anjuman Hamayat Islam in 1911 Iqbal's poem was recited, poetically called?",
+      "options": [
+        "Sham-o-Shahr",
+        "Shikwa",
+        "Jawab-i-Shikwa",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who called the 'spiritual guide' as shopkeepers?",
+      "options": [
+        "Shaikh Ahmed Sirhindi",
+        "Shah Waliullah",
+        "Sir Syed Ahmed Khan",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who supported Pan-Islamism in the sub continent?",
+      "options": [
+        "Syed Ameer Ali",
+        "Sir Syed Ahmad Khan",
+        "Liaqat Ali Khan",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first principal of Darul Uloom Deoband?",
+      "options": [
+        "Maulana Mamluk Ali",
+        "Haji Muhammad Abid",
+        "Maulana Muhammad Qasim",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Darul Uloom Deoband was founded in?",
+      "options": [
+        "31 May 1866",
+        "31 June 1867",
+        "31 July 1868",
+        "31 August 1869"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first appointed Nazim of Nadva-ul-ulema in 1883?",
+      "options": [
+        "Maulana Shibli",
+        "Maulvi Abdul Ghafoor",
+        "Maulana Syed Muhammad Ali",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the founder of Aligarh Movement?",
+      "options": [
+        "Sir Syed Ahmed Khan",
+        "Maulana Shibli",
+        "Nawab Salimullah Khan",
+        "Allama Iqbal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Khutbat e Ahmadia' is written by?",
+      "options": [
+        "Sir Syed Ahmed Khan",
+        "Maulana Shibli",
+        "Allama Iqbal",
+        "Sir Agha Khan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first Indian Hindi Scholar of the Mughal period?",
+      "options": [
+        "Chand Barda",
+        "Malik Muhammed Jayasi",
+        "Abdur Rahim",
+        "Mulla Wajhi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Shah Jahan built the Moti Masjid at?",
+      "options": [
+        "Delhi",
+        "Jaipur",
+        "Agra",
+        "Amarkot"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "'Lakh Baksh' was a title given to the ruler?",
+      "options": [
+        "Iltutmish",
+        "Balban",
+        "Raziya",
+        "Qutub-ud-din Aibak"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Muhammad-Bin-Tughlaq was proficient in?",
+      "options": [
+        "Art",
+        "Music",
+        "Calligraphy",
+        "Philosophy"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Deen Ilahi was established by Akbar in?",
+      "options": [
+        "1580",
+        "1581",
+        "1582",
+        "1583"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who constructed five canals to remove scarcity of water?",
+      "options": [
+        "Alauddin Khaliji",
+        "Ghyas-ud-Din Tughlaq",
+        "Feroz Shah Tughlaq",
+        "Akbar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first Emperor of Tughluq Dynasty was?",
+      "options": [
+        "Ameer gulzar tughluq",
+        "Alaudin khilji",
+        "Ghiyasuddin Tughlaq",
+        "Ziauddin Tughluq"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the last ruler of Tughluq Dynasty?",
+      "options": [
+        "Ghiyasuddin Tughlaq",
+        "Muhammad bin Tughlaq",
+        "Feroz Shah Tughlaq",
+        "Nasiruddin Mahmud"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In the year 1719 how many Mughal Kings sat on throne?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the Governor of Sindh after Muhammad Bin Qasim?",
+      "options": [
+        "Zaid Bin Marwan",
+        "Yazid Bin Muhallab",
+        "Yazid bin Muhallab",
+        "Habib bin Muhallab"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did Sindh was conquered by Muhammad Bin Qasim?",
+      "options": [
+        "711 AD",
+        "712 AD",
+        "713 AD",
+        "714 AD"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Al-Beruni came to India along with?",
+      "options": [
+        "Muhammad Ghouri",
+        "Mehmood Ghaznavi",
+        "Babar",
+        "Allauddin Khilji"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The 'Kashaf-ul-Mahjub' was written by?",
+      "options": [
+        "Hazrat Data Gunj Buksh (R.A)",
+        "Maulana Altaf Hussain Hali",
+        "Maulana Shibli Nomani",
+        "Maulana Zakaullah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did Syed Jamal-u-din Afghani die?",
+      "options": [
+        "1895",
+        "1896",
+        "1897",
+        "1898"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When Shah Wali Ullah died?",
+      "options": [
+        "1761",
+        "1762",
+        "1763",
+        "1764"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The real name of Shah Wali Ullah was?",
+      "options": [
+        "Qutubddin Ahmed Faruqi",
+        "Qutubddin Ahmed Siddiqui",
+        "Ahmed Bin Abdul Rahim",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the hero of Pak India 1965 war?",
+      "options": [
+        "Major Raja Aziz Bhatti",
+        "Major Tufail",
+        "Lalik Jan",
+        "Mulla Faqir"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Defence day is observed on?",
+      "options": [
+        "6th September",
+        "11th September",
+        "7th September",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan Air Force Day is celebrated on?",
+      "options": [
+        "21st February",
+        "8th March",
+        "21st March",
+        "7th September"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Quaid-e-Azam Day is observed on?",
+      "options": [
+        "1st May",
+        "15th May",
+        "21st May",
+        "25th Dec"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan Day is observed on?",
+      "options": [
+        "5th February",
+        "8th March",
+        "21st March",
+        "23rd March"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan came into being on 27 Ramadan A.H?",
+      "options": [
+        "1361 A.H",
+        "1362 A.H",
+        "1365 A.H",
+        "1366 A.H"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who first used the title 'Quaid-e-Azam' for Muhammad Ali Jinnah?",
+      "options": [
+        "Moulana Muhammad Ali Johar",
+        "Moulan Mazharuddin Shaheed",
+        "Allama Iqbal",
+        "Sir Syed Ahmed Khan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "First Newspaper to use the title 'Quaid-e-Azam' was?",
+      "options": [
+        "Dawn weekly",
+        "Pioneer",
+        "Al Aman",
+        "Comrade"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quaid-e-Azam sent 600 soldiers to which country to fight for her freedom?",
+      "options": [
+        "Palestine",
+        "Indonesia",
+        "Egypt",
+        "Morocco"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Jinnah; India Partition' was written by?",
+      "options": [
+        "Olmituaz Gul",
+        "Jaswant Singh",
+        "Tariq Ali",
+        "G.W Chaudhry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mazar-e-Quaid's foundation stone was laid by?",
+      "options": [
+        "Iskandar Mirza",
+        "Yahya Khan",
+        "Ayub Khan",
+        "Liaqat Ali Khan"
+      ],
+      "answer": 0
+    }
+  ]
+}

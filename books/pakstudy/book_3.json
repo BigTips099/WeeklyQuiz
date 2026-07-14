@@ -1,0 +1,1526 @@
+{
+  "category": "Geography",
+  "totalQuestions": 150,
+  "questions": [
+    {
+      "question": "What is the total area of Pakistan?",
+      "options": [
+        "796,096 sq km",
+        "881,913 sq km",
+        "796,095 sq km",
+        "881,889 sq km"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan is the _____ largest country in the world by area?",
+      "options": [
+        "33rd",
+        "34th",
+        "35th",
+        "36th"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The longest river in Pakistan is?",
+      "options": [
+        "River Ravi",
+        "River Sindh",
+        "River Chenab",
+        "River Jhelum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the total length of Indus River?",
+      "options": [
+        "2900 km",
+        "2514 km",
+        "3180 km",
+        "3200 km"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Indus River falls into the?",
+      "options": [
+        "Arabian Sea",
+        "Cape Monze",
+        "Makran Coast",
+        "Bay of Bengal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which is the largest canal in Pakistan?",
+      "options": [
+        "Rohri Canal",
+        "Nara Canal",
+        "Kirthar Canal",
+        "Dadu Canal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Sindh Sagar Doab lies between which two rivers?",
+      "options": [
+        "Chenab & Jehlum",
+        "Sindh & Jehlum",
+        "Sindh & Chenab",
+        "Sindh & Ravi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Chaj Doab lies between which two rivers?",
+      "options": [
+        "Bias & Ravi",
+        "Chenab & Jehlum",
+        "Sindh & Chenab",
+        "Sindh & Ravi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Rachna Doab lies between which two rivers?",
+      "options": [
+        "Chenab & Jehlum",
+        "Ravi & Chenab",
+        "Sindh & Chenab",
+        "Sindh & Ravi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Bari Doab lies between which two rivers?",
+      "options": [
+        "Ravi & Chenab",
+        "Bias & Ravi",
+        "Sindh & Chenab",
+        "Sindh & Ravi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Sutlej River flows through which province?",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "KPK",
+        "Balochistan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "River Neelum is situated in?",
+      "options": [
+        "AJ&K",
+        "KPK",
+        "FATA",
+        "Punjab"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Soan and the Haro are the two rivers of?",
+      "options": [
+        "Baluchistan Plateau",
+        "Azad Kashmir",
+        "Northern areas",
+        "Potohar Plateau"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Kabul River flows through which province?",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "KPK",
+        "Balochistan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The highest peak of Pakistan is?",
+      "options": [
+        "Broad Peak",
+        "Sia Kingri Peak",
+        "K-2",
+        "Kilik Peak"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "K-2 peak is the _____ highest peak of the World?",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the height of K-2 Peak?",
+      "options": [
+        "8210 meter",
+        "8410 meter",
+        "8611 meter",
+        "8511 meter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "K-2 is also known as?",
+      "options": [
+        "Godwin Austin",
+        "Broad Peak",
+        "Roshan Peak",
+        "Sia Kingri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "K-2 is in which mountain range?",
+      "options": [
+        "Himalayas",
+        "Karakoram",
+        "Hindukush",
+        "Sulaiman"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Nanga Parbat is in which mountain range?",
+      "options": [
+        "Himalayas",
+        "Karakoram",
+        "Hindukush",
+        "Sulaiman"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Nanga Parbat is ranked as the _____ highest mountain peak of the world?",
+      "options": [
+        "10th",
+        "8th",
+        "5th",
+        "9th"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The height of Nanga Parbat is?",
+      "options": [
+        "8,126m",
+        "7,521m",
+        "6,125m",
+        "9,500m"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which mountain peak is called 'Killer Mountain'?",
+      "options": [
+        "Nanga Parbat",
+        "Godwin Austin",
+        "Broad Peak",
+        "Raka Poshi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Trich Mir is in which mountain range?",
+      "options": [
+        "Karakoram",
+        "Hindukush",
+        "Himalayas",
+        "Sulaiman"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the height of Tirichmir peak?",
+      "options": [
+        "7708 meters",
+        "7350 meters",
+        "7500 meters",
+        "7800 meters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The highest peak of Koh-e-Sufaid Range is?",
+      "options": [
+        "Sakasar",
+        "Skaram",
+        "Broad Peak",
+        "Nanga Parbat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The highest peak of Koh-e-Sulaiman range is?",
+      "options": [
+        "Tirichmir",
+        "K-2",
+        "Takhat-e-Sulaiman",
+        "Sakar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the average height of Takhat-e-Sulaiman peak?",
+      "options": [
+        "3200 meters",
+        "3500 meters",
+        "3300 meters",
+        "3310 meters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The highest peak of Salt Range is?",
+      "options": [
+        "Nanga Parbat",
+        "Skaser",
+        "Malka Parbat",
+        "Sakasar"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the height of Sakasar peak?",
+      "options": [
+        "1600 meters",
+        "1500 meters",
+        "1680 meters",
+        "1700 meters"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the average height of Salt Range?",
+      "options": [
+        "675 meters",
+        "700 meters",
+        "650 meters",
+        "725 meters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Salt Range is situated between rivers Soan and?",
+      "options": [
+        "Chenab",
+        "Jhelum",
+        "Kabul",
+        "Huro"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The height of Potwar Plateau is?",
+      "options": [
+        "300-600 meters",
+        "200-500 meters",
+        "320-550 meters",
+        "380-650 meters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following areas form Potwar Plateau?",
+      "options": [
+        "Rawalpindi",
+        "Jhelum",
+        "Mianwali",
+        "All of above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Hindu Kush range starts at the?",
+      "options": [
+        "China Border",
+        "Pamir Plateau",
+        "Afghan Border",
+        "Karakoram"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The direction of Hindukush is from?",
+      "options": [
+        "North-West",
+        "South-West",
+        "North-East",
+        "North-South"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which mountain range separates Pakistan and Afghanistan?",
+      "options": [
+        "Karakoram range",
+        "Pamirs Range",
+        "The Hindu Kush",
+        "Kirthar Range"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which mountain range separates China from Pakistan?",
+      "options": [
+        "Hindu Kush",
+        "Pamir",
+        "Himalayas",
+        "Karakoram"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which range is called 'Roof of the World'?",
+      "options": [
+        "Karakoram",
+        "Hindu kush Range",
+        "Pamir Plateau",
+        "Himalayas Range"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is the youngest mountain range on the earth?",
+      "options": [
+        "Hindu Kush",
+        "Karakoram",
+        "Himalayas",
+        "Alps"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Oldest mountains of the world are in India and youngest mountain of the world are in?",
+      "options": [
+        "Pakistan",
+        "China",
+        "India",
+        "Burma"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which mountain range is located in Sindh Province?",
+      "options": [
+        "Kirthar Range",
+        "Sulaiman Range",
+        "Koh-e-Sufaid",
+        "Chaghi Range"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the maximum height of Kirthar Range?",
+      "options": [
+        "2150 meters",
+        "2500 meters",
+        "2375 meters",
+        "2275 meters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which range separates Baluchistan Plateau from Afghanistan?",
+      "options": [
+        "Chaghi",
+        "Makran",
+        "Turbat",
+        "Kirthar range"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which range lies along the border of Sindh and Baluchistan Province?",
+      "options": [
+        "Chaghi",
+        "Makran range",
+        "Kirthar range",
+        "Koh-e-Sufaid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the average height of Chaghi range?",
+      "options": [
+        "3500 meters",
+        "2500 meters",
+        "4000 meters",
+        "3000 meters"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Gorakh Hill is in which range?",
+      "options": [
+        "Karakoram",
+        "Kirthar hills",
+        "Sulaiman",
+        "Himalayas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The length of Siachen Glacier is?",
+      "options": [
+        "60km",
+        "76km",
+        "50km",
+        "80km"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The length of Baltur Glacier is?",
+      "options": [
+        "58km",
+        "62km",
+        "65km",
+        "70km"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Baltura Glacier is located in?",
+      "options": [
+        "Punjab",
+        "Gilgit Baltistan",
+        "Sindh",
+        "KPK"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the height of Siachen Glacier?",
+      "options": [
+        "20,000 feet",
+        "23,000 feet",
+        "25,000 feet",
+        "27,000 feet"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Siachen Glacier is located in which district?",
+      "options": [
+        "Gilgit",
+        "Skardu",
+        "Ghanche",
+        "Astore"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the name of the second highest Glacier of the world?",
+      "options": [
+        "Baltora Glacier",
+        "Batura Glacier",
+        "Siachen Glacier",
+        "Hispar Glacier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the longest glacier in the Karakoram and second-longest in the world's non-polar areas?",
+      "options": [
+        "Hispar Glacier",
+        "Siachen Glacier",
+        "Passu Glacier",
+        "Sokha Glacier"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which pass connects Pakistan with Afghanistan?",
+      "options": [
+        "Khunjerab Pass",
+        "Khyber Pass",
+        "Tochi Pass",
+        "Gomal Pass"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Khyber Pass is located in which mountain range?",
+      "options": [
+        "Karakorum range",
+        "Himalayas range",
+        "Hindukush range",
+        "Sulaiman range"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Khyber Pass connects?",
+      "options": [
+        "Swat with Kabul",
+        "Peshawar with Kabul",
+        "Qila Abdullah with Chaman",
+        "Chitral with Nooristan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Khunjrab Pass connects?",
+      "options": [
+        "Pakistan with India",
+        "Pakistan with China",
+        "Pakistan with Turkey",
+        "Pakistan with Iran"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Khojak Pass connects?",
+      "options": [
+        "Chitral with Wakhan",
+        "Qila Abdullah with Chaman",
+        "Chitral with Nooristan",
+        "Mardan with Malakand"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Karakoram Pass is between?",
+      "options": [
+        "Kashmir and India",
+        "Kashmir and China",
+        "Qila Abdullah and Chaman",
+        "Chitral and Nooristan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Shandur Pass connects?",
+      "options": [
+        "Upper swat with lower swat",
+        "Chitral with Gilgit",
+        "Bannu with Afghanistan",
+        "Gilgit with Kashgar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Shangla Pass connects?",
+      "options": [
+        "Peshawar with Chitral",
+        "Upper swat with lower swat",
+        "Bannu with Afghanistan",
+        "Gilgit with Kashgar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Muztagh Pass connects?",
+      "options": [
+        "Hunza with Gilgit",
+        "Baltistan with Yarkand",
+        "Bannu with Afghanistan",
+        "Gilgit with Kashgar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Malakand Pass connects?",
+      "options": [
+        "Dir with Chitral",
+        "Peshawar with Chitral",
+        "Bannu with Afghanistan",
+        "Gilgit with Kashgar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lawari Pass connects?",
+      "options": [
+        "Hunza with Gilgit",
+        "Dir with Chitral",
+        "Qila Abdullah with Chaman",
+        "Chitral with Nooristan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dargai Pass connects?",
+      "options": [
+        "Quetta with Chaman",
+        "Mardan with Malakand",
+        "Qila Abdullah with Chaman",
+        "Chitral with Nooristan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The largest desert of Pakistan is?",
+      "options": [
+        "Thal Desert",
+        "Cholistan Desert",
+        "Thar Desert",
+        "Kharan Desert"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Thar Desert is located in?",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "Balochistan",
+        "KPK"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Thal Desert is located in?",
+      "options": [
+        "Sindh",
+        "Gilgit",
+        "KPK",
+        "Punjab"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Thar Desert is called?",
+      "options": [
+        "Friendly Desert",
+        "Hot Desert",
+        "Cold Desert",
+        "Green Desert"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cholistan Desert is located in which province?",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "Balochistan",
+        "KPK"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Kharan Desert is located in which province?",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "Balochistan",
+        "KPK"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which province of Pakistan has no desert?",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "Balochistan",
+        "KPK"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The largest lake of Pakistan is?",
+      "options": [
+        "Keenjhar Lake",
+        "Manchar Lake",
+        "Haleji Lake",
+        "Rawal Lake"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Manchar Lake is situated near?",
+      "options": [
+        "Larkana",
+        "Dadu",
+        "Thatta",
+        "Jamshoro"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Keenjhar Lake is also called?",
+      "options": [
+        "Birds Lake",
+        "Kalri Lake",
+        "Jhari Lake",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which lake is called 'Paradise of Birds'?",
+      "options": [
+        "Hina Lake",
+        "Keenjhar Lake",
+        "Manchar Lake",
+        "Haleji Lake"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Kaleji Lake, Kadeiro Lake and Keenjhar Lake are located in?",
+      "options": [
+        "Sindh",
+        "Balochistan",
+        "Punjab",
+        "KPK"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest Natural Fresh Water Lake in the subcontinent is?",
+      "options": [
+        "Keenjar Lake",
+        "Manchar Lake",
+        "Hali Lake",
+        "Rawal Lake"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Rama Lake is located in which district of Gilgit Baltistan?",
+      "options": [
+        "Hunza",
+        "Astore",
+        "Skardu",
+        "Gilgit"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Paristan Lake is in which district?",
+      "options": [
+        "Muzaffarabad",
+        "Skardu",
+        "Peshawar",
+        "Rawalpindi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hamal Lake is situated in which district?",
+      "options": [
+        "Dadu",
+        "Qambar Shahdadkot",
+        "Thatta",
+        "Jamshoro"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Drigh Lake is in which district?",
+      "options": [
+        "Tharparkar",
+        "Sanghar",
+        "Shahdadkot",
+        "Larkana"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Noori Jam Tamachi's grave is around which lake?",
+      "options": [
+        "Haleji",
+        "Manchar",
+        "Keenjhar",
+        "Hadero"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Tarbela Dam is situated in?",
+      "options": [
+        "Kashmir",
+        "KPK",
+        "FATA",
+        "Gilgit Baltistan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mangla Dam is located in?",
+      "options": [
+        "Punjab",
+        "KPK",
+        "AJ&K",
+        "FATA"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Warsak Dam is situated in?",
+      "options": [
+        "Khyber Pakhtunkhwa",
+        "Punjab",
+        "Sindh",
+        "Balochistan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ghulam Muhammad Barrage is also called?",
+      "options": [
+        "Indus Barrage",
+        "Kandiyaro Barrage",
+        "Kotri Barrage",
+        "Sukkur Barrage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many barrages are there in Sindh?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Mirani Dam is located on which river?",
+      "options": [
+        "Bolan",
+        "Jhelum",
+        "Dashat",
+        "Hub"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The largest source of drinking water for Islamabad is?",
+      "options": [
+        "Khanpur Dam",
+        "Rawal Dam",
+        "Ghazi Dam",
+        "Haru Dam"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Simly Dam Lake is located near?",
+      "options": [
+        "Mirpur",
+        "Attok",
+        "Islamabad",
+        "Hassan Abdal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Kalabagh Dam is located in which district?",
+      "options": [
+        "Mianwali",
+        "Sahiwal",
+        "Bahawalpur",
+        "Attock"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mohmand Dam is proposed to be constructed on which river?",
+      "options": [
+        "Indus River",
+        "Ravi River",
+        "Swat River",
+        "Kabul River"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The length of common border of Pakistan and Afghanistan is?",
+      "options": [
+        "2252 Km",
+        "2282 Km",
+        "2350 Km",
+        "2430 Km"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the length of common border between India and Pakistan?",
+      "options": [
+        "900 miles",
+        "1000 miles",
+        "1100 miles",
+        "1200 miles"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Durand Line is between Pakistan and?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "Iran",
+        "China"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Radcliffe Line is between Pakistan and?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "Iran",
+        "China"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Working boundary is the border between Pakistan and?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "Iran",
+        "Indian-occupied Kashmir"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Kori Creek is in which district?",
+      "options": [
+        "Badin",
+        "Thatta",
+        "Karachi",
+        "Gwadar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rann of Kutch boundary line is known as?",
+      "options": [
+        "24th parallel line",
+        "19th parallel line",
+        "17th parallel line",
+        "39th parallel line"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The total area of Punjab Province is?",
+      "options": [
+        "74,521 sq km",
+        "40,914 sq km",
+        "347,190 sq km",
+        "205,344 sq km"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The total area of Sindh Province is?",
+      "options": [
+        "74,521 sq km",
+        "140,914 sq km",
+        "347,190 sq km",
+        "205,344 sq km"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The total area of Khyber Pakhtunkhwa Province is?",
+      "options": [
+        "74,521 sq km",
+        "40,914 sq km",
+        "347,190 sq km",
+        "205,344 sq km"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The total area of Balochistan Province is?",
+      "options": [
+        "74,521 sq km",
+        "40,914 sq km",
+        "347,190 sq km",
+        "205,344 sq km"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The total area of FATA is?",
+      "options": [
+        "27,220 sq km",
+        "28,220 sq km",
+        "29,220 sq km",
+        "30,220 sq km"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Total area of ICT (Islamabad) is?",
+      "options": [
+        "806 sq km",
+        "906 sq km",
+        "1006 sq km",
+        "1106 sq km"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The total area of Azad Jammu & Kashmir is?",
+      "options": [
+        "12,297 sq km",
+        "13,297 sq km",
+        "14,297 sq km",
+        "11,297 sq km"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The most urbanized province of Pakistan is?",
+      "options": [
+        "KPK",
+        "Punjab",
+        "Baluchistan",
+        "Sindh"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The largest city of Pakistan is?",
+      "options": [
+        "Lahore",
+        "Karachi",
+        "Faisalabad",
+        "Rawalpindi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The third largest city of Pakistan is?",
+      "options": [
+        "Faisalabad",
+        "Rawalpindi",
+        "Sialkot",
+        "Hyderabad"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Top five most populous cities of Pakistan are?",
+      "options": [
+        "Lahore, Islamabad, Karachi, Hyderabad, Rawalpindi",
+        "Karachi, Lahore, Faisalabad, Rawalpindi, Gujranwala",
+        "Faisalabad, Rawalpindi, Peshawar, Lahore, Karachi",
+        "Karachi, Lahore, Peshawar, Gujranwala, DG Khan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which city is called 'Valley of flowers'?",
+      "options": [
+        "Peshawar",
+        "Quetta",
+        "Lahore",
+        "Karachi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The capital of KPK is?",
+      "options": [
+        "Peshawar",
+        "Abbotabad",
+        "D.I.Khan",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest city of KPK is?",
+      "options": [
+        "D.I. Khan",
+        "Abbottabad",
+        "Kohat",
+        "Peshawar"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The capital of Gilgit Baltistan is?",
+      "options": [
+        "Ghanchay",
+        "Nagar",
+        "Chilas",
+        "Gilgit"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The capital of Azad Jammu & Kashmir is?",
+      "options": [
+        "Muzaffarabad",
+        "Bhimber",
+        "Mirpur",
+        "Bagh"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mirpur is a famous city of?",
+      "options": [
+        "KPK",
+        "Punjab",
+        "AJ&K",
+        "Gilgit Baltistan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Kotli is a famous city of?",
+      "options": [
+        "AJ&K",
+        "KPK",
+        "FATA",
+        "ICT"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Islamabad is located at the foothill of?",
+      "options": [
+        "Karakoram hills",
+        "Pamir hills",
+        "Margalla hills",
+        "Kirthar range"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The height of Islamabad from sea level is?",
+      "options": [
+        "1600 ft",
+        "1700 ft",
+        "1500 ft",
+        "1400 ft"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Peshawar means?",
+      "options": [
+        "City of flowers",
+        "City of tombs",
+        "City of gardens",
+        "City of lights"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The hottest place in Pakistan is?",
+      "options": [
+        "Bahawalpur",
+        "Multan",
+        "Jacobabad",
+        "Sibi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which city of Pakistan receives highest mean annual rainfall?",
+      "options": [
+        "Rawalpindi",
+        "Murree",
+        "Sialkot",
+        "Parachinar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following places is the rainiest of Pakistan?",
+      "options": [
+        "Murree",
+        "Quetta",
+        "Karachi",
+        "Ziarat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The highest rainfall area of Pakistan is?",
+      "options": [
+        "Kumrat",
+        "Skardu",
+        "Murree",
+        "Chaghi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many sources of rainfall are in Pakistan?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan receives monsoon rainfall in which months?",
+      "options": [
+        "June to August",
+        "July to September",
+        "June to September",
+        "July to August"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan receives 'Western Depression' rainfall in which months?",
+      "options": [
+        "September to March",
+        "December to March",
+        "June to September",
+        "July to August"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is the smallest division of Pakistan?",
+      "options": [
+        "Quetta",
+        "Rawalpindi",
+        "Karachi",
+        "Larkana"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The total area of FATA is in square kilometers?",
+      "options": [
+        "18925 km2",
+        "22123 km2",
+        "24532 km2",
+        "27220 km2"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The area of KPK is?",
+      "options": [
+        "74,421 sq km",
+        "75,521 sq km",
+        "73,521 sq km",
+        "74,521 sq km"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The area of Sindh is?",
+      "options": [
+        "140,914 sq km",
+        "130,914 sq km",
+        "140,814 sq km",
+        "120,914 sq km"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest district of Punjab in terms of area is?",
+      "options": [
+        "Bahawalpur",
+        "Lahore",
+        "Multan",
+        "Faisalabad"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many divisions are there in Sindh?",
+      "options": [
+        "9",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many districts are there in KPK?",
+      "options": [
+        "26",
+        "29",
+        "32",
+        "34"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How many districts are there in AJ&K?",
+      "options": [
+        "6",
+        "10",
+        "8",
+        "12"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The highest mountain of KPK is?",
+      "options": [
+        "K-2",
+        "Tirch Mir",
+        "Nanga Parbat",
+        "Broad Peak"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many peaks in Pakistan are higher than 8000 meters?",
+      "options": [
+        "7",
+        "5",
+        "9",
+        "14"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many peaks in Pakistan are higher than 7000 meters?",
+      "options": [
+        "117",
+        "121",
+        "108",
+        "125"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gasherbrum I is also known as?",
+      "options": [
+        "Hidden Peak",
+        "Killer Peak",
+        "White Peak",
+        "Black Peak"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Broad Peak was first climbed in which year?",
+      "options": [
+        "1953",
+        "1955",
+        "1954",
+        "1957"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who was the first Pakistani to climb K-2?",
+      "options": [
+        "Mohsan Razvi",
+        "Ashraf Aman",
+        "Nasir Hussain",
+        "Zahid Ali"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first person to climb Nanga Parbat?",
+      "options": [
+        "Hermann Buhl",
+        "Martin Conway",
+        "R.D Banerjee",
+        "Ashraf Aman"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the height of Broad Peak?",
+      "options": [
+        "8126 meters",
+        "8092 meters",
+        "8075 meters",
+        "8051 meters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The height of Himalaya range increases as it moves from?",
+      "options": [
+        "South to North",
+        "East to West",
+        "North to South",
+        "West to East"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "'The place where heaven and earth meet' these words are said about which place?",
+      "options": [
+        "Chitral",
+        "Kalash",
+        "Punial",
+        "Swat"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Kaghan valley is called?",
+      "options": [
+        "Diamond of the Himalaya",
+        "Pearl of the Himalaya",
+        "Heart of the Himalaya",
+        "None of them"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Kalam and Behrin are important tourist points of?",
+      "options": [
+        "Chitral valley",
+        "Hunza Valley",
+        "Kalam Valley",
+        "Swat Valley"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Ishkoman Valley is in?",
+      "options": [
+        "Punjab",
+        "Gilgit Baltistan",
+        "Balochistan",
+        "KPK"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Chandka is the old name of?",
+      "options": [
+        "Sehwan",
+        "Shikarpur",
+        "Larkana",
+        "Sanghar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Karoonjhar Mountains are located in?",
+      "options": [
+        "Khairpur",
+        "Thatta",
+        "Sanghar",
+        "Tharparkar"
+      ],
+      "answer": 3
+    }
+  ]
+}

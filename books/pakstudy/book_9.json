@@ -1,0 +1,1096 @@
+{
+  "category": "Miscellaneous",
+  "totalQuestions": 102,
+  "questions": [
+    {
+      "question": "Pakistan won the ICC Cricket World Cup in which year?",
+      "options": [
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan won the ICC World Cup (One Day) in 1992. It was _____ in a row of ICC World Cup?",
+      "options": [
+        "5th",
+        "6th",
+        "7th",
+        "8th"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan won the ICC Champions Trophy in which year?",
+      "options": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan won the ICC Champions Trophy by defeating which team in the final?",
+      "options": [
+        "India",
+        "Sri Lanka",
+        "England",
+        "Australia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan's national cricket team made its Test debut in which year?",
+      "options": [
+        "1950",
+        "1951",
+        "1952",
+        "1953"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan got the status of Test Cricket in which year?",
+      "options": [
+        "1950",
+        "1951",
+        "1952",
+        "1953"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first Captain of the Pakistan national cricket team?",
+      "options": [
+        "Imtiaz Ahmad",
+        "Fazal Mahmood",
+        "Abdul Hafeez Kardar",
+        "Imran Khan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first Pakistani to score a century in Test cricket?",
+      "options": [
+        "Hanif Mohammad",
+        "Imtiaz Ahmed",
+        "Saeed Ahmed",
+        "Zaheer Abbas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is known as the 'Little Master' of Pakistani cricket?",
+      "options": [
+        "Hanif Mohammad",
+        "Zaheer Abbas",
+        "Javed Miandad",
+        "Imran Khan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the captain of Pakistan when they won the 1992 Cricket World Cup?",
+      "options": [
+        "Javed Miandad",
+        "Wasim Akram",
+        "Imran Khan",
+        "Saleem Malik"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the captain of Pakistan when they won the 2017 ICC Champions Trophy?",
+      "options": [
+        "Misbah-ul-Haq",
+        "Azhar Ali",
+        "Sarfraz Ahmed",
+        "Shahid Afridi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is the highest run-scorer for Pakistan in Test cricket?",
+      "options": [
+        "Javed Miandad",
+        "Inzamam-ul-Haq",
+        "Younis Khan",
+        "Misbah-ul-Haq"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is the highest wicket-taker for Pakistan in Test cricket?",
+      "options": [
+        "Wasim Akram",
+        "Waqar Younis",
+        "Imran Khan",
+        "Danish Kaneria"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is the fastest bowler in the history of Pakistan?",
+      "options": [
+        "Wasim Akram",
+        "Shoaib Akhtar",
+        "Waqar Younis",
+        "Imran Khan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Shoaib Akhtar bowled the fastest delivery in cricket history at?",
+      "options": [
+        "155 km/h",
+        "160 km/h",
+        "161 km/h",
+        "165 km/h"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is known as the 'Sultan of Swing'?",
+      "options": [
+        "Wasim Akram",
+        "Shoaib Akhtar",
+        "Waqar Younis",
+        "Imran Khan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is known as the 'Burewala Express'?",
+      "options": [
+        "Wasim Akram",
+        "Shoaib Akhtar",
+        "Waqar Younis",
+        "Imran Khan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first Pakistani to win a Grand Slam?",
+      "options": [
+        "Haroon Rahim",
+        "Aisam-ul-Haq Qureshi",
+        "Mansoor Akhtar",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is the most successful squash player in Pakistan's history?",
+      "options": [
+        "Jahangir Khan",
+        "Hashim Khan",
+        "Qamar Zaman",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Jahangir Khan won the World Open Squash Championship how many times?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is known as the 'King of Squash'?",
+      "options": [
+        "Hashim Khan",
+        "Jahangir Khan",
+        "Qamar Zaman",
+        "Jan Sher Khan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan has won the Hockey World Cup how many times?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan won the Hockey World Cup in which years?",
+      "options": [
+        "1971, 1978, 1982",
+        "1975, 1980, 1985",
+        "1978, 1982, 1994",
+        "1971, 1978, 1994"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan has won the Olympic Gold Medal in hockey in which year?",
+      "options": [
+        "1956",
+        "1960",
+        "1964",
+        "1968"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan has won the Olympic Gold Medal in hockey in which year?",
+      "options": [
+        "1956",
+        "1960",
+        "1964",
+        "1968"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan won the Asian Cup Football in which year?",
+      "options": [
+        "1965",
+        "1966",
+        "1967",
+        "1968"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is known as the 'Flying Horse' of Pakistan hockey?",
+      "options": [
+        "Abdul Rashid",
+        "Hassan Sardar",
+        "Shahbaz Ahmed",
+        "Samir Ullah"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is the current Chief Selector of the Pakistan Cricket Board?",
+      "options": [
+        "Mohammad Wasim",
+        "Sarfraz Ahmed",
+        "Misbah-ul-Haq",
+        "Wasim Akram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan Super League (PSL) was started in which year?",
+      "options": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many teams participate in Pakistan Super League (PSL)?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which team won the first PSL title in 2016?",
+      "options": [
+        "Karachi Kings",
+        "Islamabad United",
+        "Quetta Gladiators",
+        "Peshawar Zalmi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which team has won the most PSL titles so far?",
+      "options": [
+        "Karachi Kings",
+        "Islamabad United",
+        "Peshawar Zalmi",
+        "Multan Sultans"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan has won the Blind Cricket World Cup how many times?",
+      "options": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan won the Blind Cricket World Cup in which years?",
+      "options": [
+        "1998, 2000, 2002, 2006",
+        "1998, 2000, 2006, 2010",
+        "2000, 2002, 2006, 2010",
+        "1998, 2002, 2006, 2010"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many medals did Pakistan win in the Islamic Solidarity Games 2017?",
+      "options": [
+        "10",
+        "8",
+        "9",
+        "12"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was the first-ever eye bank of Pakistan established?",
+      "options": [
+        "Eye Bank Foundation",
+        "Lions Eye Institute",
+        "Eye Bank Society Hospital",
+        "Al-Shifa Trust Eye Hospital"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When was the Pakistan NH&MP Motorway Police established?",
+      "options": [
+        "1987",
+        "1990",
+        "1997",
+        "2000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan NH&MP Motorway Police deal with which law?",
+      "options": [
+        "Business law",
+        "Traffic Law",
+        "NHsO",
+        "None of These"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the total length of Abdul Hakeem-Lahore motorway?",
+      "options": [
+        "230 KM",
+        "550 KM",
+        "180 KM",
+        "365 KM"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan's first nuclear power plant was established at?",
+      "options": [
+        "Mianwali",
+        "Islamabad",
+        "Peshawar",
+        "Karachi"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Kalabagh iron deposits are the largest in Pakistan with an estimated reserve of?",
+      "options": [
+        "309 m tons",
+        "509 m tons",
+        "709 m tons",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "At present Pakistan has how many natural resources and mineral items?",
+      "options": [
+        "More than 100",
+        "More than 150",
+        "More than 200",
+        "More than 250"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The highest railway station of Pakistan is?",
+      "options": [
+        "Kan Mehtarzai",
+        "Quetta",
+        "Chaman",
+        "Zhob"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Kan Mehtarzai is the highest railway station of Pakistan. It is near?",
+      "options": [
+        "Turbat",
+        "Zhob",
+        "Chaman",
+        "Sibi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Longest Railway platform of Pakistan is?",
+      "options": [
+        "Lahore station",
+        "Karachi Station",
+        "Rohri Station",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The total track length of Railways in Pakistan is?",
+      "options": [
+        "5740 kilometres",
+        "12929 kilometres",
+        "7300 kilometres",
+        "11881 kilometres"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "From 1947-1974, Pakistan railway was known as?",
+      "options": [
+        "Pakistan Eastern Railways",
+        "Pakistan Western Railways",
+        "Pakistan Northern Railways",
+        "Pakistan Southern Railways"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first railway line in Pakistan was laid between?",
+      "options": [
+        "Multan-Lahore",
+        "Karachi-Kotri",
+        "Sibi-Quetta",
+        "Rawalpindi-Peshawar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "At the time of independence, there were 9 railway systems operating in India. How many were in Pakistan?",
+      "options": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which airline was the first to operate in Pakistan?",
+      "options": [
+        "Pakistan Airways",
+        "Orient Airways",
+        "Crescent Airways",
+        "PIA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which airline's license was canceled due to an air crash in 1949?",
+      "options": [
+        "Orient Airways",
+        "Pakistan Airways",
+        "Crescent Airways",
+        "Star Air Aviation"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "PIA was established in which year?",
+      "options": [
+        "1957",
+        "1956",
+        "1955",
+        "1964"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "PIA stands for?",
+      "options": [
+        "Pakistan International Airlines",
+        "Pakistan Internal Airways",
+        "Pakistan Intercontinental Airlines",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which airline company was merged to form PIA?",
+      "options": [
+        "Orient Airways",
+        "Crescent Airways",
+        "Pakistan Airways",
+        "Both A & B"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The New Islamabad International Airport's ultimate capacity is about how many passengers per annum?",
+      "options": [
+        "21 million",
+        "22 million",
+        "25 million",
+        "30 million"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan's standard time is GMT +?",
+      "options": [
+        "4 hours",
+        "5 hours",
+        "6 hours",
+        "7 hours"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan's standard time was suggested by?",
+      "options": [
+        "Liaqat Ali",
+        "Maulana Mazhar-ud-din",
+        "Chaudhary Rehmat Ali",
+        "Professor Muhammad Anwar"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The total length of the coastline of Pakistan is?",
+      "options": [
+        "990 km",
+        "1000 km",
+        "1046 km",
+        "1100 km"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The coastline of Pakistan is located in which province?",
+      "options": [
+        "Sindh only",
+        "Balochistan only",
+        "Sindh and Balochistan",
+        "All provinces"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The coastline of Pakistan includes which sea?",
+      "options": [
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Indian Ocean",
+        "Red Sea"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The most important seaport of Pakistan is?",
+      "options": [
+        "Karachi Port",
+        "Port Qasim",
+        "Gwadar Port",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Gwadar Port is located in which province?",
+      "options": [
+        "Sindh",
+        "Balochistan",
+        "Punjab",
+        "KPK"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Gwadar Port was opened in which year?",
+      "options": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The old name of Bin Qasim (Sea port) is?",
+      "options": [
+        "Neroon",
+        "Pepri",
+        "Debal",
+        "Dahir Kot"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Bin Qasim Port is located in?",
+      "options": [
+        "Karachi",
+        "Thatta",
+        "Gwadar",
+        "Pasni"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and China share which border?",
+      "options": [
+        "Khunjerab Pass",
+        "Khyber Pass",
+        "Wakhan Corridor",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Khunjerab Pass is located on the border between Pakistan and?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "China",
+        "Iran"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Khyber Pass is located on the border between Pakistan and?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "China",
+        "Iran"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Durand Line is named after?",
+      "options": [
+        "Sir Henry Durand",
+        "Sir Mortimer Durand",
+        "Sir William Durand",
+        "Lord Durand"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Radcliffe Line is named after?",
+      "options": [
+        "Sir Cyril Radcliffe",
+        "Lord Radcliffe",
+        "Sir Henry Radcliffe",
+        "Sir William Radcliffe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Line of Control (LOC) is between Pakistan and?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "China",
+        "Iran"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The LOC is approximately how many kilometers long?",
+      "options": [
+        "700 km",
+        "740 km",
+        "760 km",
+        "800 km"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Working Boundary is between Pakistan and?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "China",
+        "Iran"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Wagah Border is between Pakistan and?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "China",
+        "Iran"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Wagah Border ceremony is held daily between Pakistan and?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "China",
+        "Iran"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan and Iran share which border?",
+      "options": [
+        "Taftan Border",
+        "Khunjerab Pass",
+        "Khyber Pass",
+        "Wagah Border"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Taftan Border is between Pakistan and?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "Iran",
+        "China"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan is a member of which international organization?",
+      "options": [
+        "UN",
+        "OIC",
+        "SCO",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan is a member of the UN Security Council how many times?",
+      "options": [
+        "4 times",
+        "5 times",
+        "6 times",
+        "7 times"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan has served as a non-permanent member of the UN Security Council in which years?",
+      "options": [
+        "1952, 1968, 1976, 1983, 1993, 2003",
+        "1952, 1968, 1976, 1983, 1993, 2012",
+        "1952, 1968, 1976, 1983, 1993, 2003, 2012",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan is a member of the Nuclear Non-Proliferation Treaty (NPT)?",
+      "options": [
+        "Yes",
+        "No",
+        "Signed but not ratified",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan has participated in which United Nations peacekeeping missions?",
+      "options": [
+        "Congo",
+        "Somalia",
+        "Bosnia",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan is one of the largest contributors to United Nations peacekeeping forces. True or False?",
+      "options": [
+        "True",
+        "False",
+        "Not among the top",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan has been a member of the United Nations since?",
+      "options": [
+        "1945",
+        "1946",
+        "1947",
+        "1948"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan is a member of the Group of 77 (G77). True or False?",
+      "options": [
+        "True",
+        "False",
+        "Not a member",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan is a member of the D-8 Organization for Economic Cooperation. True or False?",
+      "options": [
+        "True",
+        "False",
+        "Not a member",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "D-8 stands for?",
+      "options": [
+        "Developing 8 Countries",
+        "Developed 8 Countries",
+        "Democratic 8 Countries",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan is a member of the Commonwealth of Nations?",
+      "options": [
+        "Yes",
+        "No",
+        "Was a member but left",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan was suspended from the Commonwealth of Nations in 1999. When was it re-admitted?",
+      "options": [
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan has been a member of the Asian Development Bank (ADB) since?",
+      "options": [
+        "1966",
+      "1967",
+        "1968",
+        "1969"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan has been a member of the World Bank since?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan has been a member of the International Monetary Fund (IMF) since?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan has been a member of the World Trade Organization (WTO) since?",
+      "options": [
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan is a member of which regional organization?",
+      "options": [
+        "SAARC",
+        "ASEAN",
+        "EU",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan is a member of which economic cooperation organization?",
+      "options": [
+        "ECO",
+        "GCC",
+        "EU",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan has been a member of the Economic Cooperation Organization (ECO) since?",
+      "options": [
+        "1983",
+        "1984",
+        "1985",
+        "1986"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan has been a member of the Shanghai Cooperation Organization (SCO) since?",
+      "options": [
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan has been a member of the Organization of Islamic Cooperation (OIC) since?",
+      "options": [
+        "1969",
+        "1970",
+        "1971",
+        "1972"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan has participated in all OIC summits. True or False?",
+      "options": [
+        "True",
+        "False",
+        "Did not participate in some",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan has been a member of the Non-Aligned Movement (NAM) since?",
+      "options": [
+        "1977",
+        "1978",
+        "1979",
+        "1980"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan has been a member of the Group of 24 (G24). True or False?",
+      "options": [
+        "True",
+        "False",
+        "Not a member",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan has been a member of the International Atomic Energy Agency (IAEA) since?",
+      "options": [
+        "1949",
+        "1953",
+        "1957",
+        "1963"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan has been a member of the Nuclear Suppliers Group (NSG)?",
+      "options": [
+        "Yes",
+        "No",
+        "Observer status",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan has been a member of the Missile Technology Control Regime (MTCR)?",
+      "options": [
+        "Yes",
+        "No",
+        "Observer status",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan has been a member of the Australia Group?",
+      "options": [
+        "Yes",
+        "No",
+        "Observer status",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan has been a member of the Wassenaar Arrangement?",
+      "options": [
+        "Yes",
+        "No",
+        "Observer status",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan has been a member of the United Nations Framework Convention on Climate Change (UNFCCC)?",
+      "options": [
+        "Yes",
+        "No",
+        "Not a party",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan has been a member of the Kyoto Protocol?",
+      "options": [
+        "Yes",
+        "No",
+        "Not a party",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan has been a member of the Paris Agreement on climate change?",
+      "options": [
+        "Yes",
+        "No",
+        "Not a party",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ]
+}

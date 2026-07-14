@@ -1,0 +1,1066 @@
+{
+  "category": "Government & Institutions",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "When was NADRA established?",
+      "options": [
+        "March 10, 2000",
+        "August 10, 2001",
+        "October 20, 2002",
+        "December 20, 2002"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "NADRA stands for?",
+      "options": [
+        "National Digital and Registration Authority",
+        "National Database and Registration Authority",
+        "National Dues and Regulation Authority",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was the National Identity Cards (NIC) introduced in Pakistan?",
+      "options": [
+        "1948",
+        "1957",
+        "1963",
+        "1973"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was FIA (Federal Investigation Agency) founded?",
+      "options": [
+        "1970",
+        "1975",
+        "1980",
+        "1985"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "FIA stands for?",
+      "options": [
+        "Federal Intelligence Agency",
+        "Federal Investigation Agency",
+        "Federal Internal Affairs",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was NAB (National Accountability Bureau) founded?",
+      "options": [
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "NAB stands for?",
+      "options": [
+        "National Action Bureau",
+        "National Accountability Bureau",
+        "National Administrative Bureau",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was WAPDA (Water and Power Development Authority) established?",
+      "options": [
+        "February 12, 1958",
+        "February 12, 1959",
+        "February 12, 1960",
+        "February 12, 1961"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "WAPDA stands for?",
+      "options": [
+        "Water and Power Development Authority",
+        "Water and Power Distribution Authority",
+        "Western Area Power Development Authority",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was OGDCL (Oil and Gas Development Company Limited) founded?",
+      "options": [
+        "June 20, 1961",
+        "August 20, 1961",
+        "September 20, 1961",
+        "October 20, 1961"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "OGDCL stands for?",
+      "options": [
+        "Oil and Gas Development Company Limited",
+        "Oil and Gas Distribution Company Limited",
+        "Overseas Gas Development Company Limited",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was PTCL (Pakistan Telecommunication Company Limited) founded?",
+      "options": [
+        "1947",
+        "1949",
+        "1951",
+        "1953"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "PTCL stands for?",
+      "options": [
+        "Pakistan Telecommunication Company Limited",
+        "Pakistan Telegraph Company Limited",
+        "Pakistan Telephone Company Limited",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where is the headquarter of PTCL?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Rawalpindi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was NEPRA created?",
+      "options": [
+        "1995",
+        "1997",
+        "1999",
+        "2000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "NEPRA stands for?",
+      "options": [
+        "National Electric Power Regulatory Authority",
+        "National Energy Power Regulatory Authority",
+        "National Electric Power Regulatory Association",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was SNGPL (Sui Northern Gas Pipelines Limited) established?",
+      "options": [
+        "1962",
+        "1963",
+        "1964",
+        "1965"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "SNGPL stands for?",
+      "options": [
+        "Sui Northern Gas Pipelines Limited",
+        "Sui Northern Gas Pakistan Limited",
+        "Sui Northern Gas Punjab Limited",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was SNGPL converted into a public limited company?",
+      "options": [
+        "June 1961",
+        "July 1962",
+        "January 1963",
+        "January 1964"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When was Pakistan Broadcasting Corporation founded?",
+      "options": [
+        "Dec 20, 1970",
+        "Dec 20, 1972",
+        "Dec 20, 1974",
+        "Dec 20, 1976"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan Broadcasting Corporation headquarters is located in?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Rawalpindi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was Pakistan Television (PTV) started?",
+      "options": [
+        "1962",
+        "1963",
+        "1964",
+        "1965"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "First Television station was set up at Lahore on?",
+      "options": [
+        "December 26, 1964",
+        "September 27, 1964",
+        "October 14, 1964",
+        "November 26, 1964"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan Television started in the reign of?",
+      "options": [
+        "Zulfiqar Ali Bhutto",
+        "Yahya Khan",
+        "Zia Ul Haq",
+        "Ayub Khan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When was Pakistan Bureau of Statistics founded?",
+      "options": [
+        "14 July, 1950",
+        "14 July, 1954",
+        "14 July, 1956",
+        "14 July, 1958"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was the National Finance Commission (NFC) enacted?",
+      "options": [
+        "1949",
+        "1951",
+        "1953",
+        "1955"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "NFC stands for?",
+      "options": [
+        "National Finance Commission",
+        "National Fiscal Commission",
+        "National Federal Commission",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was the Securities and Exchange Commission of Pakistan founded?",
+      "options": [
+        "January 1, 1997",
+        "January 1, 1999",
+        "January 1, 2001",
+        "January 1, 2002"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "SECP stands for?",
+      "options": [
+        "Securities and Exchange Commission of Pakistan",
+        "Securities and Economic Commission of Pakistan",
+        "State Exchange Commission of Pakistan",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was the State Bank of Pakistan inaugurated?",
+      "options": [
+        "1st July 1948",
+        "1st August 1948",
+        "1st September 1948",
+        "1st October 1948"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who inaugurated the State Bank of Pakistan?",
+      "options": [
+        "Quaid-e-Azam",
+        "Malik Ghulam Muhammad",
+        "Liaquat Ali Khan",
+        "Allama Muhammad Iqbal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When were the banks nationalized in Pakistan?",
+      "options": [
+        "1974",
+        "1973",
+        "1972",
+        "1971"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was the First Women Bank Limited commenced its business?",
+      "options": [
+        "02 Nov 1989",
+        "02 Dec 1989",
+        "02 Dec 1988",
+        "01 Nov 1990"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was Pakistan's citizenship act passed?",
+      "options": [
+        "1948",
+        "1949",
+        "1951",
+        "1955"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was Pakistan's first postal stamp issued?",
+      "options": [
+        "5th July 1948",
+        "6th July 1948",
+        "7th July 1948",
+        "9th July 1948"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When was the first Pakistani Postal Stamp issued?",
+      "options": [
+        "August 1948",
+        "December 1947",
+        "February 1948",
+        "July 1948"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When was the first coin of Pakistan issued?",
+      "options": [
+        "3rd June 1948",
+        "6th June 1949",
+        "3rd January 1948",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was the first census held in Pakistan?",
+      "options": [
+        "1950",
+        "1951",
+        "1952",
+        "1953"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was the second census held in Pakistan?",
+      "options": [
+        "1958",
+        "1959",
+        "1960",
+        "1961"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When was the third census held in Pakistan?",
+      "options": [
+        "1968",
+        "1969",
+        "1970",
+        "1972"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was the fourth census held in Pakistan?",
+      "options": [
+        "1978",
+        "1979",
+        "1980",
+        "1981"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When was the fifth census held in Pakistan?",
+      "options": [
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was the sixth census held in Pakistan?",
+      "options": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When was the seventh census held in Pakistan?",
+      "options": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was the National Olympic Committee for Pakistan created?",
+      "options": [
+        "1948",
+        "1950",
+        "1952",
+        "1954"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did Pakistan join the United Nations?",
+      "options": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan's National Flag was designed by?",
+      "options": [
+        "Abdur-Rehman Chugtai",
+        "Liaqat Ali",
+        "Chaudhary Rehmat Ali",
+        "Ameer-ud-din Qadwai"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "National Flag of Pakistan was designed by?",
+      "options": [
+        "Amir udin Kidwai",
+        "Hafeez Jalandhri",
+        "Ahmed Ghulam Ali Chaghla",
+        "None of the Above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan's standard time was suggested by?",
+      "options": [
+        "Liaqat Ali",
+        "Maulana Mazhar-ud-din",
+        "Chaudhary Rehmat Ali",
+        "Professor Muhammad Anwar"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The National Anthem of Pakistan is written by?",
+      "options": [
+        "Allama Iqbal",
+        "Hafeez Jalandhri",
+        "Faiz Ahmed Faiz",
+        "Ahmed Faraz"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "National Anthem of Pakistan was officially adopted in?",
+      "options": [
+        "1947",
+        "1948",
+        "1954",
+        "1956"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many words are in the National Anthem of Pakistan?",
+      "options": [
+        "29 words",
+        "39 words",
+        "49 words",
+        "59 words"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who composed the music of Pakistan's National Anthem?",
+      "options": [
+        "Ahmed Ghulam Ali Chaghla",
+        "Hafeez Jalandhri",
+        "Abdur-Rehman Chugtai",
+        "Liaquat Ali Khan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The dark green field in the flag of Pakistan represents?",
+      "options": [
+        "Minority",
+        "Muslim Majority",
+        "Both Muslims and Minorities",
+        "None of the Above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The white strip in the flag of Pakistan represents?",
+      "options": [
+        "Minorities",
+        "Muslim Majority",
+        "Both A & B",
+        "None of the Above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The crescent in the Pakistani Flag represents?",
+      "options": [
+        "Happiness",
+        "Development",
+        "Progress",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The star in the Pakistani flag represents?",
+      "options": [
+        "Promoting education",
+        "Light and knowledge",
+        "Both A & B",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Nation's Motto of Pakistan is?",
+      "options": [
+        "Unity, Faith, Discipline",
+        "Unity, Faith, Progress",
+        "Faith, Unity, Discipline",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "National insignia of Pakistan is?",
+      "options": [
+        "Deodar",
+        "Indus dolphin",
+        "Crescent and star",
+        "None of above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "National Dress of Pakistan is?",
+      "options": [
+        "Nicker Shirt",
+        "Pent Shirt",
+        "Shalwar Kameez",
+        "Dhoti Kurta"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "National fruit of Pakistan in summer is?",
+      "options": [
+        "Mango",
+        "Banana",
+        "Cherry",
+        "Apple"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "National vegetable of Pakistan is?",
+      "options": [
+        "Carrot",
+        "Tomato",
+        "Lady Finger",
+        "All of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "National animal of Pakistan is?",
+      "options": [
+        "Goat",
+        "Markhor",
+        "Cow",
+        "Buffalo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "National bird of Pakistan is?",
+      "options": [
+        "Markhor",
+        "Parrot",
+        "Chakor",
+        "Peregrine Falcon"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "State Bird of Pakistan is?",
+      "options": [
+        "Peregrine Falcon/Shaeen",
+        "Markhor",
+        "Chakor",
+        "None of above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "National flower of Pakistan is?",
+      "options": [
+        "Lilly",
+        "Rose",
+        "Jasmine",
+        "Tulip"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "National tree of Pakistan is?",
+      "options": [
+        "Neem",
+        "Peepul",
+        "Sheesham",
+        "Deodar"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "National fish of Pakistan is?",
+      "options": [
+        "Blue Marlin",
+        "Hogfish",
+        "Flounder",
+        "Mahseer"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "National reptile of Pakistan is?",
+      "options": [
+        "Rho fish",
+        "Indus dolphin",
+        "Mugger Crocodile",
+        "All of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "National predator of Pakistan is?",
+      "options": [
+        "Lion",
+        "Snow bear",
+        "Snow Leopard",
+        "All of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "National mosque of Pakistan is?",
+      "options": [
+        "Shah Jahan Mosque",
+        "Badshahi Mosque",
+        "Faisal Mosque",
+        "Mosque Tooba"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "National Sweet of Pakistan is?",
+      "options": [
+        "Barfi",
+        "Gulab Jamun",
+        "Jalebi",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan's national code is?",
+      "options": [
+        "PAK",
+        "PK",
+        "PAK1",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The national anthem of Pakistan was played for the first time on?",
+      "options": [
+        "13th August 1954",
+        "14th August 1954",
+        "15th August 1954",
+        "23rd March 1954"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan is _____ largest sugar producer in the world?",
+      "options": [
+        "4th",
+        "5th",
+        "6th",
+        "7th"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan is _____ most populated country of the world?",
+      "options": [
+        "4th",
+        "5th",
+        "6th",
+        "7th"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan is _____ largest country in the world by population?",
+      "options": [
+        "4th",
+        "5th",
+        "6th",
+        "7th"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan is _____ largest Islamic country in the world by population?",
+      "options": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan is _____ largest Islamic country in the world by area?",
+      "options": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan's current population is approximately?",
+      "options": [
+        "180 million",
+        "200 million",
+        "220 million",
+        "240 million"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The literacy rate of Pakistan is approximately?",
+      "options": [
+        "50%",
+        "55%",
+        "60%",
+        "65%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan's economy is the _____ largest in the world?",
+      "options": [
+        "20th",
+        "25th",
+        "30th",
+        "35th"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan's currency is?",
+      "options": [
+        "Indian Rupee",
+        "Pakistani Rupee",
+        "Dollar",
+        "Pound"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The capital of Pakistan is?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Rawalpindi",
+        "Islamabad"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Islamabad became the capital of Pakistan in?",
+      "options": [
+        "1960",
+        "1963",
+        "1965",
+        "1967"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was Pakistan's capital shifted from Karachi to Islamabad?",
+      "options": [
+        "1960",
+        "1965",
+        "1967",
+        "1970"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the architect and town planner of Islamabad?",
+      "options": [
+        "Vedat Dalokay",
+        "Dr. Constantinos Apostolou Doxiadis",
+        "Yahya Merchant",
+        "Abdur Rab Nishtar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who designed the Faisal Mosque?",
+      "options": [
+        "Vedat Dalokay",
+        "Dr. Constantinos Apostolou Doxiadis",
+        "Yahya Merchant",
+        "Abdur Rab Nishtar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The largest mosque of Pakistan located in Islamabad is called?",
+      "options": [
+        "Shah Faisal Mosque",
+        "Badshahi Mosque",
+        "Garrison Mosque",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Minar-e-Pakistan was designed by?",
+      "options": [
+        "Nasreddin Murat-Khan",
+        "Vedat Dalokay",
+        "Arif Masoud",
+        "Yahya Merchant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mazar-e-Quaid was designed by?",
+      "options": [
+        "Yahya Merchant",
+        "Vedat Dalokay",
+        "Nasreddin Murat-Khan",
+        "Arif Masoud"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The foundation stone of Quaid's Mausoleum was laid by?",
+      "options": [
+        "Iskandar Mirza",
+        "Yahya Khan",
+        "Ayub Khan",
+        "Liaqat Ali Khan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Name the architecture of Mazar-e-Iqbal?",
+      "options": [
+        "Nawab Zainuddin",
+        "Nawab Faizuddin",
+        "Nawab Zain Yar Jang Bahadur",
+        "Nawab Faiz Yar Jang Bahadur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan's national flag was prepared by?",
+      "options": [
+        "Abdur-Rehman Chugtai",
+        "Liaqat Ali",
+        "Chaudhary Rehmat Ali",
+        "Ameer-ud-din Qadwai"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "MNA stands for?",
+      "options": [
+        "Medical Nurse Association",
+        "Multi-National Architecture",
+        "Media Networking Area",
+        "Member of National Assembly"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "MPA stands for?",
+      "options": [
+        "Member of Provincial Assembly",
+        "Member of Pakistan Assembly",
+        "Member of Public Assembly",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "MLA stands for?",
+      "options": [
+        "Member of Law Advisory",
+        "Main Legislative Advisory",
+        "Member of Legislative Assembly",
+        "Member of Law Association"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The constituency of Punjab Assembly is called?",
+      "options": [
+        "PS",
+        "PP",
+        "PB",
+        "PK"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The constituency of Sindh Assembly is called?",
+      "options": [
+        "PS",
+        "PP",
+        "PB",
+        "PK"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The constituency of Balochistan Assembly is called?",
+      "options": [
+        "PS",
+        "PP",
+        "PB",
+        "PK"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The constituency of Khyber Pakhtunkhwa Assembly is called?",
+      "options": [
+        "PS",
+        "PP",
+        "PB",
+        "PK"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The constituency of Gilgit Baltistan Assembly is called?",
+      "options": [
+        "PS",
+        "PP",
+        "PB",
+        "GBLA"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Member of Azad Kashmir Assembly is called?",
+      "options": [
+        "MNA",
+        "MPA",
+        "LA",
+        "MLA"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "First Women Bank Limited is located in?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Rawalpindi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan's oldest intelligence agency is?",
+      "options": [
+        "ISI",
+        "IB",
+        "MI",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "DG ISPR stands for?",
+      "options": [
+        "Director General Inter Services Public Relations",
+        "Director General Internal Services Public Relations",
+        "Director General International Services Public Relations",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ]
+}

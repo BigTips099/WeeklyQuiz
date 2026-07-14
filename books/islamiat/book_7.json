@@ -1,0 +1,986 @@
+{
+  "category": "Islamic History & Battles",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "The total number of Ghazwas (battles) fought by Prophet Muhammad (PBUH) is:",
+      "options": [
+        "23",
+        "25",
+        "27",
+        "29"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The total number of Sariyas (expeditions) is:",
+      "options": [
+        "38",
+        "40",
+        "45",
+        "50"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which battle is known as 'Yawm-ul-Furqan' (Day of Distinction)?",
+      "options": [
+        "Badr",
+        "Uhud",
+        "Khandaq",
+        "Khyber"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ghazwa-e-Badr took place in which Hijri year?",
+      "options": [
+        "1st Hijri",
+        "2nd Hijri",
+        "3rd Hijri",
+        "4th Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Badr was fought between Muslims and:",
+      "options": [
+        "Jews of Madina",
+        "Quraish of Makkah",
+        "Christians of Syria",
+        "Persians"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Muslims fought in the Battle of Badr?",
+      "options": [
+        "313",
+        "314",
+        "315",
+        "316"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many non-Muslims fought in the Battle of Badr?",
+      "options": [
+        "900",
+        "950",
+        "1000",
+        "1050"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many Muslims were martyred in the Battle of Badr?",
+      "options": [
+        "7",
+        "14",
+        "21",
+        "28"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many non-Muslims were killed in the Battle of Badr?",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the leader of the non-Muslims in the Battle of Badr?",
+      "options": [
+        "Abu Sufyan",
+        "Abu Jahal",
+        "Abu Lahab",
+        "Utba"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the leader of the non-Muslims in the Battle of Uhud?",
+      "options": [
+        "Abu Sufyan",
+        "Abu Jahal",
+        "Abu Lahab",
+        "Utba"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Battle of Uhud was fought in which Hijri year?",
+      "options": [
+        "2nd Hijri",
+        "3rd Hijri",
+        "4th Hijri",
+        "5th Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Uhud was fought near Mount Uhud. Where is Mount Uhud located?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Taif",
+        "Jerusalem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Mount Uhud is how many miles from Madina?",
+      "options": [
+        "2 miles",
+        "3 miles",
+        "4 miles",
+        "5 miles"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In the Battle of Uhud, Prophet (PBUH) selected how many archers to stay on a mountain?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In the Battle of Uhud, the name of the mountain where archers were stationed is:",
+      "options": [
+        "Jabal-e-Safa",
+        "Jabal-e-Rumah",
+        "Jabal-e-Ohad",
+        "Jabal-e-Noor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of the Trench (Khandaq) was fought in which Hijri year?",
+      "options": [
+        "3rd Hijri",
+        "4th Hijri",
+        "5th Hijri",
+        "6th Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of the Trench (Khandaq) was fought between Muslims and:",
+      "options": [
+        "Quraish of Makkah",
+        "Jews of Madina",
+        "Confederates (Allied tribes)",
+        "Persians"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who suggested digging a trench around Madina in the Battle of Khandaq?",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Salman Farsi (R.A)",
+        "Hazrat Ali (R.A)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Khandaq is also known as the:",
+      "options": [
+        "Battle of Ahzab",
+        "Battle of the Confederates",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Khyber was fought in which Hijri year?",
+      "options": [
+        "5th Hijri",
+        "6th Hijri",
+        "7th Hijri",
+        "8th Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Khyber was fought against:",
+      "options": [
+        "Quraish",
+        "Jewish tribes of Khyber",
+        "Christians",
+        "Persians"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who conquered the fort of Qamus in Khyber?",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Usman (R.A)",
+        "Hazrat Ali (R.A)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The meat of donkey was prohibited during which battle?",
+      "options": [
+        "Badr",
+        "Uhud",
+        "Khandaq",
+        "Khyber"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Conquest of Makkah took place in which Hijri year?",
+      "options": [
+        "6th Hijri",
+        "7th Hijri",
+        "8th Hijri",
+        "9th Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Conquest of Makkah took place in which year AD?",
+      "options": [
+        "628 AD",
+        "629 AD",
+        "630 AD",
+        "631 AD"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many idols were present in the Kaaba before the Conquest of Makkah?",
+      "options": [
+        "340",
+        "350",
+        "360",
+        "365"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The largest idol in Kaaba before Islam was named:",
+      "options": [
+        "Hubal",
+        "Lat",
+        "Uzza",
+        "Manat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prophet (PBUH) recited which Surah at the Conquest of Makkah?",
+      "options": [
+        "Surah Al-Fatihah",
+        "Surah Al-Fath",
+        "Surah Al-Nasr",
+        "Surah Al-Ikhlas"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Prophet (PBUH) stayed in Makkah for how many days after its conquest?",
+      "options": [
+        "10 days",
+        "15 days",
+        "20 days",
+        "25 days"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Hunain was fought in which Hijri year?",
+      "options": [
+        "7th Hijri",
+        "8th Hijri",
+        "9th Hijri",
+        "10th Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Muslims fought in the Battle of Hunain?",
+      "options": [
+        "10,000",
+        "11,000",
+        "12,000",
+        "13,000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Tabuk was fought in which Hijri year?",
+      "options": [
+        "7th Hijri",
+        "8th Hijri",
+        "9th Hijri",
+        "10th Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many Muslims fought in the Battle of Tabuk?",
+      "options": [
+        "20,000",
+        "25,000",
+        "30,000",
+        "35,000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Tabuk was fought against:",
+      "options": [
+        "Quraish",
+        "Jews",
+        "Romans",
+        "Persians"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Tabuk came to an end without result. It was:",
+      "options": [
+        "A victory for Muslims",
+        "A victory for Romans",
+        "No fighting took place",
+        "A draw"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Mu'tah was fought in which Hijri year?",
+      "options": [
+        "6th Hijri",
+        "7th Hijri",
+        "8th Hijri",
+        "9th Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Mu'tah was fought against:",
+      "options": [
+        "Quraish",
+        "Jews",
+        "Romans",
+        "Persians"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first commander of the Muslim army in the Battle of Mu'tah?",
+      "options": [
+        "Hazrat Zaid bin Haris (R.A)",
+        "Hazrat Ja'far bin Abi Talib (R.A)",
+        "Hazrat Abdullah bin Rawaha (R.A)",
+        "Hazrat Khalid bin Waleed (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "After the death of Hazrat Zaid bin Haris (R.A), who became the commander of the Muslim army in the Battle of Mu'tah?",
+      "options": [
+        "Hazrat Ja'far bin Abi Talib (R.A)",
+        "Hazrat Abdullah bin Rawaha (R.A)",
+        "Hazrat Khalid bin Waleed (R.A)",
+        "Hazrat Abu Bakar (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "After the death of Hazrat Ja'far bin Abi Talib (R.A), who became the commander of the Muslim army in the Battle of Mu'tah?",
+      "options": [
+        "Hazrat Abdullah bin Rawaha (R.A)",
+        "Hazrat Khalid bin Waleed (R.A)",
+        "Hazrat Zaid bin Haris (R.A)",
+        "Hazrat Abu Bakar (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "After the death of Hazrat Abdullah bin Rawaha (R.A), who became the commander of the Muslim army in the Battle of Mu'tah?",
+      "options": [
+        "Hazrat Khalid bin Waleed (R.A)",
+        "Hazrat Zaid bin Haris (R.A)",
+        "Hazrat Ja'far bin Abi Talib (R.A)",
+        "Hazrat Abu Bakar (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Battle of Mu'tah took place in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Taif",
+        "Jordan (Syria region)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Battle of Ridda (Apostasy) was fought during the caliphate of:",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Usman (R.A)",
+        "Hazrat Ali (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Battle of Ridda was fought against:",
+      "options": [
+        "False prophets",
+        "Apostate tribes",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the false prophet from Yemen?",
+      "options": [
+        "Musailama al-Kazzab",
+        "Sajjah",
+        "Aswad al-Ansi",
+        "Tulayha"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the false prophet from Yamama?",
+      "options": [
+        "Musailama al-Kazzab",
+        "Sajjah",
+        "Aswad al-Ansi",
+        "Tulayha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first female false prophet?",
+      "options": [
+        "Sajjah",
+        "Musailama al-Kazzab",
+        "Aswad al-Ansi",
+        "Tulayha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who killed Musailama al-Kazzab?",
+      "options": [
+        "Hazrat Khalid bin Waleed (R.A)",
+        "Wahshi ibn Harb",
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Yarmuk was fought between Muslims and:",
+      "options": [
+        "Persians",
+        "Romans",
+        "Jews",
+        "Christians"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Yarmuk was fought during the caliphate of:",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Usman (R.A)",
+        "Hazrat Ali (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the commander of the Muslim army in the Battle of Yarmuk?",
+      "options": [
+        "Hazrat Khalid bin Waleed (R.A)",
+        "Hazrat Abu Ubaidah bin al-Jarrah (R.A)",
+        "Hazrat Saad bin Abi Waqas (R.A)",
+        "Hazrat Amr bin Al-Aas (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Battle of Qadsiya was fought between Muslims and:",
+      "options": [
+        "Romans",
+        "Persians",
+        "Jews",
+        "Christians"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Qadsiya was fought during the caliphate of:",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Usman (R.A)",
+        "Hazrat Ali (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the commander of the Muslim army in the Battle of Qadsiya?",
+      "options": [
+        "Hazrat Khalid bin Waleed (R.A)",
+        "Hazrat Abu Ubaidah bin al-Jarrah (R.A)",
+        "Hazrat Saad bin Abi Waqas (R.A)",
+        "Hazrat Amr bin Al-Aas (R.A)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Sallasil (Battle of Chains) was fought between Muslims and:",
+      "options": [
+        "Romans",
+        "Persians",
+        "Arabs",
+        "Jews"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Sallasil was fought during the caliphate of:",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Usman (R.A)",
+        "Hazrat Ali (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Egypt was conquered by Muslims under the leadership of:",
+      "options": [
+        "Hazrat Saad bin Abi Waqas (R.A)",
+        "Hazrat Khalid bin Waleed (R.A)",
+        "Hazrat Amr bin Al-Aas (R.A)",
+        "Hazrat Abu Ubaidah (R.A)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Egypt was conquered in which year AD?",
+      "options": [
+        "640 AD",
+        "641 AD",
+        "642 AD",
+        "643 AD"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Persia (Iran) was conquered by Muslims under the leadership of:",
+      "options": [
+        "Hazrat Saad bin Abi Waqas (R.A)",
+        "Hazrat Khalid bin Waleed (R.A)",
+        "Hazrat Amr bin Al-Aas (R.A)",
+        "Hazrat Abu Ubaidah (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Persia (Iran) was conquered in which year AD?",
+      "options": [
+        "636 AD",
+        "637 AD",
+        "638 AD",
+        "639 AD"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Spain was conquered by Muslims under the leadership of:",
+      "options": [
+        "Hazrat Musa bin Nusair (R.A)",
+        "Hazrat Tariq bin Ziyad (R.A)",
+        "Hazrat Muhammad bin Qasim (R.A)",
+        "Hazrat Amr bin Al-Aas (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Spain was conquered in which year AD?",
+      "options": [
+        "711 AD",
+        "712 AD",
+        "713 AD",
+        "714 AD"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sindh was conquered by Muslims under the leadership of:",
+      "options": [
+        "Hazrat Musa bin Nusair (R.A)",
+        "Hazrat Tariq bin Ziyad (R.A)",
+        "Hazrat Muhammad bin Qasim (R.A)",
+        "Hazrat Amr bin Al-Aas (R.A)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Sindh was conquered in which year AD?",
+      "options": [
+        "711 AD",
+        "712 AD",
+        "713 AD",
+        "714 AD"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Camel was fought between Hazrat Ali (R.A) and:",
+      "options": [
+        "Ameer Muawiyah (R.A)",
+        "Hazrat Ayesha (R.A)",
+        "Hazrat Zubair (R.A)",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Battle of Camel was fought in which Hijri year?",
+      "options": [
+        "34 Hijri",
+        "35 Hijri",
+        "36 Hijri",
+        "37 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Camel was fought at:",
+      "options": [
+        "Kufa",
+        "Basra",
+        "Madina",
+        "Makkah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Siffin was fought between Hazrat Ali (R.A) and:",
+      "options": [
+        "Ameer Muawiyah (R.A)",
+        "Hazrat Ayesha (R.A)",
+        "Hazrat Zubair (R.A)",
+        "Hazrat Talha (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Battle of Siffin was fought in which Hijri year?",
+      "options": [
+        "35 Hijri",
+        "36 Hijri",
+        "37 Hijri",
+        "38 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Siffin ended with the arbitration (Tahkim). Who was appointed as the arbitrator from Hazrat Ali's side?",
+      "options": [
+        "Hazrat Abu Musa Ashari (R.A)",
+        "Hazrat Amr bin Al-Aas (R.A)",
+        "Hazrat Ali (R.A)",
+        "Hazrat Muawiyah (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Battle of Siffin ended with the arbitration (Tahkim). Who was appointed as the arbitrator from Ameer Muawiyah's side?",
+      "options": [
+        "Hazrat Abu Musa Ashari (R.A)",
+        "Hazrat Amr bin Al-Aas (R.A)",
+        "Hazrat Ali (R.A)",
+        "Hazrat Muawiyah (R.A)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Nahrawan was fought between Hazrat Ali (R.A) and:",
+      "options": [
+        "Ameer Muawiyah (R.A)",
+        "Hazrat Ayesha (R.A)",
+        "Khawarij",
+        "Hazrat Zubair (R.A)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Nahrawan was fought in which Hijri year?",
+      "options": [
+        "36 Hijri",
+        "37 Hijri",
+        "38 Hijri",
+        "39 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Battle of Karbala took place in which Hijri year?",
+      "options": [
+        "60 Hijri",
+        "61 Hijri",
+        "62 Hijri",
+        "63 Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Karbala took place in which year AD?",
+      "options": [
+        "680 AD",
+        "681 AD",
+        "682 AD",
+        "683 AD"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The tragedy of Karbala took place on which date?",
+      "options": [
+        "8th Muharram",
+        "9th Muharram",
+        "10th Muharram",
+        "11th Muharram"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many martyrs were there in the Battle of Karbala?",
+      "options": [
+        "72",
+        "73",
+        "74",
+        "75"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first martyr of Karbala?",
+      "options": [
+        "Hazrat Hussain (R.A)",
+        "Hazrat Abbas (R.A)",
+        "Hurr ibn Yazid",
+        "Hazrat Ali Akbar (R.A)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The year of the Elephant (Am-ul-Fil) refers to the year when Abraha attacked Makkah. In which year AD did this happen?",
+      "options": [
+        "570 AD",
+        "571 AD",
+        "572 AD",
+        "573 AD"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The year of the Elephant (Am-ul-Fil) is mentioned in which Surah?",
+      "options": [
+        "Surah Al-Fil",
+        "Surah Quraish",
+        "Surah Al-Masad",
+        "Surah Al-Kawthar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The city of Baghdad was established as the capital of the Abbasid dynasty by:",
+      "options": [
+        "Al-Mansur",
+        "As-Saffah",
+        "Harun al-Rashid",
+        "Al-Ma'mun"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The House of Wisdom (Bayt-ul-Hikmah) was established by:",
+      "options": [
+        "Al-Mansur",
+        "Al-Ma'mun",
+        "Harun al-Rashid",
+        "Abdul Malik"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Umayyad Caliphate was overthrown by the Abbasids after the Battle of:",
+      "options": [
+        "Zab",
+        "Yarmuk",
+        "Qadsiya",
+        "Siffin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Umayyad Caliphate was overthrown in which year AD?",
+      "options": [
+        "749 AD",
+        "750 AD",
+        "751 AD",
+        "752 AD"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first Umayyad Caliph was:",
+      "options": [
+        "Ameer Muawiyah (R.A)",
+        "Hazrat Ali (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Abu Bakar (R.A)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The last Umayyad Caliph was:",
+      "options": [
+        "Marwan II",
+        "Hisham",
+        "Al-Walid II",
+        "Yazid III"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first Abbasid Caliph was:",
+      "options": [
+        "Al-Mansur",
+        "As-Saffah",
+        "Harun al-Rashid",
+        "Al-Ma'mun"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The last Abbasid Caliph was:",
+      "options": [
+        "Al-Musta'sim",
+        "Al-Mutawakkil",
+        "Al-Mu'tasim",
+        "Al-Mahdi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Baghdad was sacked by Halaku Khan in which year AD?",
+      "options": [
+        "1256 AD",
+        "1257 AD",
+        "1258 AD",
+        "1259 AD"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first Muslim Caliph of Spain was:",
+      "options": [
+        "Abd al-Rahman al-Dakhil",
+        "Abd al-Rahman al-Nasir",
+        "Al-Mansur",
+        "Tariq bin Ziyad"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Umayyad rule in Spain lasted for how many years?",
+      "options": [
+        "125 years",
+        "135 years",
+        "145 years",
+        "155 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Battle of Zalaqa was fought between Alfonso VI and:",
+      "options": [
+        "Hajib Almansur",
+        "Yusuf bin Tashfeen",
+        "Tariq bin Ziyad",
+        "Musa bin Nusair"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Battle of Zalaqa was fought in which year AD?",
+      "options": [
+        "1070 AD",
+        "1080 AD",
+        "1086 AD",
+        "1090 AD"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Constantinople was captured by the Ottoman Sultan Muhammad II Fateh in which year AD?",
+      "options": [
+        "1451 AD",
+        "1452 AD",
+        "1453 AD",
+        "1454 AD"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Constantinople was previously known as:",
+      "options": [
+        "Byzantium",
+        "Istanbul",
+        "Rome",
+        "Athens"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Prophet Muhammad (PBUH) sent letters to kings and rulers inviting them to Islam. How many letters were sent?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Prophet Muhammad (PBUH) sent letters to which kings and rulers?",
+      "options": [
+        "King of Persia",
+        "King of Egypt",
+        "King of Abyssinia",
+        "All of the above"
+      ],
+      "answer": 3
+    }
+  ]
+}

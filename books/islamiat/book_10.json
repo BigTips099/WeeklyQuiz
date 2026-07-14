@@ -1,0 +1,1466 @@
+{
+  "category": "Hadith & Scholars",
+  "totalQuestions": 159,
+  "questions": [
+    {
+      "question": "What is the literal meaning of 'Hadith'?",
+      "options": [
+        "Speech",
+        "News",
+        "Story",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The book 'Sahih Bukhari' was compiled by:",
+      "options": [
+        "Imam Muslim",
+        "Imam Bukhari",
+        "Imam Tirmizi",
+        "Imam Abu Dawood"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was the name of Imam Bukhari (R.A)?",
+      "options": [
+        "Muhammad bin Ismaeel",
+        "Muhammad bin Muslim",
+        "Muhammad bin Isa",
+        "Muhammad bin Sulaiman"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Bukhari was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Bukhara",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Bukhari was born in which year?",
+      "options": [
+        "194 Hijri",
+        "196 Hijri",
+        "198 Hijri",
+        "200 Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Bukhari died in which year?",
+      "options": [
+        "246 Hijri",
+        "248 Hijri",
+        "250 Hijri",
+        "256 Hijri"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How many Ahadith does 'Sahih Bukhari' contain?",
+      "options": [
+        "5,636",
+        "7,275",
+        "8,821",
+        "6,722"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Sahih Muslim' was compiled by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Tirmizi",
+        "Imam Abu Dawood"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What was the name of Imam Muslim (R.A)?",
+      "options": [
+        "Muslim bin Ismaeel",
+        "Muslim bin Hajjaj",
+        "Muslim bin Isa",
+        "Muslim bin Sulaiman"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Muslim was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Nishapur",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Muslim was born in which year?",
+      "options": [
+        "194 Hijri",
+        "200 Hijri",
+        "204 Hijri",
+        "206 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Muslim died in which year?",
+      "options": [
+        "250 Hijri",
+        "261 Hijri",
+        "265 Hijri",
+        "270 Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Jami al-Tirmizi' was compiled by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Tirmizi",
+        "Imam Abu Dawood"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What was the name of Imam Tirmizi (R.A)?",
+      "options": [
+        "Muhammad bin Isa",
+        "Muhammad bin Sulaiman",
+        "Muhammad bin Hajjaj",
+        "Muhammad bin Ismaeel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Tirmizi was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Tirmiz",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Tirmizi was born in which year?",
+      "options": [
+        "209 Hijri",
+        "210 Hijri",
+        "211 Hijri",
+        "212 Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Tirmizi died in which year?",
+      "options": [
+        "270 Hijri",
+        "275 Hijri",
+        "279 Hijri",
+        "280 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Sunan Abu Dawood' was compiled by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Tirmizi",
+        "Imam Abu Dawood"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What was the name of Imam Abu Dawood (R.A)?",
+      "options": [
+        "Sulaiman bin Ismaeel",
+        "Sulaiman bin Hajjaj",
+        "Sulaiman bin Ash'ath",
+        "Sulaiman bin Isa"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Abu Dawood was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Sijistan",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Abu Dawood was born in which year?",
+      "options": [
+        "202 Hijri",
+        "204 Hijri",
+        "206 Hijri",
+        "208 Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Abu Dawood died in which year?",
+      "options": [
+        "265 Hijri",
+        "270 Hijri",
+        "275 Hijri",
+        "280 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Sunan Ibn Maja' was compiled by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Tirmizi",
+        "Imam Ibn Maja"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What was the name of Imam Ibn Maja (R.A)?",
+      "options": [
+        "Muhammad bin Ismaeel",
+        "Muhammad bin Yazid",
+        "Muhammad bin Hajjaj",
+        "Muhammad bin Isa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Ibn Maja was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Qazvin",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Ibn Maja was born in which year?",
+      "options": [
+        "209 Hijri",
+        "210 Hijri",
+        "211 Hijri",
+        "212 Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Ibn Maja died in which year?",
+      "options": [
+        "270 Hijri",
+        "273 Hijri",
+        "275 Hijri",
+        "280 Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Sunan al-Nasa'i' was compiled by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Tirmizi",
+        "Imam Nasa'i"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What was the name of Imam Nasa'i (R.A)?",
+      "options": [
+        "Ahmed bin Ismaeel",
+        "Ahmed bin Hajjaj",
+        "Ahmed bin Shu'ayb",
+        "Ahmed bin Isa"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Nasa'i was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Nisa",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Nasa'i was born in which year?",
+      "options": [
+        "215 Hijri",
+        "218 Hijri",
+        "220 Hijri",
+        "222 Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Nasa'i died in which year?",
+      "options": [
+        "275 Hijri",
+        "280 Hijri",
+        "282 Hijri",
+        "285 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Al-Muwatta' was compiled by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi",
+        "Imam Ahmad bin Hambal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Malik (R.A) was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Kufa",
+        "Baghdad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Malik was born in which year?",
+      "options": [
+        "83 Hijri",
+        "85 Hijri",
+        "87 Hijri",
+        "89 Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Malik died in which year?",
+      "options": [
+        "170 Hijri",
+        "175 Hijri",
+        "179 Hijri",
+        "180 Hijri"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Musnad Ahmad' was compiled by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi",
+        "Imam Ahmad bin Hambal"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Imam Ahmad bin Hambal was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Baghdad",
+        "Kufa"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Ahmad bin Hambal was born in which year?",
+      "options": [
+        "160 Hijri",
+        "164 Hijri",
+        "165 Hijri",
+        "168 Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Ahmad bin Hambal died in which year?",
+      "options": [
+        "240 Hijri",
+        "241 Hijri",
+        "243 Hijri",
+        "245 Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Kitab al Umm' was written by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi",
+        "Imam Ahmad bin Hambal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Shafi was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Gaza",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Shafi was born in which year?",
+      "options": [
+        "140 Hijri",
+        "150 Hijri",
+        "160 Hijri",
+        "170 Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Shafi died in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Al-Fustat (Egypt)",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Shafi died in which year?",
+      "options": [
+        "194 Hijri",
+        "204 Hijri",
+        "214 Hijri",
+        "224 Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Kitab al Kharaj' was written by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Shafi",
+        "Abu Yusuf",
+        "Muhammad Al Shaybani"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Kitab al Amwal' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Abu Yusuf",
+        "Abu Ubaid al Qasim",
+        "Muhammad Al Shaybani"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Kitab al Athar' was written by:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Shafi",
+        "Imam Malik",
+        "Imam Ahmad bin Hambal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Kitab al Shifa' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Qadi Iyad",
+        "Imam Nawawi",
+        "Ibn Kathir"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Riyadh al-Salihin' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Nawawi",
+        "Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Quran al-Azeem' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Ibn Kathir",
+        "Ibn Taymiyyah"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Tabari' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Ibn Jarir al-Tabari",
+        "Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Sahih al-Bukhari' is considered the most authentic book after:",
+      "options": [
+        "The Torah",
+        "The Bible",
+        "The Quran",
+        "The Psalms"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The six authentic books of Hadith are known as:",
+      "options": [
+        "Siha-e-Sitta",
+        "Siha-e-Khamsa",
+        "Siha-e-Saba",
+        "Siha-e-Thamaniya"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Siha-e-Sitta means:",
+      "options": [
+        "Five authentic books",
+        "Six authentic books",
+        "Seven authentic books",
+        "Eight authentic books"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first authority for the compilation of Hadith was:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Malik",
+        "Imam Ahmad",
+        "Imam Abu Hanifa"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Sahifa-e-Sadiqa was compiled by:",
+      "options": [
+        "Hazrat Abu Bakar (R.A)",
+        "Hazrat Umar (R.A)",
+        "Hazrat Abdullah bin Amr (R.A)",
+        "Hazrat Abu Huraira (R.A)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The term 'Sanad' in Hadith refers to:",
+      "options": [
+        "The text of Hadith",
+        "The chain of narrators",
+        "The narrator",
+        "The book"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The term 'Matan' in Hadith refers to:",
+      "options": [
+        "The text of Hadith",
+        "The chain of narrators",
+        "The narrator",
+        "The book"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A 'Sahih' Hadith is one that is:",
+      "options": [
+        "Authentic",
+        "Weak",
+        "Fabricated",
+        "Unknown"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A 'Da'if' Hadith is one that is:",
+      "options": [
+        "Authentic",
+        "Weak",
+        "Fabricated",
+        "Unknown"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A 'Mawdu' Hadith is one that is:",
+      "options": [
+        "Authentic",
+        "Weak",
+        "Fabricated",
+        "Unknown"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A 'Hasan' Hadith is one that is:",
+      "options": [
+        "Authentic",
+        "Good",
+        "Weak",
+        "Fabricated"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The term 'Hadith Qudsi' refers to:",
+      "options": [
+        "Hadith from the Prophet",
+        "Hadith from the Companions",
+        "Hadith from Allah",
+        "Hadith from the Tabi'in"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The term 'Hadith Nabawi' refers to:",
+      "options": [
+        "Hadith from the Prophet",
+        "Hadith from the Companions",
+        "Hadith from Allah",
+        "Hadith from the Tabi'in"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Arba'in' (Forty Hadith) was compiled by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Nawawi",
+        "Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Al-Muwatta' is considered the first:",
+      "options": [
+        "Tafsir",
+        "Fiqh",
+        "Hadith compilation",
+        "History"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Sahih Bukhari' was compiled over a period of:",
+      "options": [
+        "10 years",
+        "12 years",
+        "16 years",
+        "20 years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Bukhari traveled extensively to collect Hadith. He traveled to:",
+      "options": [
+        "Egypt",
+        "Syria",
+        "Iraq",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Imam Muslim was a student of:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Abu Dawood",
+        "Imam Tirmizi",
+        "Imam Nasa'i"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Imam Tirmizi was a student of:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Abu Dawood",
+        "Both A and B"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The book 'Sunan Abu Dawood' contains how many Hadith?",
+      "options": [
+        "4,800",
+        "5,200",
+        "5,500",
+        "6,000"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Sunan Ibn Maja' contains how many Hadith?",
+      "options": [
+        "4,000",
+        "4,341",
+        "4,500",
+        "5,000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Sunan al-Nasa'i' contains how many Hadith?",
+      "options": [
+        "5,000",
+        "5,270",
+        "5,500",
+        "6,000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Jami al-Tirmizi' contains how many Hadith?",
+      "options": [
+        "3,000",
+        "3,956",
+        "4,000",
+        "4,500"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Sahih Muslim' is considered the second most authentic book after:",
+      "options": [
+        "Sahih Bukhari",
+        "Sunan Abu Dawood",
+        "Jami al-Tirmizi",
+        "Sunan Ibn Maja"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Sahih Bukhari' is also known as:",
+      "options": [
+        "Al-Jami al-Musnad",
+        "Al-Jami al-Sahih",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Sahih Muslim' is also known as:",
+      "options": [
+        "Al-Jami al-Musnad",
+        "Al-Jami al-Sahih",
+        "Al-Musnad al-Sahih",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Bukhari and Imam Muslim are known as:",
+      "options": [
+        "Sheikh al-Islam",
+        "Sahihayn",
+        "Al-Imamayn",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The term 'Sahihayn' refers to:",
+      "options": [
+        "The two Sahih books (Bukhari and Muslim)",
+        "The two Tafsir books",
+        "The two Fiqh books",
+        "The two History books"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The term 'Kutub al-Sittah' refers to:",
+      "options": [
+        "The six Tafsir books",
+        "The six Fiqh books",
+        "The six Hadith books",
+        "The six History books"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Sahih Bukhari' was compiled in how many volumes?",
+      "options": [
+        "3 volumes",
+        "4 volumes",
+        "5 volumes",
+        "6 volumes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Sahih Muslim' was compiled in how many volumes?",
+      "options": [
+        "3 volumes",
+        "4 volumes",
+        "5 volumes",
+        "6 volumes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Sunan Abu Dawood' was compiled in how many volumes?",
+      "options": [
+        "3 volumes",
+        "4 volumes",
+        "5 volumes",
+        "6 volumes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Jami al-Tirmizi' was compiled in how many volumes?",
+      "options": [
+        "3 volumes",
+        "4 volumes",
+        "5 volumes",
+        "6 volumes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Sunan al-Nasa'i' was compiled in how many volumes?",
+      "options": [
+        "3 volumes",
+        "4 volumes",
+        "5 volumes",
+        "6 volumes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Sunan Ibn Maja' was compiled in how many volumes?",
+      "options": [
+        "1 volume",
+        "2 volumes",
+        "3 volumes",
+        "4 volumes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Al-Muwatta' was compiled in how many volumes?",
+      "options": [
+        "1 volume",
+        "2 volumes",
+        "3 volumes",
+        "4 volumes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Musnad Ahmad' contains approximately how many Hadith?",
+      "options": [
+        "20,000",
+        "25,000",
+        "28,000",
+        "30,000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Musnad Ahmad' was compiled in how many volumes?",
+      "options": [
+        "5 volumes",
+        "6 volumes",
+        "7 volumes",
+        "8 volumes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Ahmad bin Hambal was known for his:",
+      "options": [
+        "Tafsir",
+        "Fiqh",
+        "Hadith collection",
+        "History"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Hanbali school of thought is named after:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi",
+        "Imam Ahmad bin Hambal"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Hanafi school of thought is named after:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi",
+        "Imam Ahmad bin Hambal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Maliki school of thought is named after:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi",
+        "Imam Ahmad bin Hambal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Shafi school of thought is named after:",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi",
+        "Imam Ahmad bin Hambal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Abu Hanifa was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Kufa",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Abu Hanifa died in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Kufa",
+        "Baghdad"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Imam Malik was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Kufa",
+        "Baghdad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Malik died in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Kufa",
+        "Baghdad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Imam Shafi was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Gaza",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Shafi died in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Al-Fustat (Egypt)",
+        "Baghdad"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Ahmad bin Hambal was born in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Baghdad",
+        "Kufa"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Imam Ahmad bin Hambal died in which city?",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Baghdad",
+        "Kufa"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Al-Jami al-Sahih' is the full name of:",
+      "options": [
+        "Sahih Bukhari",
+        "Sahih Muslim",
+        "Jami al-Tirmizi",
+        "Sunan Abu Dawood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Al-Musnad al-Sahih' is the full name of:",
+      "options": [
+        "Sahih Bukhari",
+        "Sahih Muslim",
+        "Jami al-Tirmizi",
+        "Sunan Abu Dawood"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Sunan al-Sunan' is the full name of:",
+      "options": [
+        "Sahih Bukhari",
+        "Sahih Muslim",
+        "Sunan Abu Dawood",
+        "Sunan Ibn Maja"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Kitab al-Sunan' is the full name of:",
+      "options": [
+        "Sahih Bukhari",
+        "Sahih Muslim",
+        "Sunan Abu Dawood",
+        "Sunan Ibn Maja"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The book 'Al-Mujtaba' is another name for:",
+      "options": [
+        "Sahih Bukhari",
+        "Sahih Muslim",
+        "Sunan al-Nasa'i",
+        "Sunan Ibn Maja"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Al-Sunan al-Sughra' is another name for:",
+      "options": [
+        "Sahih Bukhari",
+        "Sahih Muslim",
+        "Sunan al-Nasa'i",
+        "Sunan Ibn Maja"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Jami al-Usul' was written by:",
+      "options": [
+        "Ibn al-Athir",
+        "Ibn Kathir",
+        "Ibn Taymiyyah",
+        "Ibn Qayyim"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Al-Nihayah' was written by:",
+      "options": [
+        "Ibn al-Athir",
+        "Ibn Kathir",
+        "Ibn Taymiyyah",
+        "Ibn Qayyim"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Al-Bidayah wa al-Nihayah' was written by:",
+      "options": [
+        "Ibn al-Athir",
+        "Ibn Kathir",
+        "Ibn Taymiyyah",
+        "Ibn Qayyim"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Tafsir al-Quran al-Azeem' was written by:",
+      "options": [
+        "Ibn al-Athir",
+        "Ibn Kathir",
+        "Ibn Taymiyyah",
+        "Ibn Qayyim"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Al-Mustadrak ala al-Sahihayn' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Hakim",
+        "Imam Tirmizi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Al-Mustadrak' contains:",
+      "options": [
+        "Sahih Hadith not found in Bukhari and Muslim",
+        "Weak Hadith",
+        "Fabricated Hadith",
+        "Mursal Hadith"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Al-Sunan al-Kubra' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Bayhaqi",
+        "Imam Tirmizi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Al-Sunan al-Kubra' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Bayhaqi",
+        "Imam Tirmizi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Sharh al-Sunnah' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam al-Baghawi",
+        "Imam Tirmizi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Al-Misbah' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam al-Baghawi",
+        "Imam Tirmizi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Al-Itqan' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Suyuti",
+        "Imam Tirmizi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Al-Dur al-Manthur' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Suyuti",
+        "Imam Tirmizi"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Jalalayn' was written by:",
+      "options": [
+        "Jalal al-Din al-Mahalli and Jalal al-Din al-Suyuti",
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Ibn Kathir"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Tafsir al-Jalalayn' is named after:",
+      "options": [
+        "Two authors named Jalal",
+        "A city named Jalal",
+        "A tribe named Jalal",
+        "A scholar named Jalal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Tafsir Ibn Kathir' is considered one of the most authentic:",
+      "options": [
+        "Fiqh books",
+        "Hadith books",
+        "Tafsir books",
+        "History books"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Tabari' is considered one of the earliest:",
+      "options": [
+        "Fiqh books",
+        "Hadith books",
+        "Tafsir books",
+        "History books"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Tabari' is also known as:",
+      "options": [
+        "Tafsir al-Umm",
+        "Tafsir al-Quran al-Azeem",
+        "Jami al-Bayan",
+        "Al-Itqan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Tabari' is also known as:",
+      "options": [
+        "Tafsir al-Umm",
+        "Tafsir al-Quran al-Azeem",
+        "Jami al-Bayan",
+        "Al-Itqan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Qurtubi' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam al-Qurtubi",
+        "Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Qurtubi' is known for its:",
+      "options": [
+        "Fiqh interpretations",
+        "Hadith explanations",
+        "Linguistic analysis",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The book 'Tafsir al-Imamayn' refers to:",
+      "options": [
+        "Tafsir al-Tabari and Ibn Kathir",
+        "Tafsir al-Jalalayn",
+        "Tafsir al-Qurtubi",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Tafsir al-Imamayn' is named after:",
+      "options": [
+        "Two Imams named Jalal",
+        "Two Imams named Muhammad",
+        "Two Imams named Ali",
+        "Two Imams named Ahmad"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Tafsir al-Imamayn' was written by:",
+      "options": [
+        "Al-Mahalli and al-Suyuti",
+        "Ibn Kathir and al-Tabari",
+        "al-Qurtubi and al-Razi",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The book 'Mafatih al-Ghayb' is also known as:",
+      "options": [
+        "Tafsir al-Tabari",
+        "Tafsir al-Razi",
+        "Tafsir al-Qurtubi",
+        "Tafsir Ibn Kathir"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Mafatih al-Ghayb' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam al-Razi",
+        "Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Mafatih al-Ghayb' is also known as:",
+      "options": [
+        "Tafsir al-Tabari",
+        "Tafsir al-Razi",
+        "Tafsir al-Qurtubi",
+        "Tafsir Ibn Kathir"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Tafsir al-Kashaf' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam al-Zamakhshari",
+        "Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Kashaf' is known for its:",
+      "options": [
+        "Fiqh interpretations",
+        "Linguistic and literary analysis",
+        "Hadith explanations",
+        "Historical analysis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The book 'Tafsir al-Kashaf' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam al-Zamakhshari",
+        "Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Kashaf' is also known as:",
+      "options": [
+        "Tafsir al-Tabari",
+        "Tafsir al-Razi",
+        "Tafsir al-Zamakhshari",
+        "Tafsir Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Asas' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam al-Zamakhshari",
+        "Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Asas' is also known as:",
+      "options": [
+        "Tafsir al-Tabari",
+        "Tafsir al-Razi",
+        "Tafsir al-Zamakhshari",
+        "Tafsir Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Asas' was written by:",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam al-Zamakhshari",
+        "Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Asas' is also known as:",
+      "options": [
+        "Tafsir al-Tabari",
+        "Tafsir al-Razi",
+        "Tafsir al-Zamakhshari",
+        "Tafsir Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Asas' is also known as:",
+      "options": [
+        "Tafsir al-Tabari",
+        "Tafsir al-Razi",
+        "Tafsir al-Zamakhshari",
+        "Tafsir Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Asas' is also known as:",
+      "options": [
+        "Tafsir al-Tabari",
+        "Tafsir al-Razi",
+        "Tafsir al-Zamakhshari",
+        "Tafsir Ibn Kathir"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The book 'Tafsir al-Asas' is also known as:",
+      "options": [
+        "Tafsir al-Tabari",
+        "Tafsir al-Razi",
+        "Tafsir al-Zamakhshari",
+        "Tafsir Ibn Kathir"
+      ],
+      "answer": 2
+    }
+  ]
+}

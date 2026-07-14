@@ -1,0 +1,1006 @@
+{
+  "category": "Hajj, Umrah & Worship",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "In which Hijri year was Hajj made compulsory?",
+      "options": [
+        "8 Hijri",
+        "9 Hijri",
+        "10 Hijri",
+        "11 Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Hajj did Prophet Muhammad (PBUH) perform?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When was the first Hajj performed by Muslims?",
+      "options": [
+        "9 Hijri",
+        "10 Hijri",
+        "11 Hijri",
+        "12 Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the verbal meaning of Hajj?",
+      "options": [
+        "To repay",
+        "The will to visit",
+        "To devise",
+        "To permanence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Farz (obligatory) duties are to be performed during Hajj?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "To stay at Arafat is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Mustahab"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Muzdalifa is situated:",
+      "options": [
+        "Between Khana Kaaba and Mina",
+        "Between Mina and Arafat",
+        "Not between stated above",
+        "Between Safa and Mina"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "At Muzdalifa on 9th Zil-Hajj, which two prayers are performed together?",
+      "options": [
+        "Fajar and Zuhar",
+        "Zuhar and Asar",
+        "Maghrib and Isha",
+        "Isha and Fajar"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "From where are pebbles for throwing on Jamarat obtained?",
+      "options": [
+        "Cave Sore",
+        "Muzdalifa",
+        "Mina",
+        "Arafat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Gathering on Arafat during Hajj is made on:",
+      "options": [
+        "8th Zil-Hajj",
+        "9th Zil-Hajj",
+        "10th Zil-Hajj",
+        "12th Zil-Hajj"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qurbani (Sacrifice) is made during Hajj at:",
+      "options": [
+        "Arafat",
+        "Mina",
+        "Muzdalifa",
+        "Makkah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "On which date is throwing of stones performed on Jamarat?",
+      "options": [
+        "10th Zil-Hajj",
+        "11th Zil-Hajj",
+        "12th Zil-Hajj",
+        "13th Zil-Hajj"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many stones are thrown at the Jamarat in Hajj ritual?",
+      "options": [
+        "5 Stones",
+        "6 Stones",
+        "7 Stones",
+        "8 Stones"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is meant by Tawaf?",
+      "options": [
+        "To circle around Kaaba",
+        "One attempt between Safa and Marwah",
+        "Stay at Arafat",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tawaf-e-Rukan is a component of Hajj. It is:",
+      "options": [
+        "Nafl",
+        "Farz",
+        "Wajib",
+        "Sunnat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Tawaf Al-Qudum is:",
+      "options": [
+        "Nafl",
+        "Farz",
+        "Wajib",
+        "Sunnat"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Tawaf-e-Wida is performed at the time of:",
+      "options": [
+        "Entering Makkah",
+        "Leaving Makkah",
+        "Entering Madina",
+        "Leaving Madina"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Tawaf-e-Wida is also known as:",
+      "options": [
+        "Farewell Tawaf",
+        "Welcome Tawaf",
+        "Obligatory Tawaf",
+        "Voluntary Tawaf"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tawaf Al-Qudum is known as:",
+      "options": [
+        "Farewell Tawaf",
+        "Welcome Tawaf",
+        "Obligatory Tawaf",
+        "Voluntary Tawaf"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Tawaf-e-Ifada is performed on:",
+      "options": [
+        "8th Zil-Hajj",
+        "9th Zil-Hajj",
+        "10th Zil-Hajj",
+        "11th Zil-Hajj"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The word 'Tawaf' comes from which root word?",
+      "options": [
+        "T-W-F",
+        "T-A-F",
+        "T-W-A",
+        "A-F-T"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many types of Tawaf are there?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In Hajj, traveling seven times between Mount Safa and Mount Marwah is called:",
+      "options": [
+        "Istilam",
+        "Sayee",
+        "Ramee",
+        "Tawaf"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Hajj, touching the Black Stone is called:",
+      "options": [
+        "Istilam",
+        "Sayee",
+        "Ramee",
+        "Tawaf"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In Hajj, stoning the Devil is called:",
+      "options": [
+        "Istilam",
+        "Sayee",
+        "Ramee",
+        "Tawaf"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The black stone (Hajr-e-Aswad) was originally:",
+      "options": [
+        "Black",
+        "White",
+        "Grey",
+        "Red"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hajr-e-Aswad is located in which corner of Kaaba?",
+      "options": [
+        "Eastern corner",
+        "Western corner",
+        "Northern corner",
+        "Southern corner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Black Stone (Hajr-e-Aswad) was placed by which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Ismail (A.S)",
+        "Hazrat Muhammad (PBUH)",
+        "Hazrat Adam (A.S)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who placed the Black Stone in its current position?",
+      "options": [
+        "Hazrat Ibrahim (A.S)",
+        "Hazrat Ismail (A.S)",
+        "Hazrat Muhammad (PBUH)",
+        "Hazrat Adam (A.S)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The place between the Black Stone and the Kaaba door is called:",
+      "options": [
+        "Al-Multazim",
+        "Hateem",
+        "Haram",
+        "Safa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The portion of the wall of Kaaba between its door and Hajr-e-Aswad is called:",
+      "options": [
+        "Al-Multazim",
+        "Hateem",
+        "Haram",
+        "Safa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The area between the Kaaba and the Black Stone is called:",
+      "options": [
+        "Al-Multazim",
+        "Hateem",
+        "Haram",
+        "Safa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is 'Hateem'?",
+      "options": [
+        "The wall of Kaaba",
+        "The area between Kaaba and Black Stone",
+        "The place of Ibrahim",
+        "The semi-circular wall adjoining Kaaba"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The station of Ibrahim (Maqam-e-Ibrahim) is located near:",
+      "options": [
+        "Kaaba door",
+        "Hajr-e-Aswad",
+        "Zamzam well",
+        "Mount Safa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Zamzam well is located in:",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Mina",
+        "Arafat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Zamzam was discovered by:",
+      "options": [
+        "Hazrat Ismail (A.S) and Hazrat Hajra (A.S)",
+        "Hazrat Ibrahim (A.S) and Hazrat Ismail (A.S)",
+        "Hazrat Muhammad (PBUH)",
+        "Hazrat Adam (A.S)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Zamzam means:",
+      "options": [
+        "To stop",
+        "To continue",
+        "To burst",
+        "To flow"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mount Safa and Mount Marwah are located in:",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Mina",
+        "Arafat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The distance between Safa and Marwah is approximately:",
+      "options": [
+        "350 meters",
+        "400 meters",
+        "450 meters",
+        "500 meters"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many rounds of Sa'y are performed between Safa and Marwah?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Sa'y between Safa and Marwah is performed in remembrance of:",
+      "options": [
+        "Hazrat Hajra (A.S) running for water",
+        "Hazrat Ismail (A.S) crying for water",
+        "Hazrat Ibrahim (A.S) building Kaaba",
+        "Prophet Muhammad (PBUH) conquering Makkah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the name of the place called 'Sacred Monument' in the Holy Quran?",
+      "options": [
+        "Mina",
+        "Arafat",
+        "Muzdalifa",
+        "Hateem"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Muzdalifa is called 'Mash'ar-ul-Haram' in the Quran. What does it mean?",
+      "options": [
+        "Sacred Monument",
+        "Sacred Valley",
+        "Sacred City",
+        "Sacred Mountain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The number of types of Hajj is:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A person who has an intention to offer only Umrah at Miqat is called:",
+      "options": [
+        "Qaran",
+        "Mufrid",
+        "Mutamta'e",
+        "None of them"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A person who has an intention to offer only Hajj at Miqat is called:",
+      "options": [
+        "Qaran",
+        "Mufrid",
+        "Mutamta'e",
+        "None of them"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A person who has an intention to offer Umrah and Hajj together at Miqat is called:",
+      "options": [
+        "Qaran",
+        "Mufrid",
+        "Mutamta'e",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Maqbool Hajj means:",
+      "options": [
+        "Which is accepted",
+        "Which is not accepted",
+        "Which is observed correctly",
+        "Which is performed with deficiencies"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mabroor Hajj means:",
+      "options": [
+        "Which is accepted",
+        "Which is not accepted",
+        "Which is observed correctly",
+        "Which is performed with deficiencies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does 'Hadi' mean in the context of Hajj?",
+      "options": [
+        "One kind of Hajj",
+        "Last pebble on throwing Iblees",
+        "Animal to be sacrificed",
+        "Last circle of Tawaf"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first meal in Jannah will be:",
+      "options": [
+        "Milk",
+        "Honey",
+        "Meat",
+        "Fish liver"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which Tawaf is known as 'Tawaf-ul-Umrah'?",
+      "options": [
+        "Tawaf performed during Umrah",
+        "Tawaf performed during Hajj",
+        "Tawaf performed at any time",
+        "Tawaf performed before Hajj"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tawaf Al-Nafl is:",
+      "options": [
+        "Voluntary Tawaf",
+        "Obligatory Tawaf",
+        "Sunnat Tawaf",
+        "Wajib Tawaf"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the literal meaning of 'Eid-ul-Fitr'?",
+      "options": [
+        "Festival of Sacrifice",
+        "Festival of Breaking Fast",
+        "Festival of Peace",
+        "Festival of Joy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the literal meaning of 'Eid-ul-Adha'?",
+      "options": [
+        "Festival of Sacrifice",
+        "Festival of Breaking Fast",
+        "Festival of Peace",
+        "Festival of Joy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Eid-ul-Adha is celebrated on which date?",
+      "options": [
+        "1st Zil-Hajj",
+        "10th Zil-Hajj",
+        "1st Shawwal",
+        "10th Muharram"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Eid-ul-Fitr is celebrated on which date?",
+      "options": [
+        "1st Zil-Hajj",
+        "10th Zil-Hajj",
+        "1st Shawwal",
+        "10th Muharram"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which prayer is not obligatory for women?",
+      "options": [
+        "Maghrib prayer",
+        "Isha prayer",
+        "Jumu'ah prayer",
+        "Fajr prayer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Jumu'ah prayer is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Mustahab"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the minimum number of people required for Jumu'ah prayer?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the minimum number of people required for Namaz-e-Ba-Jamaat?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the maximum number of people required for Namaz-e-Ba-Jamaat?",
+      "options": [
+        "No maximum",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the reward of praying in congregation (Jamaat)?",
+      "options": [
+        "17 times more",
+        "25 times more",
+        "27 times more",
+        "30 times more"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The person who leads the prayer is called:",
+      "options": [
+        "Muazzin",
+        "Imam",
+        "Khatib",
+        "Muqtadi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The person who follows the Imam in prayer is called:",
+      "options": [
+        "Muazzin",
+        "Imam",
+        "Khatib",
+        "Muqtadi"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The person who calls the Azaan is called:",
+      "options": [
+        "Muazzin",
+        "Imam",
+        "Khatib",
+        "Muqtadi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many Takbeers are recited by Muazzin in Azaan?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "9"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Takbeers are recited in Namaz-e-Janaza?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many Sajdahs are in Namaz-e-Janaza?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "0"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How many Rak'ahs are in Fajr prayer?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many Rak'ahs are in Zuhr prayer?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Rak'ahs are in Asr prayer?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Rak'ahs are in Maghrib prayer?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Rak'ahs are in Isha prayer?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The total number of Rak'ahs in a day (including Sunnah) is:",
+      "options": [
+        "37",
+        "42",
+        "47",
+        "52"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The total number of Rak'ahs of Fard in a day is:",
+      "options": [
+        "12",
+        "15",
+        "17",
+        "20"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Salah (prayer) was made obligatory during:",
+      "options": [
+        "Miraj",
+        "Hijrah",
+        "Badr",
+        "Uhud"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Qibla was changed from Bait-ul-Maqdas to Kaaba in:",
+      "options": [
+        "1st Hijri",
+        "2nd Hijri",
+        "3rd Hijri",
+        "4th Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Masjid-e-Qiblatain is located in:",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Taif",
+        "Jerusalem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Masjid-e-Qiblatain is famous because:",
+      "options": [
+        "Prophet was born there",
+        "Qibla was changed there",
+        "It has two Qiblas",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Masjid-e-Quba was built by Prophet (PBUH) in:",
+      "options": [
+        "1st Hijri",
+        "2nd Hijri",
+        "3rd Hijri",
+        "4th Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Masjid-e-Quba was the first mosque built in:",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Taif",
+        "Jerusalem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first mosque on the surface of Earth is:",
+      "options": [
+        "Masjid-ul-Haram",
+        "Masjid-e-Nabavi",
+        "Masjid-e-Aqsa",
+        "Masjid-e-Quba"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The second mosque on the surface of Earth is:",
+      "options": [
+        "Masjid-ul-Haram",
+        "Masjid-e-Nabavi",
+        "Masjid-e-Aqsa",
+        "Masjid-e-Quba"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Masjid-e-Nabavi was built in:",
+      "options": [
+        "1st Hijri",
+        "2nd Hijri",
+        "3rd Hijri",
+        "4th Hijri"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Masjid-e-Nabavi is located in:",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Taif",
+        "Jerusalem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Masjid-ul-Haram is located in:",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Taif",
+        "Jerusalem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Masjid-e-Aqsa is located in:",
+      "options": [
+        "Makkah",
+        "Madina",
+        "Taif",
+        "Jerusalem"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The first Qibla of Muslims was:",
+      "options": [
+        "Kaaba",
+        "Bait-ul-Maqdas",
+        "Madina",
+        "Makkah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The current Qibla of Muslims is:",
+      "options": [
+        "Kaaba",
+        "Bait-ul-Maqdas",
+        "Madina",
+        "Makkah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The height of Kaaba is approximately:",
+      "options": [
+        "10 meters",
+        "12 meters",
+        "14 meters",
+        "16 meters"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The length of Kaaba is approximately:",
+      "options": [
+        "10 meters",
+        "12 meters",
+        "14 meters",
+        "16 meters"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The width of Kaaba is approximately:",
+      "options": [
+        "10 meters",
+        "11 meters",
+        "12 meters",
+        "13 meters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many doors does Kaaba have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many corners does Kaaba have?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Kiswa (covering of Kaaba) is replaced every year on:",
+      "options": [
+        "1st Muharram",
+        "10th Muharram",
+        "1st Ramadan",
+        "10th Zil-Hajj"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Kiswa (covering of Kaaba) is made in which country?",
+      "options": [
+        "Saudi Arabia",
+        "Egypt",
+        "Pakistan",
+        "Turkey"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The original color of the Kiswa was:",
+      "options": [
+        "Black",
+        "White",
+        "Green",
+        "Red"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The color of the Kiswa of Kaaba currently is:",
+      "options": [
+        "Black",
+        "White",
+        "Green",
+        "Red"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The number of pillars inside Kaaba is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1
+    }
+  ]
+}

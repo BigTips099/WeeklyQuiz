@@ -1,0 +1,1046 @@
+{
+  "category": "Armed Forces & Defense",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "When was Pakistan Army established?",
+      "options": [
+        "14th August 1947",
+        "15th August 1947",
+        "30th June 1947",
+        "1st July 1947"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first Commander-in-Chief of Pakistan Army?",
+      "options": [
+        "G.M. Ayub Khan",
+        "Gen. George Murphy",
+        "Gen. Sadique Chaudhry",
+        "Gen. Frank Meservy"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who was the first Muslim C-in-C of Pakistan Army?",
+      "options": [
+        "Admiral Muhammad Siddiq",
+        "Field Marshal Muhammad Ayub Khan",
+        "General Muhammad Zia-ul-Haq",
+        "General Tikka Khan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first Chief of Staff of Pakistan Army?",
+      "options": [
+        "General Tikka Khan",
+        "General Ziaul Haq",
+        "General Sharif",
+        "General Ayub Khan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who was the first C-in-C of Pakistan Navy?",
+      "options": [
+        "Gefford James",
+        "R.L Archy",
+        "Frank Meseri",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first Muslim C-in-C of Pakistan Navy?",
+      "options": [
+        "Admiral Mohammad Siddique",
+        "Admiral Shahid Kareem",
+        "Admiral Karamat Rahman",
+        "Admiral Tariq"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Paery Cane was the first C-in-C of?",
+      "options": [
+        "Pakistan Air Force",
+        "Armed Forces",
+        "Navy",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first Muslim C-in-C of Air Force?",
+      "options": [
+        "Air Marshal Asgher Khan",
+        "Air Marshal Zafar Chahdhry",
+        "Air Marshal Anwar Khan",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Zafar Ahmed Chaukhrry was the first Chief of Air Staff of?",
+      "options": [
+        "Pak Army",
+        "Air Force",
+        "Navy",
+        "None of them"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first Chairman Joint Chiefs of Staff Committee?",
+      "options": [
+        "General Muhammad Shariff",
+        "General Rahimuddin Khan",
+        "Admiral Mohammad Sharif",
+        "General Iqbal Khan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the 6th Chairman Joint Chiefs of Staff Committee?",
+      "options": [
+        "General Muhammad Sawar Khan",
+        "Air Marshal Farooq Feroz Khan",
+        "General Shamim Alam Khan",
+        "None of them"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Current Chief of Army Staff (COAS), Pakistan?",
+      "options": [
+        "Gen Raheel Sharif",
+        "Gen Ashfaq Parvaz Kayani",
+        "Gen Qamar Javed Bajwa",
+        "Gen Zubair Hayat"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Current Chairman Joint Chiefs of Staff Committee (CJCSC)?",
+      "options": [
+        "General Rashad Mahmood",
+        "General Ashfaq Pervez Kayani",
+        "General Zubair Hayat",
+        "General Raheel Sharif"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Gen Qamar Javed Bajwa is Chief of Army Staff of Pakistan?",
+      "options": [
+        "13th",
+        "15th",
+        "16th",
+        "17th"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "General Zubair Hayat is the Chairman Joint Chiefs of Staff Committee of Pakistan?",
+      "options": [
+        "13th",
+        "15th",
+        "16th",
+        "17th"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "General Qamar Javed Bajwa took oath as Army Chief on?",
+      "options": [
+        "23 November 2016",
+        "25 November 2016",
+        "27 November 2016",
+        "29 November 2016"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Current Chief of Air Staff of Pakistan Air Force?",
+      "options": [
+        "Sohail Aman",
+        "Tahir Rafique Butt",
+        "Mujahid Anwar Khan",
+        "Rao Qamar Suleman"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Current Chief of the Naval Staff of Pakistan Navy?",
+      "options": [
+        "Vice Admiral Syed Arifullah Hussaini",
+        "Vice Admiral Waseem Akram",
+        "Vice Admiral Shah Sohail Masood",
+        "Vice Admiral Zafar Mahmood Abbasi"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How many Chief of Army Staff of Pakistan are selected from Baloch Regiment?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who has been appointed as Corps Commander Lahore?",
+      "options": [
+        "Lt Gen Amir Riaz",
+        "Lt Gen Asim Bajwa",
+        "Lt Gen Majid Ehsan",
+        "Lt Gen Arif Alam"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first and only COAS to give a briefing to upper house of Pakistan?",
+      "options": [
+        "Gen Qamar Javed Bajwa",
+        "Pervaiz Musharraf",
+        "Ayub Khan",
+        "Gen Raheel Sharif"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The highest official rank of Pakistan Army is?",
+      "options": [
+        "Lieutenant",
+        "Major General",
+        "General",
+        "Field Marshal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The highest official rank of Air Force is?",
+      "options": [
+        "Air Marshal",
+        "Supreme Marshal",
+        "Air Chief Marshal",
+        "Chief of Air Force"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The highest non-operational Military Award is?",
+      "options": [
+        "Tamgha-e-Basalat",
+        "Tamgha-e-Imtiaz",
+        "Tamgha-e-Khidmat",
+        "Sitara-e-Basalat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The highest civil award of Pakistan is?",
+      "options": [
+        "Nishan-e-Imtiaz",
+        "Nishan-e-Sadarat",
+        "Nishan-e-Hyder",
+        "Nishan-e-Pakistan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Nishan-e-Haider is the highest military award given for?",
+      "options": [
+        "Administrative services",
+        "Bravery in war",
+        "Long service",
+        "Intelligence services"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many Nishan-e-Haider have been awarded till now?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first recipient of Nishan-e-Haider?",
+      "options": [
+        "Major Raja Aziz Bhatti",
+        "Major Tufail",
+        "Lalik Jan",
+        "Muhammad Sarwar"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who was the hero of Pak India 1965 war?",
+      "options": [
+        "Major Raja Aziz Bhatti",
+        "Major Tufail",
+        "Lalik Jan",
+        "Mulla Faqir"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Defence Day is observed on?",
+      "options": [
+        "6th September",
+        "11th September",
+        "7th September",
+        "16th December"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan Air Force Day is celebrated on?",
+      "options": [
+        "21st February",
+        "8th March",
+        "21st March",
+        "7th September"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan's Youm-e-Takbeer is celebrated on?",
+      "options": [
+        "May 15",
+        "May 24",
+        "May 28",
+        "June 1"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan conducted nuclear tests on May 28, 1998 at?",
+      "options": [
+        "Kohe-e-Sufaid",
+        "Chaghi Hills",
+        "Toba Kakar",
+        "Raskoh"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan tested its nuclear device on?",
+      "options": [
+        "28th May 1998",
+        "26th May 1997",
+        "28th June 1999",
+        "27th July 1997"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The range of Haft-1 is?",
+      "options": [
+        "90 km",
+        "100 km",
+        "65 km",
+        "105 km"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The range of Haft-2 is?",
+      "options": [
+        "180 km",
+        "275 km",
+        "230 km",
+        "300 km"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The range of Haft-3 is?",
+      "options": [
+        "400 km",
+        "290 km",
+        "600 km",
+        "750 km"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The range of Haft-4 is?",
+      "options": [
+        "400 km",
+        "390 km",
+        "600 km",
+        "750 km"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The latest version of Haft-5 is?",
+      "options": [
+        "Ghauri-1",
+        "Hataf",
+        "Abdali",
+        "Shaheen-1"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The range of Ghauri-1 is?",
+      "options": [
+        "1200-1500 km",
+        "1200-1300 km",
+        "1500-2000 km",
+        "1500-1800 km"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Baktar Shikan missile system is?",
+      "options": [
+        "Air to surface",
+        "Anti aircraft",
+        "Anti tank guided",
+        "Anti tank"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan test fired its first submarine launched cruise missile Babur-III on 9 January 2017. Its range is?",
+      "options": [
+        "450 kilometers",
+        "550 kilometers",
+        "650 kilometers",
+        "700 kilometers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Name the Pakistan's surface-to-surface ballistic missile capable of delivering multiple warheads using MIRV technology?",
+      "options": [
+        "Shaheen-II",
+        "Ababeel",
+        "Ghauri",
+        "Babur"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The range of enhanced version of Babur cruise missile is?",
+      "options": [
+        "800 km",
+        "450 km",
+        "1500 km",
+        "700 km"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "KRL stands for?",
+      "options": [
+        "Khan Research Laboratories",
+        "Kahuta Research Laboratories",
+        "Karachi Research Laboratories",
+        "None of them"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "HIT stands for?",
+      "options": [
+        "Heavy Industries Taxila",
+        "Heavy Industries Tools",
+        "Heavy Industries Tax",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "GHQ stands for?",
+      "options": [
+        "General Head Quarters",
+        "General High Quarters",
+        "General High Quartermaster",
+        "None of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ISPR stands for?",
+      "options": [
+        "Inter Superior Personal Relations",
+        "Internal Services Public Relations",
+        "Inter Services Public Relations",
+        "Internal Superior Public Relations"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The headquarters of Air Force is located in?",
+      "options": [
+        "Islamabad",
+        "Rawalpindi",
+        "Peshawar",
+        "Karachi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Naval Headquarters is located in?",
+      "options": [
+        "Rawalpindi",
+        "Islamabad",
+        "Lahore",
+        "Karachi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan Naval Staff College is located in which city?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Multan",
+        "Rawalpindi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan Naval War College is located in which city?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Multan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan Command & Staff College is located in which city?",
+      "options": [
+        "Karachi",
+        "Quetta",
+        "Islamabad",
+        "Multan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "National Defence University is located in which city?",
+      "options": [
+        "Rawalpindi",
+        "Quetta",
+        "Islamabad",
+        "Multan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Army Medical College is located in which city?",
+      "options": [
+        "Rawalpindi",
+        "Quetta",
+        "Islamabad",
+        "Multan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Military College of Engineering is located in which city?",
+      "options": [
+        "Risalpur",
+        "Islamabad",
+        "Gujranwala",
+        "Sargodha"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Military College Jhelum is located in which city?",
+      "options": [
+        "Risalpur",
+        "Islamabad",
+        "Sarai Alam Gir",
+        "Sargodha"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The largest cantonment of Pakistan Army is located in?",
+      "options": [
+        "Jhelum",
+        "Kharian",
+        "Karachi",
+        "Multan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Identify the largest cantonment of Pakistan?",
+      "options": [
+        "Kharian Cantt",
+        "Quetta Cantt",
+        "Okara Cantt",
+        "Karachi Cantt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan Steel Mills is located in?",
+      "options": [
+        "Lahore",
+        "Gwadar",
+        "Karachi",
+        "None of them"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The largest railway workshop Mughalpura is situated in?",
+      "options": [
+        "Gujranwala",
+        "Multan",
+        "Karachi",
+        "Lahore"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan Army launched 'Operation Radd-ul-Fasaad' on?",
+      "options": [
+        "13th Jan 2017",
+        "2nd Feb 2017",
+        "15th Feb 2017",
+        "22nd Feb 2017"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Special task force established in December 2016 by Pakistan Navy to safeguard CPEC and Gwadar port is called?",
+      "options": [
+        "Task Force 21",
+        "Task Force 44",
+        "Task Force 88",
+        "Task Force 2"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is known as Father of Pakistan Air Force?",
+      "options": [
+        "Air Chief Marshal Mosa Khan",
+        "Air Chief Marshal M. Asghar Khan",
+        "Air Chief Marshal Sohail Aman",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the hero of Pak India 1965 war?",
+      "options": [
+        "Major Raja Aziz Bhatti",
+        "Major Tufail",
+        "Lalik Jan",
+        "Mulla Faqir"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Kargil incident happened in?",
+      "options": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When was the Siachen conflict started between Pakistan and India?",
+      "options": [
+        "1982",
+        "1983",
+        "1984",
+        "1985"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pakistan Air Force is known as?",
+      "options": [
+        "PAF",
+        "PKF",
+        "PSF",
+        "PNF"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan Navy is known as?",
+      "options": [
+        "PN",
+        "PKN",
+        "PSN",
+        "NONE"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The rank of General in Pakistan Army is equivalent to which rank in Navy?",
+      "options": [
+        "Admiral",
+        "Vice Admiral",
+        "Rear Admiral",
+        "Commodore"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The rank of General in Pakistan Army is equivalent to which rank in Air Force?",
+      "options": [
+        "Air Chief Marshal",
+        "Air Marshal",
+        "Air Vice Marshal",
+        "Air Commodore"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The range of Shaheen-II missile is approximately?",
+      "options": [
+        "1500 km",
+        "2000 km",
+        "2500 km",
+        "3000 km"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The range of Shaheen-III missile is approximately?",
+      "options": [
+        "2000 km",
+        "2500 km",
+        "2750 km",
+        "3000 km"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Babur cruise missile is named after?",
+      "options": [
+        "Zaheer-ud-Din Babur",
+        "Babur Shah",
+        "Mughal Emperor Babur",
+        "All of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Ghauri missile is named after?",
+      "options": [
+        "Muhammad Ghori",
+        "Ghurid Dynasty",
+        "Both A & B",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Abdali missile is named after?",
+      "options": [
+        "Ahmad Shah Abdali",
+        "Durrani Empire",
+        "Both A & B",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan's first nuclear test was conducted in which mountain range?",
+      "options": [
+        "Karakoram",
+        "Hindukush",
+        "Sulaiman",
+        "Chaghi Hills"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pakistan's nuclear program was started under which Prime Minister?",
+      "options": [
+        "Liaquat Ali Khan",
+        "Zulfiqar Ali Bhutto",
+        "Muhammad Khan Junejo",
+        "Nawaz Sharif"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The nuclear program of Pakistan was accelerated under?",
+      "options": [
+        "Ayub Khan",
+        "Yahya Khan",
+        "Zulfiqar Ali Bhutto",
+        "Zia-ul-Haq"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which Pakistani scientist is known as father of Pakistan's nuclear bomb?",
+      "options": [
+        "Dr. Abdus Salam",
+        "Dr. Abdul Qadeer Khan",
+        "Dr. Samar Mubarakmand",
+        "Dr. Ishfaq Ahmad"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dr. Abdul Qadeer Khan did his Ph.D. from Leaven University of?",
+      "options": [
+        "Germany",
+        "Holland",
+        "Belgium",
+        "Austria"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When did Pakistan join the nuclear club?",
+      "options": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which Pakistani scientist won Nobel Prize for Physics?",
+      "options": [
+        "Dr. Abdus Salam",
+        "Dr. Abdul Qadeer Khan",
+        "Dr. Samar Mubarakmand",
+        "Dr. Ishfaq Ahmad"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many Pakistanis have won the Nobel Prize for Physics?",
+      "options": [
+        "1 (Dr Abdus Salam in 1979)",
+        "2",
+        "3",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dr. Abdus Salam was born in which city of Pakistan?",
+      "options": [
+        "Lahore",
+        "Multan",
+        "Jhang",
+        "Khushab"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the meaning of Zarb-e-Azb?",
+      "options": [
+        "Long Strike & Swift",
+        "Swift & Sharp Strike",
+        "Fast Strike & Sharp",
+        "Sharp & Cutting Strike"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Operation Zarb-e-Azb was launched against terrorists in?",
+      "options": [
+        "Swat",
+        "Waziristan",
+        "FATA",
+        "North Waziristan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Operation Zarb-e-Azb was launched in which year?",
+      "options": [
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Operation Rah-e-Rast was launched in?",
+      "options": [
+        "Swat",
+        "Waziristan",
+        "FATA",
+        "North Waziristan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Operation Rah-e-Rast was launched in which year?",
+      "options": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Pakistan Army fought the war of 1971 with India on which front?",
+      "options": [
+        "Eastern Front only",
+        "Western Front only",
+        "Both Eastern and Western Fronts",
+        "Only Kashmir Front"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Pakistan Navy fought which war with India?",
+      "options": [
+        "1965 War",
+        "1971 War",
+        "1999 Kargil War",
+        "Both 1965 and 1971"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Pakistan Air Force fought which war with India?",
+      "options": [
+        "1965 War",
+        "1971 War",
+        "1999 Kargil War",
+        "Both 1965 and 1971"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who was the first woman fighter pilot of Pakistan Air Force?",
+      "options": [
+        "Marium Mukhtiar",
+        "Ayesha Farooq",
+        "Saba Khan",
+        "Nadia Khan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Flying Officer Marium Mukhtiar died after a PAF FT-7PG aircraft crashed near?",
+      "options": [
+        "Sargodha",
+        "DG Khan",
+        "Kundian",
+        "DI Khan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many headsmen (Jalad) are in Pakistan's jail?",
+      "options": [
+        "0",
+        "3",
+        "5",
+        "7"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Supreme commander of Pakistan Armed Forces is?",
+      "options": [
+        "Army Chief",
+        "Prime Minister",
+        "President",
+        "Governor"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is the Civilian Commander-In-Chief of Pakistan Armed forces?",
+      "options": [
+        "Chief Justice of Pakistan",
+        "President of Pakistan",
+        "Prime Minister of Pakistan",
+        "Speaker of National Assembly"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pakistan Army's headquarter GHQ is located in?",
+      "options": [
+        "Islamabad",
+        "Rawalpindi",
+        "Lahore",
+        "Karachi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The Pakistan Air Force headquarter is located in?",
+      "options": [
+        "Islamabad",
+        "Rawalpindi",
+        "Lahore",
+        "Karachi"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Pakistan Navy headquarter is located in?",
+      "options": [
+        "Rawalpindi",
+        "Islamabad",
+        "Lahore",
+        "Karachi"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the hero of Pak India 1965 war?",
+      "options": [
+        "Major Raja Aziz Bhatti",
+        "Major Tufail",
+        "Lalik Jan",
+        "Mulla Faqir"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pakistan's nuclear program was started under which Prime Minister?",
+      "options": [
+        "Liaquat Ali Khan",
+        "Zulfiqar Ali Bhutto",
+        "Muhammad Khan Junejo",
+        "Nawaz Sharif"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who was the first Muslim C-in-C of Pakistan Army?",
+      "options": [
+        "Admiral Muhammad Siddiq",
+        "Field Marshal Muhammad Ayub Khan",
+        "General Muhammad Zia-ul-Haq",
+        "General Tikka Khan"
+      ],
+      "answer": 1
+    }
+  ]
+}

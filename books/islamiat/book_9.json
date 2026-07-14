@@ -1,0 +1,1056 @@
+{
+  "category": "Ramadan & Fasting",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "In which Hijri year was fasting (Sawm) made obligatory?",
+      "options": [
+        "1st Hijri",
+        "2nd Hijri",
+        "3rd Hijri",
+        "4th Hijri"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The month of Ramadan is the ______ month of the Islamic calendar?",
+      "options": [
+        "7th",
+        "8th",
+        "9th",
+        "10th"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the literal meaning of 'Sawm'?",
+      "options": [
+        "To stop",
+        "To eat",
+        "To pray",
+        "To travel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Fasting is the ______ pillar of Islam?",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the Arabic word for fasting?",
+      "options": [
+        "Sawm",
+        "Zakat",
+        "Salah",
+        "Hajj"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Fasting in Ramadan is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The verse about fasting is in which Surah?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The specific verse about fasting in Surah Al-Baqarah is verse number:",
+      "options": [
+        "180",
+        "182",
+        "183",
+        "185"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The month of Ramadan is the month in which the Quran was:",
+      "options": [
+        "Revealed",
+        "Written",
+        "Compiled",
+        "Printed"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Quran was revealed in which month?",
+      "options": [
+        "Muharram",
+        "Rajab",
+        "Shaban",
+        "Ramadan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The night of Laylat-ul-Qadr is better than:",
+      "options": [
+        "1000 days",
+        "1000 months",
+        "1000 years",
+        "1000 weeks"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Laylat-ul-Qadr is mentioned in which Surah?",
+      "options": [
+        "Surah Al-Qadr",
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Maidah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Surah Al-Qadr has how many verses?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The recommended nights to seek Laylat-ul-Qadr are the last:",
+      "options": [
+        "5 nights",
+        "7 nights",
+        "10 nights",
+        "15 nights"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Laylat-ul-Qadr is most likely on which of these nights?",
+      "options": [
+        "21st Ramadan",
+        "23rd Ramadan",
+        "25th Ramadan",
+        "27th Ramadan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the meaning of 'Qadr'?",
+      "options": [
+        "Power",
+        "Honor",
+        "Destiny",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The first Ashra of Ramadan is called:",
+      "options": [
+        "Ashra-e-Rehmat (Days of Mercy)",
+        "Ashra-e-Maghfirat (Days of Forgiveness)",
+        "Ashra-e-Najat (Days of Salvation)",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The second Ashra of Ramadan is called:",
+      "options": [
+        "Ashra-e-Rehmat",
+        "Ashra-e-Maghfirat",
+        "Ashra-e-Najat",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The third Ashra of Ramadan is called:",
+      "options": [
+        "Ashra-e-Rehmat",
+        "Ashra-e-Maghfirat",
+        "Ashra-e-Najat-e-Naar-e-Jahannum",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In Ramadan, Nafl prayer is equal to:",
+      "options": [
+        "Sunnat prayer",
+        "Farz prayer",
+        "Wajib prayer",
+        "Nafl prayer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Ramadan, Farz prayer is equal to:",
+      "options": [
+        "70 Sunnat prayers",
+        "70 Farz prayers",
+        "70 Nafl prayers",
+        "70 Wajib prayers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The total number of Rak'ahs in Tarawih prayer is:",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "20"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the meaning of 'Taraweeh'?",
+      "options": [
+        "To stand",
+        "To rest",
+        "To sit",
+        "To pray"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Tarawih prayer is prayed in the month of:",
+      "options": [
+        "Muharram",
+        "Rajab",
+        "Shaban",
+        "Ramadan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The total number of Rak'ahs in Tarawih prayer is:",
+      "options": [
+        "8 Rak'ahs",
+        "12 Rak'ahs",
+        "16 Rak'ahs",
+        "20 Rak'ahs"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Tarawih prayer is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat-e-Muakkadah",
+        "Nafl"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The complete Quran is recited in Tarawih prayer in most mosques:",
+      "options": [
+        "In the first 10 days",
+        "In the last 10 days",
+        "Throughout the month",
+        "In the middle 10 days"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The first day of fasting in Ramadan is determined by:",
+      "options": [
+        "The sighting of the moon",
+        "The date of the month",
+        "The day of the week",
+        "The season"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The end of Ramadan is celebrated as:",
+      "options": [
+        "Eid-ul-Fitr",
+        "Eid-ul-Adha",
+        "Shab-e-Baraat",
+        "Shab-e-Miraj"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Eid-ul-Fitr is celebrated on which date?",
+      "options": [
+        "1st Muharram",
+        "1st Shawwal",
+        "10th Zil-Hajj",
+        "27th Rajab"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The prayer of Eid-ul-Fitr is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The number of Takbeers in Eid-ul-Fitr prayer is:",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sadaqat-ul-Fitr is also known as:",
+      "options": [
+        "Zakat-ul-Fitr",
+        "Fitrana",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Zakat-ul-Fitr is obligatory on:",
+      "options": [
+        "Every Muslim",
+        "Every Muslim who can afford it",
+        "Only the rich",
+        "Only the poor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Zakat-ul-Fitr is paid before:",
+      "options": [
+        "The start of Ramadan",
+        "The middle of Ramadan",
+        "The Eid-ul-Fitr prayer",
+        "The end of Ramadan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the Sunnah method of breaking the fast (Iftar)?",
+      "options": [
+        "With water",
+        "With dates",
+        "With milk",
+        "With fruits"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The pre-dawn meal before fasting is called:",
+      "options": [
+        "Iftar",
+        "Suhoor",
+        "Dinner",
+        "Breakfast"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Suhoor is also known as:",
+      "options": [
+        "Iftar",
+        "Suhoor",
+        "Sehri",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The meal to break the fast is called:",
+      "options": [
+        "Iftar",
+        "Suhoor",
+        "Sehri",
+        "Dinner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The du'a to break the fast is recited at:",
+      "options": [
+        "Suhoor",
+        "Iftar",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the reward of fasting?",
+      "options": [
+        "Only Allah knows",
+        "It is multiplied 10 times",
+        "It is multiplied 70 times",
+        "All sins are forgiven"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The atonement (Kaffarah) for breaking a fast without valid reason is:",
+      "options": [
+        "To feed 50 people",
+        "To feed 60 people",
+        "To feed 70 people",
+        "To feed 80 people"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Kaffarah'?",
+      "options": [
+        "Atonement",
+        "Punishment",
+        "Compensation",
+        "Reward"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Qada' in relation to fasting?",
+      "options": [
+        "Making up for missed fasts",
+        "Compensation",
+        "Atonement",
+        "Reward"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If someone intentionally breaks a fast without valid reason, they must:",
+      "options": [
+        "Only make up the fast",
+        "Pay Kaffarah",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fasting person should avoid:",
+      "options": [
+        "Eating and drinking",
+        "Sexual intercourse",
+        "All of the above",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fasting person should also avoid:",
+      "options": [
+        "Lying",
+        "Backbiting",
+        "Gossip",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the purpose of fasting?",
+      "options": [
+        "To develop Taqwa (God-consciousness)",
+        "To test patience",
+        "To practice self-discipline",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which verse of the Quran mentions the purpose of fasting as Taqwa?",
+      "options": [
+        "Surah Al-Baqarah verse 183",
+        "Surah Al-Baqarah verse 184",
+        "Surah Al-Baqarah verse 185",
+        "Surah Al-Baqarah verse 186"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Fasting is a shield from:",
+      "options": [
+        "Hunger",
+        "Thirst",
+        "Sins",
+        "Poverty"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The month of Ramadan is the month of:",
+      "options": [
+        "Forgiveness",
+        "Mercy",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The gates of Paradise are opened in:",
+      "options": [
+        "Muharram",
+        "Rajab",
+        "Shaban",
+        "Ramadan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The gates of Hell are closed in:",
+      "options": [
+        "Muharram",
+        "Rajab",
+        "Shaban",
+        "Ramadan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Shaytan is chained in:",
+      "options": [
+        "Muharram",
+        "Rajab",
+        "Shaban",
+        "Ramadan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Fasting is prescribed for Muslims for:",
+      "options": [
+        "1 month",
+        "2 months",
+        "3 months",
+        "4 months"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Fasting in Ramadan is:",
+      "options": [
+        "Farz-e-Ain (obligatory on every Muslim)",
+        "Farz-e-Kifayah (obligatory on some)",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is exempt from fasting in Ramadan?",
+      "options": [
+        "The sick",
+        "The elderly",
+        "Pregnant women",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Women who are menstruating during Ramadan should:",
+      "options": [
+        "Still fast",
+        "Not fast and make up later",
+        "Not fast and pay Kaffarah",
+        "Not fast and not make up"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pregnant women who are concerned for their child during Ramadan should:",
+      "options": [
+        "Still fast",
+        "Not fast and make up later",
+        "Not fast and pay Kaffarah",
+        "Not fast and not make up"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The best act in Ramadan is:",
+      "options": [
+        "Fasting",
+        "Praying",
+        "Giving charity",
+        "Reading Quran"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The recitation of the Quran in Ramadan is:",
+      "options": [
+        "Recommended",
+        "Obligatory",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "I'tikaf (seclusion) in the mosque during the last 10 days of Ramadan is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat-e-Muakkadah",
+        "Nafl"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The purpose of I'tikaf is:",
+      "options": [
+        "To worship Allah",
+        "To avoid distractions",
+        "To seek Laylat-ul-Qadr",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The word 'Ramadan' comes from the root word:",
+      "options": [
+        "R-M-D",
+        "R-M-N",
+        "R-M-H",
+        "R-M-L"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of the root word 'R-M-D'?",
+      "options": [
+        "Heat",
+        "Fasting",
+        "Mercy",
+        "Forgiveness"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first revelation of the Quran occurred in Ramadan on:",
+      "options": [
+        "21st Ramadan",
+        "23rd Ramadan",
+        "25th Ramadan",
+        "27th Ramadan"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Prophet (PBUH) used to fast extra in which month other than Ramadan?",
+      "options": [
+        "Muharram",
+        "Rajab",
+        "Shaban",
+        "Shawwal"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The Prophet (PBUH) used to fast on Mondays and:",
+      "options": [
+        "Tuesdays",
+        "Wednesdays",
+        "Thursdays",
+        "Fridays"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fasting of six days of Shawwal is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The reward for fasting six days of Shawwal is like:",
+      "options": [
+        "Fasting one year",
+        "Fasting two years",
+        "Fasting three years",
+        "Fasting six years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The fasting of the Day of Arafah (9th Zil-Hajj) is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fasting of the Day of Arafah expiates the sins of:",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "4 years"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The fasting of the Day of Ashura (10th Muharram) is:",
+      "options": [
+        "Farz",
+        "Wajib",
+        "Sunnat",
+        "Nafl"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fasting of the Day of Ashura expiates the sins of:",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "4 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many days are prohibited for fasting throughout the year?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Fasting is prohibited on which days?",
+      "options": [
+        "Eid-ul-Fitr",
+        "Eid-ul-Adha",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Fasting is also prohibited on which days?",
+      "options": [
+        "Days of Tashreeq (11-13 Zil-Hajj)",
+        "Day of Eid",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The days of Tashreeq are:",
+      "options": [
+        "8, 9, 10 Zil-Hajj",
+        "9, 10, 11 Zil-Hajj",
+        "10, 11, 12 Zil-Hajj",
+        "11, 12, 13 Zil-Hajj"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The reward of fasting in Ramadan is:",
+      "options": [
+        "All sins are forgiven",
+        "All past sins are forgiven",
+        "All present sins are forgiven",
+        "All future sins are forgiven"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The person who fasts with faith and seeking reward will have their:",
+      "options": [
+        "All past sins forgiven",
+        "All future sins forgiven",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the maximum number of days for I'tikaf?",
+      "options": [
+        "5 days",
+        "7 days",
+        "10 days",
+        "No maximum"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "I'tikaf is performed in:",
+      "options": [
+        "The first 10 days of Ramadan",
+        "The middle 10 days of Ramadan",
+        "The last 10 days of Ramadan",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The minimum duration of I'tikaf is:",
+      "options": [
+        "1 hour",
+        "1 day",
+        "3 days",
+        "1 week"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The person in I'tikaf should:",
+      "options": [
+        "Stay in the mosque",
+        "Avoid worldly affairs",
+        "Worship Allah",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The woman in I'tikaf should stay in:",
+      "options": [
+        "The mosque",
+        "Her home",
+        "The prayer place in her home",
+        "Anywhere she wants"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The Prophet (PBUH) would increase his worship in the last:",
+      "options": [
+        "5 days of Ramadan",
+        "7 days of Ramadan",
+        "10 days of Ramadan",
+        "15 days of Ramadan"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The word 'Suhoor' means:",
+      "options": [
+        "Morning",
+        "Pre-dawn meal",
+        "Evening meal",
+        "Dinner"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The word 'Iftar' means:",
+      "options": [
+        "Breaking the fast",
+        "Pre-dawn meal",
+        "Morning meal",
+        "Evening meal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The reward for Suhoor is:",
+      "options": [
+        "It is blessed",
+        "It is like a Sunnah",
+        "It is obligatory",
+        "It is optional"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The time for Suhoor is:",
+      "options": [
+        "After midnight",
+        "Before Fajr",
+        "After Fajr",
+        "Before Maghrib"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The time for Iftar is:",
+      "options": [
+        "At sunrise",
+        "At noon",
+        "At sunset",
+        "At midnight"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The fasting person should make intention to fast:",
+      "options": [
+        "Before Suhoor",
+        "At Iftar",
+        "Any time",
+        "At night"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The intention to fast is made:",
+      "options": [
+        "Loudly",
+        "Silently in the heart",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The condition of fasting is:",
+      "options": [
+        "Sanity",
+        "Puberty",
+        "Health",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Fasting is not accepted if someone:",
+      "options": [
+        "Eats intentionally",
+        "Drinks intentionally",
+        "Has sexual intercourse",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "If someone eats by mistake during fasting, their fast is:",
+      "options": [
+        "Broken",
+        "Not broken",
+        "Invalid",
+        "Needs Kaffarah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If someone vomits intentionally during fasting, their fast is:",
+      "options": [
+        "Broken",
+        "Not broken",
+        "Valid",
+        "Needs Kaffarah"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If someone has a wet dream during fasting, their fast is:",
+      "options": [
+        "Broken",
+        "Not broken",
+        "Invalid",
+        "Needs Kaffarah"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The person who is fasting should avoid:",
+      "options": [
+        "Eating",
+        "Drinking",
+        "Sexual intercourse",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The person who is fasting should also avoid:",
+      "options": [
+        "Swearing",
+        "Arguing",
+        "Fighting",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The reward for fasting on a journey is:",
+      "options": [
+        "Same as normal",
+        "Less than normal",
+        "More than normal",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The traveler can break their fast during Ramadan if:",
+      "options": [
+        "They want to",
+        "They are tired",
+        "They are hungry",
+        "They are thirsty"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The sick person can break their fast during Ramadan if:",
+      "options": [
+        "They want to",
+        "They are in pain",
+        "It worsens their health",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The children who have not reached puberty are:",
+      "options": [
+        "Required to fast",
+        "Not required to fast",
+        "Punished if they don't fast",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The fasting of children is encouraged:",
+      "options": [
+        "After 7 years",
+        "After 10 years",
+        "After 12 years",
+        "After 15 years"
+      ],
+      "answer": 0
+    }
+  ]
+}
