@@ -1,0 +1,1924 @@
+{
+  "questions": [
+    {
+      "question": "Developmental psychology primarily studies:",
+      "options": [
+        "Changes across the lifespan",
+        "Abnormal behavior",
+        "Cognitive processes only",
+        "Social interactions only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is known as the father of developmental psychology?",
+      "options": [
+        "Jean Piaget",
+        "Sigmund Freud",
+        "Erik Erikson",
+        "Lev Vygotsky"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Piaget's theory is primarily about:",
+      "options": [
+        "Cognitive development",
+        "Psychosexual development",
+        "Psychosocial development",
+        "Moral development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The sensorimotor stage lasts from:",
+      "options": [
+        "Birth to 2 years",
+        "2 to 7 years",
+        "7 to 11 years",
+        "11 years and up"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Object permanence develops in which stage?",
+      "options": [
+        "Sensorimotor",
+        "Preoperational",
+        "Concrete operational",
+        "Formal operational"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The preoperational stage lasts from:",
+      "options": [
+        "2 to 7 years",
+        "Birth to 2 years",
+        "7 to 11 years",
+        "11 years and up"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Egocentrism is characteristic of which stage?",
+      "options": [
+        "Preoperational",
+        "Sensorimotor",
+        "Concrete operational",
+        "Formal operational"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The concrete operational stage lasts from:",
+      "options": [
+        "7 to 11 years",
+        "Birth to 2 years",
+        "2 to 7 years",
+        "11 years and up"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Conservation develops in which stage?",
+      "options": [
+        "Concrete operational",
+        "Sensorimotor",
+        "Preoperational",
+        "Formal operational"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The formal operational stage begins at:",
+      "options": [
+        "11 years and up",
+        "Birth to 2 years",
+        "2 to 7 years",
+        "7 to 11 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Abstract thinking develops in which stage?",
+      "options": [
+        "Formal operational",
+        "Concrete operational",
+        "Preoperational",
+        "Sensorimotor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Assimilation in Piaget's theory means:",
+      "options": [
+        "Fitting new info into existing schemas",
+        "Changing schemas to fit new info",
+        "Forgetting information",
+        "Retrieving information"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Accommodation in Piaget's theory means:",
+      "options": [
+        "Changing schemas to fit new info",
+        "Fitting new info into existing schemas",
+        "Forgetting information",
+        "Retrieving information"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Equilibration in Piaget's theory is:",
+      "options": [
+        "Balancing assimilation and accommodation",
+        "Balancing memory and forgetting",
+        "Balancing attention and distraction",
+        "Balancing learning and forgetting"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vygotsky's theory emphasizes the role of:",
+      "options": [
+        "Social interaction",
+        "Individual discovery",
+        "Biological maturation",
+        "Genetic inheritance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Zone of Proximal Development (ZPD) is:",
+      "options": [
+        "What a learner can do with help",
+        "What a learner can do alone",
+        "What a learner cannot do",
+        "What a learner already knows"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Scaffolding in Vygotsky's theory is:",
+      "options": [
+        "Support provided to help learners",
+        "Removing all support",
+        "Teaching without guidance",
+        "Ignoring learners"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Private speech is a concept from:",
+      "options": [
+        "Vygotsky's theory",
+        "Piaget's theory",
+        "Skinner's theory",
+        "Freud's theory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Erikson's theory focuses on:",
+      "options": [
+        "Psychosocial development",
+        "Psychosexual development",
+        "Cognitive development",
+        "Moral development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Trust vs. Mistrust occurs during:",
+      "options": [
+        "Infancy (0-1 year)",
+        "Early childhood (1-3 years)",
+        "Preschool (3-6 years)",
+        "School age (6-12 years)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Autonomy vs. Shame/Doubt occurs during:",
+      "options": [
+        "Early childhood (1-3 years)",
+        "Infancy (0-1 year)",
+        "Preschool (3-6 years)",
+        "School age (6-12 years)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Initiative vs. Guilt occurs during:",
+      "options": [
+        "Preschool (3-6 years)",
+        "Infancy (0-1 year)",
+        "Early childhood (1-3 years)",
+        "School age (6-12 years)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Industry vs. Inferiority occurs during:",
+      "options": [
+        "School age (6-12 years)",
+        "Infancy (0-1 year)",
+        "Early childhood (1-3 years)",
+        "Preschool (3-6 years)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Identity vs. Role Confusion occurs during:",
+      "options": [
+        "Adolescence (12-18 years)",
+        "School age (6-12 years)",
+        "Young adulthood (18-40 years)",
+        "Middle adulthood (40-65 years)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Intimacy vs. Isolation occurs during:",
+      "options": [
+        "Young adulthood (18-40 years)",
+        "Adolescence (12-18 years)",
+        "Middle adulthood (40-65 years)",
+        "Late adulthood (65+ years)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Generativity vs. Stagnation occurs during:",
+      "options": [
+        "Middle adulthood (40-65 years)",
+        "Young adulthood (18-40 years)",
+        "Adolescence (12-18 years)",
+        "Late adulthood (65+ years)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Integrity vs. Despair occurs during:",
+      "options": [
+        "Late adulthood (65+ years)",
+        "Middle adulthood (40-65 years)",
+        "Young adulthood (18-40 years)",
+        "Adolescence (12-18 years)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Freud's theory focuses on:",
+      "options": [
+        "Psychosexual development",
+        "Psychosocial development",
+        "Cognitive development",
+        "Moral development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The oral stage occurs from:",
+      "options": [
+        "0-1 year",
+        "1-3 years",
+        "3-6 years",
+        "6-12 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The anal stage occurs from:",
+      "options": [
+        "1-3 years",
+        "0-1 year",
+        "3-6 years",
+        "6-12 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The phallic stage occurs from:",
+      "options": [
+        "3-6 years",
+        "0-1 year",
+        "1-3 years",
+        "6-12 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The latent stage occurs from:",
+      "options": [
+        "6-12 years",
+        "0-1 year",
+        "1-3 years",
+        "3-6 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The genital stage begins in:",
+      "options": [
+        "Adolescence and beyond",
+        "0-1 year",
+        "1-3 years",
+        "3-6 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Attachment theory was developed by:",
+      "options": [
+        "John Bowlby",
+        "Mary Ainsworth",
+        "Harry Harlow",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Secure attachment is characterized by:",
+      "options": [
+        "Distress when caregiver leaves, joy when returns",
+        "Indifference to caregiver",
+        "Anger when caregiver returns",
+        "Avoidance of caregiver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Insecure-avoidant attachment is characterized by:",
+      "options": [
+        "Indifference to caregiver",
+        "Distress when caregiver leaves",
+        "Anger when caregiver returns",
+        "Clinginess to caregiver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Insecure-ambivalent attachment is characterized by:",
+      "options": [
+        "Anger when caregiver returns",
+        "Indifference to caregiver",
+        "Avoidance of caregiver",
+        "Secure behavior"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Disorganized attachment is characterized by:",
+      "options": [
+        "Confused and contradictory behavior",
+        "Secure behavior",
+        "Avoidance behavior",
+        "Clingy behavior"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Strange Situation was developed by:",
+      "options": [
+        "Mary Ainsworth",
+        "John Bowlby",
+        "Harry Harlow",
+        "Erik Erikson"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Harlow's monkey experiments showed the importance of:",
+      "options": [
+        "Contact comfort",
+        "Food",
+        "Cognitive development",
+        "Social interaction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Kohlberg's theory is about:",
+      "options": [
+        "Moral development",
+        "Cognitive development",
+        "Psychosocial development",
+        "Psychosexual development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Kohlberg's theory has how many levels?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The preconventional level is based on:",
+      "options": [
+        "Punishment and reward",
+        "Social norms",
+        "Universal ethics",
+        "Law and order"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The conventional level is based on:",
+      "options": [
+        "Social norms and law",
+        "Punishment and reward",
+        "Universal ethics",
+        "Self-interest"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The postconventional level is based on:",
+      "options": [
+        "Universal ethical principles",
+        "Social norms",
+        "Punishment and reward",
+        "Law and order"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gilligan criticized Kohlberg for:",
+      "options": [
+        "Gender bias",
+        "Cultural bias",
+        "Age bias",
+        "Socioeconomic bias"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gilligan's theory emphasizes:",
+      "options": [
+        "Care orientation",
+        "Justice orientation",
+        "Law and order",
+        "Punishment orientation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The nature vs. nurture debate is about:",
+      "options": [
+        "Genes vs. environment",
+        "Cognition vs. emotion",
+        "Social vs. individual",
+        "Biology vs. psychology"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Continuity vs. discontinuity is about:",
+      "options": [
+        "Gradual vs. stage-like development",
+        "Nature vs. nurture",
+        "Stability vs. change",
+        "Universal vs. cultural"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Stability vs. change is about:",
+      "options": [
+        "Whether traits remain consistent",
+        "Whether development is gradual",
+        "Whether environment matters",
+        "Whether genetics matter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Universal vs. cultural development is about:",
+      "options": [
+        "Whether development is universal or culturally specific",
+        "Whether development is gradual",
+        "Whether development is genetic",
+        "Whether development is environmental"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prenatal development has how many stages?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The germinal stage occurs during:",
+      "options": [
+        "First 2 weeks",
+        "Weeks 3-8",
+        "Weeks 9-38",
+        "After birth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The embryonic stage occurs during:",
+      "options": [
+        "Weeks 3-8",
+        "First 2 weeks",
+        "Weeks 9-38",
+        "After birth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The fetal stage occurs during:",
+      "options": [
+        "Weeks 9-38",
+        "First 2 weeks",
+        "Weeks 3-8",
+        "After birth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Teratogens are substances that:",
+      "options": [
+        "Cause birth defects",
+        "Promote development",
+        "Enhance cognition",
+        "Improve health"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Fetal alcohol syndrome is caused by:",
+      "options": [
+        "Alcohol during pregnancy",
+        "Drug use during pregnancy",
+        "Smoking during pregnancy",
+        "Poor nutrition"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cephalocaudal principle means development:",
+      "options": [
+        "Proceeds head to tail",
+        "Proceeds center outward",
+        "Proceeds simple to complex",
+        "Proceeds general to specific"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The proximodistal principle means development:",
+      "options": [
+        "Proceeds center outward",
+        "Proceeds head to tail",
+        "Proceeds simple to complex",
+        "Proceeds general to specific"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Myelination is the process of:",
+      "options": [
+        "Forming myelin sheaths",
+        "Forming new neurons",
+        "Forming new synapses",
+        "Forming glial cells"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Synaptic pruning is:",
+      "options": [
+        "Eliminating unused synapses",
+        "Creating new synapses",
+        "Strengthening synapses",
+        "Weakening synapses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Brain plasticity is greatest during:",
+      "options": [
+        "Early childhood",
+        "Adolescence",
+        "Adulthood",
+        "Late adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Language development begins with:",
+      "options": [
+        "Cooing and babbling",
+        "First words",
+        "Telegraphic speech",
+        "Complex sentences"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cooing occurs at about:",
+      "options": [
+        "2 months",
+        "4 months",
+        "6 months",
+        "12 months"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Babbling occurs at about:",
+      "options": [
+        "6 months",
+        "2 months",
+        "4 months",
+        "12 months"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "First words occur at about:",
+      "options": [
+        "12 months",
+        "6 months",
+        "18 months",
+        "24 months"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Telegraphic speech occurs at about:",
+      "options": [
+        "18-24 months",
+        "12 months",
+        "24-30 months",
+        "30-36 months"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The Language Acquisition Device (LAD) was proposed by:",
+      "options": [
+        "Noam Chomsky",
+        "B.F. Skinner",
+        "Jean Piaget",
+        "Lev Vygotsky"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The LAD theory suggests language is:",
+      "options": [
+        "Innate",
+        "Learned",
+        "Social",
+        "Cultural"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Skinner proposed language is learned through:",
+      "options": [
+        "Reinforcement",
+        "Innateness",
+        "Social construction",
+        "Cognitive acquisition"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vygotsky proposed language is:",
+      "options": [
+        "Socially constructed",
+        "Innate",
+        "Learned through reinforcement",
+        "Cognitively acquired"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Egocentric speech is a concept from:",
+      "options": [
+        "Piaget's theory",
+        "Vygotsky's theory",
+        "Skinner's theory",
+        "Chomsky's theory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Private speech is a concept from:",
+      "options": [
+        "Vygotsky's theory",
+        "Piaget's theory",
+        "Skinner's theory",
+        "Chomsky's theory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Temperament refers to:",
+      "options": [
+        "Individual emotional reactivity",
+        "Individual intelligence",
+        "Individual personality",
+        "Individual social skills"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Thomas and Chess identified how many temperament types?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Easy temperament is characterized by:",
+      "options": [
+        "Regular routines and positive mood",
+        "Irregular routines and negative mood",
+        "Slow adaptation",
+        "Intense reactions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Difficult temperament is characterized by:",
+      "options": [
+        "Irregular routines and negative mood",
+        "Regular routines and positive mood",
+        "Slow adaptation",
+        "Mild reactions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Slow-to-warm-up temperament is characterized by:",
+      "options": [
+        "Slow adaptation and mild reactions",
+        "Regular routines and positive mood",
+        "Irregular routines and negative mood",
+        "Intense reactions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Goodness-of-fit means:",
+      "options": [
+        "How well temperament matches environment",
+        "How well genes match environment",
+        "How well cognition matches environment",
+        "How well social skills match environment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Parenting styles were identified by:",
+      "options": [
+        "Diana Baumrind",
+        "John Bowlby",
+        "Mary Ainsworth",
+        "Erik Erikson"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Authoritarian parenting has:",
+      "options": [
+        "High demands, low responsiveness",
+        "High demands, high responsiveness",
+        "Low demands, high responsiveness",
+        "Low demands, low responsiveness"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Authoritative parenting has:",
+      "options": [
+        "High demands, high responsiveness",
+        "High demands, low responsiveness",
+        "Low demands, high responsiveness",
+        "Low demands, low responsiveness"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Permissive parenting has:",
+      "options": [
+        "Low demands, high responsiveness",
+        "High demands, high responsiveness",
+        "High demands, low responsiveness",
+        "Low demands, low responsiveness"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neglectful parenting has:",
+      "options": [
+        "Low demands, low responsiveness",
+        "High demands, high responsiveness",
+        "High demands, low responsiveness",
+        "Low demands, high responsiveness"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Child abuse includes:",
+      "options": [
+        "Physical, emotional, sexual abuse",
+        "Physical abuse only",
+        "Emotional abuse only",
+        "Sexual abuse only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Adolescence is the transition from:",
+      "options": [
+        "Childhood to adulthood",
+        "Infancy to childhood",
+        "Adulthood to old age",
+        "Childhood to adolescence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Puberty begins due to:",
+      "options": [
+        "Hormonal changes",
+        "Environmental changes",
+        "Social changes",
+        "Cognitive changes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Menarche is:",
+      "options": [
+        "First menstruation",
+        "First ejaculation",
+        "First ovulation",
+        "First pregnancy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Adolescent identity was studied by:",
+      "options": [
+        "James Marcia",
+        "Erik Erikson",
+        "Jean Piaget",
+        "Lev Vygotsky"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Identity diffusion is:",
+      "options": [
+        "No exploration or commitment",
+        "Exploration without commitment",
+        "Commitment without exploration",
+        "Exploration and commitment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Identity foreclosure is:",
+      "options": [
+        "Commitment without exploration",
+        "Exploration without commitment",
+        "No exploration or commitment",
+        "Exploration and commitment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Identity moratorium is:",
+      "options": [
+        "Exploration without commitment",
+        "Commitment without exploration",
+        "No exploration or commitment",
+        "Exploration and commitment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Identity achievement is:",
+      "options": [
+        "Exploration and commitment",
+        "Exploration without commitment",
+        "Commitment without exploration",
+        "No exploration or commitment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Peer influence peaks during:",
+      "options": [
+        "Adolescence",
+        "Childhood",
+        "Adulthood",
+        "Infancy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Peer pressure is highest during:",
+      "options": [
+        "Adolescence",
+        "Childhood",
+        "Adulthood",
+        "Infancy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Young adulthood is characterized by:",
+      "options": [
+        "Career and relationship decisions",
+        "Identity formation",
+        "Career development",
+        "Retirement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Emerging adulthood is the period of:",
+      "options": [
+        "18-25 years",
+        "18-30 years",
+        "18-35 years",
+        "18-40 years"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Middle adulthood is characterized by:",
+      "options": [
+        "Generativity vs. stagnation",
+        "Intimacy vs. isolation",
+        "Identity vs. confusion",
+        "Integrity vs. despair"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The midlife crisis is associated with:",
+      "options": [
+        "Middle adulthood",
+        "Young adulthood",
+        "Late adulthood",
+        "Adolescence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Late adulthood is characterized by:",
+      "options": [
+        "Integrity vs. despair",
+        "Generativity vs. stagnation",
+        "Intimacy vs. isolation",
+        "Identity vs. confusion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Aging is associated with:",
+      "options": [
+        "Cognitive decline",
+        "Cognitive improvement",
+        "No cognitive change",
+        "Cognitive stability"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Alzheimer's disease is more common in:",
+      "options": [
+        "Late adulthood",
+        "Middle adulthood",
+        "Young adulthood",
+        "Adolescence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dementia is characterized by:",
+      "options": [
+        "Memory loss and cognitive decline",
+        "Physical decline",
+        "Social decline",
+        "Emotional decline"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Crystallized intelligence:",
+      "options": [
+        "Increases with age",
+        "Decreases with age",
+        "Remains constant",
+        "Peaks in adolescence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Fluid intelligence:",
+      "options": [
+        "Decreases with age",
+        "Increases with age",
+        "Remains constant",
+        "Peaks in late adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The cognitive reserve hypothesis suggests:",
+      "options": [
+        "Mental activity protects cognition",
+        "Physical activity protects cognition",
+        "Social activity protects cognition",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Socioemotional selectivity theory suggests:",
+      "options": [
+        "Older adults prioritize emotional relationships",
+        "Older adults prioritize novel relationships",
+        "Older adults prioritize career goals",
+        "Older adults prioritize financial goals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The positivity effect is:",
+      "options": [
+        "Older adults focus on positive information",
+        "Older adults focus on negative information",
+        "Older adults focus on neutral information",
+        "No focus on information"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Disengagement theory suggests:",
+      "options": [
+        "Older adults withdraw from society",
+        "Older adults remain engaged",
+        "Older adults become more active",
+        "Older adults become more social"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Activity theory suggests:",
+      "options": [
+        "Older adults remain active and engaged",
+        "Older adults withdraw from society",
+        "Older adults become passive",
+        "Older adults become isolated"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Continuity theory suggests:",
+      "options": [
+        "Older adults maintain their lifestyle",
+        "Older adults change lifestyle completely",
+        "Older adults withdraw from society",
+        "Older adults become inactive"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Death and dying was studied by:",
+      "options": [
+        "Elisabeth Kübler-Ross",
+        "Erik Erikson",
+        "Jean Piaget",
+        "Sigmund Freud"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The stages of grief are:",
+      "options": [
+        "Denial, anger, bargaining, depression, acceptance",
+        "Denial, anger, depression, bargaining, acceptance",
+        "Anger, denial, bargaining, depression, acceptance",
+        "Denial, bargaining, anger, depression, acceptance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The final stage of grief is:",
+      "options": [
+        "Acceptance",
+        "Depression",
+        "Bargaining",
+        "Anger"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Palliative care focuses on:",
+      "options": [
+        "Pain and symptom management",
+        "Cure of disease",
+        "Treatment of disease",
+        "Prevention of disease"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hospice care focuses on:",
+      "options": [
+        "Comfort and quality of life",
+        "Cure of disease",
+        "Treatment of disease",
+        "Prevention of disease"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Euthanasia is:",
+      "options": [
+        "Ending life to relieve suffering",
+        "Extending life to reduce suffering",
+        "Improving quality of life",
+        "Preventing illness"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Grief is the response to:",
+      "options": [
+        "Loss",
+        "Happiness",
+        "Success",
+        "Achievement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bereavement is:",
+      "options": [
+        "The state of having lost someone",
+        "The response to loss",
+        "The process of mourning",
+        "The acceptance of death"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mourning is:",
+      "options": [
+        "The process of grieving",
+        "The state of loss",
+        "The response to death",
+        "The acceptance of death"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Adult attachment styles are similar to:",
+      "options": [
+        "Early attachment patterns",
+        "Cognitive patterns",
+        "Social patterns",
+        "Emotional patterns"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Secure adult attachment is associated with:",
+      "options": [
+        "Healthy relationships",
+        "Unhealthy relationships",
+        "Avoidant relationships",
+        "Ambivalent relationships"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Insecure adult attachment is associated with:",
+      "options": [
+        "Relationship difficulties",
+        "Healthy relationships",
+        "Secure relationships",
+        "Stable relationships"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Romantic relationships develop during:",
+      "options": [
+        "Adolescence and young adulthood",
+        "Childhood",
+        "Middle adulthood",
+        "Late adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sternberg's triangular theory of love includes:",
+      "options": [
+        "Intimacy, passion, commitment",
+        "Intimacy, passion, romance",
+        "Intimacy, commitment, friendship",
+        "Passion, commitment, romance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Intimacy in Sternberg's theory is:",
+      "options": [
+        "Emotional closeness",
+        "Physical attraction",
+        "Decision to commit",
+        "Sexual desire"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Passion in Sternberg's theory is:",
+      "options": [
+        "Physical and sexual attraction",
+        "Emotional closeness",
+        "Decision to commit",
+        "Friendship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Commitment in Sternberg's theory is:",
+      "options": [
+        "Decision to maintain relationship",
+        "Emotional closeness",
+        "Physical attraction",
+        "Sexual desire"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Consummate love includes:",
+      "options": [
+        "All three components",
+        "Two components",
+        "One component",
+        "No components"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Career development begins in:",
+      "options": [
+        "Adolescence",
+        "Childhood",
+        "Adulthood",
+        "Late adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Super's theory of career development includes:",
+      "options": [
+        "Stages of career development",
+        "Types of careers",
+        "Career satisfaction",
+        "Career success"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Career exploration occurs during:",
+      "options": [
+        "Adolescence",
+        "Childhood",
+        "Adulthood",
+        "Late adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Career establishment occurs during:",
+      "options": [
+        "Young adulthood",
+        "Adolescence",
+        "Middle adulthood",
+        "Late adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Career maintenance occurs during:",
+      "options": [
+        "Middle adulthood",
+        "Young adulthood",
+        "Adolescence",
+        "Late adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Career decline occurs during:",
+      "options": [
+        "Late adulthood",
+        "Middle adulthood",
+        "Young adulthood",
+        "Adolescence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Retirement is a transition in:",
+      "options": [
+        "Late adulthood",
+        "Middle adulthood",
+        "Young adulthood",
+        "Adolescence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Adjustment to retirement includes:",
+      "options": [
+        "New routines and roles",
+        "No change",
+        "Isolation",
+        "Decline"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Successful aging involves:",
+      "options": [
+        "Physical, cognitive, social well-being",
+        "Physical health only",
+        "Cognitive health only",
+        "Social health only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Wisdom is associated with:",
+      "options": [
+        "Late adulthood",
+        "Adolescence",
+        "Young adulthood",
+        "Middle adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Wisdom involves:",
+      "options": [
+        "Practical knowledge and perspective",
+        "Academic knowledge",
+        "Social knowledge",
+        "Emotional knowledge"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Resilience in development means:",
+      "options": [
+        "Overcoming adversity",
+        "Avoiding adversity",
+        "Ignoring adversity",
+        "Succumbing to adversity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Resilience is associated with:",
+      "options": [
+        "Positive outcomes despite risk",
+        "Positive outcomes without risk",
+        "Negative outcomes despite risk",
+        "Negative outcomes without risk"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Protective factors include:",
+      "options": [
+        "Supportive relationships",
+        "Stressful relationships",
+        "Isolation",
+        "Rejection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Risk factors include:",
+      "options": [
+        "Poverty and neglect",
+        "Support and care",
+        "Love and affection",
+        "Stability and safety"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Developmental disorders include:",
+      "options": [
+        "Autism and ADHD",
+        "Depression and anxiety",
+        "Schizophrenia and bipolar",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Autism spectrum disorder is characterized by:",
+      "options": [
+        "Social and communication difficulties",
+        "Physical difficulties",
+        "Intellectual difficulties",
+        "Emotional difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ADHD is characterized by:",
+      "options": [
+        "Inattention and hyperactivity",
+        "Social difficulties",
+        "Intellectual difficulties",
+        "Emotional difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Learning disabilities include:",
+      "options": [
+        "Dyslexia and dyscalculia",
+        "Autism and ADHD",
+        "Depression and anxiety",
+        "Schizophrenia and bipolar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dyslexia is a:",
+      "options": [
+        "Reading disorder",
+        "Writing disorder",
+        "Math disorder",
+        "Motor disorder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dyscalculia is a:",
+      "options": [
+        "Math disorder",
+        "Reading disorder",
+        "Writing disorder",
+        "Motor disorder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Early intervention is important for:",
+      "options": [
+        "Developmental disorders",
+        "Physical disorders",
+        "Emotional disorders",
+        "Social disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Developmental research uses:",
+      "options": [
+        "Longitudinal and cross-sectional designs",
+        "Experimental design only",
+        "Correlational design only",
+        "Case studies only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Longitudinal designs study:",
+      "options": [
+        "The same individuals over time",
+        "Different individuals at the same time",
+        "Different individuals over time",
+        "The same individuals at the same time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cross-sectional designs study:",
+      "options": [
+        "Different individuals at the same time",
+        "The same individuals over time",
+        "Different individuals over time",
+        "The same individuals at the same time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Longitudinal designs identify:",
+      "options": [
+        "Developmental trends",
+        "Age-related differences",
+        "Cultural differences",
+        "Gender differences"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cross-sectional designs identify:",
+      "options": [
+        "Age-related differences",
+        "Developmental trends",
+        "Individual changes",
+        "Long-term effects"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The lifespan perspective emphasizes:",
+      "options": [
+        "Change throughout life",
+        "Change only in childhood",
+        "Change only in adulthood",
+        "No change after adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Developmental psychology includes:",
+      "options": [
+        "Physical, cognitive, and social development",
+        "Physical development only",
+        "Cognitive development only",
+        "Social development only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Physical development includes:",
+      "options": [
+        "Growth and motor skills",
+        "Thinking and reasoning",
+        "Relationships and interactions",
+        "Emotions and feelings"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cognitive development includes:",
+      "options": [
+        "Thinking and reasoning",
+        "Growth and motor skills",
+        "Relationships and interactions",
+        "Emotions and feelings"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Social development includes:",
+      "options": [
+        "Relationships and interactions",
+        "Growth and motor skills",
+        "Thinking and reasoning",
+        "Emotions and feelings"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Emotional development includes:",
+      "options": [
+        "Emotions and feelings",
+        "Growth and motor skills",
+        "Thinking and reasoning",
+        "Relationships and interactions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Moral development includes:",
+      "options": [
+        "Understanding right and wrong",
+        "Physical development",
+        "Cognitive development",
+        "Social development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of development is:",
+      "options": [
+        "Interdisciplinary",
+        "Single-discipline",
+        "Isolated",
+        "Independent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Developmental psychology draws on:",
+      "options": [
+        "Psychology, biology, sociology, and education",
+        "Psychology only",
+        "Biology only",
+        "Sociology only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The importance of development is:",
+      "options": [
+        "Understanding human change",
+        "Understanding human stability",
+        "Understanding human continuity",
+        "Understanding human constancy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Applied developmental psychology focuses on:",
+      "options": [
+        "Practical applications",
+        "Theoretical applications",
+        "Research applications",
+        "Historical applications"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Development is influenced by:",
+      "options": [
+        "Nature and nurture",
+        "Nature only",
+        "Nurture only",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genetics influence:",
+      "options": [
+        "Physical and cognitive traits",
+        "Social traits only",
+        "Emotional traits only",
+        "Physical traits only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Environment influences:",
+      "options": [
+        "Physical, cognitive, and social traits",
+        "Physical traits only",
+        "Cognitive traits only",
+        "Social traits only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The interactionist perspective suggests:",
+      "options": [
+        "Nature and nurture interact",
+        "Nature and nurture are separate",
+        "Nature dominates nurture",
+        "Nurture dominates nature"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The epigenetic perspective suggests:",
+      "options": [
+        "Environment affects gene expression",
+        "Genes affect environment",
+        "Genes and environment are independent",
+        "Environment does not affect genes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neuroplasticity means:",
+      "options": [
+        "The brain can change with experience",
+        "The brain cannot change",
+        "The brain changes only in childhood",
+        "The brain changes only in adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Development is:",
+      "options": [
+        "A lifelong process",
+        "A childhood process",
+        "An adulthood process",
+        "A late-life process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of development is essential for:",
+      "options": [
+        "Understanding human potential",
+        "Understanding human limitation",
+        "Understanding human failure",
+        "Understanding human weakness"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Developmental psychology contributes to:",
+      "options": [
+        "Education, healthcare, and policy",
+        "Education only",
+        "Healthcare only",
+        "Policy only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The future of developmental psychology includes:",
+      "options": [
+        "Integration of genetics and neuroscience",
+        "Isolation from other fields",
+        "Rejection of new technologies",
+        "Focus only on childhood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Technology is changing developmental research by:",
+      "options": [
+        "Providing new research methods",
+        "Making research impossible",
+        "Making research obsolete",
+        "Making research irrelevant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neuroscience is contributing by:",
+      "options": [
+        "Understanding brain development",
+        "Understanding social development",
+        "Understanding emotional development",
+        "Understanding physical development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Developmental psychology is important for:",
+      "options": [
+        "Optimizing human development",
+        "Ignoring human development",
+        "Rejecting human development",
+        "Minimizing human development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The goal of developmental psychology is:",
+      "options": [
+        "Understanding and promoting healthy development",
+        "Understanding and preventing development",
+        "Understanding and stopping development",
+        "Understanding and delaying development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Positive development involves:",
+      "options": [
+        "Growth and flourishing",
+        "Stagnation and decline",
+        "Regression and failure",
+        "Inactivity and idleness"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Human potential is central to:",
+      "options": [
+        "Developmental psychology",
+        "Clinical psychology",
+        "Cognitive psychology",
+        "Behavioral psychology"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Human development is:",
+      "options": [
+        "Complex and multifaceted",
+        "Simple and singular",
+        "Linear and predictable",
+        "Fixed and unchanging"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Understanding development helps us to:",
+      "options": [
+        "Appreciate human life",
+        "Ignore human life",
+        "Reject human life",
+        "Minimize human life"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Developmental psychology provides:",
+      "options": [
+        "Insights into human experience",
+        "Insights into animal experience",
+        "Insights into plant experience",
+        "Insights into machine experience"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of development is relevant to:",
+      "options": [
+        "All stages of life",
+        "Only childhood",
+        "Only adulthood",
+        "Only late adulthood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Development is influenced by:",
+      "options": [
+        "Culture and context",
+        "Culture only",
+        "Context only",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cultural differences in development are:",
+      "options": [
+        "Significant",
+        "Insignificant",
+        "Irrelevant",
+        "Nonexistent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cross-cultural research examines:",
+      "options": [
+        "Cultural influences on development",
+        "Genetic influences on development",
+        "Individual influences on development",
+        "Environmental influences on development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Developmental psychology is:",
+      "options": [
+        "A dynamic field",
+        "A static field",
+        "An outdated field",
+        "An irrelevant field"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The future of development includes:",
+      "options": [
+        "New discoveries about human growth",
+        "No new discoveries",
+        "Only old discoveries",
+        "Rejection of discoveries"
+      ],
+      "answer": 0
+    }
+  ]
+}

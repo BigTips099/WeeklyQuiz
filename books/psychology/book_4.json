@@ -1,0 +1,1794 @@
+{
+  "questions": [
+    {
+      "question": "Abnormal psychology focuses on the study of:",
+      "options": [
+        "Psychological disorders",
+        "Normal behavior",
+        "Cognitive processes",
+        "Social interactions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The DSM is used for:",
+      "options": [
+        "Diagnosing mental disorders",
+        "Treating mental disorders",
+        "Preventing mental disorders",
+        "Research on mental disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The biopsychosocial model considers:",
+      "options": [
+        "Biological, psychological, and social factors",
+        "Biological factors only",
+        "Psychological factors only",
+        "Social factors only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Anxiety disorders are characterized by:",
+      "options": [
+        "Excessive fear and worry",
+        "Mood disturbances",
+        "Thought disturbances",
+        "Behavioral disturbances"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Generalized Anxiety Disorder (GAD) involves:",
+      "options": [
+        "Chronic excessive worry",
+        "Panic attacks",
+        "Phobias",
+        "Obsessive thoughts"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Panic disorder is characterized by:",
+      "options": [
+        "Recurrent panic attacks",
+        "Chronic worry",
+        "Phobias",
+        "Obsessive thoughts"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Agoraphobia is the fear of:",
+      "options": [
+        "Open spaces and situations",
+        "Heights",
+        "Social situations",
+        "Animals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Social Anxiety Disorder is characterized by:",
+      "options": [
+        "Fear of social situations",
+        "Fear of open spaces",
+        "Fear of heights",
+        "Fear of animals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Specific phobias are:",
+      "options": [
+        "Fear of specific objects or situations",
+        "Generalized anxiety",
+        "Panic attacks",
+        "Obsessive thoughts"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Obsessive-Compulsive Disorder (OCD) involves:",
+      "options": [
+        "Obsessions and compulsions",
+        "Panic attacks",
+        "Phobias",
+        "Chronic worry"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Obsessions are:",
+      "options": [
+        "Intrusive thoughts",
+        "Repetitive behaviors",
+        "Anxiety attacks",
+        "Phobic reactions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Compulsions are:",
+      "options": [
+        "Repetitive behaviors",
+        "Intrusive thoughts",
+        "Anxiety attacks",
+        "Phobic reactions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Body Dysmorphic Disorder involves:",
+      "options": [
+        "Preoccupation with perceived defects",
+        "Obsessive thoughts",
+        "Compulsive behaviors",
+        "Panic attacks"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hoarding disorder involves:",
+      "options": [
+        "Difficulty discarding possessions",
+        "Compulsive behaviors",
+        "Obsessive thoughts",
+        "Panic attacks"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Trichotillomania is the disorder of:",
+      "options": [
+        "Hair pulling",
+        "Skin picking",
+        "Nail biting",
+        "Eating disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Excoriation disorder is the disorder of:",
+      "options": [
+        "Skin picking",
+        "Hair pulling",
+        "Nail biting",
+        "Eating disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mood disorders are characterized by:",
+      "options": [
+        "Disturbances in mood",
+        "Anxiety",
+        "Psychotic symptoms",
+        "Behavioral disturbances"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Major Depressive Disorder (MDD) is characterized by:",
+      "options": [
+        "Persistent sadness and loss of interest",
+        "Manic episodes",
+        "Anxiety",
+        "Psychotic symptoms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Persistent Depressive Disorder is characterized by:",
+      "options": [
+        "Chronic depression",
+        "Acute depression",
+        "Manic episodes",
+        "Anxiety"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bipolar disorder involves:",
+      "options": [
+        "Mania and depression",
+        "Only depression",
+        "Only mania",
+        "Anxiety and depression"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Manic episodes are characterized by:",
+      "options": [
+        "Elevated mood and increased activity",
+        "Depressed mood",
+        "Anxiety",
+        "Psychotic symptoms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hypomania is:",
+      "options": [
+        "A less severe form of mania",
+        "A more severe form of mania",
+        "Not related to mania",
+        "A type of depression"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cyclothymic disorder involves:",
+      "options": [
+        "Chronic mood fluctuations",
+        "Severe mania",
+        "Severe depression",
+        "Psychotic symptoms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Seasonal Affective Disorder (SAD) is associated with:",
+      "options": [
+        "Winter months",
+        "Summer months",
+        "Spring months",
+        "Fall months"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Schizophrenia is characterized by:",
+      "options": [
+        "Psychotic symptoms",
+        "Mood disturbances",
+        "Anxiety",
+        "Behavioral disturbances"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Positive symptoms of schizophrenia include:",
+      "options": [
+        "Hallucinations and delusions",
+        "Flat affect",
+        "Social withdrawal",
+        "Cognitive deficits"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Negative symptoms of schizophrenia include:",
+      "options": [
+        "Flat affect and social withdrawal",
+        "Hallucinations",
+        "Delusions",
+        "Disorganized speech"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Delusions are:",
+      "options": [
+        "False beliefs",
+        "False perceptions",
+        "Disorganized speech",
+        "Catatonic behavior"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hallucinations are:",
+      "options": [
+        "False perceptions",
+        "False beliefs",
+        "Disorganized speech",
+        "Catatonic behavior"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Disorganized speech is characterized by:",
+      "options": [
+        "Loose associations",
+        "Hallucinations",
+        "Delusions",
+        "Flat affect"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Catatonic behavior involves:",
+      "options": [
+        "Motor disturbances",
+        "Hallucinations",
+        "Delusions",
+        "Disorganized speech"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Schizoaffective disorder involves:",
+      "options": [
+        "Schizophrenia and mood disorder symptoms",
+        "Only schizophrenia symptoms",
+        "Only mood disorder symptoms",
+        "Anxiety and depression"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Schizophreniform disorder is:",
+      "options": [
+        "Schizophrenia with shorter duration",
+        "Schizophrenia with longer duration",
+        "Not related to schizophrenia",
+        "A type of mood disorder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Brief psychotic disorder lasts:",
+      "options": [
+        "Less than 1 month",
+        "More than 1 month",
+        "More than 6 months",
+        "More than 1 year"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Delusional disorder is characterized by:",
+      "options": [
+        "Non-bizarre delusions",
+        "Bizarre delusions",
+        "Hallucinations",
+        "Disorganized speech"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dissociative disorders involve:",
+      "options": [
+        "Disruptions in consciousness, memory, and identity",
+        "Anxiety",
+        "Psychotic symptoms",
+        "Mood disturbances"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dissociative amnesia is characterized by:",
+      "options": [
+        "Memory loss",
+        "Multiple identities",
+        "Depersonalization",
+        "Derealization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dissociative fugue is characterized by:",
+      "options": [
+        "Sudden travel and amnesia",
+        "Memory loss only",
+        "Multiple identities",
+        "Depersonalization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dissociative identity disorder (DID) is characterized by:",
+      "options": [
+        "Multiple identities",
+        "Memory loss",
+        "Depersonalization",
+        "Derealization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Depersonalization/derealization disorder involves:",
+      "options": [
+        "Feeling detached from self and reality",
+        "Multiple identities",
+        "Memory loss",
+        "Anxiety"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Somatic symptom disorders involve:",
+      "options": [
+        "Physical symptoms with no medical cause",
+        "Psychological symptoms",
+        "Cognitive symptoms",
+        "Behavioral symptoms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Illness anxiety disorder is characterized by:",
+      "options": [
+        "Excessive worry about having an illness",
+        "Physical symptoms with no cause",
+        "Conversion symptoms",
+        "Factitious disorder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Conversion disorder is characterized by:",
+      "options": [
+        "Neurological symptoms with no medical cause",
+        "Physical symptoms with no cause",
+        "Excessive worry about illness",
+        "Factitious symptoms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Factitious disorder involves:",
+      "options": [
+        "Falsifying symptoms for attention",
+        "Falsifying symptoms for gain",
+        "Real symptoms",
+        "Psychological symptoms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Malingering involves:",
+      "options": [
+        "Falsifying symptoms for gain",
+        "Falsifying symptoms for attention",
+        "Real symptoms",
+        "Psychological symptoms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Eating disorders include:",
+      "options": [
+        "Anorexia nervosa and bulimia nervosa",
+        "Anxiety disorders",
+        "Mood disorders",
+        "Psychotic disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Anorexia nervosa is characterized by:",
+      "options": [
+        "Restriction of food intake",
+        "Binge eating",
+        "Purging",
+        "Normal eating"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bulimia nervosa is characterized by:",
+      "options": [
+        "Binge eating and purging",
+        "Restriction of food intake",
+        "Normal eating",
+        "Excessive eating"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Binge-eating disorder is characterized by:",
+      "options": [
+        "Binge eating without purging",
+        "Binge eating with purging",
+        "Restriction of food intake",
+        "Normal eating"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pica is characterized by:",
+      "options": [
+        "Eating non-food substances",
+        "Binge eating",
+        "Purging",
+        "Restriction of food intake"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sleep disorders include:",
+      "options": [
+        "Insomnia and hypersomnia",
+        "Anxiety disorders",
+        "Mood disorders",
+        "Psychotic disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Insomnia is characterized by:",
+      "options": [
+        "Difficulty sleeping",
+        "Excessive sleeping",
+        "Normal sleeping",
+        "No sleeping"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Hypersomnia is characterized by:",
+      "options": [
+        "Excessive sleeping",
+        "Difficulty sleeping",
+        "Normal sleeping",
+        "No sleeping"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Narcolepsy is characterized by:",
+      "options": [
+        "Excessive daytime sleepiness",
+        "Difficulty sleeping",
+        "Normal sleeping",
+        "No sleeping"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sleep apnea is characterized by:",
+      "options": [
+        "Breathing interruptions during sleep",
+        "Difficulty sleeping",
+        "Excessive sleeping",
+        "Normal sleeping"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Restless legs syndrome is characterized by:",
+      "options": [
+        "An urge to move legs at rest",
+        "Difficulty sleeping",
+        "Excessive sleeping",
+        "Normal sleeping"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Parasomnias include:",
+      "options": [
+        "Sleepwalking and nightmares",
+        "Insomnia",
+        "Hypersomnia",
+        "Narcolepsy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Sexual dysfunctions include:",
+      "options": [
+        "Problems with sexual desire and function",
+        "Anxiety disorders",
+        "Mood disorders",
+        "Psychotic disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Paraphilic disorders involve:",
+      "options": [
+        "Atypical sexual interests",
+        "Sexual dysfunctions",
+        "Anxiety disorders",
+        "Mood disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Substance-related disorders include:",
+      "options": [
+        "Addiction and substance abuse",
+        "Anxiety disorders",
+        "Mood disorders",
+        "Psychotic disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Alcohol use disorder is characterized by:",
+      "options": [
+        "Problematic alcohol use",
+        "Problematic drug use",
+        "Problematic gambling",
+        "Problematic eating"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Opioid use disorder is characterized by:",
+      "options": [
+        "Problematic opioid use",
+        "Problematic alcohol use",
+        "Problematic gambling",
+        "Problematic eating"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Stimulant use disorder is characterized by:",
+      "options": [
+        "Problematic amphetamine or cocaine use",
+        "Problematic alcohol use",
+        "Problematic opioid use",
+        "Problematic gambling"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cannabis use disorder is characterized by:",
+      "options": [
+        "Problematic marijuana use",
+        "Problematic alcohol use",
+        "Problematic opioid use",
+        "Problematic stimulant use"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Nicotine use disorder is characterized by:",
+      "options": [
+        "Problematic tobacco use",
+        "Problematic alcohol use",
+        "Problematic opioid use",
+        "Problematic stimulant use"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gambling disorder is characterized by:",
+      "options": [
+        "Problematic gambling behavior",
+        "Problematic substance use",
+        "Problematic eating behavior",
+        "Problematic sexual behavior"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Personality disorders are characterized by:",
+      "options": [
+        "Maladaptive personality traits",
+        "Anxiety",
+        "Mood disturbances",
+        "Psychotic symptoms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cluster A personality disorders include:",
+      "options": [
+        "Paranoid, schizoid, schizotypal",
+        "Antisocial, borderline, histrionic",
+        "Avoidant, dependent, obsessive-compulsive",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cluster B personality disorders include:",
+      "options": [
+        "Antisocial, borderline, histrionic, narcissistic",
+        "Paranoid, schizoid, schizotypal",
+        "Avoidant, dependent, obsessive-compulsive",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cluster C personality disorders include:",
+      "options": [
+        "Avoidant, dependent, obsessive-compulsive",
+        "Paranoid, schizoid, schizotypal",
+        "Antisocial, borderline, histrionic",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Antisocial personality disorder is characterized by:",
+      "options": [
+        "Disregard for others' rights",
+        "Avoidance of social situations",
+        "Dependency on others",
+        "Perfectionism"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Borderline personality disorder is characterized by:",
+      "options": [
+        "Unstable relationships and emotions",
+        "Disregard for others' rights",
+        "Avoidance of social situations",
+        "Perfectionism"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Histrionic personality disorder is characterized by:",
+      "options": [
+        "Excessive emotionality and attention-seeking",
+        "Unstable relationships",
+        "Disregard for others' rights",
+        "Perfectionism"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Narcissistic personality disorder is characterized by:",
+      "options": [
+        "Grandiosity and need for admiration",
+        "Excessive emotionality",
+        "Unstable relationships",
+        "Disregard for others' rights"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Avoidant personality disorder is characterized by:",
+      "options": [
+        "Social inhibition and avoidance",
+        "Dependency on others",
+        "Perfectionism",
+        "Disregard for others"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dependent personality disorder is characterized by:",
+      "options": [
+        "Excessive need to be taken care of",
+        "Social inhibition",
+        "Perfectionism",
+        "Disregard for others"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Obsessive-compulsive personality disorder (OCPD) is characterized by:",
+      "options": [
+        "Preoccupation with orderliness and perfectionism",
+        "Excessive emotionality",
+        "Unstable relationships",
+        "Social inhibition"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neurodevelopmental disorders include:",
+      "options": [
+        "Intellectual disability, autism, ADHD",
+        "Anxiety disorders",
+        "Mood disorders",
+        "Psychotic disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Intellectual disability is characterized by:",
+      "options": [
+        "Below-average intellectual functioning",
+        "Average intellectual functioning",
+        "Above-average intellectual functioning",
+        "Normal intellectual functioning"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Communication disorders include:",
+      "options": [
+        "Language and speech disorders",
+        "Learning disorders",
+        "Motor disorders",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Autism spectrum disorder is characterized by:",
+      "options": [
+        "Social and communication difficulties",
+        "Physical difficulties",
+        "Intellectual difficulties",
+        "Emotional difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ADHD is characterized by:",
+      "options": [
+        "Inattention and hyperactivity",
+        "Social difficulties",
+        "Intellectual difficulties",
+        "Emotional difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Specific learning disorder is characterized by:",
+      "options": [
+        "Difficulties in reading, writing, or math",
+        "Social difficulties",
+        "Intellectual difficulties",
+        "Emotional difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Motor disorders include:",
+      "options": [
+        "Tic disorders and developmental coordination disorder",
+        "Language disorders",
+        "Learning disorders",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neurocognitive disorders include:",
+      "options": [
+        "Delirium and dementia",
+        "Anxiety disorders",
+        "Mood disorders",
+        "Psychotic disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Delirium is characterized by:",
+      "options": [
+        "Sudden confusion and disorientation",
+        "Memory loss",
+        "Cognitive decline",
+        "Language difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dementia is characterized by:",
+      "options": [
+        "Cognitive decline",
+        "Sudden confusion",
+        "Memory loss",
+        "Language difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Alzheimer's disease is the most common cause of:",
+      "options": [
+        "Dementia",
+        "Delirium",
+        "Schizophrenia",
+        "Bipolar disorder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vascular dementia is caused by:",
+      "options": [
+        "Brain damage from stroke",
+        "Alzheimer's disease",
+        "Parkinson's disease",
+        "Huntington's disease"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Frontotemporal dementia is characterized by:",
+      "options": [
+        "Behavioral and language changes",
+        "Memory loss",
+        "Motor difficulties",
+        "Visual difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lewy body dementia is characterized by:",
+      "options": [
+        "Visual hallucinations and motor symptoms",
+        "Memory loss",
+        "Behavioral changes",
+        "Language difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Parkinson's disease is characterized by:",
+      "options": [
+        "Motor symptoms and cognitive changes",
+        "Memory loss",
+        "Behavioral changes",
+        "Language difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Huntington's disease is characterized by:",
+      "options": [
+        "Motor symptoms and cognitive decline",
+        "Memory loss",
+        "Behavioral changes",
+        "Language difficulties"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The etiology of mental disorders involves:",
+      "options": [
+        "Genetic, biological, and environmental factors",
+        "Genetic factors only",
+        "Biological factors only",
+        "Environmental factors only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Genetics play a role in:",
+      "options": [
+        "All mental disorders",
+        "Some mental disorders",
+        "No mental disorders",
+        "Physical disorders only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The diathesis-stress model suggests:",
+      "options": [
+        "Stress triggers genetic vulnerability",
+        "Genetics alone cause disorders",
+        "Stress alone causes disorders",
+        "Neither genetics nor stress matter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Neurobiological factors in mental disorders include:",
+      "options": [
+        "Neurotransmitter imbalances",
+        "Genetic mutations",
+        "Environmental factors",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dopamine is involved in:",
+      "options": [
+        "Schizophrenia and addiction",
+        "Depression",
+        "Anxiety",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Serotonin is involved in:",
+      "options": [
+        "Depression and anxiety",
+        "Schizophrenia",
+        "Addiction",
+        "Eating disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Norepinephrine is involved in:",
+      "options": [
+        "Anxiety and arousal",
+        "Depression",
+        "Schizophrenia",
+        "Addiction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "GABA is involved in:",
+      "options": [
+        "Anxiety and relaxation",
+        "Depression",
+        "Schizophrenia",
+        "Addiction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Glutamate is involved in:",
+      "options": [
+        "Schizophrenia and learning",
+        "Depression",
+        "Anxiety",
+        "Addiction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Treatment for mental disorders includes:",
+      "options": [
+        "Psychotherapy and medication",
+        "Psychotherapy only",
+        "Medication only",
+        "Surgery only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Psychotherapy involves:",
+      "options": [
+        "Talking with a therapist",
+        "Taking medication",
+        "Surgery",
+        "Hospitalization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cognitive-behavioral therapy (CBT) is effective for:",
+      "options": [
+        "Anxiety and depression",
+        "Schizophrenia",
+        "Bipolar disorder",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "CBT focuses on:",
+      "options": [
+        "Changing thoughts and behaviors",
+        "Changing emotions only",
+        "Changing behaviors only",
+        "Changing thoughts only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Dialectical behavior therapy (DBT) is used for:",
+      "options": [
+        "Borderline personality disorder",
+        "Schizophrenia",
+        "Anxiety",
+        "Eating disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "DBT focuses on:",
+      "options": [
+        "Emotion regulation and mindfulness",
+        "Cognitive restructuring",
+        "Behavior modification",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Acceptance and commitment therapy (ACT) focuses on:",
+      "options": [
+        "Acceptance and mindfulness",
+        "Cognitive restructuring",
+        "Behavior modification",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Psychodynamic therapy focuses on:",
+      "options": [
+        "Unconscious processes and childhood",
+        "Thoughts and behaviors",
+        "Emotions and relationships",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Humanistic therapy focuses on:",
+      "options": [
+        "Self-actualization and personal growth",
+        "Unconscious processes",
+        "Thoughts and behaviors",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Antidepressants are used for:",
+      "options": [
+        "Depression and anxiety",
+        "Schizophrenia",
+        "Bipolar disorder",
+        "Eating disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "SSRIs are antidepressants that:",
+      "options": [
+        "Increase serotonin",
+        "Increase dopamine",
+        "Increase norepinephrine",
+        "Decrease GABA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "SNRIs are antidepressants that:",
+      "options": [
+        "Increase serotonin and norepinephrine",
+        "Increase serotonin only",
+        "Increase dopamine only",
+        "Decrease GABA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Antipsychotics are used for:",
+      "options": [
+        "Schizophrenia",
+        "Depression",
+        "Anxiety",
+        "Eating disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Antipsychotics work by:",
+      "options": [
+        "Blocking dopamine receptors",
+        "Increasing serotonin",
+        "Increasing norepinephrine",
+        "Decreasing GABA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mood stabilizers are used for:",
+      "options": [
+        "Bipolar disorder",
+        "Schizophrenia",
+        "Depression",
+        "Anxiety"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lithium is a:",
+      "options": [
+        "Mood stabilizer",
+        "Antidepressant",
+        "Antipsychotic",
+        "Anxiolytic"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Anxiolytics are used for:",
+      "options": [
+        "Anxiety",
+        "Depression",
+        "Schizophrenia",
+        "Bipolar disorder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Benzodiazepines are:",
+      "options": [
+        "Anxiolytics",
+        "Antidepressants",
+        "Antipsychotics",
+        "Mood stabilizers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Stimulants are used for:",
+      "options": [
+        "ADHD",
+        "Depression",
+        "Anxiety",
+        "Schizophrenia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Substance abuse treatment includes:",
+      "options": [
+        "Detoxification and rehabilitation",
+        "Psychotherapy",
+        "Medication",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Electroconvulsive therapy (ECT) is used for:",
+      "options": [
+        "Severe depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Eating disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Transcranial magnetic stimulation (TMS) is used for:",
+      "options": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Eating disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vagus nerve stimulation (VNS) is used for:",
+      "options": [
+        "Depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Eating disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Deep brain stimulation (DBS) is used for:",
+      "options": [
+        "Parkinson's disease and depression",
+        "Anxiety",
+        "Schizophrenia",
+        "Eating disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Psychosurgery is used for:",
+      "options": [
+        "Severe treatment-resistant disorders",
+        "Minor disorders",
+        "All disorders",
+        "No disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Lobotomy is a form of:",
+      "options": [
+        "Psychosurgery",
+        "Psychotherapy",
+        "Medication",
+        "Hospitalization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Involuntary hospitalization is used when:",
+      "options": [
+        "The person is a danger to self or others",
+        "The person wants help",
+        "The person has insurance",
+        "The person has family support"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Deinstitutionalization is:",
+      "options": [
+        "Moving patients from hospitals to communities",
+        "Moving patients from communities to hospitals",
+        "Closing all hospitals",
+        "Opening more hospitals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Community mental health centers provide:",
+      "options": [
+        "Outpatient services",
+        "Inpatient services",
+        "Surgery",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The recovery model emphasizes:",
+      "options": [
+        "Patient empowerment and hope",
+        "Cure of disorder",
+        "Hospitalization",
+        "Medication only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Stigma associated with mental illness:",
+      "options": [
+        "Affects treatment and recovery",
+        "Has no effect",
+        "Helps recovery",
+        "Prevents recovery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mental health literacy is:",
+      "options": [
+        "Knowledge about mental health",
+        "Knowledge about physical health",
+        "Knowledge about social health",
+        "Knowledge about emotional health"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prevention of mental disorders includes:",
+      "options": [
+        "Primary, secondary, and tertiary prevention",
+        "Primary prevention only",
+        "Secondary prevention only",
+        "Tertiary prevention only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Primary prevention aims to:",
+      "options": [
+        "Prevent disorder onset",
+        "Reduce disorder duration",
+        "Reduce disorder severity",
+        "Prevent relapse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Secondary prevention aims to:",
+      "options": [
+        "Detect and treat early",
+        "Prevent disorder onset",
+        "Reduce disorder severity",
+        "Prevent relapse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Tertiary prevention aims to:",
+      "options": [
+        "Reduce long-term impact",
+        "Prevent disorder onset",
+        "Detect and treat early",
+        "Prevent relapse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mental health promotion includes:",
+      "options": [
+        "Education and awareness",
+        "Treatment only",
+        "Medication only",
+        "Hospitalization only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The mental health workforce includes:",
+      "options": [
+        "Psychiatrists, psychologists, social workers",
+        "Psychiatrists only",
+        "Psychologists only",
+        "Social workers only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Psychiatrists are medical doctors who:",
+      "options": [
+        "Prescribe medication and provide therapy",
+        "Provide therapy only",
+        "Prescribe medication only",
+        "Conduct research only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Psychologists provide:",
+      "options": [
+        "Therapy and assessment",
+        "Medication",
+        "Surgery",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Social workers provide:",
+      "options": [
+        "Therapy and case management",
+        "Medication",
+        "Surgery",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mental health counselors provide:",
+      "options": [
+        "Therapy and counseling",
+        "Medication",
+        "Surgery",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The future of abnormal psychology includes:",
+      "options": [
+        "Integration of neuroscience and genetics",
+        "Isolation from other fields",
+        "Rejection of new technologies",
+        "Focus only on medication"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Technology in mental health includes:",
+      "options": [
+        "Telehealth and apps",
+        "Surgery",
+        "Medication",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Precision medicine in mental health involves:",
+      "options": [
+        "Personalized treatment based on genetics",
+        "One-size-fits-all treatment",
+        "Medication only",
+        "Therapy only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of abnormal psychology is essential for:",
+      "options": [
+        "Understanding and treating mental disorders",
+        "Understanding normal behavior",
+        "Understanding physical health",
+        "Understanding social interactions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Abnormal psychology contributes to:",
+      "options": [
+        "Mental health treatment and prevention",
+        "Physical health treatment",
+        "Social work",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The goal of abnormal psychology is:",
+      "options": [
+        "Promoting mental health and well-being",
+        "Curing all disorders",
+        "Preventing all disorders",
+        "Eliminating all disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Abnormal psychology is a dynamic field that:",
+      "options": [
+        "Continues to evolve",
+        "Remains static",
+        "Is outdated",
+        "Is irrelevant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Research in abnormal psychology includes:",
+      "options": [
+        "Etiology, assessment, and treatment",
+        "Etiology only",
+        "Assessment only",
+        "Treatment only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Evidence-based practice in abnormal psychology uses:",
+      "options": [
+        "Research evidence, clinical expertise, patient values",
+        "Research evidence only",
+        "Clinical expertise only",
+        "Patient values only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Cultural considerations in abnormal psychology include:",
+      "options": [
+        "Cultural differences in symptoms and treatment",
+        "Cultural similarities",
+        "No cultural considerations",
+        "Only Western perspectives"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The DSM-5 includes:",
+      "options": [
+        "Diagnostic criteria for mental disorders",
+        "Treatment guidelines",
+        "Prevention strategies",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The ICD is:",
+      "options": [
+        "International Classification of Diseases",
+        "International Classification of Mental Disorders",
+        "International Classification of Health",
+        "International Classification of Psychology"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The DSM-5 is used in:",
+      "options": [
+        "The United States",
+        "All countries",
+        "Only Europe",
+        "Only Asia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The ICD is used in:",
+      "options": [
+        "All countries",
+        "The United States",
+        "Only Europe",
+        "Only Asia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Comorbidity refers to:",
+      "options": [
+        "Co-occurring disorders",
+        "Single disorders",
+        "Physical disorders",
+        "Mental disorders only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Substance-induced disorders are caused by:",
+      "options": [
+        "Substance use",
+        "Genetics",
+        "Environment",
+        "Stress"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Trauma-related disorders include:",
+      "options": [
+        "PTSD and acute stress disorder",
+        "Anxiety disorders",
+        "Mood disorders",
+        "Psychotic disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "PTSD is characterized by:",
+      "options": [
+        "Re-experiencing trauma",
+        "Avoidance",
+        "Hyperarousal",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Acute stress disorder lasts:",
+      "options": [
+        "Less than 1 month",
+        "More than 1 month",
+        "More than 6 months",
+        "More than 1 year"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Adjustment disorders are:",
+      "options": [
+        "Responses to stressors",
+        "Long-term disorders",
+        "Genetic disorders",
+        "Substance-induced disorders"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gender dysphoria involves:",
+      "options": [
+        "Incongruence between sex and gender identity",
+        "Gender identity",
+        "Sexual identity",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Gender dysphoria is a:",
+      "options": [
+        "Mental disorder",
+        "Physical disorder",
+        "Social disorder",
+        "Cultural disorder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The treatment of mental disorders involves:",
+      "options": [
+        "A multidisciplinary approach",
+        "Only medication",
+        "Only therapy",
+        "Only hospitalization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The prognosis of mental disorders depends on:",
+      "options": [
+        "Type, severity, and treatment",
+        "Type only",
+        "Severity only",
+        "Treatment only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mental disorders are:",
+      "options": [
+        "Treatable",
+        "Untreatable",
+        "Incurable",
+        "Preventable"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The recovery from mental disorders is:",
+      "options": [
+        "Possible with treatment",
+        "Impossible",
+        "Always complete",
+        "Never complete"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The understanding of abnormal psychology has:",
+      "options": [
+        "Evolved over time",
+        "Remained the same",
+        "Regressed",
+        "Stagnated"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The future of abnormal psychology will include:",
+      "options": [
+        "Advances in treatment and prevention",
+        "Rejection of all treatments",
+        "Focus only on medication",
+        "Focus only on therapy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Abnormal psychology is important for:",
+      "options": [
+        "Mental health care and research",
+        "Physical health care",
+        "Social care",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of abnormal psychology helps us:",
+      "options": [
+        "Understand human suffering",
+        "Understand human happiness",
+        "Understand human success",
+        "Understand human achievement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Abnormal psychology promotes:",
+      "options": [
+        "Mental health awareness",
+        "Mental illness awareness",
+        "Both",
+        "Neither"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The stigma of mental illness can be reduced by:",
+      "options": [
+        "Education and awareness",
+        "Ignoring the issue",
+        "Blame and shame",
+        "Punishment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Mental health advocacy is important for:",
+      "options": [
+        "Policy change and support",
+        "Research only",
+        "Treatment only",
+        "Prevention only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The study of abnormal psychology is relevant to:",
+      "options": [
+        "All people",
+        "Only patients",
+        "Only therapists",
+        "Only researchers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Abnormal psychology is a field that:",
+      "options": [
+        "Helps people understand mental health",
+        "Promotes mental health disorders",
+        "Discourages treatment",
+        "Prevents recovery"
+      ],
+      "answer": 0
+    }
+  ]
+}
