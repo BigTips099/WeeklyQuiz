@@ -1,0 +1,316 @@
+{
+  "category": "Profit & Loss / Discount",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "question": "What is Cost Price (CP)?",
+      "options": [
+        "The price at which an article is bought",
+        "The price at which an article is sold",
+        "The profit earned",
+        "The loss incurred"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Selling Price (SP)?",
+      "options": [
+        "The price at which an article is bought",
+        "The price at which an article is sold",
+        "The profit earned",
+        "The loss incurred"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is Profit?",
+      "options": [
+        "SP - CP (when SP > CP)",
+        "CP - SP (when CP > SP)",
+        "SP + CP",
+        "SP × CP"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Loss?",
+      "options": [
+        "SP - CP (when SP > CP)",
+        "CP - SP (when CP > SP)",
+        "SP + CP",
+        "SP × CP"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the formula for Profit Percentage?",
+      "options": [
+        "(Profit / CP) × 100",
+        "(Profit / SP) × 100",
+        "(CP / Profit) × 100",
+        "(SP / Profit) × 100"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for Loss Percentage?",
+      "options": [
+        "(Loss / CP) × 100",
+        "(Loss / SP) × 100",
+        "(CP / Loss) × 100",
+        "(SP / Loss) × 100"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Discount?",
+      "options": [
+        "A reduction in the marked price",
+        "An increase in the marked price",
+        "The cost price",
+        "The selling price"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Marked Price (MP)?",
+      "options": [
+        "The price marked on the article before discount",
+        "The price at which the article is bought",
+        "The profit earned",
+        "The loss incurred"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for Discount?",
+      "options": [
+        "MP - SP",
+        "SP - CP",
+        "CP - SP",
+        "MP + SP"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for Discount Percentage?",
+      "options": [
+        "(Discount / MP) × 100",
+        "(Discount / SP) × 100",
+        "(MP / Discount) × 100",
+        "(SP / Discount) × 100"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If SP > CP, what is the result?",
+      "options": [
+        "Profit",
+        "Loss",
+        "No profit, no loss",
+        "Cannot be determined"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If CP > SP, what is the result?",
+      "options": [
+        "Profit",
+        "Loss",
+        "No profit, no loss",
+        "Cannot be determined"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If SP = CP, what is the result?",
+      "options": [
+        "Profit",
+        "Loss",
+        "No profit, no loss",
+        "Cannot be determined"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a loss?",
+      "options": [
+        "When CP is greater than SP",
+        "When SP is greater than CP",
+        "When SP equals CP",
+        "When profit is zero"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a profit?",
+      "options": [
+        "When SP is greater than CP",
+        "When CP is greater than SP",
+        "When SP equals CP",
+        "When loss is zero"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for Selling Price when there is Profit?",
+      "options": [
+        "CP + Profit",
+        "CP - Profit",
+        "CP × Profit",
+        "CP / Profit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for Selling Price when there is Loss?",
+      "options": [
+        "CP - Loss",
+        "CP + Loss",
+        "CP × Loss",
+        "CP / Loss"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for Cost Price when there is Profit?",
+      "options": [
+        "SP - Profit",
+        "SP + Profit",
+        "SP × Profit",
+        "SP / Profit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for Cost Price when there is Loss?",
+      "options": [
+        "SP + Loss",
+        "SP - Loss",
+        "SP × Loss",
+        "SP / Loss"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If CP = 100 and Profit = 20, what is SP?",
+      "options": [
+        "80",
+        "100",
+        "120",
+        "140"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "If CP = 200 and Loss = 50, what is SP?",
+      "options": [
+        "150",
+        "200",
+        "250",
+        "300"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If SP = 150 and Profit = 30, what is CP?",
+      "options": [
+        "100",
+        "120",
+        "150",
+        "180"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If SP = 80 and Loss = 20, what is CP?",
+      "options": [
+        "60",
+        "80",
+        "100",
+        "120"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the Profit Percentage if CP = 100 and Profit = 20?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the Loss Percentage if CP = 200 and Loss = 40?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a discount?",
+      "options": [
+        "A reduction in the price",
+        "An increase in the price",
+        "The cost price",
+        "The selling price"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If MP = 200 and Discount = 20, what is SP?",
+      "options": [
+        "160",
+        "180",
+        "200",
+        "220"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If MP = 500 and SP = 400, what is the Discount?",
+      "options": [
+        "50",
+        "80",
+        "100",
+        "150"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the Discount Percentage if MP = 300 and Discount = 60?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the formula for Marked Price?",
+      "options": [
+        "SP + Discount",
+        "SP - Discount",
+        "SP × Discount",
+        "SP / Discount"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for Profit when SP and CP are given?",
+      "options": [
+        "SP - CP",
+        "CP - SP",
+        "SP + CP",
+        "SP × CP"
+      ],
+      "answer": 0
+    }
+  ]
+}

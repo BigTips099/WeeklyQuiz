@@ -1,0 +1,516 @@
+{
+  "category": "Mathematical Terms & Symbols",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "What does the symbol '+' represent?",
+      "options": [
+        "Addition",
+        "Subtraction",
+        "Multiplication",
+        "Division"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the symbol '-' represent?",
+      "options": [
+        "Addition",
+        "Subtraction",
+        "Multiplication",
+        "Division"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the symbol '×' represent?",
+      "options": [
+        "Addition",
+        "Subtraction",
+        "Multiplication",
+        "Division"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the symbol '÷' represent?",
+      "options": [
+        "Addition",
+        "Subtraction",
+        "Multiplication",
+        "Division"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What does the symbol '=' represent?",
+      "options": [
+        "Equality",
+        "Inequality",
+        "Approximation",
+        "Proportion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the symbol '≠' represent?",
+      "options": [
+        "Equality",
+        "Not equal to",
+        "Approximately equal to",
+        "Less than"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the symbol '≈' represent?",
+      "options": [
+        "Equality",
+        "Not equal to",
+        "Approximately equal to",
+        "Less than"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the symbol '<' represent?",
+      "options": [
+        "Greater than",
+        "Less than",
+        "Equal to",
+        "Not equal to"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the symbol '>' represent?",
+      "options": [
+        "Greater than",
+        "Less than",
+        "Equal to",
+        "Not equal to"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the symbol '≤' represent?",
+      "options": [
+        "Less than or equal to",
+        "Greater than or equal to",
+        "Less than",
+        "Greater than"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the symbol '≥' represent?",
+      "options": [
+        "Less than or equal to",
+        "Greater than or equal to",
+        "Less than",
+        "Greater than"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the symbol for percentage?",
+      "options": [
+        "%",
+        "‰",
+        "∞",
+        "π"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for infinity?",
+      "options": [
+        "%",
+        "‰",
+        "∞",
+        "π"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the symbol for pi?",
+      "options": [
+        "%",
+        "‰",
+        "∞",
+        "π"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the value of π (pi) approximately?",
+      "options": [
+        "3.14",
+        "3.41",
+        "4.13",
+        "2.71"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for square root?",
+      "options": [
+        "√",
+        "∛",
+        "∜",
+        "^"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for cube root?",
+      "options": [
+        "√",
+        "∛",
+        "∜",
+        "^"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the symbol '∑' represent?",
+      "options": [
+        "Summation",
+        "Product",
+        "Integral",
+        "Derivative"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the symbol '∫' represent?",
+      "options": [
+        "Summation",
+        "Product",
+        "Integral",
+        "Derivative"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the symbol 'd/dx' represent?",
+      "options": [
+        "Summation",
+        "Product",
+        "Integral",
+        "Derivative"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a variable?",
+      "options": [
+        "A symbol that can take different values",
+        "A fixed number",
+        "A mathematical operation",
+        "A geometric shape"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a constant?",
+      "options": [
+        "A symbol that can take different values",
+        "A fixed value that does not change",
+        "A mathematical operation",
+        "A geometric shape"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the symbol for gamma?",
+      "options": [
+        "Γ",
+        "Δ",
+        "Θ",
+        "Ω"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for delta?",
+      "options": [
+        "Γ",
+        "Δ",
+        "Θ",
+        "Ω"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the symbol for theta?",
+      "options": [
+        "Γ",
+        "Δ",
+        "Θ",
+        "Ω"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the symbol for omega?",
+      "options": [
+        "Γ",
+        "Δ",
+        "Θ",
+        "Ω"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the symbol for alpha?",
+      "options": [
+        "α",
+        "β",
+        "γ",
+        "δ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for beta?",
+      "options": [
+        "α",
+        "β",
+        "γ",
+        "δ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the symbol for gamma (lowercase)?",
+      "options": [
+        "α",
+        "β",
+        "γ",
+        "δ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the symbol for delta (lowercase)?",
+      "options": [
+        "α",
+        "β",
+        "γ",
+        "δ"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the symbol for epsilon?",
+      "options": [
+        "ε",
+        "ζ",
+        "η",
+        "θ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for zeta?",
+      "options": [
+        "ε",
+        "ζ",
+        "η",
+        "θ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the symbol for eta?",
+      "options": [
+        "ε",
+        "ζ",
+        "η",
+        "θ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the symbol for theta (lowercase)?",
+      "options": [
+        "ε",
+        "ζ",
+        "η",
+        "θ"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the symbol for iota?",
+      "options": [
+        "ι",
+        "κ",
+        "λ",
+        "μ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for kappa?",
+      "options": [
+        "ι",
+        "κ",
+        "λ",
+        "μ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the symbol for lambda?",
+      "options": [
+        "ι",
+        "κ",
+        "λ",
+        "μ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the symbol for mu?",
+      "options": [
+        "ι",
+        "κ",
+        "λ",
+        "μ"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the symbol for nu?",
+      "options": [
+        "ν",
+        "ξ",
+        "ο",
+        "π"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for xi?",
+      "options": [
+        "ν",
+        "ξ",
+        "ο",
+        "π"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the symbol for omicron?",
+      "options": [
+        "ν",
+        "ξ",
+        "ο",
+        "π"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the symbol for pi (lowercase)?",
+      "options": [
+        "ν",
+        "ξ",
+        "ο",
+        "π"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the symbol for rho?",
+      "options": [
+        "ρ",
+        "σ",
+        "τ",
+        "υ"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for sigma?",
+      "options": [
+        "ρ",
+        "σ",
+        "τ",
+        "υ"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the symbol for tau?",
+      "options": [
+        "ρ",
+        "σ",
+        "τ",
+        "υ"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the symbol for upsilon?",
+      "options": [
+        "ρ",
+        "σ",
+        "τ",
+        "υ"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the symbol for phi?",
+      "options": [
+        "φ",
+        "χ",
+        "ψ",
+        "ω"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for chi?",
+      "options": [
+        "φ",
+        "χ",
+        "ψ",
+        "ω"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the symbol for psi?",
+      "options": [
+        "φ",
+        "χ",
+        "ψ",
+        "ω"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the symbol for omega (lowercase)?",
+      "options": [
+        "φ",
+        "χ",
+        "ψ",
+        "ω"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the value of e (Euler's number) approximately?",
+      "options": [
+        "2.71",
+        "3.14",
+        "1.61",
+        "4.13"
+      ],
+      "answer": 0
+    }
+  ]
+}

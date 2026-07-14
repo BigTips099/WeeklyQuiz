@@ -1,0 +1,306 @@
+{
+  "category": "Time, Speed & Distance",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "question": "What is the formula for speed?",
+      "options": [
+        "Distance / Time",
+        "Time / Distance",
+        "Distance × Time",
+        "Distance + Time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for distance?",
+      "options": [
+        "Speed × Time",
+        "Time / Speed",
+        "Speed / Time",
+        "Speed + Time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for time?",
+      "options": [
+        "Distance / Speed",
+        "Speed / Distance",
+        "Distance × Speed",
+        "Distance + Speed"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the SI unit of speed?",
+      "options": [
+        "Meters per second (m/s)",
+        "Kilometers per hour (km/h)",
+        "Miles per hour (mph)",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the SI unit of time?",
+      "options": [
+        "Second",
+        "Minute",
+        "Hour",
+        "Day"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the SI unit of distance?",
+      "options": [
+        "Meter",
+        "Kilometer",
+        "Centimeter",
+        "Millimeter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If speed is constant, what happens to distance when time increases?",
+      "options": [
+        "Distance increases",
+        "Distance decreases",
+        "Distance remains constant",
+        "Distance becomes zero"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If time is constant, what happens to distance when speed increases?",
+      "options": [
+        "Distance increases",
+        "Distance decreases",
+        "Distance remains constant",
+        "Distance becomes zero"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If distance is constant, what happens to time when speed increases?",
+      "options": [
+        "Time decreases",
+        "Time increases",
+        "Time remains constant",
+        "Time becomes zero"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is average speed?",
+      "options": [
+        "Total distance / Total time",
+        "Total time / Total distance",
+        "Speed + Time",
+        "Speed × Time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is relative speed?",
+      "options": [
+        "The speed of one object relative to another",
+        "The absolute speed of an object",
+        "The speed of light",
+        "The speed of sound"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If two objects move in the same direction, what is their relative speed?",
+      "options": [
+        "Difference of their speeds",
+        "Sum of their speeds",
+        "Product of their speeds",
+        "Average of their speeds"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If two objects move in opposite directions, what is their relative speed?",
+      "options": [
+        "Sum of their speeds",
+        "Difference of their speeds",
+        "Product of their speeds",
+        "Average of their speeds"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is work in mathematics?",
+      "options": [
+        "Force × Distance",
+        "Force / Distance",
+        "Distance / Force",
+        "Force + Distance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for work?",
+      "options": [
+        "Force × Distance",
+        "Force / Distance",
+        "Distance / Force",
+        "Force + Distance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is power?",
+      "options": [
+        "Work / Time",
+        "Work × Time",
+        "Time / Work",
+        "Work + Time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the SI unit of work?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the SI unit of power?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Newton",
+        "Pascal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If speed is 60 km/h, what is the distance covered in 2 hours?",
+      "options": [
+        "60 km",
+        "100 km",
+        "120 km",
+        "180 km"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "If distance is 100 km and time is 2 hours, what is the speed?",
+      "options": [
+        "25 km/h",
+        "50 km/h",
+        "75 km/h",
+        "100 km/h"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If speed is 40 km/h and distance is 120 km, what is the time?",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "3 hours",
+        "4 hours"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the speed of light approximately?",
+      "options": [
+        "3 × 10^8 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^10 m/s",
+        "3 × 10^12 m/s"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the speed of sound in air approximately?",
+      "options": [
+        "340 m/s",
+        "330 m/s",
+        "350 m/s",
+        "360 m/s"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If two objects move towards each other, their relative speed is the:",
+      "options": [
+        "Sum of their speeds",
+        "Difference of their speeds",
+        "Product of their speeds",
+        "Average of their speeds"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If two objects move away from each other, their relative speed is the:",
+      "options": [
+        "Sum of their speeds",
+        "Difference of their speeds",
+        "Product of their speeds",
+        "Average of their speeds"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for acceleration?",
+      "options": [
+        "Change in velocity / Time",
+        "Time / Change in velocity",
+        "Change in velocity × Time",
+        "Change in velocity + Time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the SI unit of acceleration?",
+      "options": [
+        "m/s^2",
+        "m/s",
+        "m^2/s",
+        "m^2/s^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the difference between speed and velocity?",
+      "options": [
+        "Speed is scalar, velocity is vector",
+        "Speed is vector, velocity is scalar",
+        "Both are scalar",
+        "Both are vector"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a scalar quantity?",
+      "options": [
+        "A quantity with magnitude only",
+        "A quantity with magnitude and direction",
+        "A quantity with direction only",
+        "A quantity with neither magnitude nor direction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a vector quantity?",
+      "options": [
+        "A quantity with magnitude only",
+        "A quantity with magnitude and direction",
+        "A quantity with direction only",
+        "A quantity with neither magnitude nor direction"
+      ],
+      "answer": 1
+    }
+  ]
+}

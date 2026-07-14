@@ -1,0 +1,416 @@
+{
+  "category": "Mensuration (Formulas)",
+  "totalQuestions": 40,
+  "questions": [
+    {
+      "question": "What is the formula for the area of a rectangle?",
+      "options": [
+        "Length × Width",
+        "2(Length + Width)",
+        "Length × Width × Height",
+        "πr^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the perimeter of a rectangle?",
+      "options": [
+        "Length × Width",
+        "2(Length + Width)",
+        "Length × Width × Height",
+        "πr^2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the formula for the area of a square?",
+      "options": [
+        "Side × Side",
+        "4 × Side",
+        "Side × 2",
+        "Side + Side"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the perimeter of a square?",
+      "options": [
+        "Side × Side",
+        "4 × Side",
+        "Side × 2",
+        "Side + Side"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the formula for the area of a triangle?",
+      "options": [
+        "1/2 × Base × Height",
+        "Base × Height",
+        "1/2 × Base × Height × Width",
+        "Base × Height × 2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the perimeter of a triangle?",
+      "options": [
+        "Side1 + Side2 + Side3",
+        "1/2 × Base × Height",
+        "Base × Height",
+        "πr^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a circle?",
+      "options": [
+        "πr^2",
+        "2πr",
+        "πd",
+        "πr^2h"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the circumference of a circle?",
+      "options": [
+        "πr^2",
+        "2πr",
+        "πd",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the formula for the area of a parallelogram?",
+      "options": [
+        "Base × Height",
+        "1/2 × Base × Height",
+        "Length × Width",
+        "πr^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a trapezium?",
+      "options": [
+        "1/2 × (Sum of parallel sides) × Height",
+        "Base × Height",
+        "1/2 × Base × Height",
+        "Length × Width"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a rhombus?",
+      "options": [
+        "1/2 × d1 × d2",
+        "Base × Height",
+        "Side × Side",
+        "1/2 × Base × Height"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the volume of a cube?",
+      "options": [
+        "Side^3",
+        "Side^2",
+        "6 × Side^2",
+        "Length × Width × Height"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the surface area of a cube?",
+      "options": [
+        "Side^3",
+        "Side^2",
+        "6 × Side^2",
+        "Length × Width × Height"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the formula for the volume of a cuboid?",
+      "options": [
+        "Length × Width × Height",
+        "Side^3",
+        "2(Length + Width)",
+        "πr^2h"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the surface area of a cuboid?",
+      "options": [
+        "2(Length × Width + Width × Height + Height × Length)",
+        "Length × Width × Height",
+        "Side^3",
+        "4πr^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the volume of a cylinder?",
+      "options": [
+        "πr^2h",
+        "2πrh",
+        "2πr^2h",
+        "πr^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the curved surface area of a cylinder?",
+      "options": [
+        "πr^2h",
+        "2πrh",
+        "2πr^2h",
+        "πr^2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the formula for the total surface area of a cylinder?",
+      "options": [
+        "πr^2h",
+        "2πrh + 2πr^2",
+        "2πr^2h",
+        "πr^2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the formula for the volume of a cone?",
+      "options": [
+        "1/3 × πr^2h",
+        "πr^2h",
+        "1/2 × πr^2h",
+        "2πr^2h"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the volume of a sphere?",
+      "options": [
+        "4/3 × πr^3",
+        "πr^3",
+        "4πr^2",
+        "1/3 × πr^3"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the surface area of a sphere?",
+      "options": [
+        "4/3 × πr^3",
+        "4πr^2",
+        "πr^3",
+        "1/3 × πr^3"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the formula for the volume of a hemisphere?",
+      "options": [
+        "2/3 × πr^3",
+        "4/3 × πr^3",
+        "4πr^2",
+        "1/3 × πr^3"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the surface area of a hemisphere?",
+      "options": [
+        "3πr^2",
+        "4πr^2",
+        "2πr^2",
+        "πr^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the volume of a prism?",
+      "options": [
+        "Area of base × Height",
+        "Length × Width × Height",
+        "1/2 × Base × Height",
+        "4/3 × πr^3"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the volume of a pyramid?",
+      "options": [
+        "1/3 × Area of base × Height",
+        "Area of base × Height",
+        "1/2 × Base × Height",
+        "Length × Width × Height"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a sector of a circle?",
+      "options": [
+        "(θ/360) × πr^2",
+        "θr^2",
+        "πr^2",
+        "2πr"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the length of an arc of a circle?",
+      "options": [
+        "(θ/360) × 2πr",
+        "πr^2",
+        "2πr",
+        "θr^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a square?",
+      "options": [
+        "Side^2",
+        "4 × Side",
+        "Side × 2",
+        "Side + Side"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the perimeter of a circle (circumference)?",
+      "options": [
+        "πr^2",
+        "2πr",
+        "πd",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the formula for the area of a rectangle?",
+      "options": [
+        "Length × Width",
+        "2(Length + Width)",
+        "Length × Width × Height",
+        "πr^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the diagonal of a square?",
+      "options": [
+        "Side × √2",
+        "Side × 2",
+        "Side + Side",
+        "4 × Side"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the diagonal of a rectangle?",
+      "options": [
+        "√(Length^2 + Width^2)",
+        "Length + Width",
+        "Length × Width",
+        "2(Length + Width)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a regular hexagon?",
+      "options": [
+        "(3√3/2) × Side^2",
+        "6 × Side^2",
+        "Side^3",
+        "πr^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the sum of interior angles of a polygon?",
+      "options": [
+        "(n-2) × 180°",
+        "n × 180°",
+        "(n+2) × 180°",
+        "360° × n"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a regular polygon?",
+      "options": [
+        "1/2 × Perimeter × Apothem",
+        "Side × Side",
+        "1/2 × Base × Height",
+        "πr^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the volume of a frustum of a cone?",
+      "options": [
+        "1/3 × πh(R^2 + Rr + r^2)",
+        "1/2 × πh(R^2 + Rr + r^2)",
+        "2/3 × πh(R^2 + Rr + r^2)",
+        "4/3 × πh(R^2 + Rr + r^2)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the volume of a hollow cylinder?",
+      "options": [
+        "πh(R^2 - r^2)",
+        "πh(R^2 + r^2)",
+        "2πh(R^2 - r^2)",
+        "πh(R^2 × r^2)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a rhombus?",
+      "options": [
+        "1/2 × d1 × d2",
+        "Side × Side",
+        "Base × Height",
+        "1/2 × Base × Height"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a kite?",
+      "options": [
+        "1/2 × d1 × d2",
+        "Side × Side",
+        "Base × Height",
+        "1/2 × Base × Height"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a parallelogram?",
+      "options": [
+        "Base × Height",
+        "1/2 × Base × Height",
+        "Side × Side",
+        "1/2 × d1 × d2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a trapezoid (trapezium)?",
+      "options": [
+        "1/2 × (Sum of parallel sides) × Height",
+        "Base × Height",
+        "1/2 × Base × Height",
+        "Side × Side"
+      ],
+      "answer": 0
+    }
+  ]
+}

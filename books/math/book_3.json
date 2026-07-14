@@ -1,0 +1,506 @@
+{
+  "category": "Fractions & Decimals",
+  "totalQuestions": 40,
+  "questions": [
+    {
+      "question": "What is a fraction?",
+      "options": [
+        "A part of a whole",
+        "A whole number",
+        "A decimal number",
+        "A percentage"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the numerator in the fraction 3/5?",
+      "options": [
+        "3",
+        "5",
+        "8",
+        "15"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the denominator in the fraction 3/5?",
+      "options": [
+        "3",
+        "5",
+        "8",
+        "15"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a proper fraction?",
+      "options": [
+        "A fraction where numerator is less than denominator",
+        "A fraction where numerator is greater than denominator",
+        "A fraction where numerator equals denominator",
+        "A fraction with a whole number"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an improper fraction?",
+      "options": [
+        "A fraction where numerator is less than denominator",
+        "A fraction where numerator is greater than denominator",
+        "A fraction where numerator equals denominator",
+        "A fraction with a whole number"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a mixed number?",
+      "options": [
+        "A combination of a whole number and a fraction",
+        "A fraction with numerator less than denominator",
+        "A fraction with numerator greater than denominator",
+        "A decimal number"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the equivalent fraction of 1/2?",
+      "options": [
+        "2/4",
+        "2/3",
+        "3/4",
+        "4/5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the equivalent fraction of 2/3?",
+      "options": [
+        "1/2",
+        "4/6",
+        "3/4",
+        "4/5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 1/2 in simplest form?",
+      "options": [
+        "1/2",
+        "2/4",
+        "3/6",
+        "4/8"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is 4/8 in simplest form?",
+      "options": [
+        "1/2",
+        "2/4",
+        "3/6",
+        "4/8"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is 6/9 in simplest form?",
+      "options": [
+        "1/2",
+        "2/3",
+        "3/4",
+        "4/5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the sum of 1/4 and 1/4?",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the sum of 1/3 and 1/3?",
+      "options": [
+        "1/3",
+        "2/3",
+        "1",
+        "4/3"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the difference between 3/4 and 1/4?",
+      "options": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the product of 1/2 and 1/3?",
+      "options": [
+        "1/5",
+        "1/6",
+        "1/4",
+        "2/5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the product of 2/3 and 3/4?",
+      "options": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "3/4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 1/2 divided by 1/3?",
+      "options": [
+        "1/6",
+        "1.5",
+        "2/3",
+        "3/2"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is 2/3 divided by 3/4?",
+      "options": [
+        "1/2",
+        "8/9",
+        "9/8",
+        "2/3"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a decimal?",
+      "options": [
+        "A fraction with denominator 10, 100, 1000, etc.",
+        "A whole number",
+        "A percentage",
+        "A ratio"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is 1/2 as a decimal?",
+      "options": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1.0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 1/4 as a decimal?",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.25",
+        "0.5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 3/4 as a decimal?",
+      "options": [
+        "0.25",
+        "0.5",
+        "0.75",
+        "1.0"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 1/5 as a decimal?",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 2/5 as a decimal?",
+      "options": [
+        "0.2",
+        "0.3",
+        "0.4",
+        "0.5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 3/5 as a decimal?",
+      "options": [
+        "0.2",
+        "0.4",
+        "0.6",
+        "0.8"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 4/5 as a decimal?",
+      "options": [
+        "0.2",
+        "0.4",
+        "0.6",
+        "0.8"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is 1/8 as a decimal?",
+      "options": [
+        "0.1",
+        "0.12",
+        "0.125",
+        "0.15"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 3/8 as a decimal?",
+      "options": [
+        "0.25",
+        "0.375",
+        "0.5",
+        "0.625"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 5/8 as a decimal?",
+      "options": [
+        "0.375",
+        "0.5",
+        "0.625",
+        "0.75"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 7/8 as a decimal?",
+      "options": [
+        "0.5",
+        "0.625",
+        "0.75",
+        "0.875"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is 0.5 as a fraction?",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 0.25 as a fraction?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "2/3"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 0.75 as a fraction?",
+      "options": [
+        "1/2",
+        "2/3",
+        "3/4",
+        "4/5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 0.125 as a fraction?",
+      "options": [
+        "1/4",
+        "1/6",
+        "1/8",
+        "1/10"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a percentage?",
+      "options": [
+        "A fraction with denominator 100",
+        "A fraction with denominator 10",
+        "A decimal number",
+        "A ratio"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is 1/2 as a percentage?",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 1/4 as a percentage?",
+      "options": [
+        "10%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 3/4 as a percentage?",
+      "options": [
+        "50%",
+        "60%",
+        "70%",
+        "75%"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is 0.5 as a percentage?",
+      "options": [
+        "5%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 0.25 as a percentage?",
+      "options": [
+        "5%",
+        "10%",
+        "20%",
+        "25%"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is 1/10 as a percentage?",
+      "options": [
+        "1%",
+        "5%",
+        "10%",
+        "15%"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 3/10 as a percentage?",
+      "options": [
+        "3%",
+        "10%",
+        "25%",
+        "30%"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is 7/10 as a percentage?",
+      "options": [
+        "7%",
+        "30%",
+        "50%",
+        "70%"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is 20% as a fraction?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is 25% as a fraction?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is 50% as a fraction?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is 75% as a fraction?",
+      "options": [
+        "1/2",
+        "2/3",
+        "3/4",
+        "4/5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the ratio of 2 to 4?",
+      "options": [
+        "1:4",
+        "1:3",
+        "1:2",
+        "2:1"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the ratio of 3 to 6?",
+      "options": [
+        "1:3",
+        "1:2",
+        "2:1",
+        "3:1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the proportion of 1/2 = 2/4?",
+      "options": [
+        "True",
+        "False",
+        "Undefined",
+        "Not equal"
+      ],
+      "answer": 0
+    }
+  ]
+}

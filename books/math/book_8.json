@@ -1,0 +1,306 @@
+{
+  "category": "Set Theory",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "question": "What is a set in mathematics?",
+      "options": [
+        "A collection of distinct objects",
+        "A single number",
+        "A mathematical equation",
+        "A geometric shape"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a set?",
+      "options": [
+        "{1, 2, 3, 4}",
+        "1, 2, 3, 4",
+        "(1, 2, 3, 4)",
+        "[1, 2, 3, 4]"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for a set?",
+      "options": [
+        "{ }",
+        "( )",
+        "[ ]",
+        "< >"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a subset?",
+      "options": [
+        "A set that is contained within another set",
+        "A set that contains all elements",
+        "A set with no elements",
+        "A set with one element"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for subset?",
+      "options": [
+        "⊆",
+        "⊂",
+        "∈",
+        "∉"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a proper subset?",
+      "options": [
+        "A subset that is not equal to the set",
+        "A subset that is equal to the set",
+        "A set with no elements",
+        "A set with one element"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for proper subset?",
+      "options": [
+        "⊂",
+        "⊆",
+        "∈",
+        "∉"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an empty set?",
+      "options": [
+        "A set with no elements",
+        "A set with one element",
+        "A set with all elements",
+        "A set with infinite elements"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for an empty set?",
+      "options": [
+        "∅",
+        "{}",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a universal set?",
+      "options": [
+        "A set that contains all elements under consideration",
+        "A set with no elements",
+        "A set with one element",
+        "A set with infinite elements"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for universal set?",
+      "options": [
+        "U",
+        "∅",
+        "∈",
+        "⊂"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a finite set?",
+      "options": [
+        "A set with a limited number of elements",
+        "A set with no elements",
+        "A set with infinite elements",
+        "A set with all elements"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an infinite set?",
+      "options": [
+        "A set with unlimited number of elements",
+        "A set with no elements",
+        "A set with one element",
+        "A set with limited elements"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the union of two sets?",
+      "options": [
+        "All elements that are in either set",
+        "All elements that are in both sets",
+        "All elements that are in neither set",
+        "All elements that are in the first set only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for union?",
+      "options": [
+        "∪",
+        "∩",
+        "⊂",
+        "∈"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the intersection of two sets?",
+      "options": [
+        "All elements that are in either set",
+        "All elements that are in both sets",
+        "All elements that are in neither set",
+        "All elements that are in the first set only"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the symbol for intersection?",
+      "options": [
+        "∪",
+        "∩",
+        "⊂",
+        "∈"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the complement of a set?",
+      "options": [
+        "All elements not in the set",
+        "All elements in the set",
+        "All elements in both sets",
+        "All elements in neither set"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the symbol for complement?",
+      "options": [
+        "A'",
+        "A^c",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a Venn diagram?",
+      "options": [
+        "A diagram that shows relationships between sets",
+        "A diagram that shows numbers",
+        "A diagram that shows equations",
+        "A diagram that shows shapes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a disjoint set?",
+      "options": [
+        "Sets with no common elements",
+        "Sets with common elements",
+        "Sets with all elements",
+        "Sets with no elements"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the element symbol?",
+      "options": [
+        "∈",
+        "∉",
+        "⊂",
+        "⊆"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the not element symbol?",
+      "options": [
+        "∈",
+        "∉",
+        "⊂",
+        "⊆"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a power set?",
+      "options": [
+        "The set of all subsets of a set",
+        "The set of all elements",
+        "The set of all unions",
+        "The set of all intersections"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the cardinality of a set?",
+      "options": [
+        "The number of elements in the set",
+        "The sum of elements in the set",
+        "The product of elements in the set",
+        "The average of elements in the set"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the cardinality of set A = {1, 2, 3}?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the cardinality of an empty set?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the difference of two sets?",
+      "options": [
+        "Elements in the first set but not in the second",
+        "Elements in both sets",
+        "Elements in either set",
+        "Elements in neither set"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a singleton set?",
+      "options": [
+        "A set with exactly one element",
+        "A set with no elements",
+        "A set with two elements",
+        "A set with infinite elements"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the cardinality of A × B if |A| = 3 and |B| = 4?",
+      "options": [
+        "7",
+        "12",
+        "24",
+        "48"
+      ],
+      "answer": 1
+    }
+  ]
+}

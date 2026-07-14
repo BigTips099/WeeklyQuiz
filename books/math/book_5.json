@@ -1,0 +1,526 @@
+{
+  "category": "Geometry (Shapes & Angles)",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "What is a point in geometry?",
+      "options": [
+        "A location in space with no dimensions",
+        "A line with length",
+        "A flat surface",
+        "A solid object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a line?",
+      "options": [
+        "A straight path that extends infinitely in both directions",
+        "A straight path with two endpoints",
+        "A flat surface",
+        "A curved path"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a line segment?",
+      "options": [
+        "A straight path that extends infinitely in both directions",
+        "A part of a line with two endpoints",
+        "A flat surface",
+        "A curved path"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a ray?",
+      "options": [
+        "A straight path that extends infinitely in both directions",
+        "A part of a line with one endpoint",
+        "A flat surface",
+        "A curved path"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an angle?",
+      "options": [
+        "A figure formed by two rays with a common endpoint",
+        "A straight line",
+        "A circle",
+        "A triangle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a right angle?",
+      "options": [
+        "An angle of 45 degrees",
+        "An angle of 90 degrees",
+        "An angle of 180 degrees",
+        "An angle of 360 degrees"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an acute angle?",
+      "options": [
+        "An angle less than 90 degrees",
+        "An angle greater than 90 degrees",
+        "An angle equal to 90 degrees",
+        "An angle equal to 180 degrees"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an obtuse angle?",
+      "options": [
+        "An angle less than 90 degrees",
+        "An angle greater than 90 degrees but less than 180 degrees",
+        "An angle equal to 90 degrees",
+        "An angle equal to 180 degrees"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a straight angle?",
+      "options": [
+        "An angle of 45 degrees",
+        "An angle of 90 degrees",
+        "An angle of 180 degrees",
+        "An angle of 360 degrees"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a reflex angle?",
+      "options": [
+        "An angle less than 90 degrees",
+        "An angle greater than 180 degrees but less than 360 degrees",
+        "An angle equal to 180 degrees",
+        "An angle equal to 360 degrees"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a complete angle?",
+      "options": [
+        "An angle of 45 degrees",
+        "An angle of 90 degrees",
+        "An angle of 180 degrees",
+        "An angle of 360 degrees"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a triangle?",
+      "options": [
+        "A polygon with 3 sides",
+        "A polygon with 4 sides",
+        "A polygon with 5 sides",
+        "A polygon with 6 sides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the sum of interior angles of a triangle?",
+      "options": [
+        "90 degrees",
+        "180 degrees",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an equilateral triangle?",
+      "options": [
+        "A triangle with all sides equal",
+        "A triangle with two equal sides",
+        "A triangle with no equal sides",
+        "A triangle with a right angle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an isosceles triangle?",
+      "options": [
+        "A triangle with all sides equal",
+        "A triangle with two equal sides",
+        "A triangle with no equal sides",
+        "A triangle with a right angle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a scalene triangle?",
+      "options": [
+        "A triangle with all sides equal",
+        "A triangle with two equal sides",
+        "A triangle with no equal sides",
+        "A triangle with a right angle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a right-angled triangle?",
+      "options": [
+        "A triangle with one angle equal to 90 degrees",
+        "A triangle with all angles equal",
+        "A triangle with two equal sides",
+        "A triangle with no equal sides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a quadrilateral?",
+      "options": [
+        "A polygon with 3 sides",
+        "A polygon with 4 sides",
+        "A polygon with 5 sides",
+        "A polygon with 6 sides"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the sum of interior angles of a quadrilateral?",
+      "options": [
+        "180 degrees",
+        "270 degrees",
+        "360 degrees",
+        "450 degrees"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a square?",
+      "options": [
+        "A quadrilateral with all sides equal and all angles 90 degrees",
+        "A quadrilateral with opposite sides equal",
+        "A quadrilateral with no equal sides",
+        "A quadrilateral with one pair of parallel sides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a rectangle?",
+      "options": [
+        "A quadrilateral with all sides equal",
+        "A quadrilateral with opposite sides equal and all angles 90 degrees",
+        "A quadrilateral with all angles 90 degrees but sides not equal",
+        "A quadrilateral with no equal sides"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a parallelogram?",
+      "options": [
+        "A quadrilateral with opposite sides parallel",
+        "A quadrilateral with all sides equal",
+        "A quadrilateral with all angles 90 degrees",
+        "A quadrilateral with no parallel sides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a rhombus?",
+      "options": [
+        "A quadrilateral with all sides equal but angles not 90 degrees",
+        "A quadrilateral with all sides equal and all angles 90 degrees",
+        "A quadrilateral with opposite sides parallel",
+        "A quadrilateral with no equal sides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a trapezium?",
+      "options": [
+        "A quadrilateral with one pair of parallel sides",
+        "A quadrilateral with all sides equal",
+        "A quadrilateral with all angles 90 degrees",
+        "A quadrilateral with no parallel sides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a circle?",
+      "options": [
+        "A set of points equidistant from a center point",
+        "A polygon with 4 sides",
+        "A triangle",
+        "A straight line"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the radius of a circle?",
+      "options": [
+        "The distance from the center to any point on the circle",
+        "The distance across the circle through the center",
+        "The distance around the circle",
+        "The area inside the circle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the diameter of a circle?",
+      "options": [
+        "The distance from the center to any point on the circle",
+        "The distance across the circle through the center",
+        "The distance around the circle",
+        "The area inside the circle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the circumference of a circle?",
+      "options": [
+        "The distance from the center to any point on the circle",
+        "The distance across the circle through the center",
+        "The distance around the circle",
+        "The area inside the circle"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the formula for the circumference of a circle?",
+      "options": [
+        "2πr",
+        "πr^2",
+        "2πr^2",
+        "πd^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the area of a circle?",
+      "options": [
+        "2πr",
+        "πr^2",
+        "2πr^2",
+        "πd^2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the value of π (pi)?",
+      "options": [
+        "3.14",
+        "3.41",
+        "4.13",
+        "2.71"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the Pythagorean theorem?",
+      "options": [
+        "a^2 + b^2 = c^2",
+        "a^2 - b^2 = c^2",
+        "a + b = c",
+        "a × b = c^2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a chord of a circle?",
+      "options": [
+        "A line segment joining two points on the circle",
+        "A line that touches the circle at one point",
+        "A line that passes through the center",
+        "The distance around the circle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a tangent to a circle?",
+      "options": [
+        "A line segment joining two points on the circle",
+        "A line that touches the circle at exactly one point",
+        "A line that passes through the center",
+        "The distance around the circle"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a secant of a circle?",
+      "options": [
+        "A line that intersects the circle at two points",
+        "A line that touches the circle at one point",
+        "A line that passes through the center",
+        "The distance around the circle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a polygon?",
+      "options": [
+        "A closed figure made of line segments",
+        "A curved figure",
+        "A circle",
+        "A triangle only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a regular polygon?",
+      "options": [
+        "A polygon with all sides and angles equal",
+        "A polygon with all sides equal but angles not equal",
+        "A polygon with all angles equal but sides not equal",
+        "A polygon with no equal sides"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an irregular polygon?",
+      "options": [
+        "A polygon with all sides and angles equal",
+        "A polygon with sides and angles not equal",
+        "A polygon with all sides equal",
+        "A polygon with all angles equal"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a diagonal of a polygon?",
+      "options": [
+        "A line segment joining two non-consecutive vertices",
+        "A line segment joining two consecutive vertices",
+        "A line that passes through the center",
+        "The perimeter of the polygon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the sum of interior angles of a pentagon?",
+      "options": [
+        "360 degrees",
+        "450 degrees",
+        "540 degrees",
+        "630 degrees"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the sum of interior angles of a hexagon?",
+      "options": [
+        "540 degrees",
+        "600 degrees",
+        "660 degrees",
+        "720 degrees"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a congruent figure?",
+      "options": [
+        "Figures with the same shape and size",
+        "Figures with the same shape but different size",
+        "Figures with the same size but different shape",
+        "Figures with different shape and size"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a similar figure?",
+      "options": [
+        "Figures with the same shape and size",
+        "Figures with the same shape but different size",
+        "Figures with the same size but different shape",
+        "Figures with different shape and size"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a sphere?",
+      "options": [
+        "A 3D shape with all points equidistant from the center",
+        "A 3D shape with 6 square faces",
+        "A 3D shape with a circular base",
+        "A 3D shape with 4 triangular faces"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a cube?",
+      "options": [
+        "A 3D shape with all points equidistant from the center",
+        "A 3D shape with 6 square faces",
+        "A 3D shape with a circular base",
+        "A 3D shape with 4 triangular faces"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a cylinder?",
+      "options": [
+        "A 3D shape with all points equidistant from the center",
+        "A 3D shape with 6 square faces",
+        "A 3D shape with two circular bases",
+        "A 3D shape with 4 triangular faces"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a cone?",
+      "options": [
+        "A 3D shape with a circular base and a curved surface meeting at a point",
+        "A 3D shape with 6 square faces",
+        "A 3D shape with two circular bases",
+        "A 3D shape with all points equidistant from the center"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a pyramid?",
+      "options": [
+        "A 3D shape with a polygonal base and triangular faces meeting at a point",
+        "A 3D shape with 6 square faces",
+        "A 3D shape with two circular bases",
+        "A 3D shape with all points equidistant from the center"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a prism?",
+      "options": [
+        "A 3D shape with two parallel identical bases",
+        "A 3D shape with a circular base",
+        "A 3D shape with all points equidistant from the center",
+        "A 3D shape with 4 triangular faces"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an axis of symmetry?",
+      "options": [
+        "A line that divides a figure into two mirror-image halves",
+        "A line that passes through the center",
+        "A line that intersects the figure at two points",
+        "A line that touches the figure at one point"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a perpendicular line?",
+      "options": [
+        "Two lines that intersect at right angles",
+        "Two lines that never intersect",
+        "Two lines that intersect at any angle",
+        "Two lines that are parallel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a parallel line?",
+      "options": [
+        "Two lines that intersect at right angles",
+        "Two lines that never intersect",
+        "Two lines that intersect at any angle",
+        "Two lines that are perpendicular"
+      ],
+      "answer": 1
+    }
+  ]
+}
