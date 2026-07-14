@@ -1,0 +1,986 @@
+{
+  "category": "Hardware & Devices",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "Which of the following is an input device?",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Keyboard",
+        "Speaker"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an output device?",
+      "options": [
+        "Mouse",
+        "Keyboard",
+        "Monitor",
+        "Scanner"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The physical components of a computer system are called:",
+      "options": [
+        "Software",
+        "Hardware",
+        "Firmware",
+        "Humanware"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which device is used to input data by pressing keys?",
+      "options": [
+        "Mouse",
+        "Keyboard",
+        "Scanner",
+        "Microphone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which device is used to move the cursor on the screen?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Scanner",
+        "Joystick"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A scanner is an example of:",
+      "options": [
+        "Input device",
+        "Output device",
+        "Storage device",
+        "Processing device"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A printer is an example of:",
+      "options": [
+        "Input device",
+        "Output device",
+        "Storage device",
+        "Processing device"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a pointing device?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Scanner",
+        "Printer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which device is used to convert analog signals to digital signals and vice versa?",
+      "options": [
+        "Modem",
+        "Router",
+        "Switch",
+        "Hub"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a storage device?",
+      "options": [
+        "Mouse",
+        "Keyboard",
+        "Hard Disk",
+        "Monitor"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The smallest unit of data in a computer is:",
+      "options": [
+        "Byte",
+        "Bit",
+        "Kilobyte",
+        "Megabyte"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "8 bits make up a:",
+      "options": [
+        "Byte",
+        "Megabyte",
+        "Kilobyte",
+        "Nibble"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Half of a byte is called:",
+      "options": [
+        "Bit",
+        "Nibble",
+        "Kilobyte",
+        "Megabyte"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the largest storage unit?",
+      "options": [
+        "Megabyte",
+        "Gigabyte",
+        "Terabyte",
+        "Petabyte"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "1 Kilobyte is equal to:",
+      "options": [
+        "1000 bytes",
+        "1024 bytes",
+        "1048 bytes",
+        "100 bytes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "1 Megabyte is equal to:",
+      "options": [
+        "1024 bytes",
+        "1024 kilobytes",
+        "1024 gigabytes",
+        "1000 kilobytes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of HDD?",
+      "options": [
+        "High Density Disk",
+        "Heavy Duty Diesel",
+        "Heating Degree Days",
+        "Hard Disk Drive"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of FDD?",
+      "options": [
+        "Flight Dynamics Division",
+        "Feature Driven Development",
+        "Floppy Disk Drive",
+        "Frequency Division Duplex"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a non-volatile memory?",
+      "options": [
+        "RAM",
+        "ROM",
+        "Cache memory",
+        "Register"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a volatile memory?",
+      "options": [
+        "ROM",
+        "RAM",
+        "Hard Disk",
+        "CD-ROM"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "RAM stands for:",
+      "options": [
+        "Random Access Memory",
+        "Read Access Memory",
+        "Random Available Memory",
+        "Read Available Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "ROM stands for:",
+      "options": [
+        "Random Only Memory",
+        "Read Only Memory",
+        "Readable Only Memory",
+        "Random Optional Memory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of memory needs to be refreshed many times per second?",
+      "options": [
+        "Static RAM",
+        "Dynamic RAM",
+        "EPROM",
+        "ROM"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Cache memory is located between:",
+      "options": [
+        "CPU and RAM",
+        "RAM and ROM",
+        "Hard Disk and RAM",
+        "CPU and Hard Disk"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the fastest memory?",
+      "options": [
+        "RAM",
+        "ROM",
+        "Cache memory",
+        "Hard Disk"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of CD-ROM?",
+      "options": [
+        "Compactable Read Only Memory",
+        "Compact Data Read Only Memory",
+        "Compactable Disk Read Only Memory",
+        "Compact Disk Read Only Memory"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of DVD?",
+      "options": [
+        "Digital Versatile Disk",
+        "Digital Versatile Drive",
+        "Digital Volume Disk",
+        "Digital Video Drive"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following uses laser technology to read data?",
+      "options": [
+        "Hard Disk",
+        "Floppy Disk",
+        "CD-ROM",
+        "Magnetic Tape"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A magnetic disk is an example of:",
+      "options": [
+        "Primary memory",
+        "Secondary memory",
+        "Main memory",
+        "Cache memory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is not a storage medium?",
+      "options": [
+        "Hard disk",
+        "Flash drive",
+        "DVD",
+        "Scanner"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of USB?",
+      "options": [
+        "Uniform Serial Bus",
+        "Uniform System Bus",
+        "Universal Serial Bus",
+        "Universal System Bus"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of HDMI?",
+      "options": [
+        "High-Definition Multimedia Input",
+        "High-Density Multichip Interconnect",
+        "High-Definition Multimedia Interface",
+        "High-Definition Multichip Interconnect"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of VGA?",
+      "options": [
+        "Video Graphics Array",
+        "Visual Graphics Array",
+        "Volatile Graphics Array",
+        "Video Graphics Adapter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device is used to produce hard copy output?",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Speaker",
+        "Projector"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which device is used to produce soft copy output?",
+      "options": [
+        "Printer",
+        "Monitor",
+        "Plotter",
+        "Scanner"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A plotter is used for:",
+      "options": [
+        "Printing text",
+        "Printing graphics",
+        "Scanning images",
+        "Displaying videos"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a type of impact printer?",
+      "options": [
+        "Laser printer",
+        "Inkjet printer",
+        "Dot matrix printer",
+        "Thermal printer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a non-impact printer?",
+      "options": [
+        "Dot matrix printer",
+        "Daisy wheel printer",
+        "Line printer",
+        "Laser printer"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which printer uses dry ink powder?",
+      "options": [
+        "Daisy wheel printer",
+        "Line printer",
+        "Laser printer",
+        "Thermal printer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The ribbon is used in which type of printer?",
+      "options": [
+        "Laser Printer",
+        "Plotter",
+        "Ink-jet printer",
+        "Dot Matrix printer"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The output quality of a printer is measured in:",
+      "options": [
+        "Dots per inch (DPI)",
+        "Characters per second (CPS)",
+        "Pages per minute (PPM)",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a display device?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Monitor",
+        "Scanner"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "CRT stands for:",
+      "options": [
+        "Crystal Ray Tube",
+        "Cathode Ray Tube",
+        "Cabin Ray Tube",
+        "Carbon Ray Tube"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "LCD stands for:",
+      "options": [
+        "Liquid Clear Display",
+        "Light Clear Display",
+        "Light Crystal Display",
+        "Liquid Crystal Display"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "LED stands for:",
+      "options": [
+        "Light Emission Digit",
+        "Light Emitting Diode",
+        "Light Emission Depot",
+        "Light Emission Direct"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a pointing device?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Scanner",
+        "Printer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A joystick is commonly used for:",
+      "options": [
+        "Typing text",
+        "Playing games",
+        "Scanning images",
+        "Printing documents"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which device is used to read barcodes?",
+      "options": [
+        "Scanner",
+        "Barcode reader",
+        "MICR",
+        "OMR"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "MICR is used in:",
+      "options": [
+        "Banks",
+        "Hospitals",
+        "Schools",
+        "Offices"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of OCR?",
+      "options": [
+        "Output Character Recorder",
+        "Output Character Recognition",
+        "Optical Character Recorder",
+        "Optical Character Recognition"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of OMR?",
+      "options": [
+        "Optical Mark Reader",
+        "Optical Mark Recognition",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which device is used to enter data in the form of marks on paper?",
+      "options": [
+        "OCR",
+        "OMR",
+        "MICR",
+        "Scanner"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which device is used to convert printed text into digital form?",
+      "options": [
+        "OCR",
+        "OMR",
+        "MICR",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A touch screen is both:",
+      "options": [
+        "Input and Output device",
+        "Input device only",
+        "Output device only",
+        "Neither input nor output"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used to capture video?",
+      "options": [
+        "Webcam",
+        "Microphone",
+        "Scanner",
+        "Printer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used to capture audio?",
+      "options": [
+        "Webcam",
+        "Microphone",
+        "Speaker",
+        "Monitor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A speaker is an example of:",
+      "options": [
+        "Input device",
+        "Output device",
+        "Storage device",
+        "Processing device"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A microphone is an example of:",
+      "options": [
+        "Input device",
+        "Output device",
+        "Storage device",
+        "Processing device"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a secondary storage device?",
+      "options": [
+        "RAM",
+        "ROM",
+        "Hard Disk",
+        "Cache memory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The main memory of a computer is also called:",
+      "options": [
+        "Primary memory",
+        "Secondary memory",
+        "Auxiliary memory",
+        "Backing storage"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an example of primary memory?",
+      "options": [
+        "Hard Disk",
+        "Floppy Disk",
+        "RAM",
+        "CD-ROM"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a type of flash memory?",
+      "options": [
+        "Pen drive",
+        "Hard Disk",
+        "CD-ROM",
+        "DVD"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of PROM?",
+      "options": [
+        "Programmable Read Only Memory",
+        "Programmable Random Only Memory",
+        "Programmable Readable Only Memory",
+        "Programmable Random Optional Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of EPROM?",
+      "options": [
+        "Erasable Programmable Read Only Memory",
+        "Erasable Programmable Random Only Memory",
+        "Electrical Programmable Read Only Memory",
+        "Electrical Programmable Random Only Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of EEPROM?",
+      "options": [
+        "Electrically Erasable Programmable Read Only Memory",
+        "Electrically Erasable Programmable Random Only Memory",
+        "Electrical Erasable Programmable Read Only Memory",
+        "Electrically Erasable Programmable Readable Only Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the fastest storage?",
+      "options": [
+        "Hard Disk",
+        "CD-ROM",
+        "RAM",
+        "Cache memory"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is the slowest storage?",
+      "options": [
+        "RAM",
+        "Cache memory",
+        "Hard Disk",
+        "CD-ROM"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A computer's motherboard contains all of the following except:",
+      "options": [
+        "CPU",
+        "RAM",
+        "Hard Disk",
+        "BIOS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of NIC?",
+      "options": [
+        "Network Information Center",
+        "Network Identity Card",
+        "Network Interface Card",
+        "Network Internet Card"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of MAC?",
+      "options": [
+        "Mass Access Control",
+        "Media Access Control",
+        "Mass Access Carriage",
+        "Media Access Carriage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of BIOS?",
+      "options": [
+        "Basic Input Output System",
+        "Binary Input Output System",
+        "Basic Input Off System",
+        "Basic Internet Output System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of CMOS?",
+      "options": [
+        "Complementary Metal Oxide Semiconductor",
+        "Complementary Metal Oxide System",
+        "Common Metal Oxide Semiconductor",
+        "Complementary Metal Oxide Substrate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following stores the date, time, and system configuration?",
+      "options": [
+        "RAM",
+        "ROM",
+        "CMOS",
+        "BIOS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is used to connect a computer to a network?",
+      "options": [
+        "Modem",
+        "Router",
+        "Switch",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A router is used to:",
+      "options": [
+        "Connect devices in a network",
+        "Connect different networks",
+        "Connect a computer to the internet",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A switch is used to:",
+      "options": [
+        "Connect devices in a network",
+        "Connect different networks",
+        "Connect a computer to the internet",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a wireless communication technology?",
+      "options": [
+        "Bluetooth",
+        "WiFi",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "WiFi stands for:",
+      "options": [
+        "Wireless Fidelity",
+        "Wireless Functioning",
+        "Wireless Function",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Bluetooth is used for:",
+      "options": [
+        "Long distance communication",
+        "Short distance communication",
+        "Satellite communication",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "GPS stands for:",
+      "options": [
+        "Grade Positioning System",
+        "Global Post System",
+        "Guarantee Positioning System",
+        "Global Positioning System"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is used for long distance communication?",
+      "options": [
+        "Bluetooth",
+        "WiFi",
+        "Satellite",
+        "Infrared"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an example of a portable computer?",
+      "options": [
+        "Desktop",
+        "Laptop",
+        "Mainframe",
+        "Supercomputer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A handheld computer is also called:",
+      "options": [
+        "Palmtop computer",
+        "Laptop computer",
+        "Notebook computer",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the most powerful type of computer?",
+      "options": [
+        "Mainframe Computer",
+        "Mini Computers",
+        "Micro Computers",
+        "Super Computers"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is the largest type of computer?",
+      "options": [
+        "Micro Computer",
+        "Mini Computer",
+        "Mainframe Computer",
+        "Super Computer"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which type of computer is used by large organizations such as banks and insurance companies?",
+      "options": [
+        "Mainframe computers",
+        "Super computers",
+        "Hybrid computers",
+        "Desktop computers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a type of personal computer?",
+      "options": [
+        "Desktop",
+        "Laptop",
+        "Tablet",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a CPU socket type?",
+      "options": [
+        "LGA",
+        "PGA",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of PSU?",
+      "options": [
+        "Power Supply Unit",
+        "Power Storage Unit",
+        "Power System Unit",
+        "Power Source Unit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used to provide power to the computer?",
+      "options": [
+        "CPU",
+        "PSU",
+        "RAM",
+        "ROM"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a type of expansion slot?",
+      "options": [
+        "PCI",
+        "PCIe",
+        "AGP",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "AGP stands for:",
+      "options": [
+        "Accelerated Group Part",
+        "Advanced Graphics Port",
+        "Accelerated Graphics Port",
+        "Advanced Group Part"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is used to connect a graphics card to the motherboard?",
+      "options": [
+        "PCI",
+        "PCIe",
+        "AGP",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of SATA?",
+      "options": [
+        "Student Athletic Training Association",
+        "Specialized Assault Tactical Androids",
+        "Serial Advanced Technology Attachment",
+        "Student Air Travel Association"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a type of data cable?",
+      "options": [
+        "SATA",
+        "IDE",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a type of connector?",
+      "options": [
+        "USB",
+        "HDMI",
+        "VGA",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of RJ45?",
+      "options": [
+        "Registered Jack 45",
+        "Regular Jack 45",
+        "Registered Junction 45",
+        "Regular Junction 45"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used to connect a computer to a network cable?",
+      "options": [
+        "RJ11",
+        "RJ45",
+        "USB",
+        "HDMI"
+      ],
+      "answer": 1
+    }
+  ]
+}

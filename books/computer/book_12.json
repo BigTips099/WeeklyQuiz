@@ -1,0 +1,516 @@
+{
+  "category": "Abbreviations & Full Forms",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "What does COBOL stand for?",
+      "options": [
+        "Common Business Oriented Language",
+        "Common Basic Oriented Language",
+        "Common Boot Oriented Language",
+        "Common Book Oriented Language"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FORTRAN stand for?",
+      "options": [
+        "Formula Translation",
+        "Formula Transistor",
+        "Formula Train Network",
+        "Formula Translation Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BASIC stand for?",
+      "options": [
+        "Basic All Purpose Symbolic Instruction Codes",
+        "Beginners All Purpose Symbolic Instruction Codes",
+        "Beginners All Purpose Symbolic Intelligent Codes",
+        "Beginners Anti Purpose Symbolic Instruction Codes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does ALU stand for?",
+      "options": [
+        "Arithmetic Logic Unit",
+        "Arithmetic Longest Unit",
+        "Array Logic Unit",
+        "Application Logic Unit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Central Program Unit",
+        "Computer Processing Unit",
+        "Computer Program Unit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does RAM stand for?",
+      "options": [
+        "Random Access Memory",
+        "Read Access Memory",
+        "Random Available Memory",
+        "Read Available Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ROM stand for?",
+      "options": [
+        "Read Only Memory",
+        "Random Only Memory",
+        "Readable Only Memory",
+        "Random Optional Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PROM stand for?",
+      "options": [
+        "Programmable Read Only Memory",
+        "Programmable Random Only Memory",
+        "Programmable Readable Only Memory",
+        "Programmable Random Optional Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does EPROM stand for?",
+      "options": [
+        "Erasable Programmable Read Only Memory",
+        "Erasable Programmable Random Only Memory",
+        "Electrical Programmable Read Only Memory",
+        "Electrical Programmable Random Only Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does EEPROM stand for?",
+      "options": [
+        "Electrically Erasable Programmable Read Only Memory",
+        "Electrically Erasable Programmable Random Only Memory",
+        "Electrical Erasable Programmable Read Only Memory",
+        "Electrically Erasable Programmable Readable Only Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CD-ROM stand for?",
+      "options": [
+        "Compact Disk Read Only Memory",
+        "Compactable Read Only Memory",
+        "Compact Data Read Only Memory",
+        "Compactable Disk Read Only Memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DVD stand for?",
+      "options": [
+        "Digital Versatile Disk",
+        "Digital Versatile Drive",
+        "Digital Volume Disk",
+        "Digital Video Drive"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does USB stand for?",
+      "options": [
+        "Universal Serial Bus",
+        "Uniform Serial Bus",
+        "Universal System Bus",
+        "Uniform System Bus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HDMI stand for?",
+      "options": [
+        "High-Definition Multimedia Interface",
+        "High-Definition Multimedia Input",
+        "High-Density Multichip Interconnect",
+        "High-Definition Multichip Interconnect"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does VGA stand for?",
+      "options": [
+        "Video Graphics Array",
+        "Visual Graphics Array",
+        "Volatile Graphics Array",
+        "Video Graphics Adapter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LCD stand for?",
+      "options": [
+        "Liquid Crystal Display",
+        "Liquid Clear Display",
+        "Light Crystal Display",
+        "Light Clear Display"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LED stand for?",
+      "options": [
+        "Light Emitting Diode",
+        "Light Emission Digit",
+        "Light Emission Depot",
+        "Light Emission Direct"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CRT stand for?",
+      "options": [
+        "Cathode Ray Tube",
+        "Crystal Ray Tube",
+        "Cabin Ray Tube",
+        "Carbon Ray Tube"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OLED stand for?",
+      "options": [
+        "Organic Light Emitting Diode",
+        "Organic Light Emission Digit",
+        "Optical Light Emitting Diode",
+        "Optical Light Emission Digit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does AMOLED stand for?",
+      "options": [
+        "Active Matrix Organic Light Emitting Diode",
+        "Active Matrix Optical Light Emitting Diode",
+        "Advanced Matrix Organic Light Emitting Diode",
+        "Advanced Matrix Optical Light Emitting Diode"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HDD stand for?",
+      "options": [
+        "Hard Disk Drive",
+        "High Density Disk",
+        "Heavy Duty Diesel",
+        "Heating Degree Days"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SSD stand for?",
+      "options": [
+        "Solid State Drive",
+        "Solid State Disk",
+        "Solid System Drive",
+        "Solid System Disk"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SATA stand for?",
+      "options": [
+        "Serial Advanced Technology Attachment",
+        "Serial Advanced Technology Adapter",
+        "Serial Advanced Transfer Attachment",
+        "Serial Advanced Transfer Adapter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NIC stand for?",
+      "options": [
+        "Network Interface Card",
+        "Network Information Center",
+        "Network Identity Card",
+        "Network Internet Card"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MAC stand for?",
+      "options": [
+        "Media Access Control",
+        "Mass Access Control",
+        "Media Access Carriage",
+        "Mass Access Carriage"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IP stand for?",
+      "options": [
+        "Internet Protocol",
+        "Intranet Protocol",
+        "Internet Process",
+        "Intranet Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does TCP stand for?",
+      "options": [
+        "Transmission Control Protocol",
+        "Transfer Control Protocol",
+        "Transmission Centric Protocol",
+        "Transfer Centric Protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UDP stand for?",
+      "options": [
+        "User Datagram Protocol",
+        "User Data Protocol",
+        "Universal Datagram Protocol",
+        "Universal Data Protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FTP stand for?",
+      "options": [
+        "File Transfer Protocol",
+        "File Transfer Process",
+        "File Transmission Protocol",
+        "File Transmission Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SMTP stand for?",
+      "options": [
+        "Simple Mail Transfer Protocol",
+        "Simple Mail Transmission Protocol",
+        "Simple Mail Transport Protocol",
+        "Simple Mail Transfer Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does POP3 stand for?",
+      "options": [
+        "Post Office Protocol 3",
+        "Post Office Process 3",
+        "Primary Office Protocol 3",
+        "Primary Office Process 3"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IMAP stand for?",
+      "options": [
+        "Internet Message Access Protocol",
+        "Internet Message Access Process",
+        "Internet Mail Access Protocol",
+        "Internet Mail Access Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HTTP stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "HyperText Transfer Process",
+        "HyperText Transmission Protocol",
+        "HyperText Transmission Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HTTPS stand for?",
+      "options": [
+        "HyperText Transfer Protocol Secure",
+        "HyperText Transfer Protocol Start",
+        "HyperText Transfer Protocol Section",
+        "HyperText Transfer Protocol System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        "HyperText Markup Language",
+        "HyperText Markup Line",
+        "HyperText Magic Line",
+        "HighText Markup Language"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CSS stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Cascading Style System",
+        "Central Style Sheets",
+        "Central Style System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does XML stand for?",
+      "options": [
+        "Extensible Markup Language",
+        "Extensible Markup Line",
+        "Extensible Media Language",
+        "Extensible Media Line"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does JSON stand for?",
+      "options": [
+        "JavaScript Object Notation",
+        "JavaScript Object Navigation",
+        "Java Standard Object Notation",
+        "Java Standard Object Navigation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does API stand for?",
+      "options": [
+        "Application Programming Interface",
+        "Application Protocol Interface",
+        "Application Program Interface",
+        "Application Process Interface"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GUI stand for?",
+      "options": [
+        "Graphical User Interface",
+        "Graphical User Interconnect",
+        "Graphical User Integration",
+        "Graphical User Input"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CLI stand for?",
+      "options": [
+        "Command Line Interface",
+        "Command Line Interconnect",
+        "Command Line Integration",
+        "Command Line Input"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BIOS stand for?",
+      "options": [
+        "Basic Input Output System",
+        "Basic Input Output Software",
+        "Basic Input Off System",
+        "Basic Input Off Software"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CMOS stand for?",
+      "options": [
+        "Complementary Metal Oxide Semiconductor",
+        "Complementary Metal Oxide System",
+        "Common Metal Oxide Semiconductor",
+        "Complementary Metal Oxide Substrate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does POST stand for?",
+      "options": [
+        "Power On Self Test",
+        "Power On System Test",
+        "Power On Start Test",
+        "Power On Software Test"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DHCP stand for?",
+      "options": [
+        "Dynamic Host Configuration Protocol",
+        "Dynamic Host Control Protocol",
+        "Digital Host Configuration Protocol",
+        "Digital Host Control Protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DNS stand for?",
+      "options": [
+        "Domain Name System",
+        "Domain Name Service",
+        "Domain Name Server",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What does ISP stand for?",
+      "options": [
+        "Internet Service Provider",
+        "Internet Server Provider",
+        "Internet Service Protocol",
+        "Internet Server Protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LAN stand for?",
+      "options": [
+        "Local Area Network",
+        "Limited Area Network",
+        "Logical Area Network",
+        "Large Area Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WAN stand for?",
+      "options": [
+        "Wide Area Network",
+        "Wap Area Network",
+        "Wide Array Network",
+        "Wireless Area Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MAN stand for?",
+      "options": [
+        "Metropolitan Area Network",
+        "Maximum Area Network",
+        "Minimum Area Network",
+        "Main Area Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does VPN stand for?",
+      "options": [
+        "Virtual Private Network",
+        "Virtual Public Network",
+        "Virtual Primary Network",
+        "Virtual Protocol Network"
+      ],
+      "answer": 0
+    }
+  ]
+}

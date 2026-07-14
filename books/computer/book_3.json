@@ -1,0 +1,1006 @@
+{
+  "category": "Operating Systems",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "What is an Operating System?",
+      "options": [
+        "Application software",
+        "System software",
+        "Utility program",
+        "Device driver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is not an operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "MS Office",
+        "macOS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which operating system is developed by Microsoft?",
+      "options": [
+        "Linux",
+        "macOS",
+        "Windows",
+        "Android"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which operating system is developed by Apple?",
+      "options": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an open-source operating system?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "DOS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of DOS?",
+      "options": [
+        "Disk Operating System",
+        "Disk Operating Session",
+        "Digital Operating System",
+        "Digital Open System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "MS-DOS is a type of:",
+      "options": [
+        "Single-tasking operating system",
+        "Multi-tasking operating system",
+        "Multi-user operating system",
+        "Network operating system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a multi-user operating system?",
+      "options": [
+        "MS-DOS",
+        "Windows 10",
+        "Linux",
+        "Windows 95"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a real-time operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "VxWorks",
+        "macOS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The main function of an operating system is to:",
+      "options": [
+        "Manage hardware resources",
+        "Provide user interface",
+        "Manage memory",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which component of the operating system manages the allocation of memory?",
+      "options": [
+        "Process manager",
+        "Memory manager",
+        "File manager",
+        "Device manager"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which component of the operating system manages files and folders?",
+      "options": [
+        "Process manager",
+        "Memory manager",
+        "File manager",
+        "Device manager"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which component of the operating system manages input/output devices?",
+      "options": [
+        "Process manager",
+        "Memory manager",
+        "File manager",
+        "Device manager"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of GUI?",
+      "options": [
+        "Graphical User Interface",
+        "Graphical User Interaction",
+        "Graphical Uniform Interface",
+        "Graphical Uniform Interaction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of CLI?",
+      "options": [
+        "Command Line Interface",
+        "Command Line Interaction",
+        "Common Line Interface",
+        "Common Line Interaction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "MS-DOS uses which type of interface?",
+      "options": [
+        "GUI",
+        "CLI",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Windows uses which type of interface?",
+      "options": [
+        "GUI",
+        "CLI",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a Linux distribution?",
+      "options": [
+        "Ubuntu",
+        "Fedora",
+        "Debian",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who is the creator of Linux?",
+      "options": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Linus Torvalds",
+        "Mark Zuckerberg"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a mobile operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "Android",
+        "macOS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Android was founded in:",
+      "options": [
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Android is based on which operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "DOS"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "iOS is developed by:",
+      "options": [
+        "Microsoft",
+        "Google",
+        "Apple",
+        "Samsung"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is not a version of Android?",
+      "options": [
+        "Honeycomb",
+        "Cupcake",
+        "Gingerbread",
+        "Muffin"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Windows 1.0 was launched in which year?",
+      "options": [
+        "1983",
+        "1985",
+        "1987",
+        "1990"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The first version of Windows was:",
+      "options": [
+        "Windows 1.0",
+        "Windows 2.0",
+        "Windows 3.0",
+        "Windows 95"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which version of Windows introduced the Start menu?",
+      "options": [
+        "Windows 3.1",
+        "Windows 95",
+        "Windows 98",
+        "Windows 2000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which version of Windows introduced the Taskbar?",
+      "options": [
+        "Windows 3.1",
+        "Windows 95",
+        "Windows 98",
+        "Windows 2000"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the latest version of Windows?",
+      "options": [
+        "Windows 8",
+        "Windows 10",
+        "Windows 11",
+        "Windows 12"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is the latest version of Android?",
+      "options": [
+        "Android 13",
+        "Android 14",
+        "Android 15",
+        "Android 16"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of API?",
+      "options": [
+        "Algorithmic Protocol Interface",
+        "Adapter Protocol Interface",
+        "Application Programming Interface",
+        "Accelerated Programming Interface"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a Kernel?",
+      "options": [
+        "The core of an operating system",
+        "A type of user interface",
+        "A file management system",
+        "A device driver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a type of kernel?",
+      "options": [
+        "Monolithic kernel",
+        "Microkernel",
+        "Hybrid kernel",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Linux uses which type of kernel?",
+      "options": [
+        "Monolithic kernel",
+        "Microkernel",
+        "Hybrid kernel",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Windows uses which type of kernel?",
+      "options": [
+        "Monolithic kernel",
+        "Microkernel",
+        "Hybrid kernel",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a driver?",
+      "options": [
+        "A program that controls a device",
+        "A type of user interface",
+        "A file management system",
+        "A type of kernel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a process?",
+      "options": [
+        "A program in execution",
+        "A type of file",
+        "A type of memory",
+        "A type of device"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a thread?",
+      "options": [
+        "A lightweight process",
+        "A type of file",
+        "A type of memory",
+        "A type of device"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is multitasking?",
+      "options": [
+        "Running multiple programs simultaneously",
+        "Running multiple threads in a program",
+        "Running multiple users simultaneously",
+        "Running multiple processors simultaneously"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is multiprocessing?",
+      "options": [
+        "Running multiple programs simultaneously",
+        "Running multiple threads in a program",
+        "Using multiple processors",
+        "Running multiple users simultaneously"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is multithreading?",
+      "options": [
+        "Running multiple programs simultaneously",
+        "Running multiple threads in a program",
+        "Using multiple processors",
+        "Running multiple users simultaneously"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a file system?",
+      "options": [
+        "A method of organizing files on storage",
+        "A type of user interface",
+        "A type of kernel",
+        "A type of device driver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a file system?",
+      "options": [
+        "FAT",
+        "NTFS",
+        "ext4",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "FAT stands for:",
+      "options": [
+        "Frequent Allocation Table",
+        "File Allocated Table",
+        "File Allocation Table",
+        "File Allocation Theory"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "NTFS stands for:",
+      "options": [
+        "New Technology File System",
+        "New Technology File Structure",
+        "Network Technology File System",
+        "Network Technology File Structure"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which file system is used by Windows?",
+      "options": [
+        "FAT",
+        "NTFS",
+        "ext4",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which file system is used by Linux?",
+      "options": [
+        "FAT",
+        "NTFS",
+        "ext4",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the default file system of Android?",
+      "options": [
+        "FAT",
+        "NTFS",
+        "ext4",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the maximum file size in FAT32?",
+      "options": [
+        "2 GB",
+        "4 GB",
+        "8 GB",
+        "16 GB"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the maximum file size in NTFS?",
+      "options": [
+        "4 GB",
+        "16 GB",
+        "16 TB",
+        "Unlimited"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a partition?",
+      "options": [
+        "A section of a hard drive",
+        "A type of file system",
+        "A type of memory",
+        "A type of device"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a boot loader?",
+      "options": [
+        "A program that loads the operating system",
+        "A type of user interface",
+        "A type of file system",
+        "A type of kernel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a boot loader?",
+      "options": [
+        "GRUB",
+        "LILO",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the boot process?",
+      "options": [
+        "The process of starting a computer",
+        "The process of shutting down a computer",
+        "The process of installing software",
+        "The process of uninstalling software"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the first step in the boot process?",
+      "options": [
+        "Power-on self-test (POST)",
+        "Loading the kernel",
+        "Loading the device drivers",
+        "Loading the user interface"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a service in Windows?",
+      "options": [
+        "A program that runs in the background",
+        "A type of user interface",
+        "A type of file system",
+        "A type of kernel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a daemon in Linux?",
+      "options": [
+        "A background process",
+        "A type of user interface",
+        "A type of file system",
+        "A type of kernel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a shell?",
+      "options": [
+        "A command interpreter",
+        "A type of kernel",
+        "A type of file system",
+        "A type of device driver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a Linux shell?",
+      "options": [
+        "Bash",
+        "Zsh",
+        "Fish",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of POSIX?",
+      "options": [
+        "Portable Operating System Interface",
+        "Portable Operating System Interchange",
+        "Portable Operating System Interconnect",
+        "Portable Operating System Interface for Unix"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which operating system is POSIX compliant?",
+      "options": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is virtualization?",
+      "options": [
+        "Running multiple operating systems on one machine",
+        "Running multiple programs on one machine",
+        "Running multiple users on one machine",
+        "Running multiple processors on one machine"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a hypervisor?",
+      "options": [
+        "Software that creates and manages virtual machines",
+        "A type of kernel",
+        "A type of file system",
+        "A type of device driver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a hypervisor?",
+      "options": [
+        "VMware",
+        "VirtualBox",
+        "KVM",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a container?",
+      "options": [
+        "A lightweight virtualization",
+        "A type of kernel",
+        "A type of file system",
+        "A type of device driver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a container technology?",
+      "options": [
+        "Docker",
+        "Kubernetes",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of BIOS?",
+      "options": [
+        "Basic Input Output System",
+        "Basic Input Output Software",
+        "Basic Internet Output System",
+        "Basic Internet Output Software"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of CMOS?",
+      "options": [
+        "Complementary Metal Oxide Semiconductor",
+        "Complementary Metal Oxide System",
+        "Common Metal Oxide Semiconductor",
+        "Complementary Metal Oxide Substrate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of DHCP?",
+      "options": [
+        "Dynamic Host Control Protocol",
+        "Dynamic Host Configuration Protocol",
+        "Digital Host Configuration Protocol",
+        "Digital Host Control Protocol"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of DNS?",
+      "options": [
+        "Domain Name System",
+        "Domain Name Service",
+        "Digital Name System",
+        "Digital Name Service"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of NOS?",
+      "options": [
+        "Node Operating System",
+        "Non-open Software",
+        "Network Operating System",
+        "Non-operating Software"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a network operating system?",
+      "options": [
+        "Windows Server",
+        "Linux Server",
+        "macOS Server",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of SMP?",
+      "options": [
+        "Symmetric Multiprocessing",
+        "Symmetric Multi Processor",
+        "System Multi Processing",
+        "System Multi Processor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a type of OS architecture?",
+      "options": [
+        "Monolithic",
+        "Microkernel",
+        "Hybrid",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a system call?",
+      "options": [
+        "A request to the kernel for a service",
+        "A type of user interface",
+        "A type of file system",
+        "A type of device driver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a device driver?",
+      "options": [
+        "A program that controls a hardware device",
+        "A type of user interface",
+        "A type of file system",
+        "A type of kernel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of API?",
+      "options": [
+        "Application Programming Interface",
+        "Application Program Interface",
+        "Application Protocol Interface",
+        "Application Program Interchange"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a type of scheduling algorithm?",
+      "options": [
+        "Round Robin",
+        "Priority Scheduling",
+        "Shortest Job First",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of FIFO?",
+      "options": [
+        "First In First Out",
+        "First In First On",
+        "First In Fast Out",
+        "First In Fast On"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of LRU?",
+      "options": [
+        "Least Recently Used",
+        "Least Reliable Used",
+        "Last Recently Used",
+        "Last Reliable Used"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a type of memory management technique?",
+      "options": [
+        "Paging",
+        "Segmentation",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a page fault?",
+      "options": [
+        "When a requested page is not in memory",
+        "When a file is not found",
+        "When a device is not found",
+        "When a program is not found"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of RAID?",
+      "options": [
+        "Redundant Array of Independent Disks",
+        "Redundant Array of Inexpensive Disks",
+        "Both A and B",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a RAID level?",
+      "options": [
+        "RAID 0",
+        "RAID 1",
+        "RAID 5",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of SAN?",
+      "options": [
+        "Storage Area Network",
+        "Storage Application Network",
+        "System Area Network",
+        "System Application Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of NAS?",
+      "options": [
+        "Network Attached Storage",
+        "Network Application Storage",
+        "Network Area Storage",
+        "Network Access Storage"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a type of backup?",
+      "options": [
+        "Full backup",
+        "Incremental backup",
+        "Differential backup",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of UPS?",
+      "options": [
+        "Uninterruptible Power Supply",
+        "Universal Power Supply",
+        "Uninterrupted Power System",
+        "Universal Power System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a type of OS security?",
+      "options": [
+        "User authentication",
+        "File permissions",
+        "Firewall",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of ACL?",
+      "options": [
+        "Access Control List",
+        "Access Central List",
+        "Access Check List",
+        "Adoptic Control List"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a process state?",
+      "options": [
+        "The current status of a process",
+        "The memory location of a process",
+        "The file location of a process",
+        "The device location of a process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a process state?",
+      "options": [
+        "Running",
+        "Ready",
+        "Waiting",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a zombie process?",
+      "options": [
+        "A process that has terminated but still has an entry in the process table",
+        "A process that is running",
+        "A process that is waiting",
+        "A process that is ready"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IPC?",
+      "options": [
+        "Inter Process Communication",
+        "Inter Program Communication",
+        "Internal Process Communication",
+        "Internal Program Communication"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a type of IPC?",
+      "options": [
+        "Pipes",
+        "Message queues",
+        "Shared memory",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a mutex?",
+      "options": [
+        "Mutual exclusion lock",
+        "A type of process",
+        "A type of file",
+        "A type of memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a semaphore?",
+      "options": [
+        "A synchronization mechanism",
+        "A type of process",
+        "A type of file",
+        "A type of memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a deadlock?",
+      "options": [
+        "Two processes waiting for each other",
+        "A type of process",
+        "A type of file",
+        "A type of memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a race condition?",
+      "options": [
+        "Multiple processes accessing shared resources concurrently",
+        "A type of process",
+        "A type of file",
+        "A type of memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a type of OS scheduling algorithm?",
+      "options": [
+        "First Come First Serve",
+        "Round Robin",
+        "Shortest Job First",
+        "All of the above"
+      ],
+      "answer": 3
+    }
+  ]
+}

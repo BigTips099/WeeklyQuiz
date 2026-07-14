@@ -1,0 +1,516 @@
+{
+  "category": "Cyber Security & Malware",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "What is Cyber Security?",
+      "options": [
+        "The practice of protecting systems, networks, and programs from digital attacks",
+        "The practice of protecting physical security",
+        "The practice of protecting data from physical damage",
+        "The practice of protecting hardware from theft"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a computer virus?",
+      "options": [
+        "A malicious program that can replicate and spread",
+        "A harmless program",
+        "A system utility",
+        "A hardware component"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is malware?",
+      "options": [
+        "Malicious software",
+        "A type of hardware",
+        "A network device",
+        "An operating system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an example of malware?",
+      "options": [
+        "Virus",
+        "Worm",
+        "Trojan horse",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a virus?",
+      "options": [
+        "A program that attaches itself to legitimate files",
+        "A program that replicates itself independently",
+        "A program that disguises itself as legitimate software",
+        "A program that encrypts files for ransom"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a worm?",
+      "options": [
+        "A program that replicates itself independently",
+        "A program that attaches itself to legitimate files",
+        "A program that disguises itself as legitimate software",
+        "A program that encrypts files for ransom"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a Trojan horse?",
+      "options": [
+        "A program that disguises itself as legitimate software",
+        "A program that replicates itself independently",
+        "A program that attaches itself to legitimate files",
+        "A program that encrypts files for ransom"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is ransomware?",
+      "options": [
+        "A program that encrypts files and demands payment",
+        "A program that replicates itself independently",
+        "A program that attaches itself to legitimate files",
+        "A program that disguises itself as legitimate software"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is spyware?",
+      "options": [
+        "A program that gathers user information without consent",
+        "A program that encrypts files for ransom",
+        "A program that replicates itself independently",
+        "A program that attaches itself to legitimate files"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is adware?",
+      "options": [
+        "A program that displays unwanted advertisements",
+        "A program that gathers user information without consent",
+        "A program that encrypts files for ransom",
+        "A program that replicates itself independently"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a keylogger?",
+      "options": [
+        "A program that records keystrokes",
+        "A program that displays unwanted advertisements",
+        "A program that gathers user information without consent",
+        "A program that encrypts files for ransom"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a rootkit?",
+      "options": [
+        "A program that hides from detection",
+        "A program that records keystrokes",
+        "A program that displays unwanted advertisements",
+        "A program that encrypts files for ransom"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a botnet?",
+      "options": [
+        "A network of compromised computers used for malicious purposes",
+        "A type of hardware",
+        "A network device",
+        "An operating system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a DDoS attack?",
+      "options": [
+        "Distributed Denial of Service attack",
+        "Dynamic Denial of Service attack",
+        "Distributed Data of Service attack",
+        "Dynamic Data of Service attack"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is phishing?",
+      "options": [
+        "A cyber attack that uses deceptive emails to steal information",
+        "A type of virus",
+        "A type of worm",
+        "A type of Trojan horse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a hacker?",
+      "options": [
+        "A person who breaks into computer systems",
+        "A person who uses computers for legitimate purposes",
+        "A person who designs computer hardware",
+        "A person who sells computer software"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a white hat hacker?",
+      "options": [
+        "A hacker who uses skills for ethical purposes",
+        "A hacker who uses skills for malicious purposes",
+        "A hacker who uses skills for financial gain",
+        "A hacker who uses skills for political gain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a black hat hacker?",
+      "options": [
+        "A hacker who uses skills for malicious purposes",
+        "A hacker who uses skills for ethical purposes",
+        "A hacker who uses skills for financial gain",
+        "A hacker who uses skills for political gain"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a grey hat hacker?",
+      "options": [
+        "A hacker who uses skills for both ethical and malicious purposes",
+        "A hacker who uses skills for ethical purposes only",
+        "A hacker who uses skills for malicious purposes only",
+        "A hacker who uses skills for financial gain only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is encryption?",
+      "options": [
+        "The process of encoding data to prevent unauthorized access",
+        "The process of decoding data",
+        "The process of deleting data",
+        "The process of copying data"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is decryption?",
+      "options": [
+        "The process of decoding encrypted data",
+        "The process of encoding data",
+        "The process of deleting data",
+        "The process of copying data"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a firewall?",
+      "options": [
+        "A network security system that monitors and controls incoming and outgoing network traffic",
+        "A type of malware",
+        "A type of virus",
+        "A type of worm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an antivirus software?",
+      "options": [
+        "Software designed to detect and remove viruses",
+        "Software designed to encrypt data",
+        "Software designed to backup data",
+        "Software designed to connect to the internet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an antivirus software?",
+      "options": [
+        "Avira",
+        "Kaspersky",
+        "McAfee",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the Melissa virus?",
+      "options": [
+        "A macro virus that spread via email in 1999",
+        "A worm",
+        "A Trojan horse",
+        "A ransomware"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the I Love You virus?",
+      "options": [
+        "A worm that spread via email in 2000",
+        "A macro virus",
+        "A Trojan horse",
+        "A ransomware"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the difference between a virus and a worm?",
+      "options": [
+        "A virus requires a host program, while a worm is self-replicating",
+        "A worm requires a host program, while a virus is self-replicating",
+        "Both require a host program",
+        "Both are self-replicating"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is social engineering in cyber security?",
+      "options": [
+        "The psychological manipulation of people to divulge confidential information",
+        "A type of virus",
+        "A type of worm",
+        "A type of Trojan horse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of VPN?",
+      "options": [
+        "Virtual Private Network",
+        "Virtual Public Network",
+        "Virtual Primary Network",
+        "Virtual Private Net"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of SSL?",
+      "options": [
+        "Secure Sockets Layer",
+        "Secure System Layer",
+        "Simple Sockets Layer",
+        "Simple System Layer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of TLS?",
+      "options": [
+        "Transport Layer Security",
+        "Transfer Layer Security",
+        "Transmission Layer Security",
+        "Transport System Layer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of HTTPS?",
+      "options": [
+        "HyperText Transfer Protocol Secure",
+        "HyperText Transfer Protocol Start",
+        "HyperText Transfer Protocol Section",
+        "HyperText Transfer Protocol System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of AES?",
+      "options": [
+        "Advanced Encryption Standard",
+        "Advanced Encryption System",
+        "Advanced Encoding Standard",
+        "Advanced Encoding System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of RSA?",
+      "options": [
+        "Rivest-Shamir-Adleman",
+        "Random Security Algorithm",
+        "Reliable Security Algorithm",
+        "Rivest Security Algorithm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of PKI?",
+      "options": [
+        "Public Key Infrastructure",
+        "Private Key Infrastructure",
+        "Public Key Interchange",
+        "Private Key Interchange"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IDS?",
+      "options": [
+        "Intrusion Detection System",
+        "Intrusion Defense System",
+        "Internal Detection System",
+        "Internal Defense System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IPS?",
+      "options": [
+        "Intrusion Prevention System",
+        "Intrusion Protection System",
+        "Internal Prevention System",
+        "Internal Protection System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is identity theft?",
+      "options": [
+        "The fraudulent use of someone else's personal information",
+        "The theft of physical identity cards",
+        "The theft of computer hardware",
+        "The theft of software licenses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is spoofing?",
+      "options": [
+        "Falsifying data to gain unauthorized access",
+        "A type of malware",
+        "A type of virus",
+        "A type of worm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is spam?",
+      "options": [
+        "Unwanted, unsolicited emails",
+        "A type of malware",
+        "A type of virus",
+        "A type of worm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a logic bomb?",
+      "options": [
+        "Malicious code that executes when a certain condition is met",
+        "A type of virus",
+        "A type of worm",
+        "A type of Trojan horse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a time bomb?",
+      "options": [
+        "Malicious code that executes at a specific time",
+        "A type of virus",
+        "A type of worm",
+        "A type of Trojan horse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a backdoor?",
+      "options": [
+        "A hidden method of bypassing normal authentication",
+        "A type of malware",
+        "A type of virus",
+        "A type of worm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a zero-day vulnerability?",
+      "options": [
+        "A vulnerability that is unknown to the software vendor",
+        "A vulnerability that is already patched",
+        "A vulnerability that is easily exploitable",
+        "A vulnerability that is difficult to exploit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a patch in cyber security?",
+      "options": [
+        "A fix for a software vulnerability",
+        "A type of malware",
+        "A type of virus",
+        "A type of worm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a security audit?",
+      "options": [
+        "A systematic evaluation of security measures",
+        "A type of malware",
+        "A type of virus",
+        "A type of worm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is computer forensics?",
+      "options": [
+        "The investigation of digital evidence",
+        "A type of malware",
+        "A type of virus",
+        "A type of worm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is cyber terrorism?",
+      "options": [
+        "The use of the internet to cause fear or harm",
+        "A type of malware",
+        "A type of virus",
+        "A type of worm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a CAPTCHA?",
+      "options": [
+        "A test to distinguish humans from bots",
+        "A type of malware",
+        "A type of virus",
+        "A type of worm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is two-factor authentication?",
+      "options": [
+        "A security method that requires two forms of verification",
+        "A type of malware",
+        "A type of virus",
+        "A type of worm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the principle of least privilege?",
+      "options": [
+        "Giving users only the permissions they need",
+        "Giving users all permissions",
+        "Giving users no permissions",
+        "Giving users limited permissions"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,1455 @@
+{
+  "category": "Programming & Languages",
+  "totalQuestions": 165,
+  "questions": [
+    {
+      "question": "What is a programming language?",
+      "options": [
+        "A language used to write instructions for a computer",
+        "A language used for communication between humans",
+        "A language used for writing books",
+        "A language used for drawing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a low-level programming language?",
+      "options": [
+        "C++",
+        "Java",
+        "Assembly language",
+        "Python"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a high-level programming language?",
+      "options": [
+        "Assembly language",
+        "Machine language",
+        "Python",
+        "Binary"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of BASIC?",
+      "options": [
+        "Basic All Purpose Symbolic Instruction Codes",
+        "Beginners All Purpose Symbolic Instruction Codes",
+        "Beginners All Purpose Symbolic Intelligent Codes",
+        "Beginners Anti Purpose Symbolic Instruction Codes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of COBOL?",
+      "options": [
+        "Common Business Oriented Language",
+        "Common Basic Oriented Language",
+        "Common Boot Oriented Language",
+        "Common Book Oriented Language"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of FORTRAN?",
+      "options": [
+        "Formula Translation",
+        "Formula Transistor",
+        "Formula Train Network",
+        "Formula Translation Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is the father of 'C' programming language?",
+      "options": [
+        "Dennis Ritchie",
+        "Bjarne Stroustrup",
+        "James Gosling",
+        "Guido van Rossum"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is the creator of C++?",
+      "options": [
+        "Dennis Ritchie",
+        "Bjarne Stroustrup",
+        "James Gosling",
+        "Guido van Rossum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is the creator of Java?",
+      "options": [
+        "Dennis Ritchie",
+        "Bjarne Stroustrup",
+        "James Gosling",
+        "Guido van Rossum"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is the creator of Python?",
+      "options": [
+        "Dennis Ritchie",
+        "Bjarne Stroustrup",
+        "James Gosling",
+        "Guido van Rossum"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of C?",
+      "options": [
+        "Combined",
+        "Computer",
+        "Compatible",
+        "None of these (it's a letter name)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of C++?",
+      "options": [
+        "C plus plus",
+        "Combined plus plus",
+        "Computer plus plus",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of PHP?",
+      "options": [
+        "Processor Hypertext Program",
+        "Hypertext Preprocessor",
+        "Pre Hypertext Processor",
+        "Pre Processor Hypertext"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of SQL?",
+      "options": [
+        "Straight Query Language",
+        "Structured Query Language",
+        "Structured Query Laison",
+        "Structured Query Linear"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of XML?",
+      "options": [
+        "Extensible Meria Letters",
+        "Extensible Media Language",
+        "Xtensible Markup Language",
+        "Extensible Markup Language"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of HTML?",
+      "options": [
+        "Hyper Text Magic Line",
+        "Hyper Text Markup Line",
+        "Hyper Text Markup Language",
+        "High Text Markup Language"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of CSS?",
+      "options": [
+        "Central Superior Services",
+        "Cascading Style Sheets",
+        "Both A and B",
+        "None of above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of JavaScript?",
+      "options": [
+        "Java Script",
+        "Java Scripting",
+        "Just Another Script",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of JSON?",
+      "options": [
+        "JavaScript Object Notation",
+        "JavaScript Object Navigation",
+        "Java Standard Object Notation",
+        "Java Standard Object Navigation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of API?",
+      "options": [
+        "Application Programming Interface",
+        "Application Protocol Interface",
+        "Algorithmic Protocol Interface",
+        "Algorithmic Programming Interface"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a compiler?",
+      "options": [
+        "A program that converts an entire program into machine language",
+        "A program that translates one line at a time",
+        "A program that links files",
+        "A program that loads files"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an interpreter?",
+      "options": [
+        "A program that converts an entire program into machine language",
+        "A program that translates one line at a time",
+        "A program that links files",
+        "A program that loads files"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a linker?",
+      "options": [
+        "A program that combines object files into an executable",
+        "A program that converts an entire program into machine language",
+        "A program that translates one line at a time",
+        "A program that loads files into memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a loader?",
+      "options": [
+        "A program that loads programs into memory",
+        "A program that combines object files into an executable",
+        "A program that converts an entire program into machine language",
+        "A program that translates one line at a time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is machine language?",
+      "options": [
+        "The language understood by the computer directly",
+        "A high-level language",
+        "A low-level language",
+        "An assembly language"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is assembly language?",
+      "options": [
+        "A low-level language using mnemonics",
+        "A high-level language",
+        "The language understood by the computer directly",
+        "A scripting language"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a variable in programming?",
+      "options": [
+        "A named storage location",
+        "A function",
+        "A class",
+        "An object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a constant in programming?",
+      "options": [
+        "A named storage location whose value cannot be changed",
+        "A variable",
+        "A function",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a data type in programming?",
+      "options": [
+        "A classification that specifies which type of value a variable can hold",
+        "A function",
+        "A class",
+        "An object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a primitive data type in C?",
+      "options": [
+        "int",
+        "char",
+        "float",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a derived data type in C?",
+      "options": [
+        "Array",
+        "Pointer",
+        "Structure",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is an array in programming?",
+      "options": [
+        "A collection of elements of the same type",
+        "A function",
+        "A class",
+        "A variable"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a pointer in C?",
+      "options": [
+        "A variable that stores the address of another variable",
+        "A variable that stores a value",
+        "A function",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a function in programming?",
+      "options": [
+        "A block of code that performs a specific task",
+        "A variable",
+        "A class",
+        "An object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is recursion in programming?",
+      "options": [
+        "A function that calls itself",
+        "A function that calls another function",
+        "A loop",
+        "A conditional statement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a class in object-oriented programming?",
+      "options": [
+        "A blueprint for creating objects",
+        "A function",
+        "A variable",
+        "A data type"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an object in object-oriented programming?",
+      "options": [
+        "An instance of a class",
+        "A function",
+        "A variable",
+        "A data type"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is inheritance in object-oriented programming?",
+      "options": [
+        "The ability to create a new class from an existing class",
+        "The ability to create multiple objects from a class",
+        "The ability to call a function",
+        "The ability to declare a variable"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is polymorphism in object-oriented programming?",
+      "options": [
+        "The ability to take many forms",
+        "The ability to create a new class from an existing class",
+        "The ability to create multiple objects from a class",
+        "The ability to call a function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is encapsulation in object-oriented programming?",
+      "options": [
+        "The bundling of data and methods that operate on that data",
+        "The ability to create a new class from an existing class",
+        "The ability to take many forms",
+        "The ability to call a function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is abstraction in object-oriented programming?",
+      "options": [
+        "Hiding implementation details",
+        "The bundling of data and methods",
+        "The ability to create a new class from an existing class",
+        "The ability to take many forms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an object-oriented programming language?",
+      "options": [
+        "C",
+        "C++",
+        "Java",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a procedural programming language?",
+      "options": [
+        "C",
+        "C++",
+        "Java",
+        "Python"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a scripting language?",
+      "options": [
+        "JavaScript",
+        "Python",
+        "PHP",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a compiled language?",
+      "options": [
+        "C",
+        "C++",
+        "Java",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an interpreted language?",
+      "options": [
+        "Python",
+        "JavaScript",
+        "PHP",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the main function in C/C++?",
+      "options": [
+        "The entry point of the program",
+        "A function that prints output",
+        "A function that takes input",
+        "A function that returns a value"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the size of 'int' in C (usually)?",
+      "options": [
+        "1 byte",
+        "2 bytes",
+        "4 bytes",
+        "8 bytes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the size of 'char' in C?",
+      "options": [
+        "1 byte",
+        "2 bytes",
+        "4 bytes",
+        "8 bytes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the size of 'float' in C?",
+      "options": [
+        "1 byte",
+        "2 bytes",
+        "4 bytes",
+        "8 bytes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the size of 'double' in C?",
+      "options": [
+        "1 byte",
+        "2 bytes",
+        "4 bytes",
+        "8 bytes"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the syntax for a 'for' loop in C?",
+      "options": [
+        "for(initialization; condition; increment)",
+        "for(condition; increment; initialization)",
+        "for(increment; condition; initialization)",
+        "for(initialization; increment; condition)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the syntax for a 'while' loop in C?",
+      "options": [
+        "while(condition) { }",
+        "while { }(condition)",
+        "do while(condition) { }",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the syntax for a 'do-while' loop in C?",
+      "options": [
+        "do { } while(condition);",
+        "while(condition) { } do;",
+        "do while(condition) { }",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the syntax for an 'if-else' statement in C?",
+      "options": [
+        "if(condition) { } else { }",
+        "if condition then { } else { }",
+        "if { } else { } (condition)",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the syntax for a 'switch' statement in C?",
+      "options": [
+        "switch(expression) { case value: }",
+        "switch(expression) { case: value }",
+        "switch { case value: } (expression)",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the output of 'printf' function in C?",
+      "options": [
+        "It prints output to the console",
+        "It prints output to a file",
+        "It reads input from the console",
+        "It reads input from a file"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the output of 'cout' in C++?",
+      "options": [
+        "It prints output to the console",
+        "It prints output to a file",
+        "It reads input from the console",
+        "It reads input from a file"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the input function 'scanf' in C?",
+      "options": [
+        "It reads input from the console",
+        "It prints output to the console",
+        "It reads input from a file",
+        "It prints output to a file"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the input function 'cin' in C++?",
+      "options": [
+        "It reads input from the console",
+        "It prints output to the console",
+        "It reads input from a file",
+        "It prints output to a file"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the output of 'System.out.println' in Java?",
+      "options": [
+        "It prints output to the console",
+        "It prints output to a file",
+        "It reads input from the console",
+        "It reads input from a file"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the input function 'Scanner' in Java?",
+      "options": [
+        "It reads input from the console",
+        "It prints output to the console",
+        "It reads input from a file",
+        "It prints output to a file"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the output of 'print' function in Python?",
+      "options": [
+        "It prints output to the console",
+        "It prints output to a file",
+        "It reads input from the console",
+        "It reads input from a file"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the input function 'input' in Python?",
+      "options": [
+        "It reads input from the console",
+        "It prints output to the console",
+        "It reads input from a file",
+        "It prints output to a file"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the command to compile a C program?",
+      "options": [
+        "gcc filename.c",
+        "g++ filename.cpp",
+        "javac filename.java",
+        "python filename.py"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the command to compile a C++ program?",
+      "options": [
+        "gcc filename.c",
+        "g++ filename.cpp",
+        "javac filename.java",
+        "python filename.py"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the command to compile a Java program?",
+      "options": [
+        "gcc filename.c",
+        "g++ filename.cpp",
+        "javac filename.java",
+        "python filename.py"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the command to run a Java program?",
+      "options": [
+        "java filename",
+        "javac filename",
+        "gcc filename",
+        "g++ filename"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the command to run a Python program?",
+      "options": [
+        "gcc filename.c",
+        "g++ filename.cpp",
+        "javac filename.java",
+        "python filename.py"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the extension of a C file?",
+      "options": [
+        ".c",
+        ".cpp",
+        ".java",
+        ".py"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the extension of a C++ file?",
+      "options": [
+        ".c",
+        ".cpp",
+        ".java",
+        ".py"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the extension of a Java file?",
+      "options": [
+        ".c",
+        ".cpp",
+        ".java",
+        ".py"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the extension of a Python file?",
+      "options": [
+        ".c",
+        ".cpp",
+        ".java",
+        ".py"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the extension of a PHP file?",
+      "options": [
+        ".php",
+        ".ph",
+        ".phtml",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the extension of a JavaScript file?",
+      "options": [
+        ".js",
+        ".jscript",
+        ".javascript",
+        ".jss"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a comment in programming?",
+      "options": [
+        "Text that is ignored by the compiler/interpreter",
+        "Text that is executed",
+        "A variable",
+        "A function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the syntax for a single-line comment in C?",
+      "options": [
+        "// This is a comment",
+        "/* This is a comment */",
+        "<!-- This is a comment -->",
+        "/* This is a comment //"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the syntax for a multi-line comment in C?",
+      "options": [
+        "// This is a comment",
+        "/* This is a comment */",
+        "<!-- This is a comment -->",
+        "/* This is a comment //"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the syntax for a single-line comment in Java?",
+      "options": [
+        "// This is a comment",
+        "/* This is a comment */",
+        "<!-- This is a comment -->",
+        "/* This is a comment //"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the syntax for a multi-line comment in Java?",
+      "options": [
+        "// This is a comment",
+        "/* This is a comment */",
+        "<!-- This is a comment -->",
+        "/* This is a comment //"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the syntax for a comment in Python?",
+      "options": [
+        "# This is a comment",
+        "// This is a comment",
+        "/* This is a comment */",
+        "<!-- This is a comment -->"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a variable name in programming?",
+      "options": [
+        "An identifier",
+        "A keyword",
+        "A data type",
+        "A function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a keyword in programming?",
+      "options": [
+        "A reserved word with a special meaning",
+        "A variable name",
+        "A function name",
+        "A data type"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a keyword in C?",
+      "options": [
+        "int",
+        "char",
+        "float",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a keyword in Java?",
+      "options": [
+        "class",
+        "public",
+        "private",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a keyword in Python?",
+      "options": [
+        "def",
+        "if",
+        "else",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is an algorithm?",
+      "options": [
+        "A step-by-step procedure to solve a problem",
+        "A programming language",
+        "A data structure",
+        "A function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a data structure?",
+      "options": [
+        "A way to store and organize data",
+        "A programming language",
+        "An algorithm",
+        "A function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a data structure?",
+      "options": [
+        "Array",
+        "Linked List",
+        "Stack",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a stack data structure?",
+      "options": [
+        "LIFO (Last In First Out)",
+        "FIFO (First In First Out)",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a queue data structure?",
+      "options": [
+        "LIFO (Last In First Out)",
+        "FIFO (First In First Out)",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an array in programming?",
+      "options": [
+        "A collection of elements of the same type",
+        "A collection of elements of different types",
+        "A function",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a linked list?",
+      "options": [
+        "A linear data structure where each element points to the next",
+        "A collection of elements of the same type",
+        "A function",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a binary search tree?",
+      "options": [
+        "A tree data structure where each node has at most two children",
+        "A tree data structure where each node has at most three children",
+        "A tree data structure where each node has at most four children",
+        "A tree data structure where each node has any number of children"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a graph in data structures?",
+      "options": [
+        "A collection of nodes and edges",
+        "A collection of elements of the same type",
+        "A function",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a hash table?",
+      "options": [
+        "A data structure that maps keys to values",
+        "A collection of elements of the same type",
+        "A function",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the time complexity of binary search?",
+      "options": [
+        "O(log n)",
+        "O(n)",
+        "O(n log n)",
+        "O(1)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the time complexity of linear search?",
+      "options": [
+        "O(log n)",
+        "O(n)",
+        "O(n log n)",
+        "O(1)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the time complexity of bubble sort?",
+      "options": [
+        "O(log n)",
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the time complexity of merge sort?",
+      "options": [
+        "O(log n)",
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the time complexity of quick sort?",
+      "options": [
+        "O(log n)",
+        "O(n)",
+        "O(n log n) average",
+        "O(n^2) worst"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a variable scope?",
+      "options": [
+        "The region of a program where a variable is accessible",
+        "The value of a variable",
+        "The type of a variable",
+        "The name of a variable"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a global variable?",
+      "options": [
+        "A variable accessible throughout the entire program",
+        "A variable accessible only within a function",
+        "A variable accessible only within a block",
+        "A variable accessible only within a class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a local variable?",
+      "options": [
+        "A variable accessible throughout the entire program",
+        "A variable accessible only within a function",
+        "A variable accessible only within a block",
+        "A variable accessible only within a class"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a static variable?",
+      "options": [
+        "A variable that retains its value between function calls",
+        "A variable that is constant",
+        "A variable that is global",
+        "A variable that is local"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a constant variable?",
+      "options": [
+        "A variable whose value cannot be changed",
+        "A variable that is global",
+        "A variable that is local",
+        "A variable that is static"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a pointer in C++?",
+      "options": [
+        "A variable that stores the address of another variable",
+        "A variable that stores a value",
+        "A function",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a reference in C++?",
+      "options": [
+        "An alias for a variable",
+        "A variable that stores the address of another variable",
+        "A variable that stores a value",
+        "A function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the 'this' pointer in C++?",
+      "options": [
+        "A pointer to the current object",
+        "A pointer to the parent object",
+        "A pointer to the child object",
+        "A pointer to the class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a constructor in C++?",
+      "options": [
+        "A special function that is called when an object is created",
+        "A special function that is called when an object is destroyed",
+        "A function that prints output",
+        "A function that reads input"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a destructor in C++?",
+      "options": [
+        "A special function that is called when an object is destroyed",
+        "A special function that is called when an object is created",
+        "A function that prints output",
+        "A function that reads input"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a virtual function in C++?",
+      "options": [
+        "A function that can be overridden in a derived class",
+        "A function that cannot be overridden",
+        "A function that prints output",
+        "A function that reads input"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an abstract class in C++?",
+      "options": [
+        "A class that cannot be instantiated",
+        "A class that can be instantiated",
+        "A class that has only static members",
+        "A class that has only private members"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an interface in Java?",
+      "options": [
+        "A collection of abstract methods",
+        "A class",
+        "An object",
+        "A variable"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a package in Java?",
+      "options": [
+        "A collection of related classes",
+        "A class",
+        "An object",
+        "A variable"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an exception in programming?",
+      "options": [
+        "An error that occurs during program execution",
+        "A variable",
+        "A function",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is exception handling in programming?",
+      "options": [
+        "The process of handling errors during program execution",
+        "The process of creating variables",
+        "The process of creating functions",
+        "The process of creating classes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the syntax for try-catch in Java?",
+      "options": [
+        "try { } catch(Exception e) { }",
+        "try { } except(Exception e) { }",
+        "try { } finally { }",
+        "try { } error(Exception e) { }"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the syntax for try-except in Python?",
+      "options": [
+        "try { } except Exception as e: { }",
+        "try: { } catch(Exception e): { }",
+        "try: { } finally: { }",
+        "try: { } error(Exception e): { }"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a thread in programming?",
+      "options": [
+        "A lightweight process",
+        "A program",
+        "A function",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is multithreading?",
+      "options": [
+        "Running multiple threads concurrently",
+        "Running multiple programs concurrently",
+        "Running multiple processes concurrently",
+        "Running multiple users concurrently"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a semaphore in programming?",
+      "options": [
+        "A synchronization mechanism",
+        "A variable",
+        "A function",
+        "A class"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a mutex in programming?",
+      "options": [
+        "A mutual exclusion lock",
+        "A synchronization mechanism",
+        "A variable",
+        "A function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a deadlock in programming?",
+      "options": [
+        "A situation where two or more processes are waiting for each other",
+        "A synchronization mechanism",
+        "A variable",
+        "A function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a race condition in programming?",
+      "options": [
+        "Multiple processes accessing shared resources concurrently",
+        "A synchronization mechanism",
+        "A variable",
+        "A function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a binary number system?",
+      "options": [
+        "A number system with base 2",
+        "A number system with base 8",
+        "A number system with base 10",
+        "A number system with base 16"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a hexadecimal number system?",
+      "options": [
+        "A number system with base 2",
+        "A number system with base 8",
+        "A number system with base 10",
+        "A number system with base 16"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a bit?",
+      "options": [
+        "A binary digit",
+        "A byte",
+        "A kilobyte",
+        "A megabyte"
+      ],
+      "answer": 0    },
+    {
+      "question": "What is a byte?",
+      "options": [
+        "A group of 8 bits",
+        "A binary digit",
+        "A kilobyte",
+        "A megabyte"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a nibble?",
+      "options": [
+        "A group of 4 bits",
+        "A group of 8 bits",
+        "A binary digit",
+        "A byte"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a word in computing?",
+      "options": [
+        "A group of bits",
+        "A binary digit",
+        "A byte",
+        "A kilobyte"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is ASCII?",
+      "options": [
+        "American Standard Code for Information Interchange",
+        "American Standard Code for Information Interconnect",
+        "American Standard Code for Information Interface",
+        "American Standard Code for Information Interlink"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is EBCDIC?",
+      "options": [
+        "Extended Binary Coded Decimal Interchange Code",
+        "Extended Binary Coded Decimal Interconnect Code",
+        "Extended Binary Coded Decimal Interface Code",
+        "Extended Binary Coded Decimal Interlink Code"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Unicode?",
+      "options": [
+        "A universal character encoding standard",
+        "A programming language",
+        "A data structure",
+        "An algorithm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an IDE?",
+      "options": [
+        "Integrated Development Environment",
+        "Integrated Design Environment",
+        "Integrated Development Editor",
+        "Integrated Design Editor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an IDE?",
+      "options": [
+        "Eclipse",
+        "IntelliJ IDEA",
+        "Visual Studio",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a version control system?",
+      "options": [
+        "A system to track changes in code",
+        "A programming language",
+        "A data structure",
+        "An algorithm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a version control system?",
+      "options": [
+        "Git",
+        "SVN",
+        "Mercurial",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is Git?",
+      "options": [
+        "A distributed version control system",
+        "A programming language",
+        "A data structure",
+        "An algorithm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is GitHub?",
+      "options": [
+        "A hosting service for Git repositories",
+        "A programming language",
+        "A data structure",
+        "An algorithm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a repository in Git?",
+      "options": [
+        "A storage location for code",
+        "A programming language",
+        "A data structure",
+        "An algorithm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a commit in Git?",
+      "options": [
+        "A snapshot of changes",
+        "A programming language",
+        "A data structure",
+        "An algorithm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a branch in Git?",
+      "options": [
+        "A separate line of development",
+        "A programming language",
+        "A data structure",
+        "An algorithm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a merge in Git?",
+      "options": [
+        "Combining changes from different branches",
+        "A programming language",
+        "A data structure",
+        "An algorithm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a pull request in Git?",
+      "options": [
+        "A request to merge changes",
+        "A programming language",
+        "A data structure",
+        "An algorithm"
+      ],
+      "answer": 0
+    }
+  ]
+}

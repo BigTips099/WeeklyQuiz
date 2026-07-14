@@ -1,0 +1,1036 @@
+{
+  "category": "MS PowerPoint",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "What is the default file extension of MS PowerPoint?",
+      "options": [
+        ".ppt",
+        ".pptx",
+        ".pps",
+        ".pot"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to create a new presentation in PowerPoint?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open a presentation in PowerPoint?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to save a presentation in PowerPoint?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to print a presentation in PowerPoint?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a new slide in PowerPoint?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+M",
+        "Ctrl+O",
+        "Ctrl+D"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to start slide show from the beginning in PowerPoint?",
+      "options": [
+        "F1",
+        "F2",
+        "F5",
+        "F10"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to start slide show from the current slide in PowerPoint?",
+      "options": [
+        "Shift+F1",
+        "Shift+F2",
+        "Shift+F5",
+        "Shift+F10"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to insert a hyperlink in PowerPoint?",
+      "options": [
+        "Ctrl+K",
+        "Ctrl+H",
+        "Ctrl+L",
+        "Ctrl+Shift+K"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Font dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+D",
+        "Ctrl+Alt+D",
+        "Ctrl+D",
+        "Alt+D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to open the Paragraph dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+M",
+        "Ctrl+Alt+M",
+        "Alt+Shift+M",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Format Shape dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+F",
+        "Ctrl+Alt+F",
+        "Alt+Shift+F",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to open the Slide Master view in PowerPoint?",
+      "options": [
+        "Shift+Normal View",
+        "Ctrl+Normal View",
+        "Alt+Normal View",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Handout Master view in PowerPoint?",
+      "options": [
+        "Shift+Slide Sorter View",
+        "Ctrl+Slide Sorter View",
+        "Alt+Slide Sorter View",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Notes Master view in PowerPoint?",
+      "options": [
+        "Shift+Notes Page View",
+        "Ctrl+Notes Page View",
+        "Alt+Notes Page View",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to duplicate a slide in PowerPoint?",
+      "options": [
+        "Ctrl+D",
+        "Ctrl+C",
+        "Ctrl+V",
+        "Ctrl+X"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to copy a slide in PowerPoint?",
+      "options": [
+        "Ctrl+D",
+        "Ctrl+C",
+        "Ctrl+V",
+        "Ctrl+X"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to paste a slide in PowerPoint?",
+      "options": [
+        "Ctrl+D",
+        "Ctrl+C",
+        "Ctrl+V",
+        "Ctrl+X"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to delete a slide in PowerPoint?",
+      "options": [
+        "Ctrl+D",
+        "Ctrl+C",
+        "Ctrl+V",
+        "Delete"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to open the Find dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+F",
+        "Ctrl+H",
+        "Ctrl+G",
+        "Ctrl+A"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Replace dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+F",
+        "Ctrl+H",
+        "Ctrl+G",
+        "Ctrl+A"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to select all text in PowerPoint?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+X",
+        "Ctrl+V",
+        "Ctrl+A"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to undo in PowerPoint?",
+      "options": [
+        "Ctrl+Y",
+        "Ctrl+Z",
+        "Ctrl+X",
+        "Ctrl+V"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to redo in PowerPoint?",
+      "options": [
+        "Ctrl+Y",
+        "Ctrl+Z",
+        "Ctrl+X",
+        "Ctrl+V"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key for Bold text in PowerPoint?",
+      "options": [
+        "Ctrl+B",
+        "Ctrl+I",
+        "Ctrl+U",
+        "Ctrl+Shift+B"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key for Italic text in PowerPoint?",
+      "options": [
+        "Ctrl+B",
+        "Ctrl+I",
+        "Ctrl+U",
+        "Ctrl+Shift+I"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key for Underline text in PowerPoint?",
+      "options": [
+        "Ctrl+B",
+        "Ctrl+I",
+        "Ctrl+U",
+        "Ctrl+Shift+U"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key for Left Align in PowerPoint?",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+R",
+        "Ctrl+E",
+        "Ctrl+J"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key for Right Align in PowerPoint?",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+R",
+        "Ctrl+E",
+        "Ctrl+J"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key for Center Align in PowerPoint?",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+R",
+        "Ctrl+E",
+        "Ctrl+J"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key for Justify in PowerPoint?",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+R",
+        "Ctrl+E",
+        "Ctrl+J"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a picture in PowerPoint?",
+      "options": [
+        "Ctrl+P",
+        "Ctrl+Shift+P",
+        "Alt+P",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a chart in PowerPoint?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+Shift+C",
+        "Alt+C",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a table in PowerPoint?",
+      "options": [
+        "Ctrl+T",
+        "Ctrl+Shift+T",
+        "Alt+T",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a shape in PowerPoint?",
+      "options": [
+        "Ctrl+S",
+        "Ctrl+Shift+S",
+        "Alt+S",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a text box in PowerPoint?",
+      "options": [
+        "Ctrl+B",
+        "Ctrl+Shift+B",
+        "Alt+B",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to group objects in PowerPoint?",
+      "options": [
+        "Ctrl+G",
+        "Ctrl+Shift+G",
+        "Alt+G",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to ungroup objects in PowerPoint?",
+      "options": [
+        "Ctrl+G",
+        "Ctrl+Shift+G",
+        "Alt+G",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to bring an object to the front in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+F",
+        "Ctrl+Shift+B",
+        "Ctrl+Shift+Arrow Up",
+        "Ctrl+Shift+Arrow Down"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to send an object to the back in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+F",
+        "Ctrl+Shift+B",
+        "Ctrl+Shift+Arrow Up",
+        "Ctrl+Shift+Arrow Down"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to open the Animation pane in PowerPoint?",
+      "options": [
+        "Ctrl+F1",
+        "Ctrl+F2",
+        "Ctrl+F3",
+        "Ctrl+F4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Selection pane in PowerPoint?",
+      "options": [
+        "Ctrl+F1",
+        "Ctrl+F2",
+        "Ctrl+F3",
+        "Ctrl+F4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to open the Format Object dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+F",
+        "Ctrl+Alt+F",
+        "Alt+Shift+F",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Format Picture dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+F",
+        "Ctrl+Alt+F",
+        "Alt+Shift+F",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Format Shape dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+F",
+        "Ctrl+Alt+F",
+        "Alt+Shift+F",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Format Text Effects dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+F",
+        "Ctrl+Alt+F",
+        "Alt+Shift+F",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to play the slide show in PowerPoint?",
+      "options": [
+        "F5",
+        "Shift+F5",
+        "Ctrl+F5",
+        "Alt+F5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to play the slide show from the current slide in PowerPoint?",
+      "options": [
+        "F5",
+        "Shift+F5",
+        "Ctrl+F5",
+        "Alt+F5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to exit the slide show in PowerPoint?",
+      "options": [
+        "Esc",
+        "Enter",
+        "Space",
+        "Tab"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to go to the next slide in slide show mode in PowerPoint?",
+      "options": [
+        "Enter",
+        "Space",
+        "Right Arrow",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to go to the previous slide in slide show mode in PowerPoint?",
+      "options": [
+        "Backspace",
+        "Left Arrow",
+        "Page Up",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to make the screen black in slide show mode in PowerPoint?",
+      "options": [
+        "B",
+        "W",
+        "S",
+        "P"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to make the screen white in slide show mode in PowerPoint?",
+      "options": [
+        "B",
+        "W",
+        "S",
+        "P"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to open the pen tool in slide show mode in PowerPoint?",
+      "options": [
+        "Ctrl+P",
+        "Ctrl+E",
+        "Ctrl+H",
+        "Ctrl+A"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the highlighter tool in slide show mode in PowerPoint?",
+      "options": [
+        "Ctrl+P",
+        "Ctrl+E",
+        "Ctrl+H",
+        "Ctrl+A"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to open the laser pointer in slide show mode in PowerPoint?",
+      "options": [
+        "Ctrl+P",
+        "Ctrl+E",
+        "Ctrl+H",
+        "Ctrl+A"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the eraser tool in slide show mode in PowerPoint?",
+      "options": [
+        "Ctrl+P",
+        "Ctrl+E",
+        "Ctrl+H",
+        "Ctrl+A"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the default view in PowerPoint?",
+      "options": [
+        "Normal view",
+        "Outline view",
+        "Slide Sorter view",
+        "Slide Show view"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which view displays only text (title and bullets) in PowerPoint?",
+      "options": [
+        "Normal view",
+        "Outline view",
+        "Slide Sorter view",
+        "Slide Show view"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which view displays thumbnails of all slides in PowerPoint?",
+      "options": [
+        "Normal view",
+        "Outline view",
+        "Slide Sorter view",
+        "Slide Show view"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which view is used to present the slides to the audience in PowerPoint?",
+      "options": [
+        "Normal view",
+        "Outline view",
+        "Slide Sorter view",
+        "Slide Show view"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which view is used to add speaker notes in PowerPoint?",
+      "options": [
+        "Normal view",
+        "Notes Page view",
+        "Slide Sorter view",
+        "Slide Show view"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which view is used to edit the master slide in PowerPoint?",
+      "options": [
+        "Normal view",
+        "Slide Master view",
+        "Handout Master view",
+        "Notes Master view"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a placeholder in PowerPoint?",
+      "options": [
+        "A box with dotted borders",
+        "A text box",
+        "A shape",
+        "A picture"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a slide layout in PowerPoint?",
+      "options": [
+        "The arrangement of elements on a slide",
+        "The design of a slide",
+        "The color scheme of a slide",
+        "The animation of a slide"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a theme in PowerPoint?",
+      "options": [
+        "A set of colors, fonts, and effects",
+        "A slide layout",
+        "An animation effect",
+        "A transition effect"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a transition in PowerPoint?",
+      "options": [
+        "The effect when moving from one slide to another",
+        "The effect when objects move on a slide",
+        "The design of a slide",
+        "The color scheme of a slide"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an animation in PowerPoint?",
+      "options": [
+        "The effect when moving from one slide to another",
+        "The effect when objects move on a slide",
+        "The design of a slide",
+        "The color scheme of a slide"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the motion path in PowerPoint?",
+      "options": [
+        "A type of animation entrance effect",
+        "A method of advancing slides",
+        "A method of moving items on a slide",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a trigger in PowerPoint?",
+      "options": [
+        "An action button that advances to the next slide",
+        "An item on the slide that performs an action when clicked",
+        "The name of a motion path",
+        "All of above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a slide master in PowerPoint?",
+      "options": [
+        "The master slide that controls the layout of all slides",
+        "The first slide of a presentation",
+        "The last slide of a presentation",
+        "A slide with a picture"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a title master in PowerPoint?",
+      "options": [
+        "A master slide for title slides",
+        "A master slide for content slides",
+        "The first slide of a presentation",
+        "The last slide of a presentation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a handout master in PowerPoint?",
+      "options": [
+        "A master slide for handouts",
+        "A master slide for notes",
+        "A master slide for slides",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a notes master in PowerPoint?",
+      "options": [
+        "A master slide for handouts",
+        "A master slide for notes",
+        "A master slide for slides",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a slide transition in PowerPoint?",
+      "options": [
+        "The effect when moving from one slide to another",
+        "The effect when objects move on a slide",
+        "The design of a slide",
+        "The color scheme of a slide"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a custom animation in PowerPoint?",
+      "options": [
+        "A pre-defined animation effect",
+        "A user-defined animation effect",
+        "A transition effect",
+        "A slide layout"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a hyperlink in PowerPoint?",
+      "options": [
+        "A link to another slide",
+        "A link to another file",
+        "A link to a website",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is an action button in PowerPoint?",
+      "options": [
+        "A button that performs an action when clicked",
+        "A button that advances to the next slide",
+        "A button that goes back to the previous slide",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the purpose of the slide sorter view in PowerPoint?",
+      "options": [
+        "To rearrange slides",
+        "To add animations",
+        "To add transitions",
+        "To add speaker notes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the purpose of the notes page view in PowerPoint?",
+      "options": [
+        "To add speaker notes",
+        "To rearrange slides",
+        "To add animations",
+        "To add transitions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the purpose of the outline view in PowerPoint?",
+      "options": [
+        "To edit text content",
+        "To rearrange slides",
+        "To add animations",
+        "To add transitions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the purpose of the normal view in PowerPoint?",
+      "options": [
+        "To edit slides",
+        "To rearrange slides",
+        "To add animations",
+        "To add transitions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you insert a picture in PowerPoint?",
+      "options": [
+        "Insert > Pictures",
+        "Insert > Clip Art",
+        "Insert > Shapes",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you insert a chart in PowerPoint?",
+      "options": [
+        "Insert > Chart",
+        "Insert > Pictures > Chart",
+        "Edit > Chart",
+        "View > Chart"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you insert a table in PowerPoint?",
+      "options": [
+        "Insert > Table",
+        "Insert > Pictures > Table",
+        "Edit > Table",
+        "View > Table"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you insert a shape in PowerPoint?",
+      "options": [
+        "Insert > Shapes",
+        "Insert > Pictures > Shapes",
+        "Edit > Shapes",
+        "View > Shapes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you insert a text box in PowerPoint?",
+      "options": [
+        "Insert > Text Box",
+        "Insert > Pictures > Text Box",
+        "Edit > Text Box",
+        "View > Text Box"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you insert a WordArt in PowerPoint?",
+      "options": [
+        "Insert > WordArt",
+        "Insert > Pictures > WordArt",
+        "Edit > WordArt",
+        "View > WordArt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you insert a header and footer in PowerPoint?",
+      "options": [
+        "Insert > Header & Footer",
+        "View > Header & Footer",
+        "Edit > Header & Footer",
+        "Format > Header & Footer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you insert a slide number in PowerPoint?",
+      "options": [
+        "Insert > Slide Number",
+        "View > Slide Number",
+        "Edit > Slide Number",
+        "Format > Slide Number"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you insert a date and time in PowerPoint?",
+      "options": [
+        "Insert > Date & Time",
+        "View > Date & Time",
+        "Edit > Date & Time",
+        "Format > Date & Time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you add a transition in PowerPoint?",
+      "options": [
+        "Transitions tab",
+        "Animations tab",
+        "Design tab",
+        "Insert tab"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How can you add an animation in PowerPoint?",
+      "options": [
+        "Transitions tab",
+        "Animations tab",
+        "Design tab",
+        "Insert tab"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How can you change the design of a slide in PowerPoint?",
+      "options": [
+        "Transitions tab",
+        "Animations tab",
+        "Design tab",
+        "Insert tab"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to exit PowerPoint?",
+      "options": [
+        "Alt+F4",
+        "Ctrl+F4",
+        "Shift+F4",
+        "Alt+W"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to close a presentation in PowerPoint?",
+      "options": [
+        "Ctrl+W",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Print Preview in PowerPoint?",
+      "options": [
+        "Ctrl+F2",
+        "Ctrl+F4",
+        "Ctrl+F6",
+        "Ctrl+F8"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Page Setup dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+P",
+        "Ctrl+Alt+P",
+        "Alt+Shift+P",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to open the Slide Show Setup dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+S",
+        "Ctrl+Alt+S",
+        "Alt+Shift+S",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to open the Custom Show dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+C",
+        "Ctrl+Alt+C",
+        "Alt+Shift+C",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to open the Rehearse Timings dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+R",
+        "Ctrl+Alt+R",
+        "Alt+Shift+R",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Record Slide Show dialog box in PowerPoint?",
+      "options": [
+        "Ctrl+Shift+R",
+        "Ctrl+Alt+R",
+        "Alt+Shift+R",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Presenter View in PowerPoint?",
+      "options": [
+        "Alt+F5",
+        "Ctrl+F5",
+        "Shift+F5",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ]
+}

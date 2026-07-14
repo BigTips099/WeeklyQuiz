@@ -1,0 +1,1006 @@
+{
+  "category": "MS Excel",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "What is the default file extension of MS Excel?",
+      "options": [
+        ".xls",
+        ".xlsx",
+        ".xlm",
+        ".xlt"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many sheets are there in an Excel Workbook by default?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to create a new workbook in Excel?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open a workbook in Excel?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to save a workbook in Excel?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to print a workbook in Excel?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a new worksheet in Excel?",
+      "options": [
+        "Shift+F8",
+        "Shift+F9",
+        "Shift+F10",
+        "Shift+F11"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to delete a worksheet in Excel?",
+      "options": [
+        "Ctrl+Shift+D",
+        "Alt+Shift+D",
+        "Shift+D",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to rename a worksheet in Excel?",
+      "options": [
+        "Double click on sheet tab",
+        "Right click on sheet tab and select Rename",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to move between worksheets in Excel?",
+      "options": [
+        "Ctrl+Page Up/Page Down",
+        "Ctrl+Shift+Page Up/Page Down",
+        "Alt+Page Up/Page Down",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to select an entire row in Excel?",
+      "options": [
+        "Ctrl+Space",
+        "Shift+Space",
+        "Alt+Space",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to select an entire column in Excel?",
+      "options": [
+        "Ctrl+Space",
+        "Shift+Space",
+        "Alt+Space",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to select all cells in a worksheet?",
+      "options": [
+        "Ctrl+A",
+        "Ctrl+C",
+        "Ctrl+V",
+        "Ctrl+X"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to edit the selected cell in Excel?",
+      "options": [
+        "F2",
+        "F4",
+        "F10",
+        "F12"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Format Cells window in Excel?",
+      "options": [
+        "Ctrl+F10",
+        "Ctrl+6",
+        "Ctrl+F1",
+        "Ctrl+1"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a hyperlink in Excel?",
+      "options": [
+        "Ctrl+K",
+        "Ctrl+H",
+        "Ctrl+L",
+        "Ctrl+Shift+K"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to enter the current date in Excel?",
+      "options": [
+        "Ctrl+;",
+        "Ctrl+Shift+;",
+        "Ctrl+:",
+        "Ctrl+Shift+:"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to enter the current time in Excel?",
+      "options": [
+        "Ctrl+;",
+        "Ctrl+Shift+;",
+        "Ctrl+:",
+        "Ctrl+Shift+:"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to create a formula to sum all cells above in Excel?",
+      "options": [
+        "Ctrl+=",
+        "Alt+=",
+        "Shift+=",
+        "Ctrl+Shift+="
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to open the Excel formula window?",
+      "options": [
+        "Shift+F6",
+        "Shift+F3",
+        "Alt+Shift+F3",
+        "Alt+Shift+F6"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to create a chart from selected data in Excel?",
+      "options": [
+        "F1",
+        "F10",
+        "F11",
+        "F12"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key for Find in Excel?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+F",
+        "Alt+Shift+D",
+        "Alt+Shift+F"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key for Replace in Excel?",
+      "options": [
+        "Ctrl+H",
+        "Ctrl+F",
+        "Ctrl+G",
+        "Ctrl+A"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to go to a specific cell in Excel?",
+      "options": [
+        "Ctrl+G",
+        "Ctrl+F",
+        "Ctrl+H",
+        "Ctrl+A"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to fill down in Excel?",
+      "options": [
+        "Ctrl+D",
+        "Ctrl+R",
+        "Ctrl+F",
+        "Ctrl+G"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to fill right in Excel?",
+      "options": [
+        "Ctrl+D",
+        "Ctrl+R",
+        "Ctrl+F",
+        "Ctrl+G"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to format numbers in comma format in Excel?",
+      "options": [
+        "Ctrl+Shift+1",
+        "Ctrl+Shift+4",
+        "Ctrl+1",
+        "Shift+1"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to format numbers in currency format in Excel?",
+      "options": [
+        "Ctrl+Shift+1",
+        "Ctrl+Shift+4",
+        "Ctrl+1",
+        "Shift+1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to format numbers in date format in Excel?",
+      "options": [
+        "Ctrl+Shift+6",
+        "Ctrl+Shift+4",
+        "Ctrl+Shift+3",
+        "Shift+1"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to format numbers in time format in Excel?",
+      "options": [
+        "Ctrl+Shift+2",
+        "Ctrl+Shift+3",
+        "Ctrl+Shift+4",
+        "Ctrl+Shift+5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to format numbers in percentage format in Excel?",
+      "options": [
+        "Ctrl+Shift+5",
+        "Ctrl+Shift+3",
+        "Ctrl+Shift+4",
+        "Ctrl+Shift+6"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to format numbers in scientific format in Excel?",
+      "options": [
+        "Ctrl+Shift+6",
+        "Ctrl+Shift+3",
+        "Ctrl+Shift+5",
+        "Ctrl+Shift+4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to strikethrough in Excel?",
+      "options": [
+        "Ctrl+4",
+        "Ctrl+5",
+        "Ctrl+6",
+        "Ctrl+7"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to insert a new row in Excel?",
+      "options": [
+        "Ctrl+Shift+=",
+        "Ctrl+Shift+Plus",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to delete a row in Excel?",
+      "options": [
+        "Ctrl+-",
+        "Ctrl+Shift+-",
+        "Alt+-",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to insert a new column in Excel?",
+      "options": [
+        "Ctrl+Shift+=",
+        "Ctrl+Shift+Plus",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to delete a column in Excel?",
+      "options": [
+        "Ctrl+-",
+        "Ctrl+Shift+-",
+        "Alt+-",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to hide a row in Excel?",
+      "options": [
+        "Ctrl+9",
+        "Ctrl+0",
+        "Ctrl+Shift+9",
+        "Ctrl+Shift+0"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to hide a column in Excel?",
+      "options": [
+        "Ctrl+9",
+        "Ctrl+0",
+        "Ctrl+Shift+9",
+        "Ctrl+Shift+0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to unhide a row in Excel?",
+      "options": [
+        "Ctrl+9",
+        "Ctrl+0",
+        "Ctrl+Shift+9",
+        "Ctrl+Shift+0"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to unhide a column in Excel?",
+      "options": [
+        "Ctrl+9",
+        "Ctrl+0",
+        "Ctrl+Shift+9",
+        "Ctrl+Shift+0"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to open the Print Preview in Excel?",
+      "options": [
+        "Ctrl+F2",
+        "Ctrl+F4",
+        "Ctrl+F6",
+        "Ctrl+F8"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Macro dialog box in Excel?",
+      "options": [
+        "Alt+F8",
+        "Ctrl+F8",
+        "Shift+F8",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to record a macro in Excel?",
+      "options": [
+        "Alt+F8",
+        "Ctrl+F8",
+        "Shift+F8",
+        "Alt+Shift+F8"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to run a macro in Excel?",
+      "options": [
+        "Alt+F8",
+        "Ctrl+F8",
+        "Shift+F8",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Visual Basic Editor in Excel?",
+      "options": [
+        "Alt+F11",
+        "Ctrl+F11",
+        "Shift+F11",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to display the active cell in Excel?",
+      "options": [
+        "Shift+Backspace",
+        "Ctrl+Backspace",
+        "Alt+Backspace",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to move to the beginning of a row in Excel?",
+      "options": [
+        "Home",
+        "Ctrl+Home",
+        "Ctrl+End",
+        "End"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to move to the beginning of a worksheet in Excel?",
+      "options": [
+        "Home",
+        "Ctrl+Home",
+        "Ctrl+End",
+        "End"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to move to the end of a worksheet in Excel?",
+      "options": [
+        "Home",
+        "Ctrl+Home",
+        "Ctrl+End",
+        "End"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to move to the last cell in a worksheet in Excel?",
+      "options": [
+        "Home",
+        "Ctrl+Home",
+        "Ctrl+End",
+        "End"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to move to the next cell to the right in Excel?",
+      "options": [
+        "Tab",
+        "Enter",
+        "Shift+Tab",
+        "Shift+Enter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to move to the next cell down in Excel?",
+      "options": [
+        "Tab",
+        "Enter",
+        "Shift+Tab",
+        "Shift+Enter"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to move to the previous cell to the left in Excel?",
+      "options": [
+        "Tab",
+        "Enter",
+        "Shift+Tab",
+        "Shift+Enter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to move to the previous cell up in Excel?",
+      "options": [
+        "Tab",
+        "Enter",
+        "Shift+Tab",
+        "Shift+Enter"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to open the Data Validation dialog box in Excel?",
+      "options": [
+        "Alt+D",
+        "Alt+V",
+        "Ctrl+D",
+        "Ctrl+V"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Sort dialog box in Excel?",
+      "options": [
+        "Alt+D+S",
+        "Alt+D+A",
+        "Alt+D+F",
+        "Alt+D+L"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Filter drop-down menu in Excel?",
+      "options": [
+        "Ctrl+Shift+L",
+        "Ctrl+Alt+L",
+        "Alt+Shift+L",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to remove filters in Excel?",
+      "options": [
+        "Ctrl+Shift+L",
+        "Ctrl+Alt+L",
+        "Alt+Shift+L",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the PivotTable Wizard in Excel?",
+      "options": [
+        "Alt+D+P",
+        "Alt+D+W",
+        "Alt+D+T",
+        "Alt+D+S"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function to add values in Excel?",
+      "options": [
+        "SUM",
+        "AVERAGE",
+        "COUNT",
+        "MAX"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function to find the average of values in Excel?",
+      "options": [
+        "SUM",
+        "AVERAGE",
+        "COUNT",
+        "MAX"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function to count cells with numbers in Excel?",
+      "options": [
+        "SUM",
+        "AVERAGE",
+        "COUNT",
+        "MAX"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function to find the maximum value in Excel?",
+      "options": [
+        "SUM",
+        "AVERAGE",
+        "COUNT",
+        "MAX"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the minimum value in Excel?",
+      "options": [
+        "SUM",
+        "AVERAGE",
+        "COUNT",
+        "MIN"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to count non-empty cells in Excel?",
+      "options": [
+        "COUNT",
+        "COUNTA",
+        "COUNTBLANK",
+        "COUNTIF"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function to count blank cells in Excel?",
+      "options": [
+        "COUNT",
+        "COUNTA",
+        "COUNTBLANK",
+        "COUNTIF"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function to count cells based on a condition in Excel?",
+      "options": [
+        "COUNT",
+        "COUNTA",
+        "COUNTBLANK",
+        "COUNTIF"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the sum of cells based on a condition in Excel?",
+      "options": [
+        "SUM",
+        "SUMIF",
+        "SUMIFS",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the average of cells based on a condition in Excel?",
+      "options": [
+        "AVERAGE",
+        "AVERAGEIF",
+        "AVERAGEIFS",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the maximum value based on a condition in Excel?",
+      "options": [
+        "MAX",
+        "MAXIF",
+        "MAXIFS",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the minimum value based on a condition in Excel?",
+      "options": [
+        "MIN",
+        "MINIF",
+        "MINIFS",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the rank of a number in Excel?",
+      "options": [
+        "RANK",
+        "RANK.AVG",
+        "RANK.EQ",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the square root of a number in Excel?",
+      "options": [
+        "SQRT",
+        "POWER",
+        "ROOT",
+        "SQUARE"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function to find the power of a number in Excel?",
+      "options": [
+        "SQRT",
+        "POWER",
+        "ROOT",
+        "SQUARE"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function to find the absolute value of a number in Excel?",
+      "options": [
+        "ABS",
+        "INT",
+        "ROUND",
+        "CEILING"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function to round a number in Excel?",
+      "options": [
+        "ABS",
+        "INT",
+        "ROUND",
+        "CEILING"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function to round up a number to the nearest integer in Excel?",
+      "options": [
+        "ABS",
+        "INT",
+        "ROUNDUP",
+        "CEILING"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function to round down a number to the nearest integer in Excel?",
+      "options": [
+        "ABS",
+        "INT",
+        "ROUNDDOWN",
+        "FLOOR"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function to find the remainder in Excel?",
+      "options": [
+        "MOD",
+        "REM",
+        "DIV",
+        "QUOTIENT"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function to find the quotient in Excel?",
+      "options": [
+        "MOD",
+        "REM",
+        "DIV",
+        "QUOTIENT"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the greatest common divisor in Excel?",
+      "options": [
+        "GCD",
+        "LCM",
+        "DIV",
+        "MOD"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function to find the least common multiple in Excel?",
+      "options": [
+        "GCD",
+        "LCM",
+        "DIV",
+        "MOD"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function to find the product of values in Excel?",
+      "options": [
+        "SUM",
+        "PRODUCT",
+        "MULTIPLY",
+        "TIMES"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function to find the factorial of a number in Excel?",
+      "options": [
+        "FACT",
+        "FACTORIAL",
+        "FACT",
+        "FACTOR"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function to find the natural logarithm in Excel?",
+      "options": [
+        "LN",
+        "LOG",
+        "LOG10",
+        "EXP"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function to find the logarithm base 10 in Excel?",
+      "options": [
+        "LN",
+        "LOG",
+        "LOG10",
+        "EXP"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function to find the exponential value in Excel?",
+      "options": [
+        "LN",
+        "LOG",
+        "LOG10",
+        "EXP"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the sine of an angle in Excel?",
+      "options": [
+        "SIN",
+        "COS",
+        "TAN",
+        "RADIANS"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function to find the cosine of an angle in Excel?",
+      "options": [
+        "SIN",
+        "COS",
+        "TAN",
+        "RADIANS"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function to find the tangent of an angle in Excel?",
+      "options": [
+        "SIN",
+        "COS",
+        "TAN",
+        "RADIANS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function to convert degrees to radians in Excel?",
+      "options": [
+        "SIN",
+        "COS",
+        "TAN",
+        "RADIANS"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to convert radians to degrees in Excel?",
+      "options": [
+        "DEGREES",
+        "RADIANS",
+        "CONVERT",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function to find the current date in Excel?",
+      "options": [
+        "DATE",
+        "TODAY",
+        "NOW",
+        "Both B and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the current date and time in Excel?",
+      "options": [
+        "DATE",
+        "TODAY",
+        "NOW",
+        "Both B and C"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function to find the day of the week in Excel?",
+      "options": [
+        "DAY",
+        "WEEKDAY",
+        "MONTH",
+        "YEAR"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function to find the month of a date in Excel?",
+      "options": [
+        "DAY",
+        "WEEKDAY",
+        "MONTH",
+        "YEAR"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function to find the year of a date in Excel?",
+      "options": [
+        "DAY",
+        "WEEKDAY",
+        "MONTH",
+        "YEAR"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the number of days between two dates in Excel?",
+      "options": [
+        "DAYS",
+        "DATEDIF",
+        "NETWORKDAYS",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function to find the number of working days between two dates in Excel?",
+      "options": [
+        "DAYS",
+        "DATEDIF",
+        "NETWORKDAYS",
+        "WORKDAYS"
+      ],
+      "answer": 2
+    }
+  ]
+}

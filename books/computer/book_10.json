@@ -1,0 +1,996 @@
+{
+  "category": "Database & DBMS",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "What is a Database?",
+      "options": [
+        "A collection of organized data",
+        "A collection of programs",
+        "A collection of hardware",
+        "A collection of networks"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is DBMS?",
+      "options": [
+        "Database Management System",
+        "Database Maintenance System",
+        "Database Maintenance and Storage",
+        "Database Management Sound"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a DBMS?",
+      "options": [
+        "MS Access",
+        "Oracle",
+        "MySQL",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is SQL?",
+      "options": [
+        "Structured Query Language",
+        "Structured Query Laison",
+        "Straight Query Language",
+        "Structured Query Linear"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a type of SQL?",
+      "options": [
+        "Data Definition Language",
+        "Data Manipulation Language",
+        "Data Control Language",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is DDL?",
+      "options": [
+        "Data Definition Language",
+        "Data Manipulation Language",
+        "Data Control Language",
+        "Data Dictionary Language"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is DML?",
+      "options": [
+        "Data Definition Language",
+        "Data Manipulation Language",
+        "Data Control Language",
+        "Data Dictionary Language"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is DCL?",
+      "options": [
+        "Data Definition Language",
+        "Data Manipulation Language",
+        "Data Control Language",
+        "Data Dictionary Language"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a table in a database?",
+      "options": [
+        "A collection of related data organized in rows and columns",
+        "A collection of programs",
+        "A collection of hardware",
+        "A collection of networks"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a row in a database table?",
+      "options": [
+        "A record",
+        "A field",
+        "A column",
+        "A key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a column in a database table?",
+      "options": [
+        "A field",
+        "A record",
+        "A row",
+        "A key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a primary key?",
+      "options": [
+        "A unique identifier for a record",
+        "A foreign key",
+        "A composite key",
+        "A candidate key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a foreign key?",
+      "options": [
+        "A key that references a primary key in another table",
+        "A unique identifier for a record",
+        "A composite key",
+        "A candidate key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a composite key?",
+      "options": [
+        "A key that consists of two or more columns",
+        "A unique identifier for a record",
+        "A foreign key",
+        "A candidate key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a candidate key?",
+      "options": [
+        "A column or set of columns that can uniquely identify a record",
+        "A unique identifier for a record",
+        "A foreign key",
+        "A composite key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an alternate key?",
+      "options": [
+        "A candidate key that is not the primary key",
+        "A foreign key",
+        "A composite key",
+        "A unique identifier for a record"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a super key?",
+      "options": [
+        "A set of columns that can uniquely identify a record",
+        "A foreign key",
+        "A composite key",
+        "A unique identifier for a record"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is normalization?",
+      "options": [
+        "The process of organizing data to reduce redundancy",
+        "The process of creating tables",
+        "The process of deleting data",
+        "The process of adding data"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the first normal form (1NF)?",
+      "options": [
+        "A table is in 1NF if it has no repeating groups",
+        "A table is in 1NF if it has no duplicate rows",
+        "A table is in 1NF if it has a primary key",
+        "A table is in 1NF if it has foreign keys"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the second normal form (2NF)?",
+      "options": [
+        "A table is in 2NF if it is in 1NF and all non-key attributes are fully dependent on the primary key",
+        "A table is in 2NF if it has no repeating groups",
+        "A table is in 2NF if it has a primary key",
+        "A table is in 2NF if it has foreign keys"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the third normal form (3NF)?",
+      "options": [
+        "A table is in 3NF if it is in 2NF and has no transitive dependencies",
+        "A table is in 3NF if it is in 1NF and all non-key attributes are fully dependent on the primary key",
+        "A table is in 3NF if it has no repeating groups",
+        "A table is in 3NF if it has a primary key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is BCNF?",
+      "options": [
+        "Boyce-Codd Normal Form",
+        "Base Normal Form",
+        "Basic Normal Form",
+        "Binary Normal Form"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is denormalization?",
+      "options": [
+        "The process of adding redundancy to improve performance",
+        "The process of organizing data to reduce redundancy",
+        "The process of deleting data",
+        "The process of adding data"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a query in DBMS?",
+      "options": [
+        "A request for data from a database",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the SELECT statement in SQL?",
+      "options": [
+        "A statement used to retrieve data from a database",
+        "A statement used to insert data into a database",
+        "A statement used to update data in a database",
+        "A statement used to delete data from a database"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the INSERT statement in SQL?",
+      "options": [
+        "A statement used to insert data into a database",
+        "A statement used to retrieve data from a database",
+        "A statement used to update data in a database",
+        "A statement used to delete data from a database"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the UPDATE statement in SQL?",
+      "options": [
+        "A statement used to update data in a database",
+        "A statement used to insert data into a database",
+        "A statement used to retrieve data from a database",
+        "A statement used to delete data from a database"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the DELETE statement in SQL?",
+      "options": [
+        "A statement used to delete data from a database",
+        "A statement used to insert data into a database",
+        "A statement used to retrieve data from a database",
+        "A statement used to update data in a database"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the CREATE statement in SQL?",
+      "options": [
+        "A statement used to create tables or databases",
+        "A statement used to insert data into a database",
+        "A statement used to retrieve data from a database",
+        "A statement used to delete data from a database"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the ALTER statement in SQL?",
+      "options": [
+        "A statement used to modify the structure of a table",
+        "A statement used to create tables or databases",
+        "A statement used to insert data into a database",
+        "A statement used to retrieve data from a database"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the DROP statement in SQL?",
+      "options": [
+        "A statement used to delete tables or databases",
+        "A statement used to modify the structure of a table",
+        "A statement used to create tables or databases",
+        "A statement used to insert data into a database"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the TRUNCATE statement in SQL?",
+      "options": [
+        "A statement used to remove all rows from a table",
+        "A statement used to delete tables or databases",
+        "A statement used to modify the structure of a table",
+        "A statement used to create tables or databases"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the WHERE clause in SQL?",
+      "options": [
+        "A clause used to filter records",
+        "A clause used to sort records",
+        "A clause used to group records",
+        "A clause used to join tables"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the ORDER BY clause in SQL?",
+      "options": [
+        "A clause used to sort records",
+        "A clause used to filter records",
+        "A clause used to group records",
+        "A clause used to join tables"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the GROUP BY clause in SQL?",
+      "options": [
+        "A clause used to group records",
+        "A clause used to sort records",
+        "A clause used to filter records",
+        "A clause used to join tables"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the HAVING clause in SQL?",
+      "options": [
+        "A clause used to filter groups",
+        "A clause used to group records",
+        "A clause used to sort records",
+        "A clause used to filter records"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a join in SQL?",
+      "options": [
+        "A way to combine data from two or more tables",
+        "A way to filter data",
+        "A way to sort data",
+        "A way to group data"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an INNER JOIN in SQL?",
+      "options": [
+        "A join that returns records that have matching values in both tables",
+        "A join that returns all records from the left table",
+        "A join that returns all records from the right table",
+        "A join that returns all records from both tables"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a LEFT JOIN in SQL?",
+      "options": [
+        "A join that returns all records from the left table",
+        "A join that returns records that have matching values in both tables",
+        "A join that returns all records from the right table",
+        "A join that returns all records from both tables"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a RIGHT JOIN in SQL?",
+      "options": [
+        "A join that returns all records from the right table",
+        "A join that returns all records from the left table",
+        "A join that returns records that have matching values in both tables",
+        "A join that returns all records from both tables"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a FULL OUTER JOIN in SQL?",
+      "options": [
+        "A join that returns all records from both tables",
+        "A join that returns all records from the left table",
+        "A join that returns all records from the right table",
+        "A join that returns records that have matching values in both tables"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a CROSS JOIN in SQL?",
+      "options": [
+        "A join that returns all combinations of rows from both tables",
+        "A join that returns all records from the left table",
+        "A join that returns all records from the right table",
+        "A join that returns records that have matching values in both tables"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a self-join in SQL?",
+      "options": [
+        "A join that joins a table to itself",
+        "A join that returns all records from the left table",
+        "A join that returns all records from the right table",
+        "A join that returns records that have matching values in both tables"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an index in a database?",
+      "options": [
+        "A data structure that improves the speed of data retrieval",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a clustered index?",
+      "options": [
+        "An index that determines the physical order of data",
+        "An index that does not determine the physical order of data",
+        "A type of foreign key",
+        "A type of primary key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a non-clustered index?",
+      "options": [
+        "An index that does not determine the physical order of data",
+        "An index that determines the physical order of data",
+        "A type of foreign key",
+        "A type of primary key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a view in SQL?",
+      "options": [
+        "A virtual table based on the result set of a query",
+        "A physical table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a stored procedure in SQL?",
+      "options": [
+        "A prepared SQL code that can be saved and reused",
+        "A virtual table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a trigger in SQL?",
+      "options": [
+        "A stored procedure that automatically executes in response to an event",
+        "A prepared SQL code that can be saved and reused",
+        "A virtual table",
+        "A type of key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a transaction in DBMS?",
+      "options": [
+        "A sequence of operations performed as a single logical unit of work",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is ACID in DBMS?",
+      "options": [
+        "Atomicity, Consistency, Isolation, Durability",
+        "Atomicity, Consistency, Integrity, Durability",
+        "Atomicity, Consistency, Isolation, Data",
+        "Atomicity, Consistency, Integrity, Data"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Atomicity in DBMS?",
+      "options": [
+        "A transaction is treated as a single unit",
+        "A transaction ensures data consistency",
+        "A transaction runs independently",
+        "A transaction persists after completion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Consistency in DBMS?",
+      "options": [
+        "A transaction ensures data consistency",
+        "A transaction is treated as a single unit",
+        "A transaction runs independently",
+        "A transaction persists after completion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Isolation in DBMS?",
+      "options": [
+        "A transaction runs independently",
+        "A transaction is treated as a single unit",
+        "A transaction ensures data consistency",
+        "A transaction persists after completion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Durability in DBMS?",
+      "options": [
+        "A transaction persists after completion",
+        "A transaction is treated as a single unit",
+        "A transaction ensures data consistency",
+        "A transaction runs independently"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a data warehouse?",
+      "options": [
+        "A large repository of data used for reporting and analysis",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is ETL in data warehousing?",
+      "options": [
+        "Extract, Transform, Load",
+        "Extract, Transfer, Load",
+        "Extract, Transform, Link",
+        "Extract, Transfer, Link"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a data mart?",
+      "options": [
+        "A subset of a data warehouse",
+        "A large repository of data used for reporting and analysis",
+        "A type of table",
+        "A type of key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is OLAP in DBMS?",
+      "options": [
+        "Online Analytical Processing",
+        "Online Application Processing",
+        "Online Analysis Processing",
+        "Online Application Protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is OLTP in DBMS?",
+      "options": [
+        "Online Transaction Processing",
+        "Online Transaction Protocol",
+        "Online Transfer Processing",
+        "Online Transfer Protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is MS Access?",
+      "options": [
+        "A DBMS from Microsoft",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is MySQL?",
+      "options": [
+        "An open-source DBMS",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Oracle?",
+      "options": [
+        "A commercial DBMS",
+        "An open-source DBMS",
+        "A type of table",
+        "A type of key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is PostgreSQL?",
+      "options": [
+        "An open-source DBMS",
+        "A commercial DBMS",
+        "A type of table",
+        "A type of key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is MongoDB?",
+      "options": [
+        "A NoSQL database",
+        "A relational database",
+        "A type of table",
+        "A type of key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is NoSQL?",
+      "options": [
+        "A non-relational database",
+        "A relational database",
+        "A type of table",
+        "A type of key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a key-value store in NoSQL?",
+      "options": [
+        "A database that stores data as key-value pairs",
+        "A relational database",
+        "A type of table",
+        "A type of key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a document store in NoSQL?",
+      "options": [
+        "A database that stores data as documents",
+        "A relational database",
+        "A key-value store",
+        "A type of table"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a graph database?",
+      "options": [
+        "A database that stores data as nodes and edges",
+        "A relational database",
+        "A key-value store",
+        "A document store"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a column-family store in NoSQL?",
+      "options": [
+        "A database that stores data as columns",
+        "A relational database",
+        "A key-value store",
+        "A document store"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Redis?",
+      "options": [
+        "An in-memory key-value database",
+        "A relational database",
+        "A document store",
+        "A graph database"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Cassandra?",
+      "options": [
+        "A column-family NoSQL database",
+        "A relational database",
+        "A key-value store",
+        "A document store"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Elasticsearch?",
+      "options": [
+        "A search engine based on NoSQL",
+        "A relational database",
+        "A key-value store",
+        "A document store"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of CRUD?",
+      "options": [
+        "Create, Read, Update, Delete",
+        "Create, Read, Update, Data",
+        "Create, Retrieve, Update, Delete",
+        "Create, Retrieve, Update, Data"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a database schema?",
+      "options": [
+        "The structure of a database",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a database instance?",
+      "options": [
+        "The data in a database at a particular time",
+        "The structure of a database",
+        "A type of table",
+        "A type of key"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is data mining?",
+      "options": [
+        "The process of discovering patterns in large data sets",
+        "The process of creating databases",
+        "The process of deleting data",
+        "The process of adding data"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is big data?",
+      "options": [
+        "Extremely large data sets that may be analyzed computationally",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Hadoop?",
+      "options": [
+        "A framework for processing big data",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of HDFS?",
+      "options": [
+        "Hadoop Distributed File System",
+        "Hadoop Data File System",
+        "High Distributed File System",
+        "High Data File System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is MapReduce in Hadoop?",
+      "options": [
+        "A programming model for processing big data",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of Spark?",
+      "options": [
+        "Apache Spark is a unified analytics engine for big data processing",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Kafka?",
+      "options": [
+        "A distributed streaming platform",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is data lake?",
+      "options": [
+        "A storage repository that holds vast amounts of raw data",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is data lineage?",
+      "options": [
+        "The data's origin and transformation history",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is data governance?",
+      "options": [
+        "The overall management of data availability, usability, integrity, and security",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of DBA?",
+      "options": [
+        "Database Administrator",
+        "Data Base Assistant",
+        "Data Base Analyst",
+        "Database Assistant"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of ODBC?",
+      "options": [
+        "Open Database Connectivity",
+        "Open Data Base Connection",
+        "Open Database Connection",
+        "Open Data Base Connectivity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of JDBC?",
+      "options": [
+        "Java Database Connectivity",
+        "Java Data Base Connection",
+        "Java Database Connection",
+        "Java Data Base Connectivity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of ERD?",
+      "options": [
+        "Entity-Relationship Diagram",
+        "Entity-Relationship Data",
+        "Entity-Relationship Database",
+        "Entity-Relationship Design"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an entity in ERD?",
+      "options": [
+        "A real-world object or concept",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an attribute in ERD?",
+      "options": [
+        "A property of an entity",
+        "A type of table",
+        "A type of key",
+        "A type of relationship"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a relationship in ERD?",
+      "options": [
+        "An association between entities",
+        "A type of table",
+        "A type of key",
+        "A type of attribute"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is cardinality in ERD?",
+      "options": [
+        "The number of relationships between entities",
+        "A type of table",
+        "A type of key",
+        "A type of attribute"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of RDBMS?",
+      "options": [
+        "Relational Database Management System",
+        "Relational Data Base Management System",
+        "Relational Database Management Software",
+        "Relational Data Base Management Software"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of OODBMS?",
+      "options": [
+        "Object-Oriented Database Management System",
+        "Object-Oriented Data Base Management System",
+        "Object-Oriented Database Management Software",
+        "Object-Oriented Data Base Management Software"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of ORDBMS?",
+      "options": [
+        "Object-Relational Database Management System",
+        "Object-Relational Data Base Management System",
+        "Object-Relational Database Management Software",
+        "Object-Relational Data Base Management Software"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of JSON in databases?",
+      "options": [
+        "JavaScript Object Notation",
+        "Java Standard Object Notation",
+        "JavaScript Object Navigation",
+        "Java Standard Object Navigation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of XML in databases?",
+      "options": [
+        "Extensible Markup Language",
+        "Extensible Media Language",
+        "Extensible Meria Letters",
+        "Extensible Markup Letters"
+      ],
+      "answer": 0
+    }
+  ]
+}

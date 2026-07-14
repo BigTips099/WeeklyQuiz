@@ -1,0 +1,996 @@
+{
+  "category": "MS Word",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "What is the default file extension of MS Word document?",
+      "options": [
+        ".txt",
+        ".doc",
+        ".docx",
+        ".dot"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which file starts MS Word?",
+      "options": [
+        "Winword.exe",
+        "Word.exe",
+        "Word2003.exe",
+        "Msword.exe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to create a new document in MS Word?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open a document in MS Word?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to save a document in MS Word?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to print a document in MS Word?",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to close a document in MS Word?",
+      "options": [
+        "Ctrl+W",
+        "Ctrl+O",
+        "Ctrl+S",
+        "Ctrl+P"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to quit MS Word?",
+      "options": [
+        "Ctrl+F4",
+        "Alt+F4",
+        "Shift+F4",
+        "Alt+W"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key for Bold text in MS Word?",
+      "options": [
+        "Ctrl+B",
+        "Ctrl+I",
+        "Ctrl+U",
+        "Ctrl+Shift+B"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key for Italic text in MS Word?",
+      "options": [
+        "Ctrl+B",
+        "Ctrl+I",
+        "Ctrl+U",
+        "Ctrl+Shift+I"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key for Underline text in MS Word?",
+      "options": [
+        "Ctrl+B",
+        "Ctrl+I",
+        "Ctrl+U",
+        "Ctrl+Shift+U"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to double underline text in MS Word?",
+      "options": [
+        "Ctrl+Alt+D",
+        "Shift+Alt+U",
+        "Ctrl+Shift+U",
+        "Ctrl+Shift+D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to copy text in MS Word?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+X",
+        "Ctrl+V",
+        "Ctrl+A"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to cut text in MS Word?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+X",
+        "Ctrl+V",
+        "Ctrl+A"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to paste text in MS Word?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+X",
+        "Ctrl+V",
+        "Ctrl+A"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to select all text in MS Word?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+X",
+        "Ctrl+V",
+        "Ctrl+A"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to undo in MS Word?",
+      "options": [
+        "Ctrl+Y",
+        "Ctrl+Z",
+        "Ctrl+X",
+        "Ctrl+V"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to redo in MS Word?",
+      "options": [
+        "Ctrl+Y",
+        "Ctrl+Z",
+        "Ctrl+X",
+        "Ctrl+V"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key for Find in MS Word?",
+      "options": [
+        "Ctrl+F",
+        "Ctrl+H",
+        "Ctrl+G",
+        "Ctrl+A"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key for Replace in MS Word?",
+      "options": [
+        "Ctrl+F",
+        "Ctrl+H",
+        "Ctrl+G",
+        "Ctrl+A"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key for Go To in MS Word?",
+      "options": [
+        "Ctrl+F",
+        "Ctrl+H",
+        "Ctrl+G",
+        "Ctrl+A"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key for Spell Check in MS Word?",
+      "options": [
+        "F1",
+        "F2",
+        "F7",
+        "F9"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key for Thesaurus in MS Word?",
+      "options": [
+        "Shift+F7",
+        "Ctrl+F7",
+        "Alt+F7",
+        "F7"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open Font dialog box in MS Word?",
+      "options": [
+        "Ctrl+Shift+D",
+        "Ctrl+Alt+D",
+        "Ctrl+D",
+        "Alt+D"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to open Save As dialog box in MS Word?",
+      "options": [
+        "F5",
+        "F6",
+        "F9",
+        "F12"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key for Left Align in MS Word?",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+R",
+        "Ctrl+E",
+        "Ctrl+J"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key for Right Align in MS Word?",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+R",
+        "Ctrl+E",
+        "Ctrl+J"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key for Center Align in MS Word?",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+R",
+        "Ctrl+E",
+        "Ctrl+J"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key for Justify in MS Word?",
+      "options": [
+        "Ctrl+L",
+        "Ctrl+R",
+        "Ctrl+E",
+        "Ctrl+J"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key for Superscript in MS Word?",
+      "options": [
+        "Ctrl+=",
+        "Ctrl+Shift+=",
+        "Alt+Ctrl+Shift+=",
+        "None of above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key for Subscript in MS Word?",
+      "options": [
+        "Ctrl+=",
+        "Ctrl+Shift+=",
+        "Alt+Ctrl+Shift+=",
+        "None of above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key for Line Break in MS Word?",
+      "options": [
+        "Ctrl+Enter",
+        "Alt+Enter",
+        "Shift+Enter",
+        "Space+Enter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key for Page Break in MS Word?",
+      "options": [
+        "Ctrl+Enter",
+        "Alt+Enter",
+        "Shift+Enter",
+        "Space+Enter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key for manual line break in MS Word?",
+      "options": [
+        "Ctrl+Enter",
+        "Alt+Enter",
+        "Shift+Enter",
+        "Space+Enter"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to increase left indent in MS Word?",
+      "options": [
+        "Ctrl+I",
+        "Ctrl+M",
+        "Alt+I",
+        "F10"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to decrease left indent in MS Word?",
+      "options": [
+        "Ctrl+I",
+        "Ctrl+Shift+M",
+        "Alt+I",
+        "F10"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to insert a hyperlink in MS Word?",
+      "options": [
+        "Ctrl+K",
+        "Ctrl+H",
+        "Ctrl+L",
+        "Ctrl+Shift+K"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the default font size in MS Word?",
+      "options": [
+        "9 pt",
+        "10 pt",
+        "11 pt",
+        "12 pt"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the default font in MS Word?",
+      "options": [
+        "Arial",
+        "Times New Roman",
+        "Calibri",
+        "Verdana"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the smallest font size in MS Word?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the largest font size in MS Word?",
+      "options": [
+        "72",
+        "160",
+        "1638",
+        "16038"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the default line spacing in MS Word?",
+      "options": [
+        "1.0",
+        "1.15",
+        "1.5",
+        "2.0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the default left margin in MS Word?",
+      "options": [
+        "1 inch",
+        "1.25 inches",
+        "1.5 inches",
+        "2 inches"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the default right margin in MS Word?",
+      "options": [
+        "1 inch",
+        "1.25 inches",
+        "1.5 inches",
+        "2 inches"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the default top margin in MS Word?",
+      "options": [
+        "1 inch",
+        "1.25 inches",
+        "1.5 inches",
+        "2 inches"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the default bottom margin in MS Word?",
+      "options": [
+        "1 inch",
+        "1.25 inches",
+        "1.5 inches",
+        "2 inches"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the default page orientation in MS Word?",
+      "options": [
+        "Portrait",
+        "Landscape",
+        "Both",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the default paper size in MS Word?",
+      "options": [
+        "A4",
+        "Letter",
+        "Legal",
+        "A5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the maximum number of columns you can insert in MS Word?",
+      "options": [
+        "35",
+        "45",
+        "55",
+        "63"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the maximum number of rows in a table in MS Word?",
+      "options": [
+        "1000",
+        "10000",
+        "32767",
+        "Unlimited"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the maximum number of columns in a table in MS Word?",
+      "options": [
+        "35",
+        "45",
+        "55",
+        "63"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the minimum number of rows and columns in MS Word table?",
+      "options": [
+        "1 and 1",
+        "2 and 1",
+        "1 and 2",
+        "2 and 2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to insert a table in MS Word?",
+      "options": [
+        "Ctrl+T",
+        "Alt+T",
+        "Shift+T",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to split a table in MS Word?",
+      "options": [
+        "Ctrl+Alt+Enter",
+        "Ctrl+Shift+Enter",
+        "Alt+Shift+Enter",
+        "Alt+Space+Enter"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many ways can you save a document in MS Word?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the extension of MS Word template?",
+      "options": [
+        ".doc",
+        ".docx",
+        ".dot",
+        ".txt"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to open the Find and Replace dialog box?",
+      "options": [
+        "Ctrl+F",
+        "Ctrl+H",
+        "Ctrl+G",
+        "Ctrl+A"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the EXT indicator on the status bar of MS Word indicate?",
+      "options": [
+        "It indicates whether the external text is pasted on document or not",
+        "It indicates whether extended add-ons are installed on MS Word or not",
+        "It indicates whether Extended Selection mode is turned on or off",
+        "None of These"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How can you disable extended selection mode in MS Word?",
+      "options": [
+        "Press F8 again to disable",
+        "Press Del to disable",
+        "Press Esc to disable",
+        "Press Enter to disable"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to display field codes in MS Word?",
+      "options": [
+        "Alt+F9",
+        "Ctrl+F9",
+        "Shift+F9",
+        "Space+F9"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to insert a field in MS Word?",
+      "options": [
+        "Alt+F9",
+        "Ctrl+F9",
+        "Shift+F9",
+        "Space+F9"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to update a field in MS Word?",
+      "options": [
+        "F6",
+        "F9",
+        "F11",
+        "F12"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to toggle between field codes and field values?",
+      "options": [
+        "Alt+F9",
+        "Ctrl+F9",
+        "Shift+F9",
+        "Space+F9"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to insert a footnote in MS Word?",
+      "options": [
+        "Ctrl+Alt+F",
+        "Ctrl+Shift+F",
+        "Alt+Shift+F",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to insert an endnote in MS Word?",
+      "options": [
+        "Ctrl+Alt+E",
+        "Ctrl+Shift+E",
+        "Alt+Shift+E",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key for thesaurus in MS Word?",
+      "options": [
+        "Shift+F7",
+        "Ctrl+F7",
+        "Alt+F7",
+        "F7"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to insert a comment in MS Word?",
+      "options": [
+        "Ctrl+Alt+M",
+        "Ctrl+Shift+M",
+        "Alt+Shift+M",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to track changes in MS Word?",
+      "options": [
+        "Ctrl+Shift+E",
+        "Ctrl+Alt+E",
+        "Alt+Shift+E",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to accept a change in MS Word?",
+      "options": [
+        "Ctrl+Enter",
+        "Alt+Enter",
+        "Shift+Enter",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to reject a change in MS Word?",
+      "options": [
+        "Ctrl+Enter",
+        "Alt+Enter",
+        "Shift+Enter",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to open the Macro dialog box in MS Word?",
+      "options": [
+        "Alt+F8",
+        "Ctrl+F8",
+        "Shift+F8",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to record a macro in MS Word?",
+      "options": [
+        "Alt+F8",
+        "Ctrl+F8",
+        "Shift+F8",
+        "Alt+Shift+F8"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to run a macro in MS Word?",
+      "options": [
+        "Alt+F8",
+        "Ctrl+F8",
+        "Shift+F8",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Visual Basic Editor in MS Word?",
+      "options": [
+        "Alt+F11",
+        "Ctrl+F11",
+        "Shift+F11",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to delete a word to the right of the cursor in MS Word?",
+      "options": [
+        "Ctrl+Delete",
+        "Ctrl+Backspace",
+        "Shift+Delete",
+        "Shift+Backspace"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to delete a word to the left of the cursor in MS Word?",
+      "options": [
+        "Ctrl+Delete",
+        "Ctrl+Backspace",
+        "Shift+Delete",
+        "Shift+Backspace"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to go to the beginning of the document in MS Word?",
+      "options": [
+        "Home",
+        "Ctrl+Home",
+        "Ctrl+End",
+        "End"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to go to the end of the document in MS Word?",
+      "options": [
+        "Home",
+        "Ctrl+Home",
+        "Ctrl+End",
+        "End"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to go to the beginning of a line in MS Word?",
+      "options": [
+        "Home",
+        "Ctrl+Home",
+        "Ctrl+End",
+        "End"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to go to the end of a line in MS Word?",
+      "options": [
+        "Home",
+        "Ctrl+Home",
+        "Ctrl+End",
+        "End"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to go to the next word in MS Word?",
+      "options": [
+        "Ctrl+Right Arrow",
+        "Ctrl+Left Arrow",
+        "Ctrl+Up Arrow",
+        "Ctrl+Down Arrow"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to go to the previous word in MS Word?",
+      "options": [
+        "Ctrl+Right Arrow",
+        "Ctrl+Left Arrow",
+        "Ctrl+Up Arrow",
+        "Ctrl+Down Arrow"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to go to the next paragraph in MS Word?",
+      "options": [
+        "Ctrl+Right Arrow",
+        "Ctrl+Left Arrow",
+        "Ctrl+Up Arrow",
+        "Ctrl+Down Arrow"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to go to the previous paragraph in MS Word?",
+      "options": [
+        "Ctrl+Right Arrow",
+        "Ctrl+Left Arrow",
+        "Ctrl+Up Arrow",
+        "Ctrl+Down Arrow"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to select a word in MS Word?",
+      "options": [
+        "Double click",
+        "Triple click",
+        "Ctrl+click",
+        "Shift+click"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to select a paragraph in MS Word?",
+      "options": [
+        "Double click",
+        "Triple click",
+        "Ctrl+click",
+        "Shift+click"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to select a sentence in MS Word?",
+      "options": [
+        "Double click",
+        "Triple click",
+        "Ctrl+click",
+        "Shift+click"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the shortcut key to select a line in MS Word?",
+      "options": [
+        "Double click",
+        "Triple click",
+        "Ctrl+click",
+        "Shift+click"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to select the entire document in MS Word?",
+      "options": [
+        "Ctrl+A",
+        "Ctrl+C",
+        "Ctrl+V",
+        "Ctrl+X"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to copy formatting in MS Word?",
+      "options": [
+        "Ctrl+Shift+C",
+        "Ctrl+Shift+V",
+        "Ctrl+C",
+        "Ctrl+V"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to paste formatting in MS Word?",
+      "options": [
+        "Ctrl+Shift+C",
+        "Ctrl+Shift+V",
+        "Ctrl+C",
+        "Ctrl+V"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shortcut key to open the Paragraph dialog box in MS Word?",
+      "options": [
+        "Ctrl+Shift+M",
+        "Ctrl+Alt+M",
+        "Alt+Shift+M",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Page Setup dialog box in MS Word?",
+      "options": [
+        "Ctrl+Shift+P",
+        "Ctrl+Alt+P",
+        "Alt+Shift+P",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Columns dialog box in MS Word?",
+      "options": [
+        "Ctrl+Shift+C",
+        "Ctrl+Alt+C",
+        "Alt+Shift+C",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to open the Tabs dialog box in MS Word?",
+      "options": [
+        "Ctrl+Shift+T",
+        "Ctrl+Alt+T",
+        "Alt+Shift+T",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shortcut key to insert a watermark in MS Word?",
+      "options": [
+        "Ctrl+Shift+W",
+        "Ctrl+Alt+W",
+        "Alt+Shift+W",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a page number in MS Word?",
+      "options": [
+        "Ctrl+Shift+P",
+        "Ctrl+Alt+P",
+        "Alt+Shift+P",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a header in MS Word?",
+      "options": [
+        "Ctrl+Shift+H",
+        "Ctrl+Alt+H",
+        "Alt+Shift+H",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the shortcut key to insert a footer in MS Word?",
+      "options": [
+        "Ctrl+Shift+F",
+        "Ctrl+Alt+F",
+        "Alt+Shift+F",
+        "None of these"
+      ],
+      "answer": 3
+    }
+  ]
+}

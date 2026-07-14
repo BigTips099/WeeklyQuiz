@@ -1,0 +1,986 @@
+{
+  "category": "Computer Fundamentals",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "The term 'Computer' is derived from which language?",
+      "options": [
+        "Latin",
+        "German",
+        "French",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is the father of Computer?",
+      "options": [
+        "Allen Turing",
+        "Charles Babbage",
+        "Simur Cray",
+        "Augusta Adaming"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The basic operations performed by a computer are:",
+      "options": [
+        "Arithmetic operation",
+        "Logical operation",
+        "Storage and relative",
+        "All the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Who is the father of Internet?",
+      "options": [
+        "Charles Babbage",
+        "Vint Cerf",
+        "Denis Riche",
+        "Martin Cooper"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If a computer has more than one processor then it is known as:",
+      "options": [
+        "Uni-process",
+        "Multiprocessor",
+        "Multi-threaded",
+        "Multi-programming"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A light sensitive device that converts drawing, printed text or other images into digital form is:",
+      "options": [
+        "Keyboard",
+        "Scanner",
+        "OMR",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "WWW stands for:",
+      "options": [
+        "World Whole Web",
+        "Wide World Web",
+        "Web World Wide",
+        "World Wide Web"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A collection of system programs that controls and co-ordinates the overall operations of a computer system is called:",
+      "options": [
+        "System software",
+        "Operating system",
+        "Utility program",
+        "Device driver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of operating system is MS-DOS?",
+      "options": [
+        "Command Line Interface",
+        "Graphical User Interface",
+        "Multitasking",
+        "Menu Driven Interface"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which technology is used in compact disks?",
+      "options": [
+        "Mechanical",
+        "Electrical",
+        "Electro Magnetic",
+        "Laser"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "1 Gigabyte is equal to:",
+      "options": [
+        "1024 bits",
+        "1000 megabytes",
+        "1024 kilobytes",
+        "1024 megabytes"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The brain of any computer system is:",
+      "options": [
+        "ALU",
+        "Memory",
+        "CPU",
+        "Control unit"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following are components of Central Processing Unit (CPU)?",
+      "options": [
+        "Arithmetic logic unit, Mouse",
+        "Arithmetic logic unit, Control unit",
+        "Arithmetic logic unit, Integrated Circuits",
+        "Control Unit, Monitor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Analog computer works on the supply of:",
+      "options": [
+        "Continuous electrical pulses",
+        "Electrical pulses but not continuous",
+        "Magnetic strength",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which one is a Digital device?",
+      "options": [
+        "Digital Clock",
+        "Automobile speed meter",
+        "Clock with a dial and two hands",
+        "All of them"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The computer that process both analog and digital is called:",
+      "options": [
+        "Analog computer",
+        "Digital computer",
+        "Hybrid computer",
+        "Mainframe computer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "CD-ROM stands for:",
+      "options": [
+        "Compactable Read Only Memory",
+        "Compact Data Read Only Memory",
+        "Compactable Disk Read Only Memory",
+        "Compact Disk Read Only Memory"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "ALU stands for:",
+      "options": [
+        "Arithmetic Logic Unit",
+        "Array Logic Unit",
+        "Application Logic Unit",
+        "None of above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "VGA stands for:",
+      "options": [
+        "Video Graphics Array",
+        "Visual Graphics Array",
+        "Volatile Graphics Array",
+        "Video Graphics Adapter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "MSI stands for:",
+      "options": [
+        "Medium Scale Integrated Circuits",
+        "Medium System Integrated Circuits",
+        "Medium Scale Intelligent Circuit",
+        "Medium System Intelligent Circuit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "WAN stands for:",
+      "options": [
+        "Wap Area Network",
+        "Wide Area Network",
+        "Wide Array Net",
+        "Wireless Area Network"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main difference between a mainframe and a super computer?",
+      "options": [
+        "Super computer is much larger than mainframe computers",
+        "Super computers are much smaller than mainframe computers",
+        "Supercomputers are focused to execute few programs as fast as possible while mainframe uses its power to execute as many programs concurrently",
+        "Supercomputers are focused to execute as many programs as possible while mainframe uses its power to execute few programs as fast as possible"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is called the father of modern digital computer?",
+      "options": [
+        "Leibnitz",
+        "Blaise Pascal",
+        "Charles Babbage",
+        "J.H Muller"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who is the father of Computer science?",
+      "options": [
+        "Allen Turing",
+        "Charles Babbage",
+        "Simur Cray",
+        "Augusta Adaming"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A CPU contains:",
+      "options": [
+        "a card reader and a printing device",
+        "an analytical engine and a control unit",
+        "a control unit and an arithmetic logic unit",
+        "an arithmetic logic unit and a card reader"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following controls the process of interaction between the user and the operating system?",
+      "options": [
+        "User interface",
+        "Language translator",
+        "Platform",
+        "Screen saver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The first computers were programmed using:",
+      "options": [
+        "Assembly language",
+        "Machine language",
+        "Source code",
+        "Object code"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A combination of hardware and software that facilitates the sharing of information between computing devices is called:",
+      "options": [
+        "Network",
+        "Peripheral",
+        "Expansion board",
+        "Digital device"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Coded entries which are used to gain access to a computer system are called:",
+      "options": [
+        "Entry codes",
+        "Passwords",
+        "Security commands",
+        "Code words"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which statement is true about Minicomputer and Microcomputer?",
+      "options": [
+        "Minicomputer works faster than Microcomputer",
+        "Microcomputer works faster than Minicomputer",
+        "Speed of both the computers is the same",
+        "The speeds of both these computers cannot be compared"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "You can organize files by storing them in:",
+      "options": [
+        "archives",
+        "folders",
+        "indexes",
+        "lists"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of resource is most likely to be a shared common resource in a computer Network?",
+      "options": [
+        "Printers",
+        "Speakers",
+        "Floppy disk drives",
+        "Keyboards"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device is required for the Internet connection?",
+      "options": [
+        "Joystick",
+        "Modem",
+        "CD Drive",
+        "NIC Card"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a light pen?",
+      "options": [
+        "A Mechanical Input device",
+        "Optical input device",
+        "Electronic input device",
+        "Optical output device"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "UNIVAC stands for:",
+      "options": [
+        "Universal Automatic Computer",
+        "Universal Array Computer",
+        "Unique Automatic Computer",
+        "Unvalued Automatic Computer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The capacity of 5.25 inch floppy disk was:",
+      "options": [
+        "1.40 MB",
+        "1.44 GB",
+        "1.40 GB",
+        "1.44 MB"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "MICR stands for:",
+      "options": [
+        "Magnetic Ink Character Reader",
+        "Magnetic Ink Code Reader",
+        "Magnetic Ink Cases Reader",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "EBCDIC stands for:",
+      "options": [
+        "Extended Binary Coded Decimal Interchange Code",
+        "Extended Bit Code Decimal Interchange Code",
+        "Extended Bit Case Decimal Interchange Code",
+        "Extended Binary Case Decimal Interchange Code"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a part of the Central Processing Unit?",
+      "options": [
+        "Printer",
+        "Key board",
+        "Mouse",
+        "Arithmetic & Logic unit"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "CAD stands for:",
+      "options": [
+        "Computer aided design",
+        "Computer algorithm for design",
+        "Computer application in design",
+        "Computer analogue design"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Junk e-mail is also called:",
+      "options": [
+        "spam",
+        "spoof",
+        "sniffer script",
+        "spool"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which statement describes 'Hackers'?",
+      "options": [
+        "All have the same motive",
+        "Break into other people's computers",
+        "May legally break into computers as long as they do not do any damage",
+        "Are people who are allergic to computers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of computers are client computers (most of the time) in a client-server system?",
+      "options": [
+        "Mainframe",
+        "Mini-computer",
+        "Microcomputer",
+        "PDA"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A computer cannot 'boot' if it does not have the:",
+      "options": [
+        "Compiler",
+        "Loader",
+        "Operating System",
+        "Assembler"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The amount of vertical space between lines of text in a document is called:",
+      "options": [
+        "double-space",
+        "line spacing",
+        "single space",
+        "vertical spacing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Example of non-numeric data is:",
+      "options": [
+        "Employee address",
+        "Examination score",
+        "Bank balance",
+        "All of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is embedded system?",
+      "options": [
+        "The programme which arrives by being wrapped in box",
+        "The programme which is the permanent part of the computer",
+        "The computer which is the part of a larger system or machine",
+        "The computer and software system that control the machine"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "First page of Website is termed as:",
+      "options": [
+        "Homepage",
+        "Index",
+        "JAVA script",
+        "Bookmark"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "When a file is saved for the first time:",
+      "options": [
+        "a copy is automatically printed",
+        "it must be given a name to identify it",
+        "it does not need a name",
+        "it only needs a name if it is not going to be printed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where are data and programme stored when the processor uses them?",
+      "options": [
+        "Main memory",
+        "Secondary memory",
+        "Disk memory",
+        "Programme memory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "______ represents raw facts, whereas ______ is data made meaningful.",
+      "options": [
+        "Information, reporting",
+        "Data, information",
+        "Information, bits",
+        "Records, bytes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What characteristic of read-only memory (ROM) makes it useful?",
+      "options": [
+        "ROM information can be easily updated",
+        "Data in ROM is non-volatile, that is, it remains there even without electrical power",
+        "ROM provides very large amounts of inexpensive data storage",
+        "ROM chips are easily swapped between different brands of computers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What do you call the programs that are used to find out possible faults and their causes?",
+      "options": [
+        "operating system extensions",
+        "cookies",
+        "diagnostic software",
+        "boot diskettes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which programming languages are classified as low level languages?",
+      "options": [
+        "BASIC, COBOL, Fortran",
+        "Prolog",
+        "C, C++",
+        "Assembly languages"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is not anti-virus software?",
+      "options": [
+        "Avira",
+        "Kaspersky",
+        "Oracle",
+        "McAfee"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does DMA stand for?",
+      "options": [
+        "Distinct Memory Access",
+        "Direct Memory Access",
+        "Direct Module Access",
+        "Direct Memory Allocation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a storage device?",
+      "options": [
+        "Tape",
+        "Hard Disk",
+        "Floppy Disk",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When did John Napier develop logarithm?",
+      "options": [
+        "1416",
+        "1614",
+        "1641",
+        "1804"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "MIS is designed to provide information needed for effective decision making by:",
+      "options": [
+        "Consumers",
+        "Workers",
+        "Foremen",
+        "Managers"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "ASCII stands for:",
+      "options": [
+        "American Stable Code for International Interchange",
+        "American Standard Case for Institutional Interchange",
+        "American Standard Code for Information Interchange",
+        "American Standard Code for Interchange Information"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is first generation of computer?",
+      "options": [
+        "EDSAC",
+        "IBM-1401",
+        "CDC-1604",
+        "ICL-2900"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "IBM 701 is:",
+      "options": [
+        "First Generation Computer",
+        "Second Generation Computer",
+        "Third Generation Computer",
+        "Fourth Generation Computer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Chief component of first generation computer was:",
+      "options": [
+        "Transistors",
+        "Vacuum Tubes and Valves",
+        "Integrated Circuits",
+        "None of above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Second Generation computers were developed during:",
+      "options": [
+        "1949 to 1955",
+        "1956 to 1965",
+        "1965 to 1970",
+        "1970 to 1990"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The computer size was very large in:",
+      "options": [
+        "First Generation",
+        "Second Generation",
+        "Third Generation",
+        "Fourth Generation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Microprocessors as switching devices are for ______ generation computers.",
+      "options": [
+        "First Generation",
+        "Second Generation",
+        "Third Generation",
+        "Fourth Generation"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following devices can be used to directly image printed text?",
+      "options": [
+        "OCR",
+        "OMR",
+        "MICR",
+        "All of above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The output quality of a printer is measured by:",
+      "options": [
+        "Dot per inch",
+        "Dot per sq. inch",
+        "Dots printed per unit time",
+        "All of above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In analogue computer:",
+      "options": [
+        "Input is first converted to digital form",
+        "Input is never converted to digital form",
+        "Output is displayed in digital form",
+        "All of above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In latest generation computers, the instructions are executed:",
+      "options": [
+        "Parallel only",
+        "Sequentially only",
+        "Both sequentially and parallel",
+        "All of above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who designed the first electronics computer – ENIAC?",
+      "options": [
+        "Van-Neumann",
+        "Joseph M. Jacquard",
+        "J. Presper Eckert and John W Mauchly",
+        "All of above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who invented the high level language 'C'?",
+      "options": [
+        "Dennis M. Ritchie",
+        "Niklaus Writh",
+        "Seymour Papert",
+        "Donald Kunth"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Personnel who design, program, operate and maintain computer equipment refers to:",
+      "options": [
+        "Console-operator",
+        "Programmer",
+        "Peopleware",
+        "System Analyst"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Human beings are referred to as Homosapinens, which device is called Sillico Sapiens?",
+      "options": [
+        "Monitor",
+        "Hardware",
+        "Robot",
+        "Computer"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "An error in software or hardware is called a bug. What is the alternative computer jargon for it?",
+      "options": [
+        "Leech",
+        "Squid",
+        "Slug",
+        "Glitch"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Modern Computers are very reliable but they are not:",
+      "options": [
+        "Fast",
+        "Powerful",
+        "Infallible",
+        "Cheap"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Personal computers use a number of chips mounted on a main circuit board. What is the common name for such boards?",
+      "options": [
+        "Daughter board",
+        "Motherboard",
+        "Father board",
+        "Breadboard"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is meant by a dedicated computer?",
+      "options": [
+        "Which is used by one person only",
+        "Which is assigned one and only one task",
+        "Which uses one kind of software",
+        "Which is meant for application software"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The system unit of a personal computer typically contains all of the following except:",
+      "options": [
+        "Microprocessor",
+        "Disk controller",
+        "Serial interface",
+        "Modem"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A computer program that converts an entire program into machine language is called a/an:",
+      "options": [
+        "Interpreter",
+        "Simulator",
+        "Compiler",
+        "Commander"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A computer program that translates one program instructions at a time into machine language is called a/an:",
+      "options": [
+        "Interpreter",
+        "CPU",
+        "Compiler",
+        "Simulator"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A small or intelligent device is so called because it contains within it a:",
+      "options": [
+        "Computer",
+        "Microcomputer",
+        "Programmable",
+        "Sensor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A fault in a computer program which prevents it from working correctly is known as:",
+      "options": [
+        "Boot",
+        "Bug",
+        "Biff",
+        "Strap"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A self replicating program, similar to a virus which was taken from a 1970s science fiction novel by John Bruner entitled The Shockwave Rider is:",
+      "options": [
+        "Bug",
+        "Vice",
+        "Lice",
+        "Worm"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Unwanted repetitious messages, such as unsolicited bulk e-mail is known as:",
+      "options": [
+        "Spam",
+        "Trash",
+        "Calibri",
+        "Courier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "DOS stands for:",
+      "options": [
+        "Disk Operating System",
+        "Disk operating session",
+        "Digital Operating System",
+        "Digital Open system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who is the Current CEO of Microsoft?",
+      "options": [
+        "Babbage",
+        "Bill Gates",
+        "Bill Clinton",
+        "Satya Nadella"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following are input devices?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Card reader",
+        "Any of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Examples of output devices are:",
+      "options": [
+        "Screen",
+        "Printer",
+        "Speaker",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is also known as brain of computer?",
+      "options": [
+        "Control unit",
+        "Central Processing unit",
+        "Arithmetic and language unit",
+        "Monitor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "______ translates and executes program at run time line by line.",
+      "options": [
+        "Compiler",
+        "Interpreter",
+        "Linker",
+        "Loader"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "RAM stands for:",
+      "options": [
+        "Random origin money",
+        "Random only memory",
+        "Read only memory",
+        "Random access memory"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "1 Byte equals:",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "9 bits"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The device used to carry digital data on analogue lines is called as:",
+      "options": [
+        "Modem",
+        "Multiplexer",
+        "Modulator",
+        "Demodulator"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "BIOS stands for:",
+      "options": [
+        "Basic Input Output system",
+        "Binary Input output system",
+        "Basic Input Off system",
+        "All the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Father of 'C' programming language?",
+      "options": [
+        "Dennis Ritchie",
+        "Prof John Keenly",
+        "Thomas Kurtz",
+        "Bill Gates"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The instructions that tell a computer how to carry out the processing tasks are referred to as computer:",
+      "options": [
+        "programs",
+        "processors",
+        "input devices",
+        "memory modules"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "An area of a computer that temporarily holds data waiting to be processed is:",
+      "options": [
+        "CPU",
+        "Memory",
+        "Storage",
+        "File"
+      ],
+      "answer": 1
+    }
+  ]
+}

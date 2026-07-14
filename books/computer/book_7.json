@@ -1,0 +1,1056 @@
+{
+  "category": "Internet & Networking",
+  "totalQuestions": 100,
+  "questions": [
+    {
+      "question": "What is the full form of Internet?",
+      "options": [
+        "International Network",
+        "Interconnected Network",
+        "Interactive Network",
+        "Integrated Network"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who is considered the father of the Internet?",
+      "options": [
+        "Vint Cerf",
+        "Charles Babbage",
+        "Alan Turing",
+        "Tim Berners-Lee"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who invented the World Wide Web (WWW)?",
+      "options": [
+        "Vint Cerf",
+        "Tim Berners-Lee",
+        "Bob Kahn",
+        "Steve Jobs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does WWW stand for?",
+      "options": [
+        "World Whole Web",
+        "Wide World Web",
+        "Web World Wide",
+        "World Wide Web"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of HTML?",
+      "options": [
+        "Hyper Text Magic Line",
+        "Hyper Text Markup Line",
+        "Hyper Text Markup Language",
+        "High Text Markup Language"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of HTTP?",
+      "options": [
+        "Hyper Text Transfer Protocol",
+        "Hyper Text Transfer Processor",
+        "High Transfer Protocol",
+        "Hyper Text Transfer Program"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of HTTPS?",
+      "options": [
+        "Hyper Text Transfer Protocol Secure",
+        "Hyper Text Transfer Protocol Section",
+        "Hyper Text Transfer Protocol Start",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of FTP?",
+      "options": [
+        "File Transfer Protocol",
+        "File Transfer Post",
+        "File Transit Protocol",
+        "File Transfer Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of TCP/IP?",
+      "options": [
+        "Transmission Control Protocol / Internet Protocol",
+        "Transfer Control Protocol / Internet Protocol",
+        "Transmission Control Process / Internet Protocol",
+        "Transfer Control Process / Internet Protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Who invented TCP/IP?",
+      "options": [
+        "Robert E. Kahn",
+        "Vint Cerf",
+        "Alan Turing",
+        "Both A and B"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of URL?",
+      "options": [
+        "Uniform Retention Location",
+        "Uniform Resource Locator",
+        "Universal Resource Locator",
+        "Uniform Retention Locator"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of IP?",
+      "options": [
+        "Intranet Protocol",
+        "Internet Protocol",
+        "Intranet Process",
+        "Internet Process"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of DNS?",
+      "options": [
+        "Domain Name System",
+        "Domain Name Service",
+        "Digital Name System",
+        "Digital Name Service"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of ISP?",
+      "options": [
+        "Internet Server Provider",
+        "Internal Server Provider",
+        "Internet Service Provider",
+        "Insta Service Provider"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of LAN?",
+      "options": [
+        "Limited Area Network",
+        "Logical Area Network",
+        "Local Area Network",
+        "Large Area Network"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of WAN?",
+      "options": [
+        "Wap Area Network",
+        "Wide Area Network",
+        "Wide Array Net",
+        "Wireless Area Network"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of MAN?",
+      "options": [
+        "Maximum Area Network",
+        "Minimum Area Network",
+        "Main Area Network",
+        "Metropolitan Area Network"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of PAN?",
+      "options": [
+        "Personal Area Network",
+        "Private Area Network",
+        "Public Area Network",
+        "Primary Area Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of VPN?",
+      "options": [
+        "Virtual Private Network",
+        "Virtual Public Network",
+        "Virtual Primary Network",
+        "Virtual Private Net"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of NIC?",
+      "options": [
+        "Network Information Center",
+        "Network Identity Card",
+        "Network Interface Card",
+        "Network Internet Card"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of MAC?",
+      "options": [
+        "Mass Access Control",
+        "Media Access Control",
+        "Mass Access Carriage",
+        "Media Access Carriage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of ARP?",
+      "options": [
+        "Address Resolution Protocol",
+        "Allied Resolution Protocol",
+        "Address Resolution Process",
+        "Address Rectification Protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of DHCP?",
+      "options": [
+        "Dynamic Host Control Protocol",
+        "Dynamic Host Configuration Protocol",
+        "Digital Host Configuration Protocol",
+        "Digital Host Control Protocol"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of NAT?",
+      "options": [
+        "Network Address Translation",
+        "Network Address Transfer",
+        "Network Address Transmission",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of SMTP?",
+      "options": [
+        "Simple Mail Transfer Protocol",
+        "Simple Mail Transmission Protocol",
+        "Simple Mail Transport Protocol",
+        "Simple Mail Transfer Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of POP3?",
+      "options": [
+        "Post Office Protocol 3",
+        "Post Office Process 3",
+        "Primary Office Protocol 3",
+        "Primary Office Process 3"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IMAP?",
+      "options": [
+        "Internet Message Access Protocol",
+        "Internet Message Access Process",
+        "Interactive Message Access Protocol",
+        "Interactive Message Access Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of FTP?",
+      "options": [
+        "File Transfer Protocol",
+        "File Transfer Process",
+        "File Transmission Protocol",
+        "File Transmission Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of SFTP?",
+      "options": [
+        "Secure File Transfer Protocol",
+        "Simple File Transfer Protocol",
+        "System File Transfer Protocol",
+        "System File Transfer Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of SSH?",
+      "options": [
+        "Secure Shell",
+        "Secure System",
+        "Simple Shell",
+        "Simple System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of SSL?",
+      "options": [
+        "Secure Sockets Layer",
+        "Simple Sockets Layer",
+        "System Sockets Layer",
+        "Secure System Layer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of TLS?",
+      "options": [
+        "Transport Layer Security",
+        "Transfer Layer Security",
+        "Transmission Layer Security",
+        "Transport Layer System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of VoIP?",
+      "options": [
+        "Voice over IP",
+        "Video over IP",
+        "Viruses over IP",
+        "Virtual over IP"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of CDN?",
+      "options": [
+        "Content Delivery Network",
+        "Content Distribution Network",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of VPN?",
+      "options": [
+        "Virtual Private Network",
+        "Virtual Public Network",
+        "Virtual Primary Network",
+        "Virtual Private Net"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IMEI?",
+      "options": [
+        "International Mobile Equipment Information",
+        "International Mobile Equipment Identity",
+        "International Mobile Educational Identity",
+        "International Machine Equipment Identity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of SIM?",
+      "options": [
+        "Subscriber Identity Module",
+        "Subscriber Inline Module",
+        "Secret Internet Module",
+        "Subscriber Interface Module"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of GSM?",
+      "options": [
+        "Global System for Mobile",
+        "Global System for Mobile Communications",
+        "Global Service for Mobile",
+        "Global Service for Mobile Communications"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of CDMA?",
+      "options": [
+        "Code Division Multiple Access",
+        "Code Division Mobile Access",
+        "Coded Division Multiple Access",
+        "Coded Division Mobile Access"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of WiFi?",
+      "options": [
+        "Wireless Fidelity",
+        "Wireless Functioning",
+        "Wireless Function",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of Bluetooth?",
+      "options": [
+        "Bluetooth technology named after a king",
+        "Blue Tooth",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of GPS?",
+      "options": [
+        "Grade Positioning System",
+        "Global Post System",
+        "Guarantee Positioning System",
+        "Global Positioning System"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of RFID?",
+      "options": [
+        "Radio Frequency Identification",
+        "Radio Frequency Identity",
+        "Radio Frequency Identifier",
+        "Radio Frequency Identification Device"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of NFC?",
+      "options": [
+        "Near Field Communication",
+        "Near Field Connectivity",
+        "Network Field Communication",
+        "Network Field Connectivity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of DSL?",
+      "options": [
+        "Digital Subscriber Line",
+        "Digital Super Line",
+        "Disc Super Line",
+        "Disc Subscriber Line"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of ADSL?",
+      "options": [
+        "Asymmetric Digital Subscriber Line",
+        "Asymmetric Digital Super Line",
+        "Asymmetric Disc Subscriber Line",
+        "Asymmetric Disc Super Line"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of ISDN?",
+      "options": [
+        "Integrated Services Digital Network",
+        "Intelligent Services Digital Network",
+        "Integrated Secure Digital Network",
+        "Intelligent Secure Digital Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of PSTN?",
+      "options": [
+        "Public Switched Telephone Network",
+        "Public Switched True Network",
+        "Public Serial Telephone Network",
+        "Process Switched Telephone Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IPX?",
+      "options": [
+        "Internet Packet Exchange",
+        "Internet Protocol Exchange",
+        "Internal Packet Exchange",
+        "Internal Protocol Exchange"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of SPX?",
+      "options": [
+        "Sequenced Packet Exchange",
+        "Sequenced Protocol Exchange",
+        "System Packet Exchange",
+        "System Protocol Exchange"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of X.25?",
+      "options": [
+        "Packet-switched network protocol",
+        "Circuit-switched network protocol",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of Frame Relay?",
+      "options": [
+        "Packet-switched network protocol",
+        "Circuit-switched network protocol",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of ATM?",
+      "options": [
+        "Asynchronous Transfer Mode",
+        "Asynchronous Transmission Mode",
+        "Asynchronous Transport Mode",
+        "Asynchronous Transfer Method"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a network topology?",
+      "options": [
+        "The physical layout of a network",
+        "The logical layout of a network",
+        "Both A and B",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a network topology?",
+      "options": [
+        "Bus",
+        "Star",
+        "Ring",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In which topology, all devices are connected to a central hub?",
+      "options": [
+        "Bus",
+        "Star",
+        "Ring",
+        "Mesh"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In which topology, all devices are connected in a single line?",
+      "options": [
+        "Bus",
+        "Star",
+        "Ring",
+        "Mesh"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In which topology, each device is connected to two other devices forming a circle?",
+      "options": [
+        "Bus",
+        "Star",
+        "Ring",
+        "Mesh"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In which topology, every device is connected to every other device?",
+      "options": [
+        "Bus",
+        "Star",
+        "Ring",
+        "Mesh"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a network device?",
+      "options": [
+        "Router",
+        "Switch",
+        "Hub",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which device connects different networks?",
+      "options": [
+        "Router",
+        "Switch",
+        "Hub",
+        "Modem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which device connects devices within the same network?",
+      "options": [
+        "Router",
+        "Switch",
+        "Hub",
+        "Modem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function of a modem?",
+      "options": [
+        "To convert digital signals to analog and vice versa",
+        "To connect different networks",
+        "To connect devices within the same network",
+        "To amplify signals"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the function of a router?",
+      "options": [
+        "To convert digital signals to analog and vice versa",
+        "To connect different networks",
+        "To connect devices within the same network",
+        "To amplify signals"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function of a switch?",
+      "options": [
+        "To convert digital signals to analog and vice versa",
+        "To connect different networks",
+        "To connect devices within the same network",
+        "To amplify signals"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function of a hub?",
+      "options": [
+        "To convert digital signals to analog and vice versa",
+        "To connect different networks",
+        "To connect devices within the same network",
+        "To broadcast signals to all devices"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the function of a repeater?",
+      "options": [
+        "To convert digital signals to analog and vice versa",
+        "To connect different networks",
+        "To amplify signals",
+        "To broadcast signals to all devices"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function of a bridge?",
+      "options": [
+        "To connect two network segments",
+        "To connect different networks",
+        "To amplify signals",
+        "To broadcast signals to all devices"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a firewall?",
+      "options": [
+        "A hardware or software that protects a network from unauthorized access",
+        "A device that connects different networks",
+        "A device that amplifies signals",
+        "A device that connects devices within the same network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a proxy server?",
+      "options": [
+        "A server that acts as an intermediary between clients and other servers",
+        "A device that connects different networks",
+        "A device that amplifies signals",
+        "A device that protects a network from unauthorized access"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a DNS server?",
+      "options": [
+        "A server that translates domain names to IP addresses",
+        "A server that acts as an intermediary between clients and other servers",
+        "A device that connects different networks",
+        "A device that protects a network from unauthorized access"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an IP address?",
+      "options": [
+        "A unique identifier for a device on a network",
+        "A domain name",
+        "A URL",
+        "A protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the version of IPv4?",
+      "options": [
+        "32-bit",
+        "64-bit",
+        "128-bit",
+        "256-bit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the version of IPv6?",
+      "options": [
+        "32-bit",
+        "64-bit",
+        "128-bit",
+        "256-bit"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How many classes of IP addresses are there?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which class of IP address is used for multicast?",
+      "options": [
+        "Class A",
+        "Class B",
+        "Class C",
+        "Class D"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which class of IP address is used for research and development?",
+      "options": [
+        "Class A",
+        "Class B",
+        "Class C",
+        "Class E"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the default subnet mask for Class A?",
+      "options": [
+        "255.0.0.0",
+        "255.255.0.0",
+        "255.255.255.0",
+        "255.255.255.255"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the default subnet mask for Class B?",
+      "options": [
+        "255.0.0.0",
+        "255.255.0.0",
+        "255.255.255.0",
+        "255.255.255.255"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the default subnet mask for Class C?",
+      "options": [
+        "255.0.0.0",
+        "255.255.0.0",
+        "255.255.255.0",
+        "255.255.255.255"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a port number in networking?",
+      "options": [
+        "A number used to identify a specific process or service",
+        "A number used to identify a device",
+        "A number used to identify a network",
+        "A number used to identify a protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the port number for HTTP?",
+      "options": [
+        "21",
+        "25",
+        "80",
+        "443"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the port number for HTTPS?",
+      "options": [
+        "21",
+        "25",
+        "80",
+        "443"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the port number for FTP?",
+      "options": [
+        "20, 21",
+        "25",
+        "80",
+        "443"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the port number for SMTP?",
+      "options": [
+        "21",
+        "25",
+        "80",
+        "443"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the port number for POP3?",
+      "options": [
+        "110",
+        "143",
+        "25",
+        "80"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the port number for IMAP?",
+      "options": [
+        "110",
+        "143",
+        "25",
+        "80"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a packet in networking?",
+      "options": [
+        "A unit of data transmitted over a network",
+        "A device that connects networks",
+        "A protocol",
+        "A domain name"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a frame in networking?",
+      "options": [
+        "A unit of data transmitted over a network at the data link layer",
+        "A unit of data transmitted over a network at the network layer",
+        "A unit of data transmitted over a network at the transport layer",
+        "A unit of data transmitted over a network at the application layer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the OSI model?",
+      "options": [
+        "Open Systems Interconnection model",
+        "Open Systems Integration model",
+        "Open Systems Interface model",
+        "Open Systems Interconnect model"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many layers are there in the OSI model?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for routing?",
+      "options": [
+        "Physical layer",
+        "Data link layer",
+        "Network layer",
+        "Transport layer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for error detection and correction?",
+      "options": [
+        "Physical layer",
+        "Data link layer",
+        "Network layer",
+        "Transport layer"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for end-to-end communication?",
+      "options": [
+        "Physical layer",
+        "Data link layer",
+        "Network layer",
+        "Transport layer"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for user interface?",
+      "options": [
+        "Physical layer",
+        "Data link layer",
+        "Session layer",
+        "Application layer"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the TCP/IP model?",
+      "options": [
+        "Transmission Control Protocol / Internet Protocol model",
+        "Transfer Control Protocol / Internet Protocol model",
+        "Transmission Control Process / Internet Protocol model",
+        "Transfer Control Process / Internet Protocol model"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many layers are there in the TCP/IP model?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which layer of the TCP/IP model is equivalent to the network layer of the OSI model?",
+      "options": [
+        "Application layer",
+        "Transport layer",
+        "Internet layer",
+        "Network access layer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of UDP?",
+      "options": [
+        "User Datagram Protocol",
+        "User Data Protocol",
+        "Universal Datagram Protocol",
+        "Universal Data Protocol"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the difference between TCP and UDP?",
+      "options": [
+        "TCP is connection-oriented, UDP is connectionless",
+        "TCP is connectionless, UDP is connection-oriented",
+        "Both are connection-oriented",
+        "Both are connectionless"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a socket in networking?",
+      "options": [
+        "The endpoint of a two-way communication link",
+        "A device that connects networks",
+        "A protocol",
+        "A domain name"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a domain name?",
+      "options": [
+        "A human-readable name for an IP address",
+        "A machine-readable name for an IP address",
+        "A protocol",
+        "A port number"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of URL?",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Resource Locator",
+        "Uniform Retention Locator",
+        "Universal Retention Locator"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of URI?",
+      "options": [
+        "Uniform Resource Identifier",
+        "Universal Resource Identifier",
+        "Uniform Retention Identifier",
+        "Universal Retention Identifier"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of URN?",
+      "options": [
+        "Uniform Resource Name",
+        "Universal Resource Name",
+        "Uniform Retention Name",
+        "Universal Retention Name"
+      ],
+      "answer": 0
+    }
+  ]
+}

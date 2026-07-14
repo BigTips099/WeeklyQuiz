@@ -1,0 +1,566 @@
+{
+  "category": "Mobile & Emerging Tech",
+  "totalQuestions": 55,
+  "questions": [
+    {
+      "question": "What is the full form of GSM?",
+      "options": [
+        "Global System for Mobile",
+        "Global System for Mobile Communications",
+        "Global Service for Mobile",
+        "Global Service for Mobile Communications"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the full form of CDMA?",
+      "options": [
+        "Code Division Multiple Access",
+        "Code Division Mobile Access",
+        "Coded Division Multiple Access",
+        "Coded Division Mobile Access"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of SIM?",
+      "options": [
+        "Subscriber Identity Module",
+        "Subscriber Inline Module",
+        "Secret Internet Module",
+        "Subscriber Interface Module"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IMEI?",
+      "options": [
+        "International Mobile Equipment Information",
+        "International Mobile Equipment Identity",
+        "International Mobile Educational Identity",
+        "International Machine Equipment Identity"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Android was founded in which year?",
+      "options": [
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Android was acquired by Google in which year?",
+      "options": [
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the first version of Android?",
+      "options": [
+        "Android 1.0",
+        "Android 1.5 Cupcake",
+        "Android 1.6 Donut",
+        "Android 2.0 Eclair"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a version of Android?",
+      "options": [
+        "Honeycomb",
+        "Cupcake",
+        "Gingerbread",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which version of Android is called 'Lollipop'?",
+      "options": [
+        "Android 4.0",
+        "Android 5.0",
+        "Android 6.0",
+        "Android 7.0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which version of Android is called 'Marshmallow'?",
+      "options": [
+        "Android 5.0",
+        "Android 6.0",
+        "Android 7.0",
+        "Android 8.0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which version of Android is called 'Nougat'?",
+      "options": [
+        "Android 5.0",
+        "Android 6.0",
+        "Android 7.0",
+        "Android 8.0"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which version of Android is called 'Oreo'?",
+      "options": [
+        "Android 7.0",
+        "Android 8.0",
+        "Android 9.0",
+        "Android 10.0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which version of Android is called 'Pie'?",
+      "options": [
+        "Android 7.0",
+        "Android 8.0",
+        "Android 9.0",
+        "Android 10.0"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which version of Android is called 'Android 10'?",
+      "options": [
+        "Android 10",
+        "Android 10.0",
+        "Android Q",
+        "Both A and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which version of Android is called 'Android 11'?",
+      "options": [
+        "Android 11",
+        "Android 11.0",
+        "Android R",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is iOS?",
+      "options": [
+        "Apple's mobile operating system",
+        "Google's mobile operating system",
+        "Microsoft's mobile operating system",
+        "Samsung's mobile operating system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the latest version of iOS?",
+      "options": [
+        "iOS 16",
+        "iOS 17",
+        "iOS 18",
+        "iOS 19"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is Windows Phone?",
+      "options": [
+        "Microsoft's mobile operating system",
+        "Apple's mobile operating system",
+        "Google's mobile operating system",
+        "Samsung's mobile operating system"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is WhatsApp?",
+      "options": [
+        "A messaging and voice calling app",
+        "A social media platform",
+        "A video streaming app",
+        "A photo editing app"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "WhatsApp was founded in which year?",
+      "options": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Who founded WhatsApp?",
+      "options": [
+        "Brian Acton",
+        "Jan Koum",
+        "Mark Zuckerberg",
+        "Both A and B"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "WhatsApp was acquired by Facebook in which year?",
+      "options": [
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of 3G?",
+      "options": [
+        "Third Generation",
+        "Third Global",
+        "Three Giga",
+        "Three Global"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of 4G?",
+      "options": [
+        "Fourth Generation",
+        "Fourth Global",
+        "Four Giga",
+        "Four Global"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of 5G?",
+      "options": [
+        "Fifth Generation",
+        "Fifth Global",
+        "Five Giga",
+        "Five Global"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of LTE?",
+      "options": [
+        "Long Term Evolution",
+        "Long Term Ethernet",
+        "Long Term Electronic",
+        "Long Term Environment"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of WAP?",
+      "options": [
+        "Wireless Application Protocol",
+        "Wireless Access Protocol",
+        "Wireless Application Processor",
+        "Wireless Access Processor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of NFC?",
+      "options": [
+        "Near Field Communication",
+        "Near Field Connectivity",
+        "Network Field Communication",
+        "Network Field Connectivity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of RFID?",
+      "options": [
+        "Radio Frequency Identification",
+        "Radio Frequency Identity",
+        "Radio Frequency Identifier",
+        "Radio Frequency Identification Device"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of GPS?",
+      "options": [
+        "Global Positioning System",
+        "Global Post System",
+        "Grade Positioning System",
+        "Guarantee Positioning System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of AI?",
+      "options": [
+        "Artificial Intelligence",
+        "Artificial Interface",
+        "Advanced Intelligence",
+        "Advanced Interface"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IoT?",
+      "options": [
+        "Internet of Things",
+        "Internet of Technology",
+        "Internet of Tools",
+        "Internet of Trends"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of VR?",
+      "options": [
+        "Virtual Reality",
+        "Virtual Response",
+        "Visual Reality",
+        "Visual Response"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of AR?",
+      "options": [
+        "Augmented Reality",
+        "Augmented Response",
+        "Artificial Reality",
+        "Artificial Response"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of MR?",
+      "options": [
+        "Mixed Reality",
+        "Mixed Response",
+        "Mobile Reality",
+        "Mobile Response"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of XR?",
+      "options": [
+        "Extended Reality",
+        "Extended Response",
+        "X Reality",
+        "X Response"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of ML?",
+      "options": [
+        "Machine Learning",
+        "Machine Language",
+        "Multi Learning",
+        "Multi Language"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of DL?",
+      "options": [
+        "Deep Learning",
+        "Deep Language",
+        "Digital Learning",
+        "Digital Language"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of NLP?",
+      "options": [
+        "Natural Language Processing",
+        "Natural Language Protocol",
+        "Natural Language Program",
+        "Natural Language Process"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of RPA?",
+      "options": [
+        "Robotic Process Automation",
+        "Robotic Process Application",
+        "Robotic Protocol Automation",
+        "Robotic Protocol Application"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of SaaS?",
+      "options": [
+        "Software as a Service",
+        "Software as a System",
+        "Software as a Solution",
+        "Software as a Suite"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of PaaS?",
+      "options": [
+        "Platform as a Service",
+        "Platform as a System",
+        "Platform as a Solution",
+        "Platform as a Suite"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IaaS?",
+      "options": [
+        "Infrastructure as a Service",
+        "Infrastructure as a System",
+        "Infrastructure as a Solution",
+        "Infrastructure as a Suite"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of DaaS?",
+      "options": [
+        "Desktop as a Service",
+        "Desktop as a System",
+        "Data as a Service",
+        "Device as a Service"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the full form of BaaS?",
+      "options": [
+        "Backend as a Service",
+        "Backend as a System",
+        "Backup as a Service",
+        "Backup as a System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of FaaS?",
+      "options": [
+        "Function as a Service",
+        "Function as a System",
+        "Frontend as a Service",
+        "Frontend as a System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of MaaS?",
+      "options": [
+        "Mobility as a Service",
+        "Mobility as a System",
+        "Machine as a Service",
+        "Machine as a System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IoT?",
+      "options": [
+        "Internet of Things",
+        "Internet of Technology",
+        "Internet of Tools",
+        "Internet of Trends"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IIoT?",
+      "options": [
+        "Industrial Internet of Things",
+        "Industrial Internet of Technology",
+        "Internet of Industrial Things",
+        "Internet of Industrial Technology"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IoMT?",
+      "options": [
+        "Internet of Medical Things",
+        "Internet of Medical Technology",
+        "Internet of Mobile Things",
+        "Internet of Mobile Technology"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of IoE?",
+      "options": [
+        "Internet of Everything",
+        "Internet of Enterprise",
+        "Internet of Electronics",
+        "Internet of Engineering"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of M2M?",
+      "options": [
+        "Machine to Machine",
+        "Machine to Mobile",
+        "Mobile to Machine",
+        "Mobile to Mobile"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of HMI?",
+      "options": [
+        "Human-Machine Interface",
+        "Human-Machine Interaction",
+        "Human-Machine Interconnect",
+        "Human-Machine Integration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of UI?",
+      "options": [
+        "User Interface",
+        "User Interaction",
+        "User Interconnect",
+        "User Integration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of UX?",
+      "options": [
+        "User Experience",
+        "User Exchange",
+        "User Extension",
+        "User Expansion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the full form of API?",
+      "options": [
+        "Application Programming Interface",
+        "Application Protocol Interface",
+        "Algorithmic Protocol Interface",
+        "Algorithmic Programming Interface"
+      ],
+      "answer": 0
+    }
+  ]
+}
