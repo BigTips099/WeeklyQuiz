@@ -1,0 +1,316 @@
+{
+  "category": "Science & Measurement",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "question": "What does km stand for?",
+      "options": [
+        "Kilometer",
+        "Kilometer",
+        "Kilometer",
+        "Kilometer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does kg stand for?",
+      "options": [
+        "Kilogram",
+        "Kilogram",
+        "Kilogram",
+        "Kilogram"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does kW stand for?",
+      "options": [
+        "Kilowatt",
+        "Kilowatt",
+        "Kilowatt",
+        "Kilowatt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does Hz stand for?",
+      "options": [
+        "Hertz",
+        "Hertz",
+        "Hertz",
+        "Hertz"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does dB stand for?",
+      "options": [
+        "Decibel",
+        "Decibel",
+        "Decibel",
+        "Decibel"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does m stand for?",
+      "options": [
+        "Meter",
+        "Meter",
+        "Meter",
+        "Meter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does cm stand for?",
+      "options": [
+        "Centimeter",
+        "Centimeter",
+        "Centimeter",
+        "Centimeter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does mm stand for?",
+      "options": [
+        "Millimeter",
+        "Millimeter",
+        "Millimeter",
+        "Millimeter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ft stand for?",
+      "options": [
+        "Foot",
+        "Foot",
+        "Foot",
+        "Foot"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does in stand for?",
+      "options": [
+        "Inch",
+        "Inch",
+        "Inch",
+        "Inch"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does yd stand for?",
+      "options": [
+        "Yard",
+        "Yard",
+        "Yard",
+        "Yard"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does mi stand for?",
+      "options": [
+        "Mile",
+        "Mile",
+        "Mile",
+        "Mile"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does mph stand for?",
+      "options": [
+        "Miles per hour",
+        "Miles per hour",
+        "Miles per hour",
+        "Miles per hour"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does km/h stand for?",
+      "options": [
+        "Kilometers per hour",
+        "Kilometers per hour",
+        "Kilometers per hour",
+        "Kilometers per hour"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does rpm stand for?",
+      "options": [
+        "Revolutions per minute",
+        "Revolutions per minute",
+        "Revolutions per minute",
+        "Revolutions per minute"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does KWh stand for?",
+      "options": [
+        "Kilowatt hour",
+        "Kilowatt hour",
+        "Kilowatt hour",
+        "Kilowatt hour"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does J stand for?",
+      "options": [
+        "Joule",
+        "Joule",
+        "Joule",
+        "Joule"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does N stand for?",
+      "options": [
+        "Newton",
+        "Newton",
+        "Newton",
+        "Newton"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does Pa stand for?",
+      "options": [
+        "Pascal",
+        "Pascal",
+        "Pascal",
+        "Pascal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does W stand for?",
+      "options": [
+        "Watt",
+        "Watt",
+        "Watt",
+        "Watt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does V stand for?",
+      "options": [
+        "Volt",
+        "Volt",
+        "Volt",
+        "Volt"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does A stand for?",
+      "options": [
+        "Ampere",
+        "Ampere",
+        "Ampere",
+        "Ampere"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does Ω stand for?",
+      "options": [
+        "Ohm",
+        "Ohm",
+        "Ohm",
+        "Ohm"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does C stand for?",
+      "options": [
+        "Coulomb",
+        "Coulomb",
+        "Coulomb",
+        "Coulomb"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does K stand for?",
+      "options": [
+        "Kelvin",
+        "Kelvin",
+        "Kelvin",
+        "Kelvin"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does mol stand for?",
+      "options": [
+        "Mole",
+        "Mole",
+        "Mole",
+        "Mole"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does cd stand for?",
+      "options": [
+        "Candela",
+        "Candela",
+        "Candela",
+        "Candela"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does lm stand for?",
+      "options": [
+        "Lumen",
+        "Lumen",
+        "Lumen",
+        "Lumen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does lx stand for?",
+      "options": [
+        "Lux",
+        "Lux",
+        "Lux",
+        "Lux"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does Gy stand for?",
+      "options": [
+        "Gray",
+        "Gray",
+        "Gray",
+        "Gray"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does Sv stand for?",
+      "options": [
+        "Sievert",
+        "Sievert",
+        "Sievert",
+        "Sievert"
+      ],
+      "answer": 0
+    }
+  ]
+}

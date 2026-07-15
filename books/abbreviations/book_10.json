@@ -1,0 +1,506 @@
+{
+  "category": "International Organizations",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "What does UNO stand for?",
+      "options": [
+        "United Nations Organization",
+        "United Nations Office",
+        "United Nations Operations",
+        "United Nations Official"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNESCO stand for?",
+      "options": [
+        "United Nations Educational, Scientific and Cultural Organization",
+        "United Nations Educational, Scientific and Cultural Office",
+        "United Nations Educational, Scientific and Cultural Organisation",
+        "United Nations Educational, Scientific and Cultural Official"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNICEF stand for?",
+      "options": [
+        "United Nations International Children's Emergency Fund",
+        "United Nations International Children's Education Fund",
+        "United Nations International Children's Environment Fund",
+        "United Nations International Children's Emergency Fund"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ILO stand for?",
+      "options": [
+        "International Labour Organization",
+        "International Labour Office",
+        "International Law Organization",
+        "International Law Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FAO stand for?",
+      "options": [
+        "Food and Agriculture Organization",
+        "Food and Agriculture Office",
+        "Food and Agricultural Organization",
+        "Food and Agricultural Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WTO stand for?",
+      "options": [
+        "World Trade Organization",
+        "World Trade Office",
+        "World Tourism Organization",
+        "World Tourism Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IATA stand for?",
+      "options": [
+        "International Air Transport Association",
+        "International Air Transport Authority",
+        "International Air Travel Association",
+        "International Air Travel Authority"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ICAO stand for?",
+      "options": [
+        "International Civil Aviation Organization",
+        "International Civil Aviation Office",
+        "International Civil Air Organization",
+        "International Civil Air Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IMO stand for?",
+      "options": [
+        "International Maritime Organization",
+        "International Maritime Office",
+        "International Marine Organization",
+        "International Marine Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ITU stand for?",
+      "options": [
+        "International Telecommunication Union",
+        "International Telecommunication United",
+        "International Telegraph Union",
+        "International Telegraph United"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UPU stand for?",
+      "options": [
+        "Universal Postal Union",
+        "United Postal Union",
+        "Universal Post Union",
+        "United Post Union"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WIPO stand for?",
+      "options": [
+        "World Intellectual Property Organization",
+        "World Intellectual Property Office",
+        "World International Property Organization",
+        "World International Property Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WMO stand for?",
+      "options": [
+        "World Meteorological Organization",
+        "World Meteorological Office",
+        "World Metrology Organization",
+        "World Metrology Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WHO stand for?",
+      "options": [
+        "World Health Organization",
+        "World Health Office",
+        "World Humanitarian Organization",
+        "World Humanitarian Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WFP stand for?",
+      "options": [
+        "World Food Programme",
+        "World Food Plan",
+        "World Food Project",
+        "World Food Program"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IFAD stand for?",
+      "options": [
+        "International Fund for Agricultural Development",
+        "International Fund for Agriculture Development",
+        "International Fund for Agricultural Design",
+        "International Fund for Agriculture Design"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNDP stand for?",
+      "options": [
+        "United Nations Development Programme",
+        "United Nations Development Plan",
+        "United Nations Democratic Programme",
+        "United Nations Democratic Plan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNEP stand for?",
+      "options": [
+        "United Nations Environment Programme",
+        "United Nations Environmental Plan",
+        "United Nations Emergency Programme",
+        "United Nations Emergency Plan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNFPA stand for?",
+      "options": [
+        "United Nations Fund for Population Activities",
+        "United Nations Fund for Population Affairs",
+        "United Nations Foundation for Population Activities",
+        "United Nations Foundation for Population Affairs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNHCR stand for?",
+      "options": [
+        "United Nations High Commissioner for Refugees",
+        "United Nations High Council for Refugees",
+        "United Nations High Commissioner for Relief",
+        "United Nations High Council for Relief"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNIDO stand for?",
+      "options": [
+        "United Nations Industrial Development Organization",
+        "United Nations International Development Organization",
+        "United Nations Industrial Democratic Organization",
+        "United Nations International Democratic Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNWTO stand for?",
+      "options": [
+        "United Nations World Tourism Organization",
+        "United Nations World Trade Organization",
+        "United Nations World Travel Organization",
+        "United Nations World Transport Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNCTAD stand for?",
+      "options": [
+        "United Nations Conference on Trade and Development",
+        "United Nations Council on Trade and Development",
+        "United Nations Conference on Transport and Development",
+        "United Nations Council on Transport and Development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNCLOS stand for?",
+      "options": [
+        "United Nations Convention on Law of the Sea",
+        "United Nations Conference on Law of the Sea",
+        "United Nations Council on Law of the Sea",
+        "United Nations Commission on Law of the Sea"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNRWA stand for?",
+      "options": [
+        "United Nations Relief and Works Agency",
+        "United Nations Relief and Welfare Agency",
+        "United Nations Relief and Workers Agency",
+        "United Nations Relief and Work Agency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNFCCC stand for?",
+      "options": [
+        "United Nations Framework Convention on Climate Change",
+        "United Nations Framework Convention on Climate Control",
+        "United Nations Framework Conference on Climate Change",
+        "United Nations Framework Conference on Climate Control"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNCCD stand for?",
+      "options": [
+        "United Nations Convention to Combat Desertification",
+        "United Nations Convention to Combat Deforestation",
+        "United Nations Conference to Combat Desertification",
+        "United Nations Conference to Combat Deforestation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNODC stand for?",
+      "options": [
+        "United Nations Office on Drugs and Crime",
+        "United Nations Office on Drugs and Corruption",
+        "United Nations Office on Drugs and Criminality",
+        "United Nations Office on Drugs and Criminology"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNOOSA stand for?",
+      "options": [
+        "United Nations Office for Outer Space Affairs",
+        "United Nations Office for Outer Space Activities",
+        "United Nations Office for Outer Space Administration",
+        "United Nations Office for Outer Space Agency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNISDR stand for?",
+      "options": [
+        "United Nations International Strategy for Disaster Reduction",
+        "United Nations International Strategy for Disaster Relief",
+        "United Nations International Strategy for Disaster Response",
+        "United Nations International Strategy for Disaster Recovery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UN-HABITAT stand for?",
+      "options": [
+        "United Nations Human Settlements Programme",
+        "United Nations Human Habitat Programme",
+        "United Nations Human Settlements Project",
+        "United Nations Human Habitat Project"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU stand for?",
+      "options": [
+        "United Nations University",
+        "United Nations Union",
+        "United Nations Unity",
+        "United Nations United"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNITAR stand for?",
+      "options": [
+        "United Nations Institute for Training and Research",
+        "United Nations Institute for Training and Reform",
+        "United Nations Institute for Training and Rehabilitation",
+        "United Nations Institute for Training and Recovery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNRISD stand for?",
+      "options": [
+        "United Nations Research Institute for Social Development",
+        "United Nations Research Institute for Social Design",
+        "United Nations Research Institute for Social Democracy",
+        "United Nations Research Institute for Social Reform"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNIDIR stand for?",
+      "options": [
+        "United Nations Institute for Disarmament Research",
+        "United Nations Institute for Disarmament Reform",
+        "United Nations Institute for Disarmament and Research",
+        "United Nations Institute for Disarmament and Reform"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNICRI stand for?",
+      "options": [
+        "United Nations Interregional Crime and Justice Research Institute",
+        "United Nations International Crime and Justice Research Institute",
+        "United Nations Interregional Crime and Justice Reform Institute",
+        "United Nations International Crime and Justice Reform Institute"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-CRIS stand for?",
+      "options": [
+        "United Nations University - Comparative Regional Integration Studies",
+        "United Nations University - Comparative Regional Integration Systems",
+        "United Nations University - Comparative Regional Integration Strategies",
+        "United Nations University - Comparative Regional Integration Structures"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-WIDER stand for?",
+      "options": [
+        "United Nations University - World Institute for Development Economics Research",
+        "United Nations University - World Institute for Development Economic Reform",
+        "United Nations University - World Institute for Development Economics and Research",
+        "United Nations University - World Institute for Development Economic and Reform"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-MERIT stand for?",
+      "options": [
+        "United Nations University - Maastricht Economic and Social Research Institute on Innovation and Technology",
+        "United Nations University - Maastricht Economic and Social Research Institute on Innovation and Trade",
+        "United Nations University - Maastricht Economic and Social Research Institute on Innovation and Technology",
+        "United Nations University - Maastricht Economic and Social Research Institute on Innovation and Trade"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-EGOV stand for?",
+      "options": [
+        "United Nations University - Operating Unit on Policy-Driven Electronic Governance",
+        "United Nations University - Operating Unit on Policy-Driven Electronic Government",
+        "United Nations University - Operating Unit on Policy-Driven Electronic Governance",
+        "United Nations University - Operating Unit on Policy-Driven Electronic Government"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-IAS stand for?",
+      "options": [
+        "United Nations University - Institute for the Advanced Study of Sustainability",
+        "United Nations University - Institute for the Advanced Study of Society",
+        "United Nations University - Institute for the Advanced Study of Sustainability",
+        "United Nations University - Institute for the Advanced Study of Society"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-INWEH stand for?",
+      "options": [
+        "United Nations University - Institute for Water, Environment and Health",
+        "United Nations University - Institute for Water, Environment and Humanity",
+        "United Nations University - Institute for Water, Environment and Health",
+        "United Nations University - Institute for Water, Environment and Humanity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-INRA stand for?",
+      "options": [
+        "United Nations University - Institute for Natural Resources in Africa",
+        "United Nations University - Institute for Natural Resources and Africa",
+        "United Nations University - Institute for Natural Resources in Africa",
+        "United Nations University - Institute for Natural Resources and Africa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-FLORES stand for?",
+      "options": [
+        "United Nations University - Institute for Integrated Management of Material Fluxes and of Resources",
+        "United Nations University - Institute for Integrated Management of Material Fluxes and of Resources",
+        "United Nations University - Institute for Integrated Management of Material Fluxes and of Resources",
+        "United Nations University - Institute for Integrated Management of Material Fluxes and of Resources"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-GCM stand for?",
+      "options": [
+        "United Nations University - Institute on Globalization, Culture and Mobility",
+        "United Nations University - Institute on Globalization, Culture and Migration",
+        "United Nations University - Institute on Globalization, Culture and Mobility",
+        "United Nations University - Institute on Globalization, Culture and Migration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-CPR stand for?",
+      "options": [
+        "United Nations University - Centre for Policy Research",
+        "United Nations University - Centre for Policy Reform",
+        "United Nations University - Centre for Policy Research",
+        "United Nations University - Centre for Policy Reform"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-ONY stand for?",
+      "options": [
+        "United Nations University - Office in New York",
+        "United Nations University - Office in New York",
+        "United Nations University - Office in New York",
+        "United Nations University - Office in New York"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-OP stand for?",
+      "options": [
+        "United Nations University - Office in Paris",
+        "United Nations University - Office in Paris",
+        "United Nations University - Office in Paris",
+        "United Nations University - Office in Paris"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-TOKYO stand for?",
+      "options": [
+        "United Nations University - Headquarters in Tokyo",
+        "United Nations University - Headquarters in Tokyo",
+        "United Nations University - Headquarters in Tokyo",
+        "United Nations University - Headquarters in Tokyo"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNU-BONN stand for?",
+      "options": [
+        "United Nations University - Vice-Rectorate in Bonn",
+        "United Nations University - Vice-Rectorate in Bonn",
+        "United Nations University - Vice-Rectorate in Bonn",
+        "United Nations University - Vice-Rectorate in Bonn"
+      ],
+      "answer": 0
+    }
+  ]
+}

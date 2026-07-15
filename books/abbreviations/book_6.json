@@ -1,0 +1,416 @@
+{
+  "category": "Defense & Military",
+  "totalQuestions": 40,
+  "questions": [
+    {
+      "question": "What does COAS stand for?",
+      "options": [
+        "Chief of Army Staff",
+        "Chief of Air Staff",
+        "Commander of Army Staff",
+        "Commander of Air Staff"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CNS stand for?",
+      "options": [
+        "Chief of Naval Staff",
+        "Chief of Navy Staff",
+        "Commander of Naval Staff",
+        "Commander of Navy Staff"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CAS stand for?",
+      "options": [
+        "Chief of Air Staff",
+        "Chief of Army Staff",
+        "Commander of Air Staff",
+        "Commander of Army Staff"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CJCSC stand for?",
+      "options": [
+        "Chairman Joint Chiefs of Staff Committee",
+        "Chief Joint Chiefs of Staff Committee",
+        "Chairman Joint Chiefs of Staff Council",
+        "Chief Joint Chiefs of Staff Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GHQ stand for?",
+      "options": [
+        "General Headquarters",
+        "General Head Quarters",
+        "General High Quarters",
+        "General High Headquarters"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISPR stand for?",
+      "options": [
+        "Inter Services Public Relations",
+        "Inter Services Press Relations",
+        "Inter Services Public Reports",
+        "Inter Services Press Reports"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PAF stand for?",
+      "options": [
+        "Pakistan Air Force",
+        "Pakistan Army Force",
+        "Pakistan Armed Forces",
+        "Pakistan Air Forces"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PN stand for?",
+      "options": [
+        "Pakistan Navy",
+        "Pakistan Naval",
+        "Pakistan Naval Forces",
+        "Pakistan Navy Forces"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NATO stand for?",
+      "options": [
+        "North Atlantic Treaty Organization",
+        "North Atlantic Trade Organization",
+        "North American Treaty Organization",
+        "North American Trade Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CENTO stand for?",
+      "options": [
+        "Central Treaty Organization",
+        "Central European Treaty Organization",
+        "Central Trade Organization",
+        "Central Treaty Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SEATO stand for?",
+      "options": [
+        "South East Asia Treaty Organization",
+        "South East Asia Trade Organization",
+        "South East Asian Treaty Organization",
+        "South East Asian Trade Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ANZUS stand for?",
+      "options": [
+        "Australia, New Zealand, United States",
+        "Australia, New Zealand, United Nations",
+        "Australia, New Zealand, United Kingdom",
+        "Australia, New Zealand, United Europe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ICBM stand for?",
+      "options": [
+        "Inter Continental Ballistic Missile",
+        "Inter Continental Ballistic Missiles",
+        "Inter Continental Ballistic Missile",
+        "Inter Continental Ballistic Missiles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IRBM stand for?",
+      "options": [
+        "Intermediate Range Ballistic Missile",
+        "Intermediate Range Ballistic Missiles",
+        "Intermediate Range Ballistic Missile",
+        "Intermediate Range Ballistic Missiles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SLBM stand for?",
+      "options": [
+        "Submarine Launched Ballistic Missile",
+        "Submarine Launched Ballistic Missiles",
+        "Submarine Launched Ballistic Missile",
+        "Submarine Launched Ballistic Missiles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ABM stand for?",
+      "options": [
+        "Anti Ballistic Missiles",
+        "Anti Ballistic Missile",
+        "Anti Ballistic Missiles",
+        "Anti Ballistic Missile"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MIRV stand for?",
+      "options": [
+        "Multiple Independent Re-entry Vehicle",
+        "Multiple Independent Re-entry Vehicles",
+        "Multiple Independent Re-entry Vehicle",
+        "Multiple Independent Re-entry Vehicles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IED stand for?",
+      "options": [
+        "Improvised Explosives Device",
+        "Improvised Explosive Device",
+        "Improvised Explosive Devices",
+        "Improvised Explosives Devices"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CBRN stand for?",
+      "options": [
+        "Chemical, Biological, Radiological and Nuclear",
+        "Chemical, Biological, Radiological and Nuclear",
+        "Chemical, Biological, Radiological and Nuclear",
+        "Chemical, Biological, Radiological and Nuclear"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IED stand for?",
+      "options": [
+        "Improvised Explosive Device",
+        "Improvised Explosive Device",
+        "Improvised Explosive Device",
+        "Improvised Explosive Device"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NBC stand for?",
+      "options": [
+        "Nuclear, Biological and Chemical",
+        "Nuclear, Biological and Chemical",
+        "Nuclear, Biological and Chemical",
+        "Nuclear, Biological and Chemical"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does COIN stand for?",
+      "options": [
+        "Counter Insurgency",
+        "Counter Insurgency",
+        "Counter Insurgency",
+        "Counter Insurgency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PSYOPS stand for?",
+      "options": [
+        "Psychological Operations",
+        "Psychological Operations",
+        "Psychological Operations",
+        "Psychological Operations"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UAV stand for?",
+      "options": [
+        "Unmanned Aerial Vehicle",
+        "Unmanned Aerial Vehicle",
+        "Unmanned Aerial Vehicle",
+        "Unmanned Aerial Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UCAV stand for?",
+      "options": [
+        "Unmanned Combat Aerial Vehicle",
+        "Unmanned Combat Aerial Vehicle",
+        "Unmanned Combat Aerial Vehicle",
+        "Unmanned Combat Aerial Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does EW stand for?",
+      "options": [
+        "Electronic Warfare",
+        "Electronic Warfare",
+        "Electronic Warfare",
+        "Electronic Warfare"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SIGINT stand for?",
+      "options": [
+        "Signals Intelligence",
+        "Signals Intelligence",
+        "Signals Intelligence",
+        "Signals Intelligence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HUMINT stand for?",
+      "options": [
+        "Human Intelligence",
+        "Human Intelligence",
+        "Human Intelligence",
+        "Human Intelligence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IMINT stand for?",
+      "options": [
+        "Imagery Intelligence",
+        "Imagery Intelligence",
+        "Imagery Intelligence",
+        "Imagery Intelligence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GEOINT stand for?",
+      "options": [
+        "Geospatial Intelligence",
+        "Geospatial Intelligence",
+        "Geospatial Intelligence",
+        "Geospatial Intelligence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MASINT stand for?",
+      "options": [
+        "Measurement and Signature Intelligence",
+        "Measurement and Signature Intelligence",
+        "Measurement and Signature Intelligence",
+        "Measurement and Signature Intelligence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does C4ISR stand for?",
+      "options": [
+        "Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance",
+        "Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance",
+        "Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance",
+        "Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does JTAC stand for?",
+      "options": [
+        "Joint Terminal Attack Controller",
+        "Joint Terminal Attack Controller",
+        "Joint Terminal Attack Controller",
+        "Joint Terminal Attack Controller"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does JTAG stand for?",
+      "options": [
+        "Joint Tactical Air Ground",
+        "Joint Tactical Air Ground",
+        "Joint Tactical Air Ground",
+        "Joint Tactical Air Ground"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does JTFC stand for?",
+      "options": [
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does JTFS stand for?",
+      "options": [
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does JTFP stand for?",
+      "options": [
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does JTFS stand for?",
+      "options": [
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does JTFP stand for?",
+      "options": [
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does JTFS stand for?",
+      "options": [
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does JTFP stand for?",
+      "options": [
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander",
+        "Joint Task Force Commander"
+      ],
+      "answer": 0
+    }
+  ]
+}

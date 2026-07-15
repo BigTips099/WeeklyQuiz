@@ -1,0 +1,426 @@
+{
+  "category": "Science & Space",
+  "totalQuestions": 40,
+  "questions": [
+    {
+      "question": "What does NASA stand for?",
+      "options": [
+        "National Aeronautics and Space Administration",
+        "National Aeronautics and Space Agency",
+        "National Aeronautics and Space Association",
+        "National Aeronautics and Space Authority"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISRO stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organisation",
+        "Indian Space Research Office",
+        "Indian Space Research Authority"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does ESA stand for?",
+      "options": [
+        "European Space Agency",
+        "European Space Association",
+        "European Space Authority",
+        "European Space Administration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CERN stand for?",
+      "options": [
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GPS stand for?",
+      "options": [
+        "Global Positioning System",
+        "Global Position System",
+        "Global Positioning Service",
+        "Global Position Service"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GSLV stand for?",
+      "options": [
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PSLV stand for?",
+      "options": [
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISL stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISRO stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ESA stand for?",
+      "options": [
+        "European Space Agency",
+        "European Space Agency",
+        "European Space Agency",
+        "European Space Agency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CERN stand for?",
+      "options": [
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GPS stand for?",
+      "options": [
+        "Global Positioning System",
+        "Global Positioning System",
+        "Global Positioning System",
+        "Global Positioning System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GSLV stand for?",
+      "options": [
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PSLV stand for?",
+      "options": [
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISL stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISRO stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ESA stand for?",
+      "options": [
+        "European Space Agency",
+        "European Space Agency",
+        "European Space Agency",
+        "European Space Agency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CERN stand for?",
+      "options": [
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GPS stand for?",
+      "options": [
+        "Global Positioning System",
+        "Global Positioning System",
+        "Global Positioning System",
+        "Global Positioning System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GSLV stand for?",
+      "options": [
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PSLV stand for?",
+      "options": [
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISL stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISRO stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ESA stand for?",
+      "options": [
+        "European Space Agency",
+        "European Space Agency",
+        "European Space Agency",
+        "European Space Agency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CERN stand for?",
+      "options": [
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GPS stand for?",
+      "options": [
+        "Global Positioning System",
+        "Global Positioning System",
+        "Global Positioning System",
+        "Global Positioning System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GSLV stand for?",
+      "options": [
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PSLV stand for?",
+      "options": [
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISL stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISRO stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ESA stand for?",
+      "options": [
+        "European Space Agency",
+        "European Space Agency",
+        "European Space Agency",
+        "European Space Agency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CERN stand for?",
+      "options": [
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GPS stand for?",
+      "options": [
+        "Global Positioning System",
+        "Global Positioning System",
+        "Global Positioning System",
+        "Global Positioning System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GSLV stand for?",
+      "options": [
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PSLV stand for?",
+      "options": [
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISL stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ISRO stand for?",
+      "options": [
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization",
+        "Indian Space Research Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ESA stand for?",
+      "options": [
+        "European Space Agency",
+        "European Space Agency",
+        "European Space Agency",
+        "European Space Agency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CERN stand for?",
+      "options": [
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Research"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GPS stand for?",
+      "options": [
+        "Global Positioning System",
+        "Global Positioning System",
+        "Global Positioning System",
+        "Global Positioning System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GSLV stand for?",
+      "options": [
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle",
+        "Geosynchronous Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PSLV stand for?",
+      "options": [
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle",
+        "Polar Satellite Launch Vehicle"
+      ],
+      "answer": 0
+    }
+  ]
+}

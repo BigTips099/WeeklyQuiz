@@ -1,0 +1,826 @@
+{
+  "category": "Government & Politics",
+  "totalQuestions": 80,
+  "questions": [
+    {
+      "question": "What does UN stand for?",
+      "options": [
+        "United Nations",
+        "Universal Nations",
+        "United Network",
+        "Union of Nations"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OIC stand for?",
+      "options": [
+        "Organization of Islamic Countries",
+        "Organization of Islamic Cooperation",
+        "Organization of International Cooperation",
+        "Organization of Islamic Council"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does SAARC stand for?",
+      "options": [
+        "South Asian Association for Regional Cooperation",
+        "South Asian Alliance for Regional Cooperation",
+        "South Asian Association for Regional Coordination",
+        "South Asian Alliance for Regional Coordination"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NATO stand for?",
+      "options": [
+        "North Atlantic Treaty Organization",
+        "North American Treaty Organization",
+        "North Atlantic Trade Organization",
+        "North American Trade Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does EU stand for?",
+      "options": [
+        "European Union",
+        "European Unity",
+        "Eastern Union",
+        "European United"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SCO stand for?",
+      "options": [
+        "Shanghai Cooperation Organization",
+        "South Asian Cooperation Organization",
+        "Shanghai Council Organization",
+        "South Asian Council Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CENTO stand for?",
+      "options": [
+        "Central Treaty Organization",
+        "Central European Treaty Organization",
+        "Central Trade Organization",
+        "Central Treaty Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ASEAN stand for?",
+      "options": [
+        "Association of South East Asian Nations",
+        "Alliance of South East Asian Nations",
+        "Association of South East Asian Network",
+        "Alliance of South East Asian Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ECO stand for?",
+      "options": [
+        "Economic Cooperation Organization",
+        "Economic Council Organization",
+        "Eastern Cooperation Organization",
+        "Economic Coordination Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does D-8 stand for?",
+      "options": [
+        "Developing 8 Countries",
+        "Developed 8 Countries",
+        "Democratic 8 Countries",
+        "Development 8 Countries"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does G-77 stand for?",
+      "options": [
+        "Group of 77",
+        "Global 77",
+        "General 77",
+        "Government 77"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does G-20 stand for?",
+      "options": [
+        "Group of 20",
+        "Global 20",
+        "General 20",
+        "Government 20"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNO stand for?",
+      "options": [
+        "United Nations Organization",
+        "Universal Nations Organization",
+        "United National Office",
+        "Union of Nations Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNESCO stand for?",
+      "options": [
+        "United Nations Educational, Scientific and Cultural Organization",
+        "United Nations Economic, Scientific and Cultural Organization",
+        "Universal Nations Educational, Scientific and Cultural Organization",
+        "United Nations Educational, Social and Cultural Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNICEF stand for?",
+      "options": [
+        "United Nations International Children's Emergency Fund",
+        "United Nations International Children's Educational Fund",
+        "Universal Nations International Children's Emergency Fund",
+        "United Nations International Children's Environment Fund"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNHCR stand for?",
+      "options": [
+        "United Nations High Commissioner for Refugees",
+        "United Nations High Council for Refugees",
+        "Universal Nations High Commissioner for Refugees",
+        "United Nations High Commissioner for Relief"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNDP stand for?",
+      "options": [
+        "United Nations Development Programme",
+        "United Nations Development Plan",
+        "Universal Nations Development Programme",
+        "United Nations Democratic Programme"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNEP stand for?",
+      "options": [
+        "United Nations Environment Programme",
+        "United Nations Environmental Plan",
+        "Universal Nations Environment Programme",
+        "United Nations Emergency Programme"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNFPA stand for?",
+      "options": [
+        "United Nations Fund for Population Activities",
+        "United Nations Fund for Population Affairs",
+        "Universal Nations Fund for Population Activities",
+        "United Nations Foundation for Population Activities"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNIDO stand for?",
+      "options": [
+        "United Nations Industrial Development Organization",
+        "United Nations International Development Organization",
+        "Universal Nations Industrial Development Organization",
+        "United Nations Industrial Democratic Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNWTO stand for?",
+      "options": [
+        "United Nations World Tourism Organization",
+        "United Nations World Trade Organization",
+        "Universal Nations World Tourism Organization",
+        "United Nations World Travel Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNCTAD stand for?",
+      "options": [
+        "United Nations Conference on Trade and Development",
+        "United Nations Council on Trade and Development",
+        "Universal Nations Conference on Trade and Development",
+        "United Nations Conference on Transport and Development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNCLOS stand for?",
+      "options": [
+        "United Nations Conference on Law of the Sea",
+        "United Nations Council on Law of the Sea",
+        "Universal Nations Conference on Law of the Sea",
+        "United Nations Convention on Law of the Sea"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNRWA stand for?",
+      "options": [
+        "United Nations Relief and Works Agency",
+        "United Nations Relief and Welfare Agency",
+        "Universal Nations Relief and Works Agency",
+        "United Nations Relief and Workers Agency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNMIL stand for?",
+      "options": [
+        "United Nations Mission in Libya",
+        "United Nations Mission in Liberia",
+        "Universal Nations Mission in Libya",
+        "United Nations Mission in Lebanon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNAMA stand for?",
+      "options": [
+        "United Nations Assistance Mission in Afghanistan",
+        "United Nations Association Mission in Afghanistan",
+        "Universal Nations Assistance Mission in Afghanistan",
+        "United Nations Assistance Mission in Africa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNMIK stand for?",
+      "options": [
+        "United Nations Mission in Kosovo",
+        "United Nations Mission in Kuwait",
+        "Universal Nations Mission in Kosovo",
+        "United Nations Mission in Kazakhstan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNAMID stand for?",
+      "options": [
+        "United Nations African Union Mission in Darfur",
+        "United Nations African Union Mission in Sudan",
+        "Universal Nations African Union Mission in Darfur",
+        "United Nations African Union Mission in Durban"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNISFA stand for?",
+      "options": [
+        "United Nations Interim Security Force in Abyei",
+        "United Nations Interim Security Force in Africa",
+        "Universal Nations Interim Security Force in Abyei",
+        "United Nations Interim Security Force in Asia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNTSO stand for?",
+      "options": [
+        "United Nations Truce Supervision Organization",
+        "United Nations Treaty Supervision Organization",
+        "Universal Nations Truce Supervision Organization",
+        "United Nations Truce Support Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNMOGIP stand for?",
+      "options": [
+        "United Nations Military Observer Group in India and Pakistan",
+        "United Nations Military Observer Group in Iran and Pakistan",
+        "Universal Nations Military Observer Group in India and Pakistan",
+        "United Nations Military Observer Group in Indonesia and Pakistan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNIFIL stand for?",
+      "options": [
+        "United Nations Interim Force in Lebanon",
+        "United Nations Interim Force in Libya",
+        "Universal Nations Interim Force in Lebanon",
+        "United Nations Interim Force in Liberia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNOCI stand for?",
+      "options": [
+        "United Nations Operation in Côte d'Ivoire",
+        "United Nations Operation in Congo",
+        "Universal Nations Operation in Côte d'Ivoire",
+        "United Nations Operation in Cambodia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MONUSCO stand for?",
+      "options": [
+        "United Nations Organization Stabilization Mission in the Democratic Republic of the Congo",
+        "United Nations Organization Stabilization Mission in Congo",
+        "Universal Nations Organization Stabilization Mission in the Democratic Republic of the Congo",
+        "United Nations Organization Stabilization Mission in Darfur"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MINUSCA stand for?",
+      "options": [
+        "United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic",
+        "United Nations Multidimensional Integrated Stabilization Mission in the Central African Region",
+        "Universal Nations Multidimensional Integrated Stabilization Mission in the Central African Republic",
+        "United Nations Multidimensional Integrated Stabilization Mission in the Central American Region"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MINUSMA stand for?",
+      "options": [
+        "United Nations Multidimensional Integrated Stabilization Mission in Mali",
+        "United Nations Multidimensional Integrated Stabilization Mission in Morocco",
+        "Universal Nations Multidimensional Integrated Stabilization Mission in Mali",
+        "United Nations Multidimensional Integrated Stabilization Mission in Myanmar"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNSMIL stand for?",
+      "options": [
+        "United Nations Support Mission in Libya",
+        "United Nations Support Mission in Liberia",
+        "Universal Nations Support Mission in Libya",
+        "United Nations Support Mission in Lebanon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNAMI stand for?",
+      "options": [
+        "United Nations Assistance Mission in Iraq",
+        "United Nations Assistance Mission in Iran",
+        "Universal Nations Assistance Mission in Iraq",
+        "United Nations Assistance Mission in India"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNSOS stand for?",
+      "options": [
+        "United Nations Support Office in Somalia",
+        "United Nations Support Office in Sudan",
+        "Universal Nations Support Office in Somalia",
+        "United Nations Support Office in South Africa"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNFICYP stand for?",
+      "options": [
+        "United Nations Peacekeeping Force in Cyprus",
+        "United Nations Peacekeeping Force in Congo",
+        "Universal Nations Peacekeeping Force in Cyprus",
+        "United Nations Peacekeeping Force in Cambodia"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNEA stand for?",
+      "options": [
+        "United Nations Environment Assembly",
+        "United Nations Environmental Assembly",
+        "Universal Nations Environment Assembly",
+        "United Nations Emergency Assembly"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UN-Habitat stand for?",
+      "options": [
+        "United Nations Human Settlements Programme",
+        "United Nations Human Habitat Programme",
+        "Universal Nations Human Settlements Programme",
+        "United Nations Human Settlements Plan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNCTAD stand for?",
+      "options": [
+        "United Nations Conference on Trade and Development",
+        "United Nations Council on Trade and Development",
+        "Universal Nations Conference on Trade and Development",
+        "United Nations Conference on Transport and Development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNDP stand for?",
+      "options": [
+        "United Nations Development Programme",
+        "United Nations Development Plan",
+        "Universal Nations Development Programme",
+        "United Nations Democratic Programme"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNEP stand for?",
+      "options": [
+        "United Nations Environment Programme",
+        "United Nations Environmental Plan",
+        "Universal Nations Environment Programme",
+        "United Nations Emergency Programme"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNFPA stand for?",
+      "options": [
+        "United Nations Fund for Population Activities",
+        "United Nations Fund for Population Affairs",
+        "Universal Nations Fund for Population Activities",
+        "United Nations Foundation for Population Activities"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNHCR stand for?",
+      "options": [
+        "United Nations High Commissioner for Refugees",
+        "United Nations High Council for Refugees",
+        "Universal Nations High Commissioner for Refugees",
+        "United Nations High Commissioner for Relief"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNICEF stand for?",
+      "options": [
+        "United Nations International Children's Emergency Fund",
+        "United Nations International Children's Educational Fund",
+        "Universal Nations International Children's Emergency Fund",
+        "United Nations International Children's Environment Fund"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNIDO stand for?",
+      "options": [
+        "United Nations Industrial Development Organization",
+        "United Nations International Development Organization",
+        "Universal Nations Industrial Development Organization",
+        "United Nations Industrial Democratic Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNRWA stand for?",
+      "options": [
+        "United Nations Relief and Works Agency",
+        "United Nations Relief and Welfare Agency",
+        "Universal Nations Relief and Works Agency",
+        "United Nations Relief and Workers Agency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNWTO stand for?",
+      "options": [
+        "United Nations World Tourism Organization",
+        "United Nations World Trade Organization",
+        "Universal Nations World Tourism Organization",
+        "United Nations World Travel Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UPU stand for?",
+      "options": [
+        "Universal Postal Union",
+        "United Postal Union",
+        "Universal Post Union",
+        "United Post Union"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WIPO stand for?",
+      "options": [
+        "World Intellectual Property Organization",
+        "World International Property Organization",
+        "World Intellectual Property Office",
+        "World International Property Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WMO stand for?",
+      "options": [
+        "World Meteorological Organization",
+        "World Meteorological Office",
+        "World Metrology Organization",
+        "World Metrology Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ILO stand for?",
+      "options": [
+        "International Labour Organization",
+        "International Labour Office",
+        "International Law Organization",
+        "International Law Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FAO stand for?",
+      "options": [
+        "Food and Agriculture Organization",
+        "Food and Agricultural Office",
+        "Food and Agriculture Office",
+        "Food and Agricultural Organization"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WHO stand for?",
+      "options": [
+        "World Health Organization",
+        "World Health Office",
+        "World Humanitarian Organization",
+        "World Humanitarian Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WFP stand for?",
+      "options": [
+        "World Food Programme",
+        "World Food Plan",
+        "World Food Project",
+        "World Food Program"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IFAD stand for?",
+      "options": [
+        "International Fund for Agricultural Development",
+        "International Fund for Agriculture Development",
+        "International Fund for Agricultural Design",
+        "International Fund for Agriculture Design"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ICAO stand for?",
+      "options": [
+        "International Civil Aviation Organization",
+        "International Civil Aviation Office",
+        "International Civil Air Organization",
+        "International Civil Air Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IMO stand for?",
+      "options": [
+        "International Maritime Organization",
+        "International Maritime Office",
+        "International Marine Organization",
+        "International Marine Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ITU stand for?",
+      "options": [
+        "International Telecommunication Union",
+        "International Telecommunication United",
+        "International Telegraph Union",
+        "International Telegraph United"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OPCW stand for?",
+      "options": [
+        "Organisation for the Prohibition of Chemical Weapons",
+        "Organisation for the Prevention of Chemical Weapons",
+        "Organisation for the Prohibition of Chemical Warfare",
+        "Organisation for the Prevention of Chemical Warfare"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CTBTO stand for?",
+      "options": [
+        "Comprehensive Nuclear-Test-Ban Treaty Organization",
+        "Comprehensive Nuclear-Test-Ban Treaty Office",
+        "Comprehensive Nuclear-Test-Ban Treaty Operation",
+        "Comprehensive Nuclear-Test-Ban Treaty Organisation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IAEA stand for?",
+      "options": [
+        "International Atomic Energy Agency",
+        "International Atomic Energy Association",
+        "International Atomic Energy Administration",
+        "International Atomic Energy Authority"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OECD stand for?",
+      "options": [
+        "Organisation for Economic Co-operation and Development",
+        "Organisation for Economic Co-operation and Design",
+        "Organisation for Economic Co-operation and Democracy",
+        "Organisation for Economic Co-operation and Development"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does AU stand for?",
+      "options": [
+        "African Union",
+        "Arab Union",
+        "African Unity",
+        "Arab Unity"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LAS stand for?",
+      "options": [
+        "League of Arab States",
+        "League of Asian States",
+        "League of African States",
+        "League of American States"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CIS stand for?",
+      "options": [
+        "Commonwealth of Independent States",
+        "Commonwealth of International States",
+        "Commonwealth of Independent Societies",
+        "Commonwealth of International Societies"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SEATO stand for?",
+      "options": [
+        "South East Asia Treaty Organization",
+        "South East Asia Trade Organization",
+        "South East Asia Treaty Office",
+        "South East Asia Trade Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ANZUS stand for?",
+      "options": [
+        "Australia, New Zealand, United States",
+        "Australia, New Zealand, United Nations",
+        "Australia, New Zealand, United Kingdom",
+        "Australia, New Zealand, United Europe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GCC stand for?",
+      "options": [
+        "Gulf Cooperation Council",
+        "Gulf Council Cooperation",
+        "Global Cooperation Council",
+        "Global Council Cooperation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CERN stand for?",
+      "options": [
+        "European Organization for Nuclear Research",
+        "European Organization for Nuclear Reaction",
+        "European Organization for Natural Research",
+        "European Organization for Nuclear Radiation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does INTERPOL stand for?",
+      "options": [
+        "International Police Organization",
+        "International Police Office",
+        "International Police Operation",
+        "International Police Organisation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WTO stand for?",
+      "options": [
+        "World Trade Organization",
+        "World Trade Office",
+        "World Tourism Organization",
+        "World Tourism Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WIPO stand for?",
+      "options": [
+        "World Intellectual Property Organization",
+        "World International Property Organization",
+        "World Intellectual Property Office",
+        "World International Property Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNCLOS stand for?",
+      "options": [
+        "United Nations Convention on Law of the Sea",
+        "United Nations Conference on Law of the Sea",
+        "Universal Nations Convention on Law of the Sea",
+        "United Nations Convention on Law of the Seas"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNCCD stand for?",
+      "options": [
+        "United Nations Convention to Combat Desertification",
+        "United Nations Convention to Combat Deforestation",
+        "Universal Nations Convention to Combat Desertification",
+        "United Nations Conference to Combat Desertification"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNFCCC stand for?",
+      "options": [
+        "United Nations Framework Convention on Climate Change",
+        "United Nations Framework Convention on Climate Control",
+        "Universal Nations Framework Convention on Climate Change",
+        "United Nations Framework Convention on Climate Crisis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNDRR stand for?",
+      "options": [
+        "United Nations Office for Disaster Risk Reduction",
+        "United Nations Office for Disaster Relief and Recovery",
+        "Universal Nations Office for Disaster Risk Reduction",
+        "United Nations Office for Disaster Response and Recovery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNOOSA stand for?",
+      "options": [
+        "United Nations Office for Outer Space Affairs",
+        "United Nations Office for Outer Space Activities",
+        "Universal Nations Office for Outer Space Affairs",
+        "United Nations Office for Outer Space Administration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UNODC stand for?",
+      "options": [
+        "United Nations Office on Drugs and Crime",
+        "United Nations Office on Drugs and Corruption",
+        "Universal Nations Office on Drugs and Crime",
+        "United Nations Office on Drugs and Criminality"
+      ],
+      "answer": 0
+    }
+  ]
+}

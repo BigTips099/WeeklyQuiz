@@ -1,0 +1,306 @@
+{
+  "category": "Media & Communication",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "question": "What does BBC stand for?",
+      "options": [
+        "British Broadcasting Corporation",
+        "British Broadcasting Company",
+        "British Broadcasting Commission",
+        "British Broadcasting Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CNN stand for?",
+      "options": [
+        "Cable News Network",
+        "Cable News Network",
+        "Cable News Network",
+        "Cable News Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PTV stand for?",
+      "options": [
+        "Pakistan Television",
+        "Pakistan Television",
+        "Pakistan Television",
+        "Pakistan Television"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PBC stand for?",
+      "options": [
+        "Pakistan Broadcasting Corporation",
+        "Pakistan Broadcasting Corporation",
+        "Pakistan Broadcasting Corporation",
+        "Pakistan Broadcasting Corporation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does APP stand for?",
+      "options": [
+        "Associated Press of Pakistan",
+        "Associated Press of Pakistan",
+        "Associated Press of Pakistan",
+        "Associated Press of Pakistan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NNI stand for?",
+      "options": [
+        "News Network International",
+        "News Network International",
+        "News Network International",
+        "News Network International"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GEO stand for?",
+      "options": [
+        "GEO Television Network",
+        "GEO Television Network",
+        "GEO Television Network",
+        "GEO Television Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ARY stand for?",
+      "options": [
+        "ARY Digital Network",
+        "ARY Digital Network",
+        "ARY Digital Network",
+        "ARY Digital Network"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FM stand for?",
+      "options": [
+        "Frequency Modulation",
+        "Frequency Modulation",
+        "Frequency Modulation",
+        "Frequency Modulation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does AM stand for?",
+      "options": [
+        "Amplitude Modulation",
+        "Amplitude Modulation",
+        "Amplitude Modulation",
+        "Amplitude Modulation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does TV stand for?",
+      "options": [
+        "Television",
+        "Television",
+        "Television",
+        "Television"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does VCR stand for?",
+      "options": [
+        "Video Cassette Recorder",
+        "Video Cassette Recorder",
+        "Video Cassette Recorder",
+        "Video Cassette Recorder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does VCP stand for?",
+      "options": [
+        "Video Cassette Player",
+        "Video Cassette Player",
+        "Video Cassette Player",
+        "Video Cassette Player"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does VTR stand for?",
+      "options": [
+        "Video Tape Recorder",
+        "Video Tape Recorder",
+        "Video Tape Recorder",
+        "Video Tape Recorder"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does VCD stand for?",
+      "options": [
+        "Video Compact Disk",
+        "Video Compact Disk",
+        "Video Compact Disk",
+        "Video Compact Disk"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DVD stand for?",
+      "options": [
+        "Digital Versatile Disk",
+        "Digital Versatile Disk",
+        "Digital Versatile Disk",
+        "Digital Versatile Disk"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HD TV stand for?",
+      "options": [
+        "High Definition Television",
+        "High Definition Television",
+        "High Definition Television",
+        "High Definition Television"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LCD stand for?",
+      "options": [
+        "Liquid Crystal Display",
+        "Liquid Crystal Display",
+        "Liquid Crystal Display",
+        "Liquid Crystal Display"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LED stand for?",
+      "options": [
+        "Light Emitting Diode",
+        "Light Emitting Diode",
+        "Light Emitting Diode",
+        "Light Emitting Diode"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OLED stand for?",
+      "options": [
+        "Organic Light Emitting Diode",
+        "Organic Light Emitting Diode",
+        "Organic Light Emitting Diode",
+        "Organic Light Emitting Diode"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does AMOLED stand for?",
+      "options": [
+        "Active Matrix Organic Light Emitting Diode",
+        "Active Matrix Organic Light Emitting Diode",
+        "Active Matrix Organic Light Emitting Diode",
+        "Active Matrix Organic Light Emitting Diode"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CRT stand for?",
+      "options": [
+        "Cathode Ray Tube",
+        "Cathode Ray Tube",
+        "Cathode Ray Tube",
+        "Cathode Ray Tube"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does VHF stand for?",
+      "options": [
+        "Very High Frequency",
+        "Very High Frequency",
+        "Very High Frequency",
+        "Very High Frequency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UHF stand for?",
+      "options": [
+        "Ultra High Frequency",
+        "Ultra High Frequency",
+        "Ultra High Frequency",
+        "Ultra High Frequency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SHF stand for?",
+      "options": [
+        "Super High Frequency",
+        "Super High Frequency",
+        "Super High Frequency",
+        "Super High Frequency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does EHF stand for?",
+      "options": [
+        "Extremely High Frequency",
+        "Extremely High Frequency",
+        "Extremely High Frequency",
+        "Extremely High Frequency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HF stand for?",
+      "options": [
+        "High Frequency",
+        "High Frequency",
+        "High Frequency",
+        "High Frequency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MF stand for?",
+      "options": [
+        "Medium Frequency",
+        "Medium Frequency",
+        "Medium Frequency",
+        "Medium Frequency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LF stand for?",
+      "options": [
+        "Low Frequency",
+        "Low Frequency",
+        "Low Frequency",
+        "Low Frequency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does VLF stand for?",
+      "options": [
+        "Very Low Frequency",
+        "Very Low Frequency",
+        "Very Low Frequency",
+        "Very Low Frequency"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "category": "Education & Degrees",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "What does BA stand for?",
+      "options": [
+        "Bachelor of Arts",
+        "Bachelor of Administration",
+        "Bachelor of Arts and Sciences",
+        "Bachelor of Applied Sciences"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BSc stand for?",
+      "options": [
+        "Bachelor of Science",
+        "Bachelor of Social Sciences",
+        "Bachelor of Science and Arts",
+        "Bachelor of Studies"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MA stand for?",
+      "options": [
+        "Master of Arts",
+        "Master of Administration",
+        "Master of Applied Sciences",
+        "Master of Advanced Studies"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MSc stand for?",
+      "options": [
+        "Master of Science",
+        "Master of Social Sciences",
+        "Master of Science and Arts",
+        "Master of Studies"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PhD stand for?",
+      "options": [
+        "Doctor of Philosophy",
+        "Doctor of Physical Health",
+        "Doctor of Public Health",
+        "Doctor of Political Science"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MBA stand for?",
+      "options": [
+        "Master of Business Administration",
+        "Master of Business Arts",
+        "Master of Business Analytics",
+        "Master of Business and Administration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LLB stand for?",
+      "options": [
+        "Bachelor of Laws",
+        "Bachelor of Legal Studies",
+        "Bachelor of Legislative Law",
+        "Bachelor of Legal and Business"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LLM stand for?",
+      "options": [
+        "Master of Laws",
+        "Master of Legal Studies",
+        "Master of Legislative Law",
+        "Master of Legal and Business"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MBBS stand for?",
+      "options": [
+        "Bachelor of Medicine and Bachelor of Surgery",
+        "Bachelor of Medical and Biological Sciences",
+        "Bachelor of Medicine and Biomedical Sciences",
+        "Bachelor of Medical and Surgical Sciences"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BDS stand for?",
+      "options": [
+        "Bachelor of Dental Surgery",
+        "Bachelor of Dental Sciences",
+        "Bachelor of Dental Studies",
+        "Bachelor of Dental and Surgical Sciences"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does B.Com stand for?",
+      "options": [
+        "Bachelor of Commerce",
+        "Bachelor of Communication",
+        "Bachelor of Computer Science",
+        "Bachelor of Commercial Studies"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does M.Com stand for?",
+      "options": [
+        "Master of Commerce",
+        "Master of Communication",
+        "Master of Computer Science",
+        "Master of Commercial Studies"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does B.Ed stand for?",
+      "options": [
+        "Bachelor of Education",
+        "Bachelor of Educational Studies",
+        "Bachelor of Educational Sciences",
+        "Bachelor of Elementary Education"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does M.Ed stand for?",
+      "options": [
+        "Master of Education",
+        "Master of Educational Studies",
+        "Master of Educational Sciences",
+        "Master of Elementary Education"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does B.E stand for?",
+      "options": [
+        "Bachelor of Engineering",
+        "Bachelor of Education",
+        "Bachelor of Economics",
+        "Bachelor of Electronics"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does B.Tech stand for?",
+      "options": [
+        "Bachelor of Technology",
+        "Bachelor of Technical Studies",
+        "Bachelor of Technical Education",
+        "Bachelor of Telecommunication"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does M.Tech stand for?",
+      "options": [
+        "Master of Technology",
+        "Master of Technical Studies",
+        "Master of Technical Education",
+        "Master of Telecommunication"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does B.Pharm stand for?",
+      "options": [
+        "Bachelor of Pharmacy",
+        "Bachelor of Pharmacology",
+        "Bachelor of Pharmaceutical Sciences",
+        "Bachelor of Physical Pharmacy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does M.Pharm stand for?",
+      "options": [
+        "Master of Pharmacy",
+        "Master of Pharmacology",
+        "Master of Pharmaceutical Sciences",
+        "Master of Physical Pharmacy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does D.Pharm stand for?",
+      "options": [
+        "Doctor of Pharmacy",
+        "Doctor of Pharmacology",
+        "Doctor of Pharmaceutical Sciences",
+        "Doctor of Physical Pharmacy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CSS stand for?",
+      "options": [
+        "Central Superior Services",
+        "Central Superior Service",
+        "Central Service of Superior",
+        "Central Services of Superior"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PMS stand for?",
+      "options": [
+        "Provincial Management Service",
+        "Provincial Management Services",
+        "Provincial Management System",
+        "Provincial Management Service"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NTS stand for?",
+      "options": [
+        "National Testing Service",
+        "National Testing System",
+        "National Test Service",
+        "National Test System"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PPSC stand for?",
+      "options": [
+        "Punjab Public Service Commission",
+        "Pakistan Public Service Commission",
+        "Punjab Provincial Service Commission",
+        "Pakistan Provincial Service Commission"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SPSC stand for?",
+      "options": [
+        "Sindh Public Service Commission",
+        "Sindh Provincial Service Commission",
+        "Sindh Public Service Council",
+        "Sindh Provincial Service Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does KPPSC stand for?",
+      "options": [
+        "Khyber Pakhtunkhwa Public Service Commission",
+        "Khyber Pakhtunkhwa Provincial Service Commission",
+        "Khyber Pakhtunkhwa Public Service Council",
+        "Khyber Pakhtunkhwa Provincial Service Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BPSC stand for?",
+      "options": [
+        "Balochistan Public Service Commission",
+        "Balochistan Provincial Service Commission",
+        "Balochistan Public Service Council",
+        "Balochistan Provincial Service Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FPSC stand for?",
+      "options": [
+        "Federal Public Service Commission",
+        "Federal Provincial Service Commission",
+        "Federal Public Service Council",
+        "Federal Provincial Service Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HEC stand for?",
+      "options": [
+        "Higher Education Commission",
+        "Higher Education Council",
+        "Higher Education Committee",
+        "Higher Education Corporation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PEC stand for?",
+      "options": [
+        "Pakistan Engineering Council",
+        "Pakistan Education Council",
+        "Pakistan Engineering Commission",
+        "Pakistan Education Commission"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PMDC stand for?",
+      "options": [
+        "Pakistan Medical and Dental Council",
+        "Pakistan Medical and Dental Commission",
+        "Pakistan Medical and Dental Corporation",
+        "Pakistan Medical and Dental Committee"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PMC stand for?",
+      "options": [
+        "Pakistan Medical Commission",
+        "Pakistan Medical Council",
+        "Pakistan Medical Corporation",
+        "Pakistan Medical Committee"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PNC stand for?",
+      "options": [
+        "Pakistan Nursing Council",
+        "Pakistan Nursing Commission",
+        "Pakistan Nursing Corporation",
+        "Pakistan Nursing Committee"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PCATP stand for?",
+      "options": [
+        "Pakistan Council of Architects and Town Planners",
+        "Pakistan Council of Architects and Town Planning",
+        "Pakistan Council of Architecture and Town Planners",
+        "Pakistan Council of Architecture and Town Planning"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PBA stand for?",
+      "options": [
+        "Pakistan Bar Association",
+        "Pakistan Bar Council",
+        "Pakistan Bar Association",
+        "Pakistan Bar Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SCBA stand for?",
+      "options": [
+        "Supreme Court Bar Association",
+        "Supreme Court Bar Council",
+        "Supreme Court Bar Association",
+        "Supreme Court Bar Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LHC stand for?",
+      "options": [
+        "Lahore High Court",
+        "Lahore High Commission",
+        "Lahore High Court",
+        "Lahore High Commission"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SHC stand for?",
+      "options": [
+        "Sindh High Court",
+        "Sindh High Commission",
+        "Sindh High Court",
+        "Sindh High Commission"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PHC stand for?",
+      "options": [
+        "Peshawar High Court",
+        "Peshawar High Commission",
+        "Peshawar High Court",
+        "Peshawar High Commission"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BHC stand for?",
+      "options": [
+        "Balochistan High Court",
+        "Balochistan High Commission",
+        "Balochistan High Court",
+        "Balochistan High Commission"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SC stand for?",
+      "options": [
+        "Supreme Court",
+        "Supreme Council",
+        "Supreme Court",
+        "Supreme Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CJP stand for?",
+      "options": [
+        "Chief Justice of Pakistan",
+        "Chief Justice of Punjab",
+        "Chief Justice of Pakistan",
+        "Chief Justice of Punjab"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CJ stand for?",
+      "options": [
+        "Chief Justice",
+        "Chief Judge",
+        "Chief Justice",
+        "Chief Judge"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does AG stand for?",
+      "options": [
+        "Attorney General",
+        "Advocate General",
+        "Attorney General",
+        "Advocate General"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CS stand for?",
+      "options": [
+        "Chief Secretary",
+        "Chief Secretary",
+        "Chief Secretary",
+        "Chief Secretary"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IGP stand for?",
+      "options": [
+        "Inspector General of Police",
+        "Inspector General of Police",
+        "Inspector General of Police",
+        "Inspector General of Police"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DIG stand for?",
+      "options": [
+        "Deputy Inspector General",
+        "Deputy Inspector General",
+        "Deputy Inspector General",
+        "Deputy Inspector General"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SSP stand for?",
+      "options": [
+        "Senior Superintendent of Police",
+        "Senior Superintendent of Police",
+        "Senior Superintendent of Police",
+        "Senior Superintendent of Police"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DSP stand for?",
+      "options": [
+        "Deputy Superintendent of Police",
+        "Deputy Superintendent of Police",
+        "Deputy Superintendent of Police",
+        "Deputy Superintendent of Police"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ASI stand for?",
+      "options": [
+        "Assistant Sub Inspector",
+        "Assistant Sub Inspector",
+        "Assistant Sub Inspector",
+        "Assistant Sub Inspector"
+      ],
+      "answer": 0
+    }
+  ]
+}

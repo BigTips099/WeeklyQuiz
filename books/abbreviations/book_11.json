@@ -1,0 +1,306 @@
+{
+  "category": "Legal & Police",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "question": "What does FIR stand for?",
+      "options": [
+        "First Information Report",
+        "First Investigation Report",
+        "First Inquiry Report",
+        "First Incident Report"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DSP stand for?",
+      "options": [
+        "Deputy Superintendent of Police",
+        "Deputy Superintendent of Police",
+        "Deputy Superintendent of Police",
+        "Deputy Superintendent of Police"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SSP stand for?",
+      "options": [
+        "Senior Superintendent of Police",
+        "Senior Superintendent of Police",
+        "Senior Superintendent of Police",
+        "Senior Superintendent of Police"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IG stand for?",
+      "options": [
+        "Inspector General",
+        "Inspector General",
+        "Inspector General",
+        "Inspector General"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IGP stand for?",
+      "options": [
+        "Inspector General of Police",
+        "Inspector General of Police",
+        "Inspector General of Police",
+        "Inspector General of Police"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DIG stand for?",
+      "options": [
+        "Deputy Inspector General",
+        "Deputy Inspector General",
+        "Deputy Inspector General",
+        "Deputy Inspector General"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ASI stand for?",
+      "options": [
+        "Assistant Sub Inspector",
+        "Assistant Sub Inspector",
+        "Assistant Sub Inspector",
+        "Assistant Sub Inspector"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SI stand for?",
+      "options": [
+        "Sub Inspector",
+        "Sub Inspector",
+        "Sub Inspector",
+        "Sub Inspector"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CJP stand for?",
+      "options": [
+        "Chief Justice of Pakistan",
+        "Chief Justice of Pakistan",
+        "Chief Justice of Pakistan",
+        "Chief Justice of Pakistan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SC stand for?",
+      "options": [
+        "Supreme Court",
+        "Supreme Court",
+        "Supreme Court",
+        "Supreme Court"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LHC stand for?",
+      "options": [
+        "Lahore High Court",
+        "Lahore High Court",
+        "Lahore High Court",
+        "Lahore High Court"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SHC stand for?",
+      "options": [
+        "Sindh High Court",
+        "Sindh High Court",
+        "Sindh High Court",
+        "Sindh High Court"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PHC stand for?",
+      "options": [
+        "Peshawar High Court",
+        "Peshawar High Court",
+        "Peshawar High Court",
+        "Peshawar High Court"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BHC stand for?",
+      "options": [
+        "Balochistan High Court",
+        "Balochistan High Court",
+        "Balochistan High Court",
+        "Balochistan High Court"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FSC stand for?",
+      "options": [
+        "Federal Shariat Court",
+        "Federal Shariat Court",
+        "Federal Shariat Court",
+        "Federal Shariat Court"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SCA stand for?",
+      "options": [
+        "Supreme Court Advocate",
+        "Supreme Court Advocate",
+        "Supreme Court Advocate",
+        "Supreme Court Advocate"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does D&SJ stand for?",
+      "options": [
+        "District and Sessions Judge",
+        "District and Sessions Judge",
+        "District and Sessions Judge",
+        "District and Sessions Judge"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CJ stand for?",
+      "options": [
+        "Chief Justice",
+        "Chief Justice",
+        "Chief Justice",
+        "Chief Justice"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does AG stand for?",
+      "options": [
+        "Attorney General",
+        "Attorney General",
+        "Attorney General",
+        "Attorney General"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SG stand for?",
+      "options": [
+        "Solicitor General",
+        "Solicitor General",
+        "Solicitor General",
+        "Solicitor General"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PP stand for?",
+      "options": [
+        "Public Prosecutor",
+        "Public Prosecutor",
+        "Public Prosecutor",
+        "Public Prosecutor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ADPP stand for?",
+      "options": [
+        "Additional Public Prosecutor",
+        "Additional Public Prosecutor",
+        "Additional Public Prosecutor",
+        "Additional Public Prosecutor"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CTO stand for?",
+      "options": [
+        "Chief Traffic Officer",
+        "Chief Traffic Officer",
+        "Chief Traffic Officer",
+        "Chief Traffic Officer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CCPO stand for?",
+      "options": [
+        "Capital City Police Officer",
+        "Capital City Police Officer",
+        "Capital City Police Officer",
+        "Capital City Police Officer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CPO stand for?",
+      "options": [
+        "City Police Officer",
+        "City Police Officer",
+        "City Police Officer",
+        "City Police Officer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does RPO stand for?",
+      "options": [
+        "Regional Police Officer",
+        "Regional Police Officer",
+        "Regional Police Officer",
+        "Regional Police Officer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DPO stand for?",
+      "options": [
+        "District Police Officer",
+        "District Police Officer",
+        "District Police Officer",
+        "District Police Officer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SP stand for?",
+      "options": [
+        "Superintendent of Police",
+        "Superintendent of Police",
+        "Superintendent of Police",
+        "Superintendent of Police"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SHO stand for?",
+      "options": [
+        "Station House Officer",
+        "Station House Officer",
+        "Station House Officer",
+        "Station House Officer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ASP stand for?",
+      "options": [
+        "Assistant Superintendent of Police",
+        "Assistant Superintendent of Police",
+        "Assistant Superintendent of Police",
+        "Assistant Superintendent of Police"
+      ],
+      "answer": 0
+    }
+  ]
+}

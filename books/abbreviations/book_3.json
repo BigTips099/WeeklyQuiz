@@ -1,0 +1,406 @@
+{
+  "category": "Medical & Health",
+  "totalQuestions": 40,
+  "questions": [
+    {
+      "question": "What does WHO stand for?",
+      "options": [
+        "World Health Organization",
+        "World Health Office",
+        "World Humanitarian Organization",
+        "World Humanitarian Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HIV stand for?",
+      "options": [
+        "Human Immunodeficiency Virus",
+        "Human Immuno Virus",
+        "Human Infection Virus",
+        "Human Immune Virus"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does AIDS stand for?",
+      "options": [
+        "Acquired Immunodeficiency Syndrome",
+        "Acquired Immune Deficiency Syndrome",
+        "Acquired Immuno Deficiency Syndrome",
+        "Acquired Immune Disease Syndrome"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does DNA stand for?",
+      "options": [
+        "Deoxyribo Nucleic Acid",
+        "Deoxyribose Nucleic Acid",
+        "Deoxyribo Nuclear Acid",
+        "Deoxyribose Nuclear Acid"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does RNA stand for?",
+      "options": [
+        "Ribo Nucleic Acid",
+        "Ribose Nucleic Acid",
+        "Ribo Nuclear Acid",
+        "Ribose Nuclear Acid"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ICU stand for?",
+      "options": [
+        "Intensive Care Unit",
+        "Intensive Care Urgent",
+        "Intensive Care Union",
+        "Intensive Care Uniform"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MRI stand for?",
+      "options": [
+        "Magnetic Resonance Imaging",
+        "Magnetic Resonance Image",
+        "Magnetic Resonance Investigation",
+        "Magnetic Resonance Inspection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ECG stand for?",
+      "options": [
+        "Electro Cardio-gram",
+        "Electro Cardio-graph",
+        "Electro Cardio-graphy",
+        "Electro Cardio-graphic"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does EEG stand for?",
+      "options": [
+        "Electro-encephalography",
+        "Electro-encephalogram",
+        "Electro-encephalograph",
+        "Electro-encephalographic"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BP stand for?",
+      "options": [
+        "Blood Pressure",
+        "Blood Plasma",
+        "Blood Platelet",
+        "Blood Protein"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does TB stand for?",
+      "options": [
+        "Tuberculosis",
+        "Tubercular",
+        "Tuberculin",
+        "Tuberculous"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CT Scan stand for?",
+      "options": [
+        "Computed Tomography Scan",
+        "Computerized Tomography Scan",
+        "Computed Topography Scan",
+        "Computerized Topography Scan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PET Scan stand for?",
+      "options": [
+        "Positron Emission Tomography",
+        "Positron Emission Topography",
+        "Positron Electron Tomography",
+        "Positron Electron Topography"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CDC stand for?",
+      "options": [
+        "Centers for Disease Control and Prevention",
+        "Centers for Disease Control",
+        "Centers for Disease Control and Protection",
+        "Centers for Disease Control and Prevention"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FDA stand for?",
+      "options": [
+        "Food and Drug Administration",
+        "Food and Drug Association",
+        "Food and Drug Authority",
+        "Food and Drug Agency"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NGO stand for?",
+      "options": [
+        "Non-Governmental Organization",
+        "Non-Government Organization",
+        "Non-Governmental Office",
+        "Non-Government Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MSF stand for?",
+      "options": [
+        "Médecins Sans Frontières (Doctors Without Borders)",
+        "Médecins Sans Frontières (Doctors Without Frontiers)",
+        "Médecins Sans Frontières (Doctors Without Borders)",
+        "Médecins Sans Frontières (Doctors Without Boundaries)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ICRC stand for?",
+      "options": [
+        "International Committee of the Red Cross",
+        "International Committee of the Red Crescent",
+        "International Committee for the Red Cross",
+        "International Committee for the Red Crescent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PMDC stand for?",
+      "options": [
+        "Pakistan Medical and Dental Council",
+        "Pakistan Medical and Dental Commission",
+        "Pakistan Medical and Dental Corporation",
+        "Pakistan Medical and Dental Committee"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PMC stand for?",
+      "options": [
+        "Pakistan Medical Commission",
+        "Pakistan Medical Council",
+        "Pakistan Medical Corporation",
+        "Pakistan Medical Committee"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PIMA stand for?",
+      "options": [
+        "Pakistan Islamic Medical Association",
+        "Pakistan Islamic Medical Authority",
+        "Pakistan International Medical Association",
+        "Pakistan International Medical Authority"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CPSP stand for?",
+      "options": [
+        "College of Physicians and Surgeons Pakistan",
+        "College of Physicians and Surgeons of Pakistan",
+        "College of Physicians and Surgeons Pakistan",
+        "College of Physicians and Surgeons of Pakistan"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does FCPS stand for?",
+      "options": [
+        "Fellow of College of Physicians and Surgeons",
+        "Fellow of College of Physicians and Surgeons Pakistan",
+        "Fellow of College of Physicians and Surgeons",
+        "Fellow of College of Physicians and Surgeons Pakistan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MRCP stand for?",
+      "options": [
+        "Member of Royal College of Physicians",
+        "Member of Royal College of Physicians and Surgeons",
+        "Member of Royal College of Physicians",
+        "Member of Royal College of Physicians and Surgeons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FRCS stand for?",
+      "options": [
+        "Fellow of Royal College of Surgeons",
+        "Fellow of Royal College of Surgeons and Physicians",
+        "Fellow of Royal College of Surgeons",
+        "Fellow of Royal College of Surgeons and Physicians"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BDS stand for?",
+      "options": [
+        "Bachelor of Dental Surgery",
+        "Bachelor of Dental Science",
+        "Bachelor of Dental Studies",
+        "Bachelor of Dental Surgery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MBBS stand for?",
+      "options": [
+        "Bachelor of Medicine and Bachelor of Surgery",
+        "Bachelor of Medicine and Bachelor of Science",
+        "Bachelor of Medicine and Bachelor of Surgery",
+        "Bachelor of Medicine and Bachelor of Science"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DVM stand for?",
+      "options": [
+        "Doctor of Veterinary Medicine",
+        "Doctor of Veterinary Science",
+        "Doctor of Veterinary Surgery",
+        "Doctor of Veterinary Medicine"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does DDS stand for?",
+      "options": [
+        "Doctor of Dental Surgery",
+        "Doctor of Dental Science",
+        "Doctor of Dental Studies",
+        "Doctor of Dental Surgery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does RMP stand for?",
+      "options": [
+        "Registered Medical Practitioner",
+        "Registered Medical Professional",
+        "Registered Medical Physician",
+        "Registered Medical Practitioner"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CME stand for?",
+      "options": [
+        "Continuing Medical Education",
+        "Continuing Medical Examination",
+        "Continuing Medical Evaluation",
+        "Continuing Medical Education"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OPD stand for?",
+      "options": [
+        "Out Patient Department",
+        "Out Patient Division",
+        "Out Patient Department",
+        "Out Patient Division"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NICU stand for?",
+      "options": [
+        "Neonatal Intensive Care Unit",
+        "Neonatal Intensive Care Unit",
+        "Neonatal Intensive Care Unit",
+        "Neonatal Intensive Care Unit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PICU stand for?",
+      "options": [
+        "Pediatric Intensive Care Unit",
+        "Pediatric Intensive Care Unit",
+        "Pediatric Intensive Care Unit",
+        "Pediatric Intensive Care Unit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ENT stand for?",
+      "options": [
+        "Ear, Nose and Throat",
+        "Ear, Nose and Teeth",
+        "Ear, Nose and Tongue",
+        "Ear, Nose and Throat"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OBS stand for?",
+      "options": [
+        "Obstetrics",
+        "Obstetrics and Gynecology",
+        "Obstetrics",
+        "Obstetrics and Gynecology"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GYN stand for?",
+      "options": [
+        "Gynecology",
+        "Gynecology and Obstetrics",
+        "Gynecology",
+        "Gynecology and Obstetrics"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OT stand for?",
+      "options": [
+        "Operation Theater",
+        "Operation Theater",
+        "Operation Theater",
+        "Operation Theater"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HDU stand for?",
+      "options": [
+        "High Dependency Unit",
+        "High Dependency Unit",
+        "High Dependency Unit",
+        "High Dependency Unit"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BMT stand for?",
+      "options": [
+        "Bone Marrow Transplant",
+        "Bone Marrow Transplant",
+        "Bone Marrow Transplant",
+        "Bone Marrow Transplant"
+      ],
+      "answer": 0
+    }
+  ]
+}

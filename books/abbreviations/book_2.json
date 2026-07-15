@@ -1,0 +1,526 @@
+{
+  "category": "Banking & Finance",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "What does IMF stand for?",
+      "options": [
+        "International Monetary Fund",
+        "International Monetary Federation",
+        "International Money Fund",
+        "International Money Federation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SBP stand for?",
+      "options": [
+        "State Bank of Pakistan",
+        "Standard Bank of Pakistan",
+        "State Bank of Punjab",
+        "Standard Bank of Punjab"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ADB stand for?",
+      "options": [
+        "Asian Development Bank",
+        "Asian Development Board",
+        "African Development Bank",
+        "Asian Development Bureau"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does HBL stand for?",
+      "options": [
+        "Habib Bank Limited",
+        "Habib Bank Lahore",
+        "HBL Bank Limited",
+        "Habib Banking Limited"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does UBL stand for?",
+      "options": [
+        "United Bank Limited",
+        "United Banking Limited",
+        "Union Bank Limited",
+        "Universal Bank Limited"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MCB stand for?",
+      "options": [
+        "Muslim Commercial Bank",
+        "Muslim Central Bank",
+        "Muslim Cooperative Bank",
+        "Muslim Credit Bank"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NFC stand for?",
+      "options": [
+        "National Finance Commission",
+        "National Finance Council",
+        "National Fiscal Commission",
+        "National Fiscal Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SECP stand for?",
+      "options": [
+        "Securities and Exchange Commission of Pakistan",
+        "Securities and Exchange Council of Pakistan",
+        "Securities and Economic Commission of Pakistan",
+        "Securities and Economic Council of Pakistan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ABL stand for?",
+      "options": [
+        "Allied Bank of Pakistan Limited",
+        "Allied Banking Limited",
+        "Allied Bank Lahore",
+        "Allied Banking Pakistan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does BoP stand for?",
+      "options": [
+        "Bank of Pakistan",
+        "Bank of Punjab",
+        "Bank of Punjab Limited",
+        "Bank of Pakistan Limited"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does BOK stand for?",
+      "options": [
+        "Bank of Khyber",
+        "Bank of Karachi",
+        "Bank of Kashmir",
+        "Bank of Kohistan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FWB stand for?",
+      "options": [
+        "First Women Bank",
+        "First Women Banking",
+        "First Women Bank Limited",
+        "First Women Banking Limited"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does KSE stand for?",
+      "options": [
+        "Karachi Stock Exchange",
+        "Karachi Stock Exchange Limited",
+        "Karachi Share Exchange",
+        "Karachi Stock and Exchange"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NTN stand for?",
+      "options": [
+        "National Tax Number",
+        "National Tax Network",
+        "National Tax Notification",
+        "National Tax Numbering"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SDR stand for?",
+      "options": [
+        "Special Drawing Rights",
+        "Special Drawing Reserves",
+        "Special Deposit Rights",
+        "Special Deposit Reserves"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ATM stand for?",
+      "options": [
+        "Automatic Teller Machine",
+        "Automated Teller Machine",
+        "Automatic Transfer Machine",
+        "Automated Transfer Machine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does EMI stand for?",
+      "options": [
+        "Equated Monthly Installments",
+        "Equated Monthly Interest",
+        "Equal Monthly Installments",
+        "Equal Monthly Interest"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GST stand for?",
+      "options": [
+        "General Sales Tax",
+        "General Service Tax",
+        "Goods and Services Tax",
+        "Goods and Sales Tax"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does VAT stand for?",
+      "options": [
+        "Value Added Tax",
+        "Value Added Transaction",
+        "Value Added Tariff",
+        "Value Added Transfer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MODVAT stand for?",
+      "options": [
+        "Modified Value Added Tax",
+        "Modified Value Added Transaction",
+        "Modified Value Added Tariff",
+        "Modified Value Added Transfer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CED stand for?",
+      "options": [
+        "Central Excise Duty",
+        "Central Exercise Duty",
+        "Central Excise Department",
+        "Central Exercise Department"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FDR stand for?",
+      "options": [
+        "Fixed Deposit Receipt",
+        "Fixed Deposit Reserve",
+        "Fixed Deposit Rate",
+        "Fixed Deposit Return"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does COD stand for?",
+      "options": [
+        "Cash on Delivery",
+        "Cash on Demand",
+        "Cash on Deposit",
+        "Cash on Delivery"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does GP stand for?",
+      "options": [
+        "Gross Profit",
+        "Gross Product",
+        "Gross Pay",
+        "Gross Percentage"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IFC stand for?",
+      "options": [
+        "International Finance Corporation",
+        "International Financial Corporation",
+        "International Finance Council",
+        "International Financial Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IDA stand for?",
+      "options": [
+        "International Development Association",
+        "International Development Agency",
+        "International Development Authority",
+        "International Development Alliance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does MFA stand for?",
+      "options": [
+        "Most Favoured Nation",
+        "Most Favoured Country",
+        "Most Favoured Agreement",
+        "Most Favoured Treaty"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WTO stand for?",
+      "options": [
+        "World Trade Organization",
+        "World Trade Office",
+        "World Tourism Organization",
+        "World Tourism Office"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IBRD stand for?",
+      "options": [
+        "International Bank for Reconstruction and Development",
+        "International Bank for Reconstruction and Design",
+        "International Bank for Relief and Development",
+        "International Bank for Relief and Design"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does WB stand for?",
+      "options": [
+        "World Bank",
+        "World Bureau",
+        "Western Bank",
+        "Western Bureau"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ADB stand for?",
+      "options": [
+        "Asian Development Bank",
+        "Asian Development Board",
+        "African Development Bank",
+        "African Development Board"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does EIB stand for?",
+      "options": [
+        "European Investment Bank",
+        "European International Bank",
+        "European Investment Board",
+        "European International Board"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does IDB stand for?",
+      "options": [
+        "Islamic Development Bank",
+        "Islamic Development Board",
+        "International Development Bank",
+        "International Development Board"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OIC stand for?",
+      "options": [
+        "Organization of Islamic Cooperation",
+        "Organization of Islamic Countries",
+        "Organization of Islamic Council",
+        "Organization of Islamic Conference"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PAK stand for?",
+      "options": [
+        "Pakistan",
+        "Pakistani",
+        "Pak",
+        "Pakistan International"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PSX stand for?",
+      "options": [
+        "Pakistan Stock Exchange",
+        "Pakistan Share Exchange",
+        "Pakistan Stock Exchange Limited",
+        "Pakistan Share Exchange Limited"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SEC stand for?",
+      "options": [
+        "Securities and Exchange Commission",
+        "Securities and Exchange Council",
+        "Securities and Economic Commission",
+        "Securities and Economic Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NBP stand for?",
+      "options": [
+        "National Bank of Pakistan",
+        "National Bank of Punjab",
+        "National Banking Pakistan",
+        "National Banking Punjab"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does FBR stand for?",
+      "options": [
+        "Federal Board of Revenue",
+        "Federal Board of Reforms",
+        "Federal Bureau of Revenue",
+        "Federal Bureau of Reforms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does CBR stand for?",
+      "options": [
+        "Central Board of Revenue",
+        "Central Bureau of Revenue",
+        "Central Board of Reforms",
+        "Central Bureau of Reforms"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ECP stand for?",
+      "options": [
+        "Election Commission of Pakistan",
+        "Election Council of Pakistan",
+        "Election Commission Punjab",
+        "Election Council Punjab"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does ECC stand for?",
+      "options": [
+        "Economic Coordination Committee",
+        "Economic Cooperation Committee",
+        "Economic Coordination Council",
+        "Economic Cooperation Council"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NEC stand for?",
+      "options": [
+        "National Economic Council",
+        "National Economic Commission",
+        "National Education Council",
+        "National Education Commission"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does NEPRA stand for?",
+      "options": [
+        "National Electric Power Regulatory Authority",
+        "National Energy Power Regulatory Authority",
+        "National Electric Power Regulatory Association",
+        "National Energy Power Regulatory Association"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OGRA stand for?",
+      "options": [
+        "Oil and Gas Regulatory Authority",
+        "Oil and Gas Regulatory Association",
+        "Oil and Gas Regulatory Agency",
+        "Oil and Gas Regulatory Administration"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PTCL stand for?",
+      "options": [
+        "Pakistan Telecommunication Company Limited",
+        "Pakistan Telecommunication Corporation Limited",
+        "Pakistan Telegraph Company Limited",
+        "Pakistan Telegraph Corporation Limited"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SNGPL stand for?",
+      "options": [
+        "Sui Northern Gas Pipelines Limited",
+        "Sui Northern Gas Pakistan Limited",
+        "Sui Northern Gas Punjab Limited",
+        "Sui Northern Gas Pipelines Lahore"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SSGC stand for?",
+      "options": [
+        "Sui Southern Gas Company",
+        "Sui Southern Gas Corporation",
+        "Sui Southern Gas Company Limited",
+        "Sui Southern Gas Corporation Limited"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does K-Electric stand for?",
+      "options": [
+        "Karachi Electric",
+        "Karachi Electricity",
+        "Karachi Electric Supply Company",
+        "Karachi Electricity Supply Company"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does LESCO stand for?",
+      "options": [
+        "Lahore Electric Supply Company",
+        "Lahore Electricity Supply Company",
+        "Lahore Electric Supply Corporation",
+        "Lahore Electricity Supply Corporation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does PSO stand for?",
+      "options": [
+        "Pakistan State Oil",
+        "Pakistan State Oil Company",
+        "Pakistan Standard Oil",
+        "Pakistan Standard Oil Company"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does OGDCL stand for?",
+      "options": [
+        "Oil and Gas Development Company Limited",
+        "Oil and Gas Development Corporation Limited",
+        "Oil and Gas Distribution Company Limited",
+        "Oil and Gas Distribution Corporation Limited"
+      ],
+      "answer": 0
+    }
+  ]
+}
