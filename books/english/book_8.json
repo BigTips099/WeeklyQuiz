@@ -1,0 +1,1456 @@
+{
+  "category": "Active & Passive Voice",
+  "totalQuestions": 150,
+  "questions": [
+    {
+      "question": "What is active voice?",
+      "options": [
+        "The subject performs the action",
+        "The subject receives the action",
+        "The action is performed by the subject",
+        "Both A and C"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is passive voice?",
+      "options": [
+        "The subject performs the action",
+        "The subject receives the action",
+        "The action is performed by the subject",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In active voice, the subject is:",
+      "options": [
+        "The doer of the action",
+        "The receiver of the action",
+        "Neither doer nor receiver",
+        "Both doer and receiver"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In passive voice, the subject is:",
+      "options": [
+        "The doer of the action",
+        "The receiver of the action",
+        "Neither doer nor receiver",
+        "Both doer and receiver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the structure of active voice in simple present tense?",
+      "options": [
+        "Subject + V1 + Object",
+        "Subject + is/am/are + V3 + by + Object",
+        "Subject + has/have + V3 + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the structure of passive voice in simple present tense?",
+      "options": [
+        "Subject + V1 + Object",
+        "Subject + is/am/are + V3 + by + Object",
+        "Subject + has/have + V3 + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the structure of active voice in present continuous tense?",
+      "options": [
+        "Subject + is/am/are + V1-ing + Object",
+        "Subject + is/am/are + being + V3 + by + Object",
+        "Subject + has/have + V3 + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the structure of passive voice in present continuous tense?",
+      "options": [
+        "Subject + is/am/are + V1-ing + Object",
+        "Subject + is/am/are + being + V3 + by + Object",
+        "Subject + has/have + V3 + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the structure of active voice in present perfect tense?",
+      "options": [
+        "Subject + has/have + V3 + Object",
+        "Subject + has/have + been + V3 + by + Object",
+        "Subject + is/am/are + V1-ing + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the structure of passive voice in present perfect tense?",
+      "options": [
+        "Subject + has/have + V3 + Object",
+        "Subject + has/have + been + V3 + by + Object",
+        "Subject + is/am/are + V1-ing + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the structure of active voice in simple past tense?",
+      "options": [
+        "Subject + V2 + Object",
+        "Subject + was/were + V3 + by + Object",
+        "Subject + had + V3 + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the structure of passive voice in simple past tense?",
+      "options": [
+        "Subject + V2 + Object",
+        "Subject + was/were + V3 + by + Object",
+        "Subject + had + V3 + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the structure of active voice in past continuous tense?",
+      "options": [
+        "Subject + was/were + V1-ing + Object",
+        "Subject + was/were + being + V3 + by + Object",
+        "Subject + had + V3 + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the structure of passive voice in past continuous tense?",
+      "options": [
+        "Subject + was/were + V1-ing + Object",
+        "Subject + was/were + being + V3 + by + Object",
+        "Subject + had + V3 + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the structure of active voice in past perfect tense?",
+      "options": [
+        "Subject + had + V3 + Object",
+        "Subject + had + been + V3 + by + Object",
+        "Subject + was/were + V1-ing + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the structure of passive voice in past perfect tense?",
+      "options": [
+        "Subject + had + V3 + Object",
+        "Subject + had + been + V3 + by + Object",
+        "Subject + was/were + V1-ing + Object",
+        "Subject + will + V1 + Object"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the structure of active voice in simple future tense?",
+      "options": [
+        "Subject + will + V1 + Object",
+        "Subject + will + be + V3 + by + Object",
+        "Subject + will + have + V3 + Object",
+        "Subject + will + have + been + V3 + by + Object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the structure of passive voice in simple future tense?",
+      "options": [
+        "Subject + will + V1 + Object",
+        "Subject + will + be + V3 + by + Object",
+        "Subject + will + have + V3 + Object",
+        "Subject + will + have + been + V3 + by + Object"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the structure of active voice in future perfect tense?",
+      "options": [
+        "Subject + will + V1 + Object",
+        "Subject + will + be + V3 + by + Object",
+        "Subject + will + have + V3 + Object",
+        "Subject + will + have + been + V3 + by + Object"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the structure of passive voice in future perfect tense?",
+      "options": [
+        "Subject + will + V1 + Object",
+        "Subject + will + be + V3 + by + Object",
+        "Subject + will + have + V3 + Object",
+        "Subject + will + have + been + V3 + by + Object"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the passive voice of 'She eats an apple'?",
+      "options": [
+        "An apple is eaten by her.",
+        "An apple was eaten by her.",
+        "An apple has been eaten by her.",
+        "An apple will be eaten by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He writes a letter'?",
+      "options": [
+        "A letter is written by him.",
+        "A letter was written by him.",
+        "A letter has been written by him.",
+        "A letter will be written by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'They play football'?",
+      "options": [
+        "Football is played by them.",
+        "Football was played by them.",
+        "Football has been played by them.",
+        "Football will be played by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She is reading a book'?",
+      "options": [
+        "A book is being read by her.",
+        "A book was being read by her.",
+        "A book has been read by her.",
+        "A book will be read by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'They are building a house'?",
+      "options": [
+        "A house is being built by them.",
+        "A house was being built by them.",
+        "A house has been built by them.",
+        "A house will be built by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She has completed the work'?",
+      "options": [
+        "The work has been completed by her.",
+        "The work is completed by her.",
+        "The work was completed by her.",
+        "The work will be completed by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'They have finished the project'?",
+      "options": [
+        "The project has been finished by them.",
+        "The project is finished by them.",
+        "The project was finished by them.",
+        "The project will be finished by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She wrote a letter'?",
+      "options": [
+        "A letter was written by her.",
+        "A letter is written by her.",
+        "A letter has been written by her.",
+        "A letter will be written by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'They built a house'?",
+      "options": [
+        "A house was built by them.",
+        "A house is built by them.",
+        "A house has been built by them.",
+        "A house will be built by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He broke the window'?",
+      "options": [
+        "The window was broken by him.",
+        "The window is broken by him.",
+        "The window has been broken by him.",
+        "The window will be broken by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She was writing a letter'?",
+      "options": [
+        "A letter was being written by her.",
+        "A letter is being written by her.",
+        "A letter has been written by her.",
+        "A letter will be written by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'They were playing cricket'?",
+      "options": [
+        "Cricket was being played by them.",
+        "Cricket is being played by them.",
+        "Cricket has been played by them.",
+        "Cricket will be played by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He had completed the work'?",
+      "options": [
+        "The work had been completed by him.",
+        "The work was completed by him.",
+        "The work has been completed by him.",
+        "The work will be completed by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'They had finished the project'?",
+      "options": [
+        "The project had been finished by them.",
+        "The project was finished by them.",
+        "The project has been finished by them.",
+        "The project will be finished by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She will write a letter'?",
+      "options": [
+        "A letter will be written by her.",
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter has been written by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'They will build a house'?",
+      "options": [
+        "A house will be built by them.",
+        "A house is built by them.",
+        "A house was built by them.",
+        "A house has been built by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He will have completed the work'?",
+      "options": [
+        "The work will have been completed by him.",
+        "The work will be completed by him.",
+        "The work has been completed by him.",
+        "The work was completed by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'They will have finished the project'?",
+      "options": [
+        "The project will have been finished by them.",
+        "The project will be finished by them.",
+        "The project has been finished by them.",
+        "The project was finished by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A letter is written by her'?",
+      "options": [
+        "She writes a letter.",
+        "She wrote a letter.",
+        "She has written a letter.",
+        "She will write a letter."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'Football is played by them'?",
+      "options": [
+        "They play football.",
+        "They played football.",
+        "They have played football.",
+        "They will play football."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A book is being read by her'?",
+      "options": [
+        "She is reading a book.",
+        "She reads a book.",
+        "She has read a book.",
+        "She will read a book."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A house is being built by them'?",
+      "options": [
+        "They are building a house.",
+        "They build a house.",
+        "They have built a house.",
+        "They will build a house."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'The work has been completed by her'?",
+      "options": [
+        "She has completed the work.",
+        "She completes the work.",
+        "She completed the work.",
+        "She will complete the work."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'The project has been finished by them'?",
+      "options": [
+        "They have finished the project.",
+        "They finish the project.",
+        "They finished the project.",
+        "They will finish the project."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A letter was written by her'?",
+      "options": [
+        "She wrote a letter.",
+        "She writes a letter.",
+        "She has written a letter.",
+        "She will write a letter."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A house was built by them'?",
+      "options": [
+        "They built a house.",
+        "They build a house.",
+        "They have built a house.",
+        "They will build a house."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'The window was broken by him'?",
+      "options": [
+        "He broke the window.",
+        "He breaks the window.",
+        "He has broken the window.",
+        "He will break the window."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A letter was being written by her'?",
+      "options": [
+        "She was writing a letter.",
+        "She writes a letter.",
+        "She has written a letter.",
+        "She will write a letter."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'Cricket was being played by them'?",
+      "options": [
+        "They were playing cricket.",
+        "They play cricket.",
+        "They have played cricket.",
+        "They will play cricket."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'The work had been completed by him'?",
+      "options": [
+        "He had completed the work.",
+        "He completed the work.",
+        "He has completed the work.",
+        "He will complete the work."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'The project had been finished by them'?",
+      "options": [
+        "They had finished the project.",
+        "They finished the project.",
+        "They have finished the project.",
+        "They will finish the project."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A letter will be written by her'?",
+      "options": [
+        "She will write a letter.",
+        "She writes a letter.",
+        "She wrote a letter.",
+        "She has written a letter."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A house will be built by them'?",
+      "options": [
+        "They will build a house.",
+        "They build a house.",
+        "They built a house.",
+        "They have built a house."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'The work will have been completed by him'?",
+      "options": [
+        "He will have completed the work.",
+        "He will complete the work.",
+        "He has completed the work.",
+        "He completed the work."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'The project will have been finished by them'?",
+      "options": [
+        "They will have finished the project.",
+        "They will finish the project.",
+        "They have finished the project.",
+        "They finished the project."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which sentence is in active voice?",
+      "options": [
+        "The cake was eaten by him.",
+        "He ate the cake.",
+        "The cake is being eaten by him.",
+        "The cake has been eaten by him."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which sentence is in passive voice?",
+      "options": [
+        "She writes a letter.",
+        "She wrote a letter.",
+        "A letter is written by her.",
+        "She will write a letter."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which sentence is in active voice?",
+      "options": [
+        "The book was read by her.",
+        "The book is being read by her.",
+        "She read the book.",
+        "The book has been read by her."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which sentence is in passive voice?",
+      "options": [
+        "They built a house.",
+        "They are building a house.",
+        "A house was built by them.",
+        "They have built a house."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Change to passive: 'The teacher helps the students'.",
+      "options": [
+        "The students are helped by the teacher.",
+        "The students were helped by the teacher.",
+        "The students have been helped by the teacher.",
+        "The students will be helped by the teacher."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'The chef cooks the food'.",
+      "options": [
+        "The food is cooked by the chef.",
+        "The food was cooked by the chef.",
+        "The food has been cooked by the chef.",
+        "The food will be cooked by the chef."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'The artist paints a picture'.",
+      "options": [
+        "A picture is painted by the artist.",
+        "A picture was painted by the artist.",
+        "A picture has been painted by the artist.",
+        "A picture will be painted by the artist."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'The mother is feeding the baby'.",
+      "options": [
+        "The baby is being fed by the mother.",
+        "The baby was being fed by the mother.",
+        "The baby has been fed by the mother.",
+        "The baby will be fed by the mother."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'The gardener is watering the plants'.",
+      "options": [
+        "The plants are being watered by the gardener.",
+        "The plants were being watered by the gardener.",
+        "The plants have been watered by the gardener.",
+        "The plants will be watered by the gardener."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'She has finished the work'.",
+      "options": [
+        "The work has been finished by her.",
+        "The work is finished by her.",
+        "The work was finished by her.",
+        "The work will be finished by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'They have completed the project'.",
+      "options": [
+        "The project has been completed by them.",
+        "The project is completed by them.",
+        "The project was completed by them.",
+        "The project will be completed by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'The boy broke the window'.",
+      "options": [
+        "The window was broken by the boy.",
+        "The window is broken by the boy.",
+        "The window has been broken by the boy.",
+        "The window will be broken by the boy."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'The police caught the thief'.",
+      "options": [
+        "The thief was caught by the police.",
+        "The thief is caught by the police.",
+        "The thief has been caught by the police.",
+        "The thief will be caught by the police."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'She was writing a letter'.",
+      "options": [
+        "A letter was being written by her.",
+        "A letter is being written by her.",
+        "A letter has been written by her.",
+        "A letter will be written by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'They were playing football'.",
+      "options": [
+        "Football was being played by them.",
+        "Football is being played by them.",
+        "Football has been played by them.",
+        "Football will be played by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'He had completed the assignment'.",
+      "options": [
+        "The assignment had been completed by him.",
+        "The assignment was completed by him.",
+        "The assignment has been completed by him.",
+        "The assignment will be completed by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'They had finished the work'.",
+      "options": [
+        "The work had been finished by them.",
+        "The work was finished by them.",
+        "The work has been finished by them.",
+        "The work will be finished by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'The teacher will help the students'.",
+      "options": [
+        "The students will be helped by the teacher.",
+        "The students are helped by the teacher.",
+        "The students were helped by the teacher.",
+        "The students have been helped by the teacher."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'The chef will cook the food'.",
+      "options": [
+        "The food will be cooked by the chef.",
+        "The food is cooked by the chef.",
+        "The food was cooked by the chef.",
+        "The food has been cooked by the chef."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'The artist will paint a picture'.",
+      "options": [
+        "A picture will be painted by the artist.",
+        "A picture is painted by the artist.",
+        "A picture was painted by the artist.",
+        "A picture has been painted by the artist."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'He will have completed the project'.",
+      "options": [
+        "The project will have been completed by him.",
+        "The project will be completed by him.",
+        "The project has been completed by him.",
+        "The project was completed by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to passive: 'They will have finished the work'.",
+      "options": [
+        "The work will have been finished by them.",
+        "The work will be finished by them.",
+        "The work has been finished by them.",
+        "The work was finished by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The book is read by her'.",
+      "options": [
+        "She reads the book.",
+        "She read the book.",
+        "She has read the book.",
+        "She will read the book."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The letter is written by him'.",
+      "options": [
+        "He writes the letter.",
+        "He wrote the letter.",
+        "He has written the letter.",
+        "He will write the letter."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The door is opened by her'.",
+      "options": [
+        "She opens the door.",
+        "She opened the door.",
+        "She has opened the door.",
+        "She will open the door."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The house is being built by them'.",
+      "options": [
+        "They are building the house.",
+        "They build the house.",
+        "They built the house.",
+        "They will build the house."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The work is being done by her'.",
+      "options": [
+        "She is doing the work.",
+        "She does the work.",
+        "She did the work.",
+        "She will do the work."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The work has been completed by him'.",
+      "options": [
+        "He has completed the work.",
+        "He completes the work.",
+        "He completed the work.",
+        "He will complete the work."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The letter has been written by her'.",
+      "options": [
+        "She has written the letter.",
+        "She writes the letter.",
+        "She wrote the letter.",
+        "She will write the letter."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The cake was eaten by him'.",
+      "options": [
+        "He ate the cake.",
+        "He eats the cake.",
+        "He has eaten the cake.",
+        "He will eat the cake."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The window was broken by the boy'.",
+      "options": [
+        "The boy broke the window.",
+        "The boy breaks the window.",
+        "The boy has broken the window.",
+        "The boy will break the window."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The thief was caught by the police'.",
+      "options": [
+        "The police caught the thief.",
+        "The police catch the thief.",
+        "The police have caught the thief.",
+        "The police will catch the thief."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'A letter was being written by her'.",
+      "options": [
+        "She was writing a letter.",
+        "She writes a letter.",
+        "She wrote a letter.",
+        "She will write a letter."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'Football was being played by them'.",
+      "options": [
+        "They were playing football.",
+        "They play football.",
+        "They played football.",
+        "They will play football."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The work had been completed by him'.",
+      "options": [
+        "He had completed the work.",
+        "He completed the work.",
+        "He has completed the work.",
+        "He will complete the work."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The project had been finished by them'.",
+      "options": [
+        "They had finished the project.",
+        "They finished the project.",
+        "They have finished the project.",
+        "They will finish the project."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The work will be done by her'.",
+      "options": [
+        "She will do the work.",
+        "She does the work.",
+        "She did the work.",
+        "She has done the work."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The cake will be eaten by him'.",
+      "options": [
+        "He will eat the cake.",
+        "He eats the cake.",
+        "He ate the cake.",
+        "He has eaten the cake."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The work will have been completed by him'.",
+      "options": [
+        "He will have completed the work.",
+        "He will complete the work.",
+        "He has completed the work.",
+        "He completed the work."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to active: 'The project will have been finished by them'.",
+      "options": [
+        "They will have finished the project.",
+        "They will finish the project.",
+        "They have finished the project.",
+        "They finished the project."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which sentence is correct in passive voice for simple present?",
+      "options": [
+        "The book is read by her.",
+        "The book was read by her.",
+        "The book has been read by her.",
+        "The book will be read by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which sentence is correct in passive voice for present continuous?",
+      "options": [
+        "The book is being read by her.",
+        "The book was being read by her.",
+        "The book has been read by her.",
+        "The book will be read by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which sentence is correct in passive voice for present perfect?",
+      "options": [
+        "The book has been read by her.",
+        "The book is read by her.",
+        "The book was read by her.",
+        "The book will be read by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which sentence is correct in passive voice for simple past?",
+      "options": [
+        "The book was read by her.",
+        "The book is read by her.",
+        "The book has been read by her.",
+        "The book will be read by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which sentence is correct in passive voice for past continuous?",
+      "options": [
+        "The book was being read by her.",
+        "The book is being read by her.",
+        "The book has been read by her.",
+        "The book will be read by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which sentence is correct in passive voice for past perfect?",
+      "options": [
+        "The book had been read by her.",
+        "The book was read by her.",
+        "The book has been read by her.",
+        "The book will be read by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which sentence is correct in passive voice for simple future?",
+      "options": [
+        "The book will be read by her.",
+        "The book is read by her.",
+        "The book was read by her.",
+        "The book has been read by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which sentence is correct in passive voice for future perfect?",
+      "options": [
+        "The book will have been read by her.",
+        "The book will be read by her.",
+        "The book has been read by her.",
+        "The book was read by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She sings a song'?",
+      "options": [
+        "A song is sung by her.",
+        "A song was sung by her.",
+        "A song has been sung by her.",
+        "A song will be sung by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He drives a car'?",
+      "options": [
+        "A car is driven by him.",
+        "A car was driven by him.",
+        "A car has been driven by him.",
+        "A car will be driven by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She loves her children'?",
+      "options": [
+        "Her children are loved by her.",
+        "Her children were loved by her.",
+        "Her children have been loved by her.",
+        "Her children will be loved by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He respects his parents'?",
+      "options": [
+        "His parents are respected by him.",
+        "His parents were respected by him.",
+        "His parents have been respected by him.",
+        "His parents will be respected by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She is teaching English'?",
+      "options": [
+        "English is being taught by her.",
+        "English was being taught by her.",
+        "English has been taught by her.",
+        "English will be taught by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He is fixing the car'?",
+      "options": [
+        "The car is being fixed by him.",
+        "The car was being fixed by him.",
+        "The car has been fixed by him.",
+        "The car will be fixed by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She has cooked dinner'?",
+      "options": [
+        "Dinner has been cooked by her.",
+        "Dinner is cooked by her.",
+        "Dinner was cooked by her.",
+        "Dinner will be cooked by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He has repaired the bike'?",
+      "options": [
+        "The bike has been repaired by him.",
+        "The bike is repaired by him.",
+        "The bike was repaired by him.",
+        "The bike will be repaired by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She painted the house'?",
+      "options": [
+        "The house was painted by her.",
+        "The house is painted by her.",
+        "The house has been painted by her.",
+        "The house will be painted by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He wrote a novel'?",
+      "options": [
+        "A novel was written by him.",
+        "A novel is written by him.",
+        "A novel has been written by him.",
+        "A novel will be written by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She was baking a cake'?",
+      "options": [
+        "A cake was being baked by her.",
+        "A cake is being baked by her.",
+        "A cake has been baked by her.",
+        "A cake will be baked by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He was painting a picture'?",
+      "options": [
+        "A picture was being painted by him.",
+        "A picture is being painted by him.",
+        "A picture has been painted by him.",
+        "A picture will be painted by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She had cleaned the room'?",
+      "options": [
+        "The room had been cleaned by her.",
+        "The room was cleaned by her.",
+        "The room has been cleaned by her.",
+        "The room will be cleaned by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He had washed the dishes'?",
+      "options": [
+        "The dishes had been washed by him.",
+        "The dishes were washed by him.",
+        "The dishes have been washed by him.",
+        "The dishes will be washed by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She will buy a new car'?",
+      "options": [
+        "A new car will be bought by her.",
+        "A new car is bought by her.",
+        "A new car was bought by her.",
+        "A new car has been bought by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He will sell his house'?",
+      "options": [
+        "His house will be sold by him.",
+        "His house is sold by him.",
+        "His house was sold by him.",
+        "His house has been sold by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She will have finished the work'?",
+      "options": [
+        "The work will have been finished by her.",
+        "The work will be finished by her.",
+        "The work has been finished by her.",
+        "The work was finished by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He will have completed the course'?",
+      "options": [
+        "The course will have been completed by him.",
+        "The course will be completed by him.",
+        "The course has been completed by him.",
+        "The course was completed by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She teaches us English'?",
+      "options": [
+        "English is taught to us by her.",
+        "English was taught to us by her.",
+        "English has been taught to us by her.",
+        "English will be taught to us by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He gave me a gift'?",
+      "options": [
+        "A gift was given to me by him.",
+        "A gift is given to me by him.",
+        "A gift has been given to me by him.",
+        "A gift will be given to me by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She told us a story'?",
+      "options": [
+        "A story was told to us by her.",
+        "A story is told to us by her.",
+        "A story has been told to us by her.",
+        "A story will be told to us by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He showed me the way'?",
+      "options": [
+        "The way was shown to me by him.",
+        "The way is shown to me by him.",
+        "The way has been shown to me by him.",
+        "The way will be shown to me by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She sent me an email'?",
+      "options": [
+        "An email was sent to me by her.",
+        "An email is sent to me by her.",
+        "An email has been sent to me by her.",
+        "An email will be sent to me by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'They offered him a job'?",
+      "options": [
+        "A job was offered to him by them.",
+        "A job is offered to him by them.",
+        "A job has been offered to him by them.",
+        "A job will be offered to him by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She gave me a book'?",
+      "options": [
+        "A book was given to me by her.",
+        "A book is given to me by her.",
+        "A book has been given to me by her.",
+        "A book will be given to me by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He teaches us math'?",
+      "options": [
+        "Math is taught to us by him.",
+        "Math was taught to us by him.",
+        "Math has been taught to us by him.",
+        "Math will be taught to us by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'They showed us the museum'?",
+      "options": [
+        "The museum was shown to us by them.",
+        "The museum is shown to us by them.",
+        "The museum has been shown to us by them.",
+        "The museum will be shown to us by them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She will give me a call'?",
+      "options": [
+        "A call will be given to me by her.",
+        "A call is given to me by her.",
+        "A call was given to me by her.",
+        "A call has been given to me by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He will send me a letter'?",
+      "options": [
+        "A letter will be sent to me by him.",
+        "A letter is sent to me by him.",
+        "A letter was sent to me by him.",
+        "A letter has been sent to me by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'She will have given me a gift'?",
+      "options": [
+        "A gift will have been given to me by her.",
+        "A gift will be given to me by her.",
+        "A gift has been given to me by her.",
+        "A gift was given to me by her."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the passive voice of 'He will have shown me the way'?",
+      "options": [
+        "The way will have been shown to me by him.",
+        "The way will be shown to me by him.",
+        "The way has been shown to me by him.",
+        "The way was shown to me by him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'English is taught by her'?",
+      "options": [
+        "She teaches English.",
+        "She taught English.",
+        "She has taught English.",
+        "She will teach English."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A gift was given to me by him'?",
+      "options": [
+        "He gave me a gift.",
+        "He gives me a gift.",
+        "He has given me a gift.",
+        "He will give me a gift."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A story was told to us by her'?",
+      "options": [
+        "She told us a story.",
+        "She tells us a story.",
+        "She has told us a story.",
+        "She will tell us a story."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'The way was shown to me by him'?",
+      "options": [
+        "He showed me the way.",
+        "He shows me the way.",
+        "He has shown me the way.",
+        "He will show me the way."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'An email was sent to me by her'?",
+      "options": [
+        "She sent me an email.",
+        "She sends me an email.",
+        "She has sent me an email.",
+        "She will send me an email."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A job was offered to him by them'?",
+      "options": [
+        "They offered him a job.",
+        "They offer him a job.",
+        "They have offered him a job.",
+        "They will offer him a job."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'Math is taught to us by him'?",
+      "options": [
+        "He teaches us math.",
+        "He taught us math.",
+        "He has taught us math.",
+        "He will teach us math."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A book was given to me by her'?",
+      "options": [
+        "She gave me a book.",
+        "She gives me a book.",
+        "She has given me a book.",
+        "She will give me a book."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'The museum was shown to us by them'?",
+      "options": [
+        "They showed us the museum.",
+        "They show us the museum.",
+        "They have shown us the museum.",
+        "They will show us the museum."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A call will be given to me by her'?",
+      "options": [
+        "She will give me a call.",
+        "She gives me a call.",
+        "She gave me a call.",
+        "She has given me a call."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the active voice of 'A letter will be sent to me by him'?",
+      "options": [
+        "He will send me a letter.",
+        "He sends me a letter.",
+        "He sent me a letter.",
+        "He has sent me a letter."
+      ],
+      "answer": 0
+    }
+  ]
+}

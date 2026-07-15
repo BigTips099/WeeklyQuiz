@@ -1,0 +1,1396 @@
+{
+  "category": "Direct & Indirect Speech",
+  "totalQuestions": 150,
+  "questions": [
+    {
+      "question": "What is Direct Speech?",
+      "options": [
+        "Reporting someone's words exactly as spoken",
+        "Reporting someone's words in your own words",
+        "Reporting someone's thoughts",
+        "Reporting someone's actions"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is Indirect Speech?",
+      "options": [
+        "Reporting someone's words exactly as spoken",
+        "Reporting someone's words in your own words",
+        "Reporting someone's thoughts",
+        "Reporting someone's actions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Direct Speech, the exact words of the speaker are enclosed in:",
+      "options": [
+        "Brackets",
+        "Inverted commas",
+        "Parentheses",
+        "Hyphens"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When converting Direct to Indirect Speech, the tense usually changes to:",
+      "options": [
+        "Present",
+        "Past",
+        "Future",
+        "Same tense"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In Indirect Speech, the reporting verb is usually in:",
+      "options": [
+        "Present tense",
+        "Past tense",
+        "Future tense",
+        "Present perfect tense"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When the reporting verb is in the past tense, the tense in the reported speech changes to:",
+      "options": [
+        "Present",
+        "Past",
+        "Future",
+        "Same tense"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am happy.'",
+      "options": [
+        "She said that she is happy.",
+        "She said that she was happy.",
+        "She said that she will be happy.",
+        "She said that she has been happy."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I work hard.'",
+      "options": [
+        "He said that he works hard.",
+        "He said that he worked hard.",
+        "He said that he will work hard.",
+        "He said that he has worked hard."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am reading a book.'",
+      "options": [
+        "She said that she is reading a book.",
+        "She said that she was reading a book.",
+        "She said that she will read a book.",
+        "She said that she has read a book."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I have finished my work.'",
+      "options": [
+        "He said that he has finished his work.",
+        "He said that he had finished his work.",
+        "He said that he will finish his work.",
+        "He said that he finishes his work."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I wrote a letter.'",
+      "options": [
+        "She said that she writes a letter.",
+        "She said that she wrote a letter.",
+        "She said that she had written a letter.",
+        "She said that she will write a letter."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Change to Indirect: He said, 'I was sleeping.'",
+      "options": [
+        "He said that he is sleeping.",
+        "He said that he was sleeping.",
+        "He said that he had been sleeping.",
+        "He said that he will be sleeping."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Change to Indirect: She said, 'I had finished my work.'",
+      "options": [
+        "She said that she has finished her work.",
+        "She said that she had finished her work.",
+        "She said that she had had finished her work.",
+        "She said that she will finish her work."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I will help you.'",
+      "options": [
+        "He said that he will help me.",
+        "He said that he would help me.",
+        "He said that he helps me.",
+        "He said that he helped me."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I can swim.'",
+      "options": [
+        "She said that she can swim.",
+        "She said that she could swim.",
+        "She said that she will swim.",
+        "She said that she swims."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I may come.'",
+      "options": [
+        "He said that he may come.",
+        "He said that he might come.",
+        "He said that he will come.",
+        "He said that he comes."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I must go.'",
+      "options": [
+        "She said that she must go.",
+        "She said that she had to go.",
+        "She said that she will go.",
+        "She said that she goes."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I shall help you.'",
+      "options": [
+        "He said that he shall help me.",
+        "He said that he should help me.",
+        "He said that he will help me.",
+        "He said that he helps me."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am going to school.'",
+      "options": [
+        "She said that she is going to school.",
+        "She said that she was going to school.",
+        "She said that she will go to school.",
+        "She said that she goes to school."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I have been working.'",
+      "options": [
+        "He said that he has been working.",
+        "He said that he had been working.",
+        "He said that he will be working.",
+        "He said that he works."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Direct: She said that she was happy.",
+      "options": [
+        "She said, 'I am happy.'",
+        "She said, 'I was happy.'",
+        "She said, 'I will be happy.'",
+        "She said, 'I have been happy.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he worked hard.",
+      "options": [
+        "He said, 'I work hard.'",
+        "He said, 'I worked hard.'",
+        "He said, 'I will work hard.'",
+        "He said, 'I have worked hard.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she was reading a book.",
+      "options": [
+        "She said, 'I am reading a book.'",
+        "She said, 'I was reading a book.'",
+        "She said, 'I will read a book.'",
+        "She said, 'I have read a book.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he had finished his work.",
+      "options": [
+        "He said, 'I have finished my work.'",
+        "He said, 'I had finished my work.'",
+        "He said, 'I will finish my work.'",
+        "He said, 'I finish my work.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she had written a letter.",
+      "options": [
+        "She said, 'I wrote a letter.'",
+        "She said, 'I had written a letter.'",
+        "She said, 'I write a letter.'",
+        "She said, 'I will write a letter.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he had been sleeping.",
+      "options": [
+        "He said, 'I was sleeping.'",
+        "He said, 'I had been sleeping.'",
+        "He said, 'I sleep.'",
+        "He said, 'I will sleep.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she would help me.",
+      "options": [
+        "She said, 'I will help you.'",
+        "She said, 'I would help you.'",
+        "She said, 'I help you.'",
+        "She said, 'I helped you.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he could swim.",
+      "options": [
+        "He said, 'I can swim.'",
+        "He said, 'I could swim.'",
+        "He said, 'I will swim.'",
+        "He said, 'I swim.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she might come.",
+      "options": [
+        "She said, 'I may come.'",
+        "She said, 'I might come.'",
+        "She said, 'I will come.'",
+        "She said, 'I come.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he had to go.",
+      "options": [
+        "He said, 'I must go.'",
+        "He said, 'I had to go.'",
+        "He said, 'I will go.'",
+        "He said, 'I go.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I am a teacher.'",
+      "options": [
+        "He said that he is a teacher.",
+        "He said that he was a teacher.",
+        "He said that he will be a teacher.",
+        "He said that he has been a teacher."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I live in London.'",
+      "options": [
+        "She said that she lives in London.",
+        "She said that she lived in London.",
+        "She said that she will live in London.",
+        "She said that she has lived in London."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I am working hard.'",
+      "options": [
+        "He said that he is working hard.",
+        "He said that he was working hard.",
+        "He said that he will work hard.",
+        "He said that he has worked hard."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I have seen the movie.'",
+      "options": [
+        "She said that she has seen the movie.",
+        "She said that she had seen the movie.",
+        "She said that she will see the movie.",
+        "She said that she sees the movie."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I went to the market.'",
+      "options": [
+        "He said that he goes to the market.",
+        "He said that he went to the market.",
+        "He said that he had gone to the market.",
+        "He said that he will go to the market."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Change to Indirect: She said, 'I was watching TV.'",
+      "options": [
+        "She said that she is watching TV.",
+        "She said that she was watching TV.",
+        "She said that she had been watching TV.",
+        "She said that she will watch TV."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Change to Indirect: He said, 'I had already eaten.'",
+      "options": [
+        "He said that he has already eaten.",
+        "He said that he had already eaten.",
+        "He said that he will eat.",
+        "He said that he eats."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I will call you.'",
+      "options": [
+        "She said that she will call me.",
+        "She said that she would call me.",
+        "She said that she calls me.",
+        "She said that she called me."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I can solve this problem.'",
+      "options": [
+        "He said that he can solve this problem.",
+        "He said that he could solve that problem.",
+        "He said that he will solve this problem.",
+        "He said that he solves this problem."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I may visit you.'",
+      "options": [
+        "She said that she may visit me.",
+        "She said that she might visit me.",
+        "She said that she will visit me.",
+        "She said that she visits me."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I must finish this work.'",
+      "options": [
+        "He said that he must finish this work.",
+        "He said that he had to finish that work.",
+        "He said that he will finish this work.",
+        "He said that he finishes this work."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I shall help you.'",
+      "options": [
+        "She said that she shall help me.",
+        "She said that she should help me.",
+        "She said that she will help me.",
+        "She said that she helps me."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I am going to the park.'",
+      "options": [
+        "He said that he is going to the park.",
+        "He said that he was going to the park.",
+        "He said that he will go to the park.",
+        "He said that he goes to the park."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I have been studying for two hours.'",
+      "options": [
+        "She said that she has been studying for two hours.",
+        "She said that she had been studying for two hours.",
+        "She said that she will study for two hours.",
+        "She said that she studies for two hours."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: He said, 'I will have finished the work by tomorrow.'",
+      "options": [
+        "He said that he will have finished the work by tomorrow.",
+        "He said that he would have finished the work by the next day.",
+        "He said that he finishes the work by tomorrow.",
+        "He said that he finished the work by tomorrow."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Indirect: She said, 'I had been waiting for an hour.'",
+      "options": [
+        "She said that she has been waiting for an hour.",
+        "She said that she had been waiting for an hour.",
+        "She said that she will wait for an hour.",
+        "She said that she waits for an hour."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Change to Direct: He said that he was a teacher.",
+      "options": [
+        "He said, 'I am a teacher.'",
+        "He said, 'I was a teacher.'",
+        "He said, 'I will be a teacher.'",
+        "He said, 'I have been a teacher.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she lived in London.",
+      "options": [
+        "She said, 'I live in London.'",
+        "She said, 'I lived in London.'",
+        "She said, 'I will live in London.'",
+        "She said, 'I have lived in London.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he was working hard.",
+      "options": [
+        "He said, 'I am working hard.'",
+        "He said, 'I was working hard.'",
+        "He said, 'I will work hard.'",
+        "He said, 'I have worked hard.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she had seen the movie.",
+      "options": [
+        "She said, 'I have seen the movie.'",
+        "She said, 'I had seen the movie.'",
+        "She said, 'I will see the movie.'",
+        "She said, 'I see the movie.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he had gone to the market.",
+      "options": [
+        "He said, 'I went to the market.'",
+        "He said, 'I had gone to the market.'",
+        "He said, 'I go to the market.'",
+        "He said, 'I will go to the market.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she had been watching TV.",
+      "options": [
+        "She said, 'I was watching TV.'",
+        "She said, 'I had been watching TV.'",
+        "She said, 'I watch TV.'",
+        "She said, 'I will watch TV.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he would call me.",
+      "options": [
+        "He said, 'I will call you.'",
+        "He said, 'I would call you.'",
+        "He said, 'I call you.'",
+        "He said, 'I called you.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she could solve that problem.",
+      "options": [
+        "She said, 'I can solve this problem.'",
+        "She said, 'I could solve this problem.'",
+        "She said, 'I will solve this problem.'",
+        "She said, 'I solve this problem.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he might visit me.",
+      "options": [
+        "He said, 'I may visit you.'",
+        "He said, 'I might visit you.'",
+        "He said, 'I will visit you.'",
+        "He said, 'I visit you.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she had to finish that work.",
+      "options": [
+        "She said, 'I must finish this work.'",
+        "She said, 'I had to finish this work.'",
+        "She said, 'I will finish this work.'",
+        "She said, 'I finish this work.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he should help me.",
+      "options": [
+        "He said, 'I shall help you.'",
+        "He said, 'I should help you.'",
+        "He said, 'I will help you.'",
+        "He said, 'I help you.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she had been studying for two hours.",
+      "options": [
+        "She said, 'I have been studying for two hours.'",
+        "She said, 'I had been studying for two hours.'",
+        "She said, 'I will study for two hours.'",
+        "She said, 'I study for two hours.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he would have finished the work by the next day.",
+      "options": [
+        "He said, 'I will have finished the work by tomorrow.'",
+        "He said, 'I would have finished the work by tomorrow.'",
+        "He said, 'I finish the work by tomorrow.'",
+        "He said, 'I finished the work by tomorrow.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'Please help me.'",
+      "options": [
+        "He requested me to help him.",
+        "He said to help him.",
+        "He told me to help him.",
+        "He asked me help him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'Please open the door.'",
+      "options": [
+        "She requested me to open the door.",
+        "She said to open the door.",
+        "She told me to open the door.",
+        "She asked me open the door."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'Go away.'",
+      "options": [
+        "He told me to go away.",
+        "He said to go away.",
+        "He requested me to go away.",
+        "He asked me go away."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'Sit down.'",
+      "options": [
+        "She told me to sit down.",
+        "She said to sit down.",
+        "She requested me to sit down.",
+        "She asked me sit down."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'Don't touch that.'",
+      "options": [
+        "He told me not to touch that.",
+        "He said not to touch that.",
+        "He requested me not to touch that.",
+        "He asked me not to touch that."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'Don't make noise.'",
+      "options": [
+        "She told me not to make noise.",
+        "She said not to make noise.",
+        "She requested me not to make noise.",
+        "She asked me not to make noise."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He requested me to help him.",
+      "options": [
+        "He said, 'Please help me.'",
+        "He said, 'Help me.'",
+        "He said, 'I need help.'",
+        "He said, 'Can you help me?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She requested me to open the door.",
+      "options": [
+        "She said, 'Please open the door.'",
+        "She said, 'Open the door.'",
+        "She said, 'Can you open the door?'",
+        "She said, 'I need the door open.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He told me to go away.",
+      "options": [
+        "He said, 'Go away.'",
+        "He said, 'Please go away.'",
+        "He said, 'You should go away.'",
+        "He said, 'I want you to go away.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She told me to sit down.",
+      "options": [
+        "She said, 'Sit down.'",
+        "She said, 'Please sit down.'",
+        "She said, 'You should sit down.'",
+        "She said, 'I want you to sit down.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He told me not to touch that.",
+      "options": [
+        "He said, 'Don't touch that.'",
+        "He said, 'Please don't touch that.'",
+        "He said, 'You shouldn't touch that.'",
+        "He said, 'I don't want you to touch that.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She told me not to make noise.",
+      "options": [
+        "She said, 'Don't make noise.'",
+        "She said, 'Please don't make noise.'",
+        "She said, 'You shouldn't make noise.'",
+        "She said, 'I don't want you to make noise.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'What is your name?'",
+      "options": [
+        "He asked what my name was.",
+        "He asked what is my name.",
+        "He said what my name was.",
+        "He asked what was my name."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'Where do you live?'",
+      "options": [
+        "She asked where I lived.",
+        "She asked where do I live.",
+        "She said where I lived.",
+        "She asked where I live."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'Why are you late?'",
+      "options": [
+        "He asked why I was late.",
+        "He asked why am I late.",
+        "He said why I was late.",
+        "He asked why I am late."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'How are you?'",
+      "options": [
+        "She asked how I was.",
+        "She asked how am I.",
+        "She said how I was.",
+        "She asked how I am."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'When will you come?'",
+      "options": [
+        "He asked when I would come.",
+        "He asked when will I come.",
+        "He said when I would come.",
+        "He asked when I come."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'Who is that man?'",
+      "options": [
+        "She asked who that man was.",
+        "She asked who is that man.",
+        "She said who that man was.",
+        "She asked who that man is."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He asked what my name was.",
+      "options": [
+        "He said, 'What is your name?'",
+        "He said, 'What was your name?'",
+        "He said, 'What is my name?'",
+        "He said, 'What was my name?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She asked where I lived.",
+      "options": [
+        "She said, 'Where do you live?'",
+        "She said, 'Where did you live?'",
+        "She said, 'Where do I live?'",
+        "She said, 'Where did I live?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He asked why I was late.",
+      "options": [
+        "He said, 'Why are you late?'",
+        "He said, 'Why were you late?'",
+        "He said, 'Why am I late?'",
+        "He said, 'Why was I late?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She asked how I was.",
+      "options": [
+        "She said, 'How are you?'",
+        "She said, 'How were you?'",
+        "She said, 'How am I?'",
+        "She said, 'How was I?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He asked when I would come.",
+      "options": [
+        "He said, 'When will you come?'",
+        "He said, 'When would you come?'",
+        "He said, 'When will I come?'",
+        "He said, 'When would I come?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She asked who that man was.",
+      "options": [
+        "She said, 'Who is that man?'",
+        "She said, 'Who was that man?'",
+        "She said, 'Who is this man?'",
+        "She said, 'Who was this man?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'Can you help me?'",
+      "options": [
+        "He asked if I could help him.",
+        "He asked if I can help him.",
+        "He said if I could help him.",
+        "He asked can I help him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'Do you like coffee?'",
+      "options": [
+        "She asked if I liked coffee.",
+        "She asked if I like coffee.",
+        "She said if I liked coffee.",
+        "She asked do I like coffee."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'Are you coming with us?'",
+      "options": [
+        "He asked if I was coming with them.",
+        "He asked if I am coming with them.",
+        "He said if I was coming with them.",
+        "He asked am I coming with them."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'Have you finished your work?'",
+      "options": [
+        "She asked if I had finished my work.",
+        "She asked if I have finished my work.",
+        "She said if I had finished my work.",
+        "She asked have I finished my work."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'Will you come to the party?'",
+      "options": [
+        "He asked if I would come to the party.",
+        "He asked if I will come to the party.",
+        "He said if I would come to the party.",
+        "He asked will I come to the party."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He asked if I could help him.",
+      "options": [
+        "He said, 'Can you help me?'",
+        "He said, 'Could you help me?'",
+        "He said, 'Can I help you?'",
+        "He said, 'Could I help you?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She asked if I liked coffee.",
+      "options": [
+        "She said, 'Do you like coffee?'",
+        "She said, 'Did you like coffee?'",
+        "She said, 'Do I like coffee?'",
+        "She said, 'Did I like coffee?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He asked if I was coming with them.",
+      "options": [
+        "He said, 'Are you coming with us?'",
+        "He said, 'Were you coming with us?'",
+        "He said, 'Am I coming with you?'",
+        "He said, 'Was I coming with you?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She asked if I had finished my work.",
+      "options": [
+        "She said, 'Have you finished your work?'",
+        "She said, 'Had you finished your work?'",
+        "She said, 'Have I finished my work?'",
+        "She said, 'Had I finished my work?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He asked if I would come to the party.",
+      "options": [
+        "He said, 'Will you come to the party?'",
+        "He said, 'Would you come to the party?'",
+        "He said, 'Will I come to the party?'",
+        "He said, 'Would I come to the party?'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am going to the market.'",
+      "options": [
+        "She said that she was going to the market.",
+        "She said that she is going to the market.",
+        "She said that she will go to the market.",
+        "She said that she goes to the market."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I have already eaten.'",
+      "options": [
+        "He said that he had already eaten.",
+        "He said that he has already eaten.",
+        "He said that he will eat.",
+        "He said that he eats."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I will visit you tomorrow.'",
+      "options": [
+        "She said that she would visit me the next day.",
+        "She said that she will visit me tomorrow.",
+        "She said that she would visit me tomorrow.",
+        "She said that she visits me the next day."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I saw the movie yesterday.'",
+      "options": [
+        "He said that he had seen the movie the previous day.",
+        "He said that he saw the movie yesterday.",
+        "He said that he had seen the movie yesterday.",
+        "He said that he sees the movie the previous day."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am feeling tired today.'",
+      "options": [
+        "She said that she was feeling tired that day.",
+        "She said that she is feeling tired today.",
+        "She said that she was feeling tired today.",
+        "She said that she feels tired that day."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I will be here tomorrow.'",
+      "options": [
+        "He said that he would be there the next day.",
+        "He said that he will be here tomorrow.",
+        "He said that he would be here tomorrow.",
+        "He said that he is there the next day."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she was going to the market.",
+      "options": [
+        "She said, 'I am going to the market.'",
+        "She said, 'I was going to the market.'",
+        "She said, 'I will go to the market.'",
+        "She said, 'I go to the market.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he had already eaten.",
+      "options": [
+        "He said, 'I have already eaten.'",
+        "He said, 'I had already eaten.'",
+        "He said, 'I will eat.'",
+        "He said, 'I eat.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she would visit me the next day.",
+      "options": [
+        "She said, 'I will visit you tomorrow.'",
+        "She said, 'I would visit you tomorrow.'",
+        "She said, 'I will visit you the next day.'",
+        "She said, 'I visit you tomorrow.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he had seen the movie the previous day.",
+      "options": [
+        "He said, 'I saw the movie yesterday.'",
+        "He said, 'I had seen the movie yesterday.'",
+        "He said, 'I see the movie yesterday.'",
+        "He said, 'I saw the movie the previous day.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: She said that she was feeling tired that day.",
+      "options": [
+        "She said, 'I am feeling tired today.'",
+        "She said, 'I was feeling tired today.'",
+        "She said, 'I feel tired today.'",
+        "She said, 'I am feeling tired that day.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Direct: He said that he would be there the next day.",
+      "options": [
+        "He said, 'I will be here tomorrow.'",
+        "He said, 'I would be here tomorrow.'",
+        "He said, 'I will be there tomorrow.'",
+        "He said, 'I am here tomorrow.'"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I am not feeling well.'",
+      "options": [
+        "He said that he was not feeling well.",
+        "He said that he is not feeling well.",
+        "He said that he will not feel well.",
+        "He said that he does not feel well."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I don't like this movie.'",
+      "options": [
+        "She said that she didn't like that movie.",
+        "She said that she doesn't like this movie.",
+        "She said that she doesn't like that movie.",
+        "She said that she didn't like this movie."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I haven't seen him.'",
+      "options": [
+        "He said that he hadn't seen him.",
+        "He said that he hasn't seen him.",
+        "He said that he didn't see him.",
+        "He said that he doesn't see him."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am not going to the party.'",
+      "options": [
+        "She said that she was not going to the party.",
+        "She said that she is not going to the party.",
+        "She said that she will not go to the party.",
+        "She said that she doesn't go to the party."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I don't want to go there.'",
+      "options": [
+        "He said that he didn't want to go there.",
+        "He said that he doesn't want to go there.",
+        "He said that he won't want to go there.",
+        "He said that he wouldn't want to go there."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I haven't finished my homework.'",
+      "options": [
+        "She said that she hadn't finished her homework.",
+        "She said that she hasn't finished her homework.",
+        "She said that she didn't finish her homework.",
+        "She said that she doesn't finish her homework."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I am not coming with you.'",
+      "options": [
+        "He said that he was not coming with me.",
+        "He said that he is not coming with me.",
+        "He said that he will not come with me.",
+        "He said that he doesn't come with me."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I didn't like the food.'",
+      "options": [
+        "She said that she hadn't liked the food.",
+        "She said that she didn't like the food.",
+        "She said that she doesn't like the food.",
+        "She said that she won't like the food."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I haven't met her before.'",
+      "options": [
+        "He said that he hadn't met her before.",
+        "He said that he hasn't met her before.",
+        "He said that he didn't meet her before.",
+        "He said that he doesn't meet her before."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am not feeling well today.'",
+      "options": [
+        "She said that she was not feeling well that day.",
+        "She said that she is not feeling well today.",
+        "She said that she will not feel well today.",
+        "She said that she doesn't feel well that day."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I didn't see her yesterday.'",
+      "options": [
+        "He said that he hadn't seen her the previous day.",
+        "He said that he didn't see her yesterday.",
+        "He said that he doesn't see her yesterday.",
+        "He said that he won't see her yesterday."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am not going to the office tomorrow.'",
+      "options": [
+        "She said that she was not going to the office the next day.",
+        "She said that she is not going to the office tomorrow.",
+        "She said that she will not go to the office tomorrow.",
+        "She said that she doesn't go to the office the next day."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I haven't heard the news.'",
+      "options": [
+        "He said that he hadn't heard the news.",
+        "He said that he hasn't heard the news.",
+        "He said that he didn't hear the news.",
+        "He said that he doesn't hear the news."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am not interested in this book.'",
+      "options": [
+        "She said that she was not interested in that book.",
+        "She said that she is not interested in this book.",
+        "She said that she will not be interested in this book.",
+        "She said that she doesn't interested in that book."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I don't know the answer.'",
+      "options": [
+        "He said that he didn't know the answer.",
+        "He said that he doesn't know the answer.",
+        "He said that he won't know the answer.",
+        "He said that he wouldn't know the answer."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I haven't seen that movie.'",
+      "options": [
+        "She said that she hadn't seen that movie.",
+        "She said that she hasn't seen that movie.",
+        "She said that she didn't see that movie.",
+        "She said that she doesn't see that movie."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I am not going to the meeting.'",
+      "options": [
+        "He said that he was not going to the meeting.",
+        "He said that he is not going to the meeting.",
+        "He said that he will not go to the meeting.",
+        "He said that he doesn't go to the meeting."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I didn't like the movie.'",
+      "options": [
+        "She said that she hadn't liked the movie.",
+        "She said that she didn't like the movie.",
+        "She said that she doesn't like the movie.",
+        "She said that she won't like the movie."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I haven't received the email.'",
+      "options": [
+        "He said that he hadn't received the email.",
+        "He said that he hasn't received the email.",
+        "He said that he didn't receive the email.",
+        "He said that he doesn't receive the email."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am not feeling well today.'",
+      "options": [
+        "She said that she was not feeling well that day.",
+        "She said that she is not feeling well today.",
+        "She said that she will not feel well today.",
+        "She said that she doesn't feel well that day."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I don't want to go to the party.'",
+      "options": [
+        "He said that he didn't want to go to the party.",
+        "He said that he doesn't want to go to the party.",
+        "He said that he won't want to go to the party.",
+        "He said that he wouldn't want to go to the party."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I haven't seen you for a long time.'",
+      "options": [
+        "She said that she hadn't seen me for a long time.",
+        "She said that she hasn't seen me for a long time.",
+        "She said that she didn't see me for a long time.",
+        "She said that she doesn't see me for a long time."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I am not going to the market today.'",
+      "options": [
+        "He said that he was not going to the market that day.",
+        "He said that he is not going to the market today.",
+        "He said that he will not go to the market today.",
+        "He said that he doesn't go to the market that day."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I don't like spicy food.'",
+      "options": [
+        "She said that she didn't like spicy food.",
+        "She said that she doesn't like spicy food.",
+        "She said that she won't like spicy food.",
+        "She said that she wouldn't like spicy food."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I haven't finished my assignment yet.'",
+      "options": [
+        "He said that he hadn't finished his assignment yet.",
+        "He said that he hasn't finished his assignment yet.",
+        "He said that he didn't finish his assignment yet.",
+        "He said that he doesn't finish his assignment yet."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am not interested in politics.'",
+      "options": [
+        "She said that she was not interested in politics.",
+        "She said that she is not interested in politics.",
+        "She said that she will not be interested in politics.",
+        "She said that she doesn't interested in politics."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I didn't understand the lesson.'",
+      "options": [
+        "He said that he hadn't understood the lesson.",
+        "He said that he didn't understand the lesson.",
+        "He said that he doesn't understand the lesson.",
+        "He said that he won't understand the lesson."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I haven't visited my grandparents for a year.'",
+      "options": [
+        "She said that she hadn't visited her grandparents for a year.",
+        "She said that she hasn't visited her grandparents for a year.",
+        "She said that she didn't visit her grandparents for a year.",
+        "She said that she doesn't visit her grandparents for a year."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I am not going to quit my job.'",
+      "options": [
+        "He said that he was not going to quit his job.",
+        "He said that he is not going to quit his job.",
+        "He said that he will not quit his job.",
+        "He said that he doesn't quit his job."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I don't think it's a good idea.'",
+      "options": [
+        "She said that she didn't think it was a good idea.",
+        "She said that she doesn't think it's a good idea.",
+        "She said that she won't think it's a good idea.",
+        "She said that she wouldn't think it's a good idea."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I haven't seen him for a long time.'",
+      "options": [
+        "He said that he hadn't seen him for a long time.",
+        "He said that he hasn't seen him for a long time.",
+        "He said that he didn't see him for a long time.",
+        "He said that he doesn't see him for a long time."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I am not going to the cinema tonight.'",
+      "options": [
+        "She said that she was not going to the cinema that night.",
+        "She said that she is not going to the cinema tonight.",
+        "She said that she will not go to the cinema tonight.",
+        "She said that she doesn't go to the cinema tonight."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: He said, 'I don't know where she lives.'",
+      "options": [
+        "He said that he didn't know where she lived.",
+        "He said that he doesn't know where she lives.",
+        "He said that he won't know where she lives.",
+        "He said that he wouldn't know where she lived."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Change to Indirect: She said, 'I haven't heard from him recently.'",
+      "options": [
+        "She said that she hadn't heard from him recently.",
+        "She said that she hasn't heard from him recently.",
+        "She said that she didn't hear from him recently.",
+        "She said that she doesn't hear from him recently."
+      ],
+      "answer": 0
+    }
+  ]
+}

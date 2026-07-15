@@ -1,0 +1,1836 @@
+{
+  "category": "Grammar (Parts of Speech)",
+  "totalQuestions": 200,
+  "questions": [
+    {
+      "question": "How many parts of speech are there in English?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a noun?",
+      "options": [
+        "A word that shows action",
+        "A word that names a person, place, thing, or idea",
+        "A word that describes a noun",
+        "A word that connects clauses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a noun?",
+      "options": [
+        "Run",
+        "Beautiful",
+        "Book",
+        "Quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a proper noun?",
+      "options": [
+        "A general name for a person, place, or thing",
+        "A specific name for a person, place, or thing",
+        "A word that shows action",
+        "A word that describes a noun"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a proper noun?",
+      "options": [
+        "City",
+        "Country",
+        "London",
+        "River"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a common noun?",
+      "options": [
+        "A specific name for a person, place, or thing",
+        "A general name for a person, place, or thing",
+        "A word that shows action",
+        "A word that describes a noun"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a common noun?",
+      "options": [
+        "Ali",
+        "Pakistan",
+        "City",
+        "Monday"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is an abstract noun?",
+      "options": [
+        "A noun that can be seen or touched",
+        "A noun that names an idea, feeling, or quality",
+        "A noun that names a person",
+        "A noun that names a place"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an abstract noun?",
+      "options": [
+        "Table",
+        "Book",
+        "Love",
+        "House"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a collective noun?",
+      "options": [
+        "A noun that names a group of people or things",
+        "A noun that names a single person",
+        "A noun that names an idea",
+        "A noun that names a place"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a collective noun?",
+      "options": [
+        "Team",
+        "Book",
+        "Love",
+        "London"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a pronoun?",
+      "options": [
+        "A word that names a person",
+        "A word that takes the place of a noun",
+        "A word that shows action",
+        "A word that describes a noun"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a pronoun?",
+      "options": [
+        "Ali",
+        "He",
+        "Run",
+        "Beautiful"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a personal pronoun?",
+      "options": [
+        "A pronoun that refers to a specific person or thing",
+        "A pronoun that shows ownership",
+        "A pronoun that refers to oneself",
+        "A pronoun that asks a question"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a personal pronoun?",
+      "options": [
+        "This",
+        "That",
+        "He",
+        "Who"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a possessive pronoun?",
+      "options": [
+        "A pronoun that shows ownership",
+        "A pronoun that refers to a specific person",
+        "A pronoun that asks a question",
+        "A pronoun that refers to oneself"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a possessive pronoun?",
+      "options": [
+        "He",
+        "She",
+        "Mine",
+        "Who"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a reflexive pronoun?",
+      "options": [
+        "A pronoun that shows ownership",
+        "A pronoun that refers back to the subject",
+        "A pronoun that asks a question",
+        "A pronoun that refers to a specific person"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a reflexive pronoun?",
+      "options": [
+        "He",
+        "Mine",
+        "Myself",
+        "Who"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a demonstrative pronoun?",
+      "options": [
+        "A pronoun that shows ownership",
+        "A pronoun that points to a specific thing",
+        "A pronoun that asks a question",
+        "A pronoun that refers to oneself"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a demonstrative pronoun?",
+      "options": [
+        "He",
+        "Mine",
+        "This",
+        "Who"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is an interrogative pronoun?",
+      "options": [
+        "A pronoun that shows ownership",
+        "A pronoun that points to a specific thing",
+        "A pronoun that asks a question",
+        "A pronoun that refers to oneself"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an interrogative pronoun?",
+      "options": [
+        "He",
+        "Mine",
+        "Who",
+        "This"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a relative pronoun?",
+      "options": [
+        "A pronoun that shows ownership",
+        "A pronoun that connects a clause to a noun",
+        "A pronoun that asks a question",
+        "A pronoun that points to a specific thing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a relative pronoun?",
+      "options": [
+        "He",
+        "Who",
+        "Mine",
+        "This"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an indefinite pronoun?",
+      "options": [
+        "A pronoun that refers to a specific person",
+        "A pronoun that refers to a non-specific person or thing",
+        "A pronoun that shows ownership",
+        "A pronoun that asks a question"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an indefinite pronoun?",
+      "options": [
+        "He",
+        "She",
+        "Everyone",
+        "Who"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a verb?",
+      "options": [
+        "A word that names a person",
+        "A word that shows action or state of being",
+        "A word that describes a noun",
+        "A word that connects clauses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a verb?",
+      "options": [
+        "Beautiful",
+        "Run",
+        "Book",
+        "Quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an action verb?",
+      "options": [
+        "A verb that shows physical or mental action",
+        "A verb that connects the subject to a complement",
+        "A verb that helps the main verb",
+        "A verb that shows state of being"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an action verb?",
+      "options": [
+        "Is",
+        "Run",
+        "Seems",
+        "Become"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a linking verb?",
+      "options": [
+        "A verb that shows action",
+        "A verb that connects the subject to a complement",
+        "A verb that helps the main verb",
+        "A verb that shows state of being"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a linking verb?",
+      "options": [
+        "Run",
+        "Is",
+        "Jump",
+        "Walk"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a helping verb?",
+      "options": [
+        "A verb that shows action",
+        "A verb that connects the subject to a complement",
+        "A verb that helps the main verb form a tense",
+        "A verb that shows state of being"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a helping verb?",
+      "options": [
+        "Run",
+        "Is",
+        "Has",
+        "Jump"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a transitive verb?",
+      "options": [
+        "A verb that takes a direct object",
+        "A verb that does not take a direct object",
+        "A verb that links the subject to a complement",
+        "A verb that helps the main verb"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an intransitive verb?",
+      "options": [
+        "A verb that takes a direct object",
+        "A verb that does not take a direct object",
+        "A verb that links the subject to a complement",
+        "A verb that helps the main verb"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an adjective?",
+      "options": [
+        "A word that names a person",
+        "A word that describes a noun or pronoun",
+        "A word that shows action",
+        "A word that connects clauses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an adjective?",
+      "options": [
+        "Run",
+        "Beautiful",
+        "Book",
+        "Quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a comparative adjective?",
+      "options": [
+        "An adjective that compares two things",
+        "An adjective that compares three or more things",
+        "An adjective that describes the highest degree",
+        "An adjective that describes the lowest degree"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a superlative adjective?",
+      "options": [
+        "An adjective that compares two things",
+        "An adjective that compares three or more things",
+        "An adjective that describes the highest degree",
+        "An adjective that describes the lowest degree"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an adverb?",
+      "options": [
+        "A word that describes a noun",
+        "A word that modifies a verb, adjective, or another adverb",
+        "A word that shows action",
+        "A word that connects clauses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an adverb?",
+      "options": [
+        "Run",
+        "Beautiful",
+        "Quickly",
+        "Book"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a preposition?",
+      "options": [
+        "A word that shows the relationship between a noun and another word",
+        "A word that describes a noun",
+        "A word that shows action",
+        "A word that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a preposition?",
+      "options": [
+        "And",
+        "In",
+        "But",
+        "Because"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a conjunction?",
+      "options": [
+        "A word that shows the relationship between a noun and another word",
+        "A word that describes a noun",
+        "A word that shows action",
+        "A word that connects words, phrases, or clauses"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a conjunction?",
+      "options": [
+        "In",
+        "On",
+        "And",
+        "Under"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a coordinating conjunction?",
+      "options": [
+        "A conjunction that connects equal parts",
+        "A conjunction that connects unequal parts",
+        "A conjunction that connects subordinate clauses",
+        "A conjunction that shows contrast"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a subordinating conjunction?",
+      "options": [
+        "A conjunction that connects equal parts",
+        "A conjunction that connects unequal parts",
+        "A conjunction that connects words",
+        "A conjunction that shows contrast"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an interjection?",
+      "options": [
+        "A word that shows strong emotion",
+        "A word that describes a noun",
+        "A word that shows action",
+        "A word that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an interjection?",
+      "options": [
+        "Wow",
+        "Run",
+        "Beautiful",
+        "Book"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a concrete noun?",
+      "options": [
+        "A noun that can be seen or touched",
+        "A noun that names an idea or feeling",
+        "A noun that names a group",
+        "A noun that names a specific person"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a concrete noun?",
+      "options": [
+        "Love",
+        "Table",
+        "Happiness",
+        "Kindness"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a countable noun?",
+      "options": [
+        "A noun that can be counted",
+        "A noun that cannot be counted",
+        "A noun that names a group",
+        "A noun that names an idea"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a countable noun?",
+      "options": [
+        "Water",
+        "Book",
+        "Milk",
+        "Rice"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an uncountable noun?",
+      "options": [
+        "A noun that can be counted",
+        "A noun that cannot be counted",
+        "A noun that names a specific person",
+        "A noun that names a group"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an uncountable noun?",
+      "options": [
+        "Chair",
+        "Water",
+        "Book",
+        "Pen"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a singular noun?",
+      "options": [
+        "A noun that refers to one person, place, or thing",
+        "A noun that refers to more than one person, place, or thing",
+        "A noun that names a group",
+        "A noun that names an idea"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a plural noun?",
+      "options": [
+        "A noun that refers to one person, place, or thing",
+        "A noun that refers to more than one person, place, or thing",
+        "A noun that names a group",
+        "A noun that names an idea"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a singular noun?",
+      "options": [
+        "Books",
+        "Book",
+        "Cats",
+        "Dogs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a plural noun?",
+      "options": [
+        "Book",
+        "Table",
+        "Books",
+        "Chair"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is an objective pronoun?",
+      "options": [
+        "A pronoun that acts as the subject of a verb",
+        "A pronoun that acts as the object of a verb or preposition",
+        "A pronoun that shows ownership",
+        "A pronoun that refers back to the subject"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a subjective pronoun?",
+      "options": [
+        "A pronoun that acts as the subject of a verb",
+        "A pronoun that acts as the object of a verb or preposition",
+        "A pronoun that shows ownership",
+        "A pronoun that refers back to the subject"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a proper adjective?",
+      "options": [
+        "An adjective formed from a proper noun",
+        "An adjective that compares two things",
+        "An adjective that describes the highest degree",
+        "An adjective that describes a quality"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a proper adjective?",
+      "options": [
+        "Beautiful",
+        "British",
+        "Small",
+        "Happy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a demonstrative adjective?",
+      "options": [
+        "An adjective that points to a specific noun",
+        "An adjective that compares two things",
+        "An adjective that shows possession",
+        "An adjective that describes a quality"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a demonstrative adjective?",
+      "options": [
+        "This",
+        "He",
+        "Mine",
+        "Who"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a possessive adjective?",
+      "options": [
+        "An adjective that shows ownership",
+        "An adjective that points to a specific noun",
+        "An adjective that compares two things",
+        "An adjective that describes a quality"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a possessive adjective?",
+      "options": [
+        "This",
+        "My",
+        "He",
+        "Who"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a verb phrase?",
+      "options": [
+        "A main verb plus one or more helping verbs",
+        "A verb that shows action",
+        "A verb that connects the subject to a complement",
+        "A verb that shows state of being"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a finite verb?",
+      "options": [
+        "A verb that shows tense and agrees with the subject",
+        "A verb that does not show tense",
+        "A verb that acts as a noun",
+        "A verb that acts as an adjective"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a non-finite verb?",
+      "options": [
+        "A verb that shows tense and agrees with the subject",
+        "A verb that does not show tense",
+        "A verb that shows action",
+        "A verb that connects the subject to a complement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an infinitive?",
+      "options": [
+        "A verb form that begins with 'to'",
+        "A verb form that ends in '-ing'",
+        "A verb form that ends in '-ed'",
+        "A verb form that shows tense"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a gerund?",
+      "options": [
+        "A verb form that begins with 'to'",
+        "A verb form that ends in '-ing' and acts as a noun",
+        "A verb form that ends in '-ed'",
+        "A verb form that shows tense"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a participle?",
+      "options": [
+        "A verb form that begins with 'to'",
+        "A verb form that ends in '-ing' or '-ed' and acts as an adjective",
+        "A verb form that ends in '-ing' and acts as a noun",
+        "A verb form that shows tense"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a modal verb?",
+      "options": [
+        "A verb that shows possibility, necessity, or ability",
+        "A verb that shows action",
+        "A verb that connects the subject to a complement",
+        "A verb that shows state of being"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a modal verb?",
+      "options": [
+        "Run",
+        "Can",
+        "Jump",
+        "Walk"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a phrasal verb?",
+      "options": [
+        "A verb made up of a verb and a preposition or adverb",
+        "A verb that shows action",
+        "A verb that connects the subject to a complement",
+        "A verb that shows state of being"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a correlative conjunction?",
+      "options": [
+        "A conjunction that connects equal parts",
+        "A conjunction that connects unequal parts",
+        "A pair of conjunctions that work together",
+        "A conjunction that shows contrast"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a simple sentence?",
+      "options": [
+        "A sentence with one independent clause",
+        "A sentence with two independent clauses",
+        "A sentence with one independent clause and one dependent clause",
+        "A sentence with two dependent clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a compound sentence?",
+      "options": [
+        "A sentence with one independent clause",
+        "A sentence with two independent clauses joined by a conjunction",
+        "A sentence with one independent clause and one dependent clause",
+        "A sentence with two dependent clauses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a complex sentence?",
+      "options": [
+        "A sentence with one independent clause",
+        "A sentence with two independent clauses",
+        "A sentence with one independent clause and one dependent clause",
+        "A sentence with two dependent clauses"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a compound-complex sentence?",
+      "options": [
+        "A sentence with one independent clause",
+        "A sentence with two independent clauses",
+        "A sentence with two or more independent clauses and one or more dependent clauses",
+        "A sentence with one independent clause and one dependent clause"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a phrase?",
+      "options": [
+        "A group of words without a subject and verb",
+        "A group of words with a subject and verb",
+        "A sentence",
+        "A clause"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a clause?",
+      "options": [
+        "A group of words without a subject and verb",
+        "A group of words with a subject and verb",
+        "A phrase",
+        "A sentence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an independent clause?",
+      "options": [
+        "A clause that can stand alone as a sentence",
+        "A clause that cannot stand alone as a sentence",
+        "A phrase",
+        "A sentence"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a dependent clause?",
+      "options": [
+        "A clause that can stand alone as a sentence",
+        "A clause that cannot stand alone as a sentence",
+        "A phrase",
+        "A sentence"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the subject of a sentence?",
+      "options": [
+        "The person or thing that performs the action",
+        "The person or thing that receives the action",
+        "The verb",
+        "The object"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the predicate of a sentence?",
+      "options": [
+        "The person or thing that performs the action",
+        "The part of the sentence that contains the verb and tells something about the subject",
+        "The object",
+        "The complement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a direct object?",
+      "options": [
+        "The person or thing that receives the action directly",
+        "The person or thing that receives the action indirectly",
+        "The subject",
+        "The verb"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an indirect object?",
+      "options": [
+        "The person or thing that receives the action directly",
+        "The person or thing that receives the action indirectly",
+        "The subject",
+        "The verb"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a complement?",
+      "options": [
+        "A word that completes the meaning of the subject or verb",
+        "A word that shows action",
+        "A word that describes a noun",
+        "A word that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a subject complement?",
+      "options": [
+        "A complement that follows the subject",
+        "A complement that follows a linking verb and describes the subject",
+        "A complement that follows an action verb",
+        "A complement that completes the meaning of a verb"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an object complement?",
+      "options": [
+        "A complement that follows the subject",
+        "A complement that follows the object and describes it",
+        "A complement that follows a linking verb",
+        "A complement that completes the meaning of a verb"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a prepositional phrase?",
+      "options": [
+        "A phrase that begins with a preposition",
+        "A phrase that begins with a verb",
+        "A phrase that begins with a noun",
+        "A phrase that begins with a conjunction"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a noun phrase?",
+      "options": [
+        "A phrase that acts as a noun",
+        "A phrase that acts as an adjective",
+        "A phrase that acts as an adverb",
+        "A phrase that acts as a verb"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a verb phrase?",
+      "options": [
+        "A phrase that acts as a noun",
+        "A phrase that acts as an adjective",
+        "A phrase that acts as a verb",
+        "A phrase that acts as an adverb"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is an adjective phrase?",
+      "options": [
+        "A phrase that acts as a noun",
+        "A phrase that acts as an adjective",
+        "A phrase that acts as an adverb",
+        "A phrase that acts as a verb"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an adverb phrase?",
+      "options": [
+        "A phrase that acts as a noun",
+        "A phrase that acts as an adjective",
+        "A phrase that acts as an adverb",
+        "A phrase that acts as a verb"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a noun clause?",
+      "options": [
+        "A clause that acts as a noun",
+        "A clause that acts as an adjective",
+        "A clause that acts as an adverb",
+        "A clause that acts as a verb"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an adjective clause?",
+      "options": [
+        "A clause that acts as a noun",
+        "A clause that acts as an adjective",
+        "A clause that acts as an adverb",
+        "A clause that acts as a verb"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an adverb clause?",
+      "options": [
+        "A clause that acts as a noun",
+        "A clause that acts as an adjective",
+        "A clause that acts as an adverb",
+        "A clause that acts as a verb"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a determiner?",
+      "options": [
+        "A word that introduces a noun",
+        "A word that describes a noun",
+        "A word that shows action",
+        "A word that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a determiner?",
+      "options": [
+        "The",
+        "Beautiful",
+        "Run",
+        "And"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an article?",
+      "options": [
+        "A type of determiner",
+        "A type of adjective",
+        "A type of noun",
+        "A type of verb"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an article?",
+      "options": [
+        "The",
+        "Beautiful",
+        "Run",
+        "And"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a definite article?",
+      "options": [
+        "A, an",
+        "The",
+        "Some",
+        "Any"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an indefinite article?",
+      "options": [
+        "A, an",
+        "The",
+        "Some",
+        "Any"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a quantifier?",
+      "options": [
+        "A word that indicates the amount of a noun",
+        "A word that describes a noun",
+        "A word that shows action",
+        "A word that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a quantifier?",
+      "options": [
+        "Some",
+        "Beautiful",
+        "Run",
+        "And"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a suffix?",
+      "options": [
+        "A letter or group of letters added to the beginning of a word",
+        "A letter or group of letters added to the end of a word",
+        "A word that shows action",
+        "A word that describes a noun"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a prefix?",
+      "options": [
+        "A letter or group of letters added to the beginning of a word",
+        "A letter or group of letters added to the end of a word",
+        "A word that shows action",
+        "A word that describes a noun"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a root word?",
+      "options": [
+        "The base form of a word",
+        "A word that describes a noun",
+        "A word that shows action",
+        "A word that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a compound word?",
+      "options": [
+        "A word made from two or more words",
+        "A word that describes a noun",
+        "A word that shows action",
+        "A word that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a contraction?",
+      "options": [
+        "A shortened form of two words",
+        "A word that describes a noun",
+        "A word that shows action",
+        "A word that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a contraction?",
+      "options": [
+        "Can't",
+        "Beautiful",
+        "Run",
+        "Book"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a homophone?",
+      "options": [
+        "Words that sound the same but have different meanings",
+        "Words that are spelled the same but have different meanings",
+        "Words that are opposite in meaning",
+        "Words that have the same meaning"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a synonym?",
+      "options": [
+        "Words that sound the same but have different meanings",
+        "Words that are spelled the same but have different meanings",
+        "Words that are opposite in meaning",
+        "Words that have the same meaning"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is an antonym?",
+      "options": [
+        "Words that sound the same but have different meanings",
+        "Words that are spelled the same but have different meanings",
+        "Words that are opposite in meaning",
+        "Words that have the same meaning"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a homonym?",
+      "options": [
+        "Words that sound the same but have different meanings",
+        "Words that are spelled the same but have different meanings",
+        "Words that are opposite in meaning",
+        "Words that have the same meaning"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a compound sentence?",
+      "options": [
+        "A sentence with one independent clause",
+        "A sentence with two independent clauses joined by a conjunction",
+        "A sentence with one independent clause and one dependent clause",
+        "A sentence with two dependent clauses"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a complex sentence?",
+      "options": [
+        "A sentence with one independent clause",
+        "A sentence with two independent clauses",
+        "A sentence with one independent clause and one dependent clause",
+        "A sentence with two dependent clauses"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is a compound-complex sentence?",
+      "options": [
+        "A sentence with one independent clause",
+        "A sentence with two independent clauses",
+        "A sentence with two or more independent clauses and one or more dependent clauses",
+        "A sentence with one independent clause and one dependent clause"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an example of a compound sentence?",
+      "options": [
+        "She ran home.",
+        "She ran home, and she ate dinner.",
+        "Because she was tired, she went to bed.",
+        "Because she was tired, she went to bed, and she fell asleep."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an example of a complex sentence?",
+      "options": [
+        "She ran home.",
+        "She ran home, and she ate dinner.",
+        "Because she was tired, she went to bed.",
+        "Because she was tired, she went to bed, and she fell asleep."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an example of a compound-complex sentence?",
+      "options": [
+        "She ran home.",
+        "She ran home, and she ate dinner.",
+        "Because she was tired, she went to bed.",
+        "Because she was tired, she went to bed, and she fell asleep."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a noun function in a sentence?",
+      "options": [
+        "Subject, object, complement, or appositive",
+        "Only subject",
+        "Only object",
+        "Only complement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is an appositive?",
+      "options": [
+        "A word that renames a noun",
+        "A word that describes a noun",
+        "A word that shows action",
+        "A word that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a dangling modifier?",
+      "options": [
+        "A modifier that does not clearly refer to a word in the sentence",
+        "A modifier that describes a noun",
+        "A modifier that shows action",
+        "A modifier that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is a misplaced modifier?",
+      "options": [
+        "A modifier that is placed too far from the word it modifies",
+        "A modifier that describes a noun",
+        "A modifier that shows action",
+        "A modifier that connects clauses"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is parallel structure?",
+      "options": [
+        "Using the same grammatical form for similar elements",
+        "Using different grammatical forms for similar elements",
+        "Using only nouns",
+        "Using only verbs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a collective noun?",
+      "options": [
+        "Class",
+        "Book",
+        "Love",
+        "London"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a concrete noun?",
+      "options": [
+        "Happiness",
+        "Love",
+        "Kindness",
+        "Chair"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an abstract noun?",
+      "options": [
+        "Table",
+        "Book",
+        "House",
+        "Courage"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a singular noun?",
+      "options": [
+        "Children",
+        "Books",
+        "Cats",
+        "Cat"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a plural noun?",
+      "options": [
+        "Child",
+        "Book",
+        "Cat",
+        "Cats"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a subjective pronoun?",
+      "options": [
+        "Me",
+        "Him",
+        "Her",
+        "She"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an objective pronoun?",
+      "options": [
+        "I",
+        "He",
+        "She",
+        "Me"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a possessive pronoun?",
+      "options": [
+        "He",
+        "She",
+        "Who",
+        "Mine"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a reflexive pronoun?",
+      "options": [
+        "He",
+        "Mine",
+        "Who",
+        "Myself"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a demonstrative pronoun?",
+      "options": [
+        "He",
+        "Mine",
+        "Who",
+        "This"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an interrogative pronoun?",
+      "options": [
+        "He",
+        "Mine",
+        "Who",
+        "This"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a relative pronoun?",
+      "options": [
+        "He",
+        "Who",
+        "Mine",
+        "This"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an indefinite pronoun?",
+      "options": [
+        "He",
+        "She",
+        "Everyone",
+        "Who"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an action verb?",
+      "options": [
+        "Is",
+        "Seems",
+        "Become",
+        "Jump"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a linking verb?",
+      "options": [
+        "Run",
+        "Jump",
+        "Walk",
+        "Seems"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a helping verb?",
+      "options": [
+        "Run",
+        "Jump",
+        "Walk",
+        "Has"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a modal verb?",
+      "options": [
+        "Run",
+        "Jump",
+        "Walk",
+        "Could"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a comparative adjective?",
+      "options": [
+        "Big",
+        "Bigger",
+        "Biggest",
+        "Small"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a superlative adjective?",
+      "options": [
+        "Big",
+        "Bigger",
+        "Biggest",
+        "Small"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an adverb?",
+      "options": [
+        "Beauty",
+        "Beautiful",
+        "Beautifully",
+        "Book"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a preposition?",
+      "options": [
+        "And",
+        "But",
+        "Because",
+        "On"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a coordinating conjunction?",
+      "options": [
+        "Because",
+        "Since",
+        "Although",
+        "And"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a subordinating conjunction?",
+      "options": [
+        "And",
+        "But",
+        "For",
+        "Because"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an interjection?",
+      "options": [
+        "Run",
+        "Beautiful",
+        "Book",
+        "Wow"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a proper noun?",
+      "options": [
+        "City",
+        "Country",
+        "River",
+        "Lahore"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a common noun?",
+      "options": [
+        "Ali",
+        "Pakistan",
+        "Monday",
+        "Book"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a collective noun?",
+      "options": [
+        "Book",
+        "Love",
+        "London",
+        "Group"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a countable noun?",
+      "options": [
+        "Milk",
+        "Water",
+        "Rice",
+        "Chair"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an uncountable noun?",
+      "options": [
+        "Book",
+        "Chair",
+        "Water",
+        "Pen"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is a compound noun?",
+      "options": [
+        "Book",
+        "Sunflower",
+        "Love",
+        "Table"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a possessive noun?",
+      "options": [
+        "Books",
+        "Book's",
+        "Book",
+        "Booked"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the plural of 'child'?",
+      "options": [
+        "Childs",
+        "Childes",
+        "Children",
+        "Child"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the plural of 'goose'?",
+      "options": [
+        "Gooses",
+        "Goose",
+        "Geese",
+        "Goosies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the plural of 'mouse'?",
+      "options": [
+        "Mouses",
+        "Mice",
+        "Mouse",
+        "Mices"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the plural of 'ox'?",
+      "options": [
+        "Oxes",
+        "Oxen",
+        "Ox",
+        "Oxies"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the plural of 'sheep'?",
+      "options": [
+        "Sheeps",
+        "Sheepes",
+        "Sheep",
+        "Sheepies"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the plural of 'deer'?",
+      "options": [
+        "Deers",
+        "Deeres",
+        "Deer",
+        "Deeries"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the plural of 'fish'?",
+      "options": [
+        "Fishes",
+        "Fish",
+        "Fishies",
+        "Fishers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the past tense of 'go'?",
+      "options": [
+        "Went",
+        "Gone",
+        "Goed",
+        "Going"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the past tense of 'see'?",
+      "options": [
+        "Seen",
+        "Saw",
+        "Seed",
+        "Seeing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the past tense of 'eat'?",
+      "options": [
+        "Eaten",
+        "Ate",
+        "Eated",
+        "Eating"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the past tense of 'run'?",
+      "options": [
+        "Ran",
+        "Runned",
+        "Run",
+        "Runs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the past tense of 'sing'?",
+      "options": [
+        "Sang",
+        "Sung",
+        "Singed",
+        "Singing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the past tense of 'ring'?",
+      "options": [
+        "Rang",
+        "Rung",
+        "Ringed",
+        "Ringing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the past tense of 'swim'?",
+      "options": [
+        "Swam",
+        "Swum",
+        "Swimmed",
+        "Swimming"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the past tense of 'write'?",
+      "options": [
+        "Wrote",
+        "Written",
+        "Writed",
+        "Writing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the past tense of 'drive'?",
+      "options": [
+        "Drived",
+        "Drove",
+        "Driven",
+        "Driving"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the past tense of 'speak'?",
+      "options": [
+        "Spoke",
+        "Spoken",
+        "Speaked",
+        "Speaking"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the past tense of 'take'?",
+      "options": [
+        "Taked",
+        "Took",
+        "Taken",
+        "Taking"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the past tense of 'give'?",
+      "options": [
+        "Gived",
+        "Gave",
+        "Given",
+        "Giving"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the past tense of 'fall'?",
+      "options": [
+        "Falled",
+        "Fell",
+        "Fallen",
+        "Falling"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the past tense of 'fly'?",
+      "options": [
+        "Flown",
+        "Flew",
+        "Flied",
+        "Flying"
+      ],
+      "answer": 1
+    }
+  ]
+}

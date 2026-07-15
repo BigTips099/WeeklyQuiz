@@ -1,0 +1,1746 @@
+{
+  "category": "Idioms & Phrases",
+  "totalQuestions": 200,
+  "questions": [
+    {
+      "question": "What is the meaning of 'A piece of cake'?",
+      "options": [
+        "Very difficult",
+        "Very easy",
+        "Very expensive",
+        "Very tasty"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Break the ice'?",
+      "options": [
+        "To break something",
+        "To start a conversation",
+        "To end a conversation",
+        "To make someone angry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Cost an arm and a leg'?",
+      "options": [
+        "Very cheap",
+        "Very expensive",
+        "Very painful",
+        "Very easy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Hit the nail on the head'?",
+      "options": [
+        "To hit something hard",
+        "To be exactly right",
+        "To be completely wrong",
+        "To make a mistake"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Let the cat out of the bag'?",
+      "options": [
+        "To release a cat",
+        "To reveal a secret",
+        "To keep a secret",
+        "To catch a cat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Under the weather'?",
+      "options": [
+        "Feeling happy",
+        "Feeling sick",
+        "Feeling angry",
+        "Feeling excited"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Bite the bullet'?",
+      "options": [
+        "To avoid a situation",
+        "To face a difficult situation bravely",
+        "To run away",
+        "To give up"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Burn the midnight oil'?",
+      "options": [
+        "To sleep late",
+        "To work late at night",
+        "To wake up early",
+        "To rest"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Cry over spilt milk'?",
+      "options": [
+        "To be sad",
+        "To worry about the past",
+        "To be happy",
+        "To plan for the future"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Cut corners'?",
+      "options": [
+        "To do something properly",
+        "To do something cheaply or poorly",
+        "To do something quickly",
+        "To do something carefully"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Drop in the bucket'?",
+      "options": [
+        "A large amount",
+        "A very small amount",
+        "A dangerous amount",
+        "A valuable amount"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Every cloud has a silver lining'?",
+      "options": [
+        "Every bad situation has a positive side",
+        "Every good situation has a negative side",
+        "Every cloud has rain",
+        "Every silver has a cloud"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Fit as a fiddle'?",
+      "options": [
+        "Very sick",
+        "Very healthy",
+        "Very tired",
+        "Very weak"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Get cold feet'?",
+      "options": [
+        "To feel confident",
+        "To feel nervous or afraid",
+        "To feel excited",
+        "To feel angry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Kill two birds with one stone'?",
+      "options": [
+        "To do something cruel",
+        "To accomplish two things at once",
+        "To waste time",
+        "To make a mistake"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Once in a blue moon'?",
+      "options": [
+        "Very often",
+        "Very rarely",
+        "Never",
+        "Always"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Put all your eggs in one basket'?",
+      "options": [
+        "To rely on one thing",
+        "To diversify",
+        "To be careful",
+        "To be reckless"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Raining cats and dogs'?",
+      "options": [
+        "Raining gently",
+        "Raining heavily",
+        "Raining not at all",
+        "Raining cold"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Spill the beans'?",
+      "options": [
+        "To keep a secret",
+        "To reveal a secret",
+        "To spill food",
+        "To eat beans"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Take it with a grain of salt'?",
+      "options": [
+        "To believe completely",
+        "To doubt or not take seriously",
+        "To add salt to food",
+        "To be happy"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'The best of both worlds'?",
+      "options": [
+        "The worst of both worlds",
+        "The advantages of two different things",
+        "The disadvantages of two different things",
+        "The middle ground"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'The ball is in your court'?",
+      "options": [
+        "It's your turn to make a decision",
+        "It's my turn to make a decision",
+        "The game is over",
+        "You are losing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'When pigs fly'?",
+      "options": [
+        "Something that will happen soon",
+        "Something that will never happen",
+        "Something that is happening now",
+        "Something that happened in the past"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Barking up the wrong tree'?",
+      "options": [
+        "Looking in the wrong place",
+        "Looking in the right place",
+        "Making a correct guess",
+        "Solving a problem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Beat around the bush'?",
+      "options": [
+        "To speak directly",
+        "To avoid the main point",
+        "To be honest",
+        "To be clear"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Better late than never'?",
+      "options": [
+        "It's better to be late than not to do something at all",
+        "It's better to be early",
+        "It's better to never do something",
+        "It's better to be on time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Bite off more than you can chew'?",
+      "options": [
+        "To eat too much",
+        "To take on too much responsibility",
+        "To eat quickly",
+        "To eat slowly"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Blow off steam'?",
+      "options": [
+        "To get angry",
+        "To release pent-up energy or emotions",
+        "To work hard",
+        "To relax"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'By the skin of your teeth'?",
+      "options": [
+        "Just barely",
+        "Easily",
+        "With great effort",
+        "With no effort"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Call it a day'?",
+      "options": [
+        "To start working",
+        "To stop working",
+        "To work all day",
+        "To work at night"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Curiosity killed the cat'?",
+      "options": [
+        "Curiosity is dangerous",
+        "Curiosity is good",
+        "Cats are curious",
+        "Cats are dangerous"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Don't count your chickens before they hatch'?",
+      "options": [
+        "Don't plan too early",
+        "Don't be too optimistic",
+        "Don't be too pessimistic",
+        "Don't count chickens"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Easy come, easy go'?",
+      "options": [
+        "Things that come easily go easily",
+        "Things that are hard to get are hard to lose",
+        "Everything is difficult",
+        "Nothing is permanent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Face the music'?",
+      "options": [
+        "To listen to music",
+        "To face the consequences",
+        "To run away",
+        "To hide"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Give the benefit of the doubt'?",
+      "options": [
+        "To trust someone completely",
+        "To believe someone despite doubts",
+        "To doubt someone completely",
+        "To ignore someone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Go the extra mile'?",
+      "options": [
+        "To do the minimum",
+        "To do more than expected",
+        "To travel far",
+        "To give up"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Hit the sack'?",
+      "options": [
+        "To go to sleep",
+        "To wake up",
+        "To work hard",
+        "To play"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'In the blink of an eye'?",
+      "options": [
+        "Very slowly",
+        "Very quickly",
+        "In a long time",
+        "Never"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Jump on the bandwagon'?",
+      "options": [
+        "To start a new trend",
+        "To join a popular trend",
+        "To end a trend",
+        "To ignore a trend"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Keep your chin up'?",
+      "options": [
+        "To stay positive",
+        "To stay negative",
+        "To give up",
+        "To be angry"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Make a long story short'?",
+      "options": [
+        "To tell a long story",
+        "To summarize",
+        "To tell a joke",
+        "To be boring"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'On the ball'?",
+      "options": [
+        "To be slow",
+        "To be alert and competent",
+        "To be sleepy",
+        "To be confused"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Pull someone's leg'?",
+      "options": [
+        "To joke with someone",
+        "To hurt someone",
+        "To push someone",
+        "To ignore someone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Rock the boat'?",
+      "options": [
+        "To keep things stable",
+        "To cause trouble",
+        "To swim",
+        "To sail"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'See eye to eye'?",
+      "options": [
+        "To disagree",
+        "To agree",
+        "To look at each other",
+        "To be different"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Steal someone's thunder'?",
+      "options": [
+        "To take credit for someone else's work",
+        "To steal a thunderstorm",
+        "To help someone",
+        "To ignore someone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'The whole nine yards'?",
+      "options": [
+        "Everything possible",
+        "Nothing at all",
+        "A little bit",
+        "A long distance"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Throw in the towel'?",
+      "options": [
+        "To continue fighting",
+        "To give up",
+        "To win",
+        "To start fighting"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Tongue in cheek'?",
+      "options": [
+        "Sarcastic or humorous",
+        "Serious",
+        "Angry",
+        "Sad"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Turn a blind eye'?",
+      "options": [
+        "To ignore something deliberately",
+        "To see clearly",
+        "To be blind",
+        "To look carefully"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Up in the air'?",
+      "options": [
+        "Decided",
+        "Undecided",
+        "Finished",
+        "Started"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Walk on eggshells'?",
+      "options": [
+        "To be careful",
+        "To be reckless",
+        "To be happy",
+        "To be sad"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Wild goose chase'?",
+      "options": [
+        "A successful search",
+        "A fruitless search",
+        "A fast chase",
+        "A slow chase"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'A blessing in disguise'?",
+      "options": [
+        "Something good that seems bad at first",
+        "Something bad that seems good at first",
+        "Something that is always good",
+        "Something that is always bad"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Action speaks louder than words'?",
+      "options": [
+        "Words are more important than actions",
+        "Actions are more important than words",
+        "Words and actions are equal",
+        "Neither words nor actions matter"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Add fuel to the fire'?",
+      "options": [
+        "To make a situation worse",
+        "To make a situation better",
+        "To start a fire",
+        "To end a fire"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'All ears'?",
+      "options": [
+        "Listening attentively",
+        "Ignoring someone",
+        "Talking loudly",
+        "Being deaf"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Apple of my eye'?",
+      "options": [
+        "Someone disliked",
+        "Someone cherished",
+        "Someone ignored",
+        "Someone forgotten"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Back to square one'?",
+      "options": [
+        "To start over",
+        "To finish",
+        "To continue",
+        "To stop"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Beating a dead horse'?",
+      "options": [
+        "Wasting time on something useless",
+        "Working hard",
+        "Resting",
+        "Playing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Bend over backwards'?",
+      "options": [
+        "To try very hard",
+        "To give up easily",
+        "To relax",
+        "To be lazy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Big fish in a small pond'?",
+      "options": [
+        "Someone important in a small group",
+        "Someone unimportant in a big group",
+        "A big fish",
+        "A small pond"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Birds of a feather flock together'?",
+      "options": [
+        "Similar people tend to group together",
+        "Different people tend to group together",
+        "Birds fly together",
+        "People hate each other"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Bring home the bacon'?",
+      "options": [
+        "To earn money",
+        "To cook bacon",
+        "To eat bacon",
+        "To buy bacon"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Burn the candle at both ends'?",
+      "options": [
+        "To work too hard without rest",
+        "To work properly",
+        "To rest too much",
+        "To be lazy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Butter someone up'?",
+      "options": [
+        "To flatter someone",
+        "To cook with butter",
+        "To ignore someone",
+        "To anger someone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Caught red-handed'?",
+      "options": [
+        "Caught in the act of doing something wrong",
+        "Caught with red hands",
+        "Caught sleeping",
+        "Caught running"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Cross that bridge when we come to it'?",
+      "options": [
+        "To deal with a problem when it happens",
+        "To avoid a problem",
+        "To solve a problem in advance",
+        "To ignore a problem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Cut to the chase'?",
+      "options": [
+        "To get to the point",
+        "To run quickly",
+        "To chase someone",
+        "To cut something"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Devil's advocate'?",
+      "options": [
+        "Someone who argues for the sake of argument",
+        "Someone who agrees with everyone",
+        "Someone who is evil",
+        "Someone who is a lawyer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Don't put all your eggs in one basket'?",
+      "options": [
+        "Don't rely on one thing",
+        "Do rely on one thing",
+        "Put eggs in many baskets",
+        "Don't eat eggs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Eat like a bird'?",
+      "options": [
+        "To eat very little",
+        "To eat a lot",
+        "To eat like a bird",
+        "To eat quickly"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Every dog has its day'?",
+      "options": [
+        "Everyone has their moment of success",
+        "Every dog has a day",
+        "Dogs are lucky",
+        "Everyone is unlucky"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Feeling blue'?",
+      "options": [
+        "Feeling sad",
+        "Feeling happy",
+        "Feeling angry",
+        "Feeling excited"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Fish out of water'?",
+      "options": [
+        "Someone who feels uncomfortable in a situation",
+        "Someone who feels comfortable",
+        "A fish in water",
+        "A swimmer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Get the ball rolling'?",
+      "options": [
+        "To start something",
+        "To finish something",
+        "To stop something",
+        "To play ball"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Give someone the cold shoulder'?",
+      "options": [
+        "To ignore someone",
+        "To welcome someone",
+        "To hug someone",
+        "To talk to someone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Go down in flames'?",
+      "options": [
+        "To fail spectacularly",
+        "To succeed",
+        "To fly",
+        "To burn"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Grease someone's palm'?",
+      "options": [
+        "To bribe someone",
+        "To cook with grease",
+        "To ignore someone",
+        "To help someone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Green with envy'?",
+      "options": [
+        "To be very jealous",
+        "To be very happy",
+        "To be very sad",
+        "To be very angry"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Hold your horses'?",
+      "options": [
+        "To slow down",
+        "To hurry up",
+        "To ride a horse",
+        "To stop a horse"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'If the shoe fits, wear it'?",
+      "options": [
+        "If something applies to you, accept it",
+        "Wear shoes that fit",
+        "Don't wear shoes",
+        "Buy new shoes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'In the same boat'?",
+      "options": [
+        "In the same situation",
+        "In different situations",
+        "On a boat",
+        "Swimming"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Jump the gun'?",
+      "options": [
+        "To start too early",
+        "To start on time",
+        "To start too late",
+        "To never start"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Keep your fingers crossed'?",
+      "options": [
+        "To hope for good luck",
+        "To pray",
+        "To give up hope",
+        "To be unlucky"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Lend an ear'?",
+      "options": [
+        "To listen",
+        "To speak",
+        "To ignore",
+        "To laugh"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Make ends meet'?",
+      "options": [
+        "To have enough money",
+        "To have too much money",
+        "To have no money",
+        "To spend money"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Not rocket science'?",
+      "options": [
+        "Not very difficult",
+        "Very difficult",
+        "Impossible",
+        "Easy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'On thin ice'?",
+      "options": [
+        "In a risky situation",
+        "On ice",
+        "Walking",
+        "Skating"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Out of the blue'?",
+      "options": [
+        "Unexpectedly",
+        "Expectedly",
+        "Never",
+        "Always"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Play devil's advocate'?",
+      "options": [
+        "To argue for the sake of argument",
+        "To agree with everyone",
+        "To be evil",
+        "To be a lawyer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Pull the plug'?",
+      "options": [
+        "To stop something",
+        "To start something",
+        "To continue something",
+        "To plug something"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Put your foot in your mouth'?",
+      "options": [
+        "To say something embarrassing",
+        "To eat your foot",
+        "To walk",
+        "To be quiet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Read between the lines'?",
+      "options": [
+        "To understand hidden meaning",
+        "To read quickly",
+        "To read carefully",
+        "To read aloud"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Rome wasn't built in a day'?",
+      "options": [
+        "Great things take time",
+        "Rome was built quickly",
+        "Rome was destroyed",
+        "Rome is a city"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Scratch someone's back'?",
+      "options": [
+        "To do a favor for someone",
+        "To scratch someone",
+        "To hurt someone",
+        "To ignore someone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Sit on the fence'?",
+      "options": [
+        "To remain undecided",
+        "To decide",
+        "To sit on a fence",
+        "To be decisive"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Sleep like a log'?",
+      "options": [
+        "To sleep soundly",
+        "To sleep lightly",
+        "To not sleep",
+        "To sleep outside"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Stick to your guns'?",
+      "options": [
+        "To stand by your beliefs",
+        "To change your beliefs",
+        "To give up",
+        "To fight"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Take the bull by the horns'?",
+      "options": [
+        "To face a challenge directly",
+        "To avoid a challenge",
+        "To run away",
+        "To give up"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'The elephant in the room'?",
+      "options": [
+        "An obvious problem that is ignored",
+        "A small problem",
+        "A big animal",
+        "A hidden problem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Throw caution to the wind'?",
+      "options": [
+        "To take a risk",
+        "To be cautious",
+        "To be careless",
+        "To be careful"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Turn the tables'?",
+      "options": [
+        "To reverse a situation",
+        "To flip a table",
+        "To set a table",
+        "To clear a table"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Under the gun'?",
+      "options": [
+        "Under pressure",
+        "Under a gun",
+        "In danger",
+        "Safe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Water under the bridge'?",
+      "options": [
+        "Past events that are no longer important",
+        "Water flowing",
+        "A bridge",
+        "Future events"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'You can't judge a book by its cover'?",
+      "options": [
+        "Don't judge by appearance",
+        "Judge by appearance",
+        "Don't read books",
+        "Read books only"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'A dime a dozen'?",
+      "options": [
+        "Very common",
+        "Very rare",
+        "Very expensive",
+        "Very cheap"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'A taste of your own medicine'?",
+      "options": [
+        "To experience the same treatment you gave others",
+        "To take medicine",
+        "To taste food",
+        "To be kind"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Actions speak louder than words'?",
+      "options": [
+        "What you do is more important than what you say",
+        "What you say is more important than what you do",
+        "Words are actions",
+        "Actions don't matter"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Bite the dust'?",
+      "options": [
+        "To die or fail",
+        "To eat dust",
+        "To win",
+        "To succeed"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Break a leg'?",
+      "options": [
+        "Good luck",
+        "Bad luck",
+        "Break your leg",
+        "Be careful"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Butterflies in your stomach'?",
+      "options": [
+        "To feel nervous",
+        "To feel hungry",
+        "To feel happy",
+        "To feel angry"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Couch potato'?",
+      "options": [
+        "A lazy person",
+        "A potato on a couch",
+        "An active person",
+        "A cook"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Down to the wire'?",
+      "options": [
+        "Until the last moment",
+        "Until the end",
+        "At the beginning",
+        "Never"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Elbow grease'?",
+      "options": [
+        "Hard physical work",
+        "Greasing elbows",
+        "Easy work",
+        "No work"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Go against the grain'?",
+      "options": [
+        "To go against the norm",
+        "To follow the norm",
+        "To go with the flow",
+        "To be normal"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Hit the road'?",
+      "options": [
+        "To leave",
+        "To hit a road",
+        "To stay",
+        "To arrive"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'In a nutshell'?",
+      "options": [
+        "In summary",
+        "In detail",
+        "In a nut",
+        "In a shell"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Kick the bucket'?",
+      "options": [
+        "To die",
+        "To kick a bucket",
+        "To be lucky",
+        "To be unlucky"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Let sleeping dogs lie'?",
+      "options": [
+        "Don't disturb a situation",
+        "Wake up dogs",
+        "Sleep with dogs",
+        "Let dogs sleep"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Make a mountain out of a molehill'?",
+      "options": [
+        "To exaggerate a small problem",
+        "To make a mountain",
+        "To ignore a problem",
+        "To solve a problem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'No pain, no gain'?",
+      "options": [
+        "You must work hard to achieve success",
+        "Pain is bad",
+        "Gain without pain",
+        "No work"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'On cloud nine'?",
+      "options": [
+        "Very happy",
+        "Very sad",
+        "Very angry",
+        "Very tired"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Piece of the pie'?",
+      "options": [
+        "A share of something",
+        "A piece of food",
+        "A piece of cake",
+        "A whole pie"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Put two and two together'?",
+      "options": [
+        "To figure something out",
+        "To add numbers",
+        "To give up",
+        "To start over"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Sink or swim'?",
+      "options": [
+        "Succeed or fail on your own",
+        "Swim or sink",
+        "Give up",
+        "Ask for help"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Stab in the back'?",
+      "options": [
+        "Betray someone",
+        "Stab someone",
+        "Help someone",
+        "Ignore someone"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Take the cake'?",
+      "options": [
+        "To be the best or worst",
+        "To take a cake",
+        "To eat a cake",
+        "To bake a cake"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'The straw that broke the camel's back'?",
+      "options": [
+        "The final small thing that causes a big problem",
+        "A straw on a camel",
+        "A big problem",
+        "A camel's back"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Two peas in a pod'?",
+      "options": [
+        "Two very similar people",
+        "Two peas",
+        "Two different people",
+        "A pod"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'When it rains, it pours'?",
+      "options": [
+        "Problems come all at once",
+        "Rain pours",
+        "It rains slowly",
+        "No problems"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'A penny for your thoughts'?",
+      "options": [
+        "What are you thinking about?",
+        "A penny is worthless",
+        "Thoughts are cheap",
+        "Don't think"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'At the drop of a hat'?",
+      "options": [
+        "Immediately",
+        "Slowly",
+        "Never",
+        "Eventually"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Beat the clock'?",
+      "options": [
+        "To finish before time runs out",
+        "To waste time",
+        "To stop time",
+        "To start time"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Beggars can't be choosers'?",
+      "options": [
+        "You can't be picky when you have no choice",
+        "Beggars are picky",
+        "You can choose",
+        "Beggars have choices"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Burn bridges'?",
+      "options": [
+        "To destroy relationships",
+        "To build bridges",
+        "To cross bridges",
+        "To burn wood"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Change of heart'?",
+      "options": [
+        "To change your opinion",
+        "To change your heart",
+        "To be heartless",
+        "To have a heart"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Cutting-edge'?",
+      "options": [
+        "Very modern and advanced",
+        "Very old",
+        "Very sharp",
+        "Very dull"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Down-to-earth'?",
+      "options": [
+        "Practical and realistic",
+        "Very high",
+        "Very dreamy",
+        "Very unrealistic"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Eat your words'?",
+      "options": [
+        "To admit you were wrong",
+        "To eat something",
+        "To speak clearly",
+        "To be silent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Fall on deaf ears'?",
+      "options": [
+        "To be ignored",
+        "To be heard",
+        "To be deaf",
+        "To listen"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Get a taste of your own medicine'?",
+      "options": [
+        "To experience the same treatment you gave others",
+        "To take medicine",
+        "To taste food",
+        "To be kind"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Have a chip on your shoulder'?",
+      "options": [
+        "To be angry or resentful",
+        "To have a chip on your shoulder",
+        "To be happy",
+        "To be peaceful"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'In hot water'?",
+      "options": [
+        "In trouble",
+        "In hot water",
+        "In cold water",
+        "In danger"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Jump through hoops'?",
+      "options": [
+        "To do something difficult",
+        "To jump through hoops",
+        "To do something easy",
+        "To give up"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Keep your nose to the grindstone'?",
+      "options": [
+        "To work hard",
+        "To rest",
+        "To be lazy",
+        "To give up"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Leave no stone unturned'?",
+      "options": [
+        "To try every possible way",
+        "To leave stones",
+        "To give up",
+        "To ignore"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Make a beeline for'?",
+      "options": [
+        "To go directly to",
+        "To go slowly to",
+        "To avoid",
+        "To turn around"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Neck and neck'?",
+      "options": [
+        "Very close in competition",
+        "Very far in competition",
+        "A neck",
+        "A race"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Old hat'?",
+      "options": [
+        "Old-fashioned or not new",
+        "An old hat",
+        "A new hat",
+        "A fashion"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Put your money where your mouth is'?",
+      "options": [
+        "To back up your words with action",
+        "To spend money",
+        "To talk about money",
+        "To save money"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Rule of thumb'?",
+      "options": [
+        "A general guideline",
+        "A thumb rule",
+        "An exact rule",
+        "A law"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Save face'?",
+      "options": [
+        "To avoid embarrassment",
+        "To save a face",
+        "To be embarrassed",
+        "To lose face"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Shoot from the hip'?",
+      "options": [
+        "To speak without thinking",
+        "To shoot a gun",
+        "To think carefully",
+        "To be quiet"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Six of one, half a dozen of the other'?",
+      "options": [
+        "Two options are the same",
+        "Six and half a dozen",
+        "Different options",
+        "A number"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Take a rain check'?",
+      "options": [
+        "To postpone something",
+        "To check rain",
+        "To cancel something",
+        "To confirm something"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'The bottom line'?",
+      "options": [
+        "The most important point",
+        "The bottom of the line",
+        "The least important point",
+        "The end"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Up your sleeve'?",
+      "options": [
+        "A secret plan",
+        "A sleeve",
+        "An open plan",
+        "A plan"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'When pigs fly'?",
+      "options": [
+        "Never",
+        "Soon",
+        "Always",
+        "Sometimes"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Zip your lip'?",
+      "options": [
+        "To be quiet",
+        "To zip a lip",
+        "To speak loudly",
+        "To laugh"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'A chip on your shoulder'?",
+      "options": [
+        "To be angry or resentful",
+        "To have a chip",
+        "To be happy",
+        "To be peaceful"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'A penny saved is a penny earned'?",
+      "options": [
+        "Saving money is important",
+        "A penny is valuable",
+        "Earning money is important",
+        "Spending money is important"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'All in the same boat'?",
+      "options": [
+        "In the same situation",
+        "On a boat",
+        "In different situations",
+        "Swimming"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Barking up the wrong tree'?",
+      "options": [
+        "Looking in the wrong place",
+        "Looking in the right place",
+        "Making a correct guess",
+        "Solving a problem"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Beat around the bush'?",
+      "options": [
+        "To avoid the main point",
+        "To speak directly",
+        "To be honest",
+        "To be clear"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Bite off more than you can chew'?",
+      "options": [
+        "To take on too much",
+        "To eat too much",
+        "To eat quickly",
+        "To eat slowly"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Break even'?",
+      "options": [
+        "To neither gain nor lose",
+        "To gain money",
+        "To lose money",
+        "To break something"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Burn the midnight oil'?",
+      "options": [
+        "To work late at night",
+        "To sleep late",
+        "To wake up early",
+        "To rest"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Call it a day'?",
+      "options": [
+        "To stop working",
+        "To start working",
+        "To work all day",
+        "To work at night"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Cost a pretty penny'?",
+      "options": [
+        "To be very expensive",
+        "To be very cheap",
+        "To be very easy",
+        "To be very difficult"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Cry over spilt milk'?",
+      "options": [
+        "To worry about the past",
+        "To be sad",
+        "To be happy",
+        "To plan for the future"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Cut the mustard'?",
+      "options": [
+        "To meet expectations",
+        "To cut mustard",
+        "To fail",
+        "To succeed"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Don't put all your eggs in one basket'?",
+      "options": [
+        "Don't rely on one thing",
+        "Do rely on one thing",
+        "Put eggs in many baskets",
+        "Don't eat eggs"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the meaning of 'Fish out of water'?",
+      "options": [
+        "Uncomfortable in a situation",
+        "Comfortable in a situation",
+        "A fish in water",
+        "A swimmer"
+      ],
+      "answer": 0
+    }
+  ]
+}
