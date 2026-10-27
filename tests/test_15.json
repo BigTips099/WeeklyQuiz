@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "Q1. What is 9 - 3?",
+      "options": ["5", "7", "8", "6"],
+      "answer": 3
+    },
+    {
+      "question": "Q2. What is 4 × 7?",
+      "options": ["26", "32", "28", "30"],
+      "answer": 2
+    },
+    {
+      "question": "Q3. What is 40 ÷ 5?",
+      "options": ["10", "8", "9", "7"],
+      "answer": 1
+    },
+    {
+      "question": "Q4. What is the square of 6?",
+      "options": ["36", "37", "35", "38"],
+      "answer": 0
+    },
+    {
+      "question": "Q100. What is 105 + 6?",
+      "options": ["111", "112", "110", "113"],
+      "answer": 0
+    }
+  ]
+}

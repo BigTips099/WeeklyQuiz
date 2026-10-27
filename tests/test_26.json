@@ -1,0 +1,335 @@
+{
+  "questions": [
+    {
+      "question": "Q1. Pakistan was created in which year?",
+      "options": ["1947", "1948", "1946", "1950"],
+      "answer": 0
+    },
+    {
+      "question": "Q2. Pakistan Independence Day is?",
+      "options": ["14 August", "15 August", "13 August", "16 August"],
+      "answer": 0
+    },
+    {
+      "question": "Q3. Who was the founder of Pakistan?",
+      "options": ["Allama Iqbal", "Quaid-e-Azam", "Liaquat Ali Khan", "Sir Syed Ahmed Khan"],
+      "answer": 1
+    },
+    {
+      "question": "Q4. Pakistan's capital is?",
+      "options": ["Karachi", "Lahore", "Islamabad", "Peshawar"],
+      "answer": 2
+    },
+    {
+      "question": "Q5. Largest city of Pakistan is?",
+      "options": ["Karachi", "Lahore", "Quetta", "Multan"],
+      "answer": 0
+    },
+    {
+      "question": "Q6. National language of Pakistan is?",
+      "options": ["Punjabi", "Urdu", "Sindhi", "Pashto"],
+      "answer": 1
+    },
+    {
+      "question": "Q7. First Governor General of Pakistan was?",
+      "options": ["Liaquat Ali Khan", "Quaid-e-Azam", "Ayub Khan", "Iskander Mirza"],
+      "answer": 1
+    },
+    {
+      "question": "Q8. National flag of Pakistan has?",
+      "options": ["Green and white", "Red and white", "Blue and white", "Green only"],
+      "answer": 0
+    },
+    {
+      "question": "Q9. Pakistan became Islamic Republic in?",
+      "options": ["1956", "1947", "1965", "1971"],
+      "answer": 0
+    },
+    {
+      "question": "Q10. Longest river of Pakistan is?",
+      "options": ["Jhelum", "Indus", "Chenab", "Ravi"],
+      "answer": 1
+    },
+
+    {
+      "question": "Q11. Quaid-e-Azam died in?",
+      "options": ["1948", "1947", "1950", "1951"],
+      "answer": 0
+    },
+    {
+      "question": "Q12. Pakistan Resolution was passed in?",
+      "options": ["1940", "1942", "1935", "1947"],
+      "answer": 0
+    },
+    {
+      "question": "Q13. Pakistan's first Prime Minister?",
+      "options": ["Liaquat Ali Khan", "Zulfikar Ali Bhutto", "Nawaz Sharif", "Imran Khan"],
+      "answer": 0
+    },
+    {
+      "question": "Q14. National animal of Pakistan?",
+      "options": ["Lion", "Markhor", "Tiger", "Deer"],
+      "answer": 1
+    },
+    {
+      "question": "Q15. National bird of Pakistan?",
+      "options": ["Eagle", "Parrot", "Chakor", "Peacock"],
+      "answer": 2
+    },
+    {
+      "question": "Q16. Highest mountain of Pakistan?",
+      "options": ["Everest", "K2", "Nanga Parbat", "Rakaposhi"],
+      "answer": 1
+    },
+    {
+      "question": "Q17. Pakistan's currency is?",
+      "options": ["Rupee", "Dollar", "Dinar", "Riyal"],
+      "answer": 0
+    },
+    {
+      "question": "Q18. National flower of Pakistan?",
+      "options": ["Rose", "Jasmine", "Tulip", "Sunflower"],
+      "answer": 1
+    },
+    {
+      "question": "Q19. First constitution of Pakistan was in?",
+      "options": ["1956", "1962", "1947", "1973"],
+      "answer": 0
+    },
+    {
+      "question": "Q20. Current constitution of Pakistan is of?",
+      "options": ["1956", "1962", "1973", "1947"],
+      "answer": 2
+    },
+
+    {
+      "question": "Q21. Indus River flows into?",
+      "options": ["Arabian Sea", "Bay of Bengal", "Red Sea", "Pacific Ocean"],
+      "answer": 0
+    },
+    {
+      "question": "Q22. Minar-e-Pakistan is in?",
+      "options": ["Karachi", "Lahore", "Islamabad", "Quetta"],
+      "answer": 1
+    },
+    {
+      "question": "Q23. Badshahi Mosque is in?",
+      "options": ["Lahore", "Multan", "Karachi", "Peshawar"],
+      "answer": 0
+    },
+    {
+      "question": "Q24. Pakistan shares border with how many countries?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2
+    },
+    {
+      "question": "Q25. Pakistan's national sport is?",
+      "options": ["Football", "Cricket", "Hockey", "Kabaddi"],
+      "answer": 2
+    },
+
+    {
+      "question": "Q26. First martial law in Pakistan was imposed in?",
+      "options": ["1958", "1969", "1977", "1988"],
+      "answer": 0
+    },
+    {
+      "question": "Q27. Islamabad became capital in?",
+      "options": ["1960", "1959", "1965", "1970"],
+      "answer": 0
+    },
+    {
+      "question": "Q28. National anthem writer is?",
+      "options": ["Hafeez Jalandhari", "Allama Iqbal", "Faiz Ahmed Faiz", "Nasir Kazmi"],
+      "answer": 0
+    },
+    {
+      "question": "Q29. Pakistan got independence from?",
+      "options": ["France", "UK", "USA", "Russia"],
+      "answer": 1
+    },
+    {
+      "question": "Q30. Famous sea port of Pakistan?",
+      "options": ["Gwadar", "Karachi Port", "Both", "None"],
+      "answer": 2
+    },
+    {
+      "question": "Q31. Pakistan came into being on?",
+      "options": ["14 August 1947", "15 August 1947", "14 July 1947", "1 January 1948"],
+      "answer": 0
+    },
+    {
+      "question": "Q32. Founder of Pakistan Movement?",
+      "options": ["Quaid-e-Azam", "Allama Iqbal", "Liaquat Ali Khan", "Sir Syed Ahmed Khan"],
+      "answer": 1
+    },
+    {
+      "question": "Q33. First capital of Pakistan was?",
+      "options": ["Islamabad", "Karachi", "Lahore", "Peshawar"],
+      "answer": 1
+    },
+    {
+      "question": "Q34. National language of Pakistan?",
+      "options": ["Punjabi", "Urdu", "Sindhi", "Pashto"],
+      "answer": 1
+    },
+    {
+      "question": "Q35. Largest province of Pakistan by area?",
+      "options": ["Punjab", "Sindh", "Balochistan", "KPK"],
+      "answer": 2
+    },
+    {
+      "question": "Q36. Smallest province of Pakistan by population?",
+      "options": ["Sindh", "Punjab", "Balochistan", "KPK"],
+      "answer": 2
+    },
+    {
+      "question": "Q37. National animal of Pakistan?",
+      "options": ["Lion", "Markhor", "Tiger", "Deer"],
+      "answer": 1
+    },
+    {
+      "question": "Q38. National bird of Pakistan?",
+      "options": ["Chakor", "Parrot", "Eagle", "Crow"],
+      "answer": 0
+    },
+    {
+      "question": "Q39. Highest mountain of Pakistan?",
+      "options": ["Everest", "K2", "Nanga Parbat", "Rakaposhi"],
+      "answer": 1
+    },
+    {
+      "question": "Q40. National flower of Pakistan?",
+      "options": ["Rose", "Jasmine", "Tulip", "Sunflower"],
+      "answer": 1
+    },
+
+    {
+      "question": "Q41. Pakistan Resolution passed in?",
+      "options": ["1940", "1942", "1930", "1947"],
+      "answer": 0
+    },
+    {
+      "question": "Q42. First Governor General of Pakistan?",
+      "options": ["Liaquat Ali Khan", "Quaid-e-Azam", "Iskander Mirza", "Ayub Khan"],
+      "answer": 1
+    },
+    {
+      "question": "Q43. First Prime Minister of Pakistan?",
+      "options": ["Nawaz Sharif", "Zulfikar Ali Bhutto", "Liaquat Ali Khan", "Imran Khan"],
+      "answer": 2
+    },
+    {
+      "question": "Q44. Pakistan became Islamic Republic in?",
+      "options": ["1956", "1947", "1962", "1973"],
+      "answer": 0
+    },
+    {
+      "question": "Q45. Longest river of Pakistan?",
+      "options": ["Chenab", "Jhelum", "Indus", "Ravi"],
+      "answer": 2
+    },
+    {
+      "question": "Q46. National sport of Pakistan?",
+      "options": ["Cricket", "Football", "Hockey", "Kabaddi"],
+      "answer": 2
+    },
+    {
+      "question": "Q47. Capital of Pakistan?",
+      "options": ["Karachi", "Lahore", "Islamabad", "Quetta"],
+      "answer": 2
+    },
+    {
+      "question": "Q48. Currency of Pakistan?",
+      "options": ["Dollar", "Riyal", "Rupee", "Dinar"],
+      "answer": 2
+    },
+    {
+      "question": "Q49. National anthem writer?",
+      "options": ["Allama Iqbal", "Hafeez Jalandhari", "Faiz Ahmed Faiz", "Nasir Kazmi"],
+      "answer": 1
+    },
+    {
+      "question": "Q50. Pakistan Independence Day?",
+      "options": ["14 August", "15 August", "16 August", "13 August"],
+      "answer": 0
+    },
+
+    {
+      "question": "Q51. Minar-e-Pakistan is located in?",
+      "options": ["Karachi", "Lahore", "Islamabad", "Multan"],
+      "answer": 1
+    },
+    {
+      "question": "Q52. Badshahi Mosque is in?",
+      "options": ["Lahore", "Quetta", "Karachi", "Peshawar"],
+      "answer": 0
+    },
+    {
+      "question": "Q53. Pakistan shares border with how many countries?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2
+    },
+    {
+      "question": "Q54. First constitution of Pakistan?",
+      "options": ["1956", "1962", "1973", "1947"],
+      "answer": 0
+    },
+    {
+      "question": "Q55. Current constitution of Pakistan?",
+      "options": ["1956", "1962", "1973", "1947"],
+      "answer": 2
+    },
+    {
+      "question": "Q56. First martial law in Pakistan?",
+      "options": ["1958", "1969", "1977", "1988"],
+      "answer": 0
+    },
+    {
+      "question": "Q57. Islamabad became capital in?",
+      "options": ["1960", "1958", "1965", "1970"],
+      "answer": 0
+    },
+    {
+      "question": "Q58. National flag colors are?",
+      "options": ["Green & White", "Red & White", "Blue & White", "Black & White"],
+      "answer": 0
+    },
+    {
+      "question": "Q59. National tree of Pakistan?",
+      "options": ["Neem", "Deodar", "Pine", "Oak"],
+      "answer": 1
+    },
+    {
+      "question": "Q60. Pakistan got independence from?",
+      "options": ["USA", "UK", "France", "India"],
+      "answer": 1
+    },
+
+    {
+      "question": "Q61. Indus River flows into?",
+      "options": ["Arabian Sea", "Bay of Bengal", "Red Sea", "Indian Ocean"],
+      "answer": 0
+    },
+    {
+      "question": "Q62. National mosque of Pakistan?",
+      "options": ["Faisal Mosque", "Badshahi Mosque", "Shah Faisal Mosque", "Both A and C"],
+      "answer": 3
+    },
+    {
+      "question": "Q63. Pakistan's largest city?",
+      "options": ["Lahore", "Karachi", "Islamabad", "Quetta"],
+      "answer": 1
+    },
+    {
+      "question": "Q64. National poet of Pakistan?",
+      "options": ["Faiz Ahmed Faiz", "Allama Iqbal", "Mirza Ghalib", "Hafeez"],
+      "answer": 1
+    },
+    {
+      "question": "Q65. Pakistan flag designer?",
+      "options": ["Amiruddin Kidwai", "Allama Iqbal", "Quaid-e-Azam", "Liaquat Ali Khan"],
+      "answer": 0
+    }
+  ]
+}
